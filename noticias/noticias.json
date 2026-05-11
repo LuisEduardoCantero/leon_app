@@ -1,0 +1,94 @@
+{
+  "ultima_actualizacion": "2026-05-07T18:30:00-06:00",
+  "total_noticias": 8,
+  "noticias": [
+    {
+      "id": "noticia_001",
+      "titulo": "Nueva línea de transporte conectará colonias del norte con centro",
+      "descripcion_corta": "Gobierno municipal anuncia ampliación del sistema de transporte público",
+      "contenido_completo": "El gobierno municipal de León anunció este miércoles la implementación de una nueva línea de transporte público que conectará las colonias del norte de la ciudad con el centro histórico. La ruta iniciará operaciones el próximo mes y beneficiará a más de 50,000 habitantes.\n\nLa nueva línea contará con 15 unidades modernas equipadas con aire acondicionado y acceso para personas con discapacidad. El recorrido incluirá paradas estratégicas en hospitales, escuelas y centros comerciales.\n\nEl presidente municipal destacó que esta es la primera de cinco nuevas rutas planeadas para este año, como parte del plan de movilidad urbana 2026.",
+      "categoria": "Transporte",
+      "emoji": "🚌",
+      "fecha_publicacion": "2026-05-07T14:00:00-06:00",
+      "fuente": "Gobierno Municipal de León",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_002",
+      "titulo": "Temporada de lluvias inicia con pronóstico de precipitaciones moderadas",
+      "descripcion_corta": "Protección Civil emite recomendaciones para la temporada",
+      "contenido_completo": "La temporada de lluvias 2026 arranca oficialmente este mes con un pronóstico de precipitaciones moderadas para León, según informó la Comisión Nacional del Agua.\n\nProtección Civil municipal emitió una serie de recomendaciones para los ciudadanos, incluyendo evitar cruzar arroyos crecidos, limpiar azoteas y revisar sistemas de drenaje en casa.\n\nLas zonas identificadas con mayor riesgo de inundación incluyen colonias cercanas al río de Los Gómez y algunas vialidades del poniente de la ciudad. Se han instalado 12 puntos de monitoreo en tiempo real.\n\nLas autoridades pidieron a la población mantenerse informada a través de los canales oficiales y reportar cualquier emergencia al 911.",
+      "categoria": "Clima",
+      "emoji": "☔",
+      "fecha_publicacion": "2026-05-07T10:30:00-06:00",
+      "fuente": "Protección Civil León",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_003",
+      "titulo": "Festival Cultural del Bajío anuncia su edición 2026",
+      "descripcion_corta": "Tres días de música, arte y gastronomía en el Fórum Cultural",
+      "contenido_completo": "El tradicional Festival Cultural del Bajío celebrará su décima edición del 15 al 17 de mayo en el Fórum Cultural de León, con entrada gratuita para todos los asistentes.\n\nEl programa incluye más de 40 presentaciones artísticas, talleres de arte, zona gastronómica con platillos típicos de Guanajuato y un tianguis artesanal con más de 100 expositores.\n\nEntre los artistas confirmados destacan grupos de música tradicional mexicana, bandas de rock regional y presentaciones de danza folklórica. Habrá actividades especiales para niños y familias.\n\nLos organizadores esperan recibir más de 30,000 visitantes durante los tres días del festival. Se recomienda llegar temprano por la alta demanda.",
+      "categoria": "Cultura",
+      "emoji": "🎭",
+      "fecha_publicacion": "2026-05-06T16:00:00-06:00",
+      "fuente": "Fórum Cultural León",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_004",
+      "titulo": "Cierre vial en Boulevard Campestre por obras de modernización",
+      "descripcion_corta": "Trabajos durarán tres semanas, con rutas alternas habilitadas",
+      "contenido_completo": "A partir del lunes 10 de mayo se implementará un cierre total en Boulevard Campestre entre las calles Morelos e Hidalgo, debido a obras de modernización vial que durarán aproximadamente tres semanas.\n\nLos trabajos incluyen renovación del pavimento, instalación de nuevo señalamiento y mejoras en las banquetas. El tránsito será desviado por las calles Juárez y Reforma.\n\nLas autoridades de tránsito municipal han habilitado rutas alternas y han colocado señalización temporal para guiar a los automovilistas. Se recomienda planear rutas alternativas y considerar tiempo extra de traslado.\n\nEl horario de trabajo será de lunes a viernes de 7:00 a 18:00 horas, con el objetivo de minimizar molestias a los vecinos durante las noches.",
+      "categoria": "Tráfico",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-05-06T09:00:00-06:00",
+      "fuente": "Tránsito Municipal León",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_005",
+      "titulo": "León entre las ciudades más seguras del país según ranking nacional",
+      "descripcion_corta": "Índice de Paz México 2026 coloca a León en el top 10",
+      "contenido_completo": "León se posicionó entre las 10 ciudades más seguras de México según el Índice de Paz México 2026, escalando tres posiciones respecto al año anterior.\n\nEl estudio destacó la reducción en delitos de alto impacto y la eficacia de las estrategias de prevención implementadas por el gobierno municipal. La percepción de seguridad ciudadana mejoró un 15% en los últimos 12 meses.\n\nEl alcalde atribuyó estos resultados al trabajo coordinado entre autoridades municipales, estatales y federales, así como a la inversión en tecnología de vigilancia y programas de prevención social.\n\nLa policía municipal reporta una plantilla de más de 2,000 elementos capacitados y una flota renovada de patrullas equipadas con tecnología de punta.",
+      "categoria": "Seguridad",
+      "emoji": "🛡️",
+      "fecha_publicacion": "2026-05-05T12:00:00-06:00",
+      "fuente": "Instituto para la Economía y la Paz",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_006",
+      "titulo": "Inauguran nuevo parque ecológico en zona oriente de León",
+      "descripcion_corta": "Espacio verde de 15 hectáreas con áreas deportivas y recreativas",
+      "contenido_completo": "El gobierno municipal inauguró este fin de semana el Parque Ecológico Oriente, un espacio de 15 hectáreas que incluye áreas verdes, ciclopista, zonas deportivas y juegos infantiles.\n\nEl parque cuenta con más de 3,000 árboles nativos, senderos para caminata, área de ejercicio al aire libre y una laguna artificial. También incluye baños públicos, estacionamiento y módulos de vigilancia.\n\nLa inversión total fue de 45 millones de pesos y beneficiará directamente a más de 80,000 habitantes de colonias cercanas. El horario de acceso es de 6:00 a 20:00 horas todos los días.\n\nEste es el tercer parque inaugurado en el año como parte del programa municipal de recuperación de espacios públicos.",
+      "categoria": "Desarrollo Urbano",
+      "emoji": "🌳",
+      "fecha_publicacion": "2026-05-04T18:00:00-06:00",
+      "fuente": "Desarrollo Urbano León",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_007",
+      "titulo": "Empresas tecnológicas generan mil nuevos empleos en León",
+      "descripcion_corta": "Sector TI consolida a León como hub tecnológico del Bajío",
+      "contenido_completo": "Cinco empresas de tecnología e innovación anunciaron la creación de más de 1,000 empleos en León durante los próximos seis meses, consolidando a la ciudad como un polo tecnológico regional.\n\nLas compañías se especializan en desarrollo de software, inteligencia artificial, ciberseguridad y servicios de tecnología. Los puestos ofrecidos incluyen desarrolladores, ingenieros, analistas y especialistas en diversas áreas.\n\nEl secretario de Desarrollo Económico destacó que León ha atraído inversión extranjera gracias a su infraestructura, mano de obra calificada y calidad de vida. La ciudad cuenta con tres parques tecnológicos y múltiples espacios de coworking.\n\nSe espera que el sector tecnológico crezca un 20% este año, generando oportunidades para profesionistas y recién egresados.",
+      "categoria": "Economía",
+      "emoji": "💼",
+      "fecha_publicacion": "2026-05-03T11:00:00-06:00",
+      "fuente": "Secretaría de Desarrollo Económico",
+      "url_externa": ""
+    },
+    {
+      "id": "noticia_008",
+      "titulo": "Hospital General amplía servicios de urgencias las 24 horas",
+      "descripcion_corta": "Nueva área de urgencias triplica capacidad de atención",
+      "contenido_completo": "El Hospital General de León inauguró su nueva área de urgencias, triplicando su capacidad de atención y mejorando significativamente los tiempos de respuesta para pacientes en situación crítica.\n\nLa remodelación incluyó la construcción de 12 cubículos de atención, sala de choque ampliada, área de observación con 20 camas y modernización del equipo médico. La inversión total fue de 80 millones de pesos.\n\nEl director del hospital informó que se contrató personal médico y de enfermería adicional para garantizar atención de calidad las 24 horas. El tiempo promedio de espera se ha reducido de 45 a 15 minutos.\n\nLa nueva área comenzó a operar desde el lunes y ya ha atendido a más de 200 pacientes con excelente retroalimentación de los usuarios.",
+      "categoria": "Salud",
+      "emoji": "🏥",
+      "fecha_publicacion": "2026-05-02T15:30:00-06:00",
+      "fuente": "Hospital General León",
+      "url_externa": ""
+    }
+  ]
+}
