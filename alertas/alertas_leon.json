@@ -1,168 +1,75 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2025-04-30T14:30:00-06:00",
-  "total_alertas": 12,
-  "fuente": "Sistema de Alertas Leon App",
-  
+  "ultima_actualizacion": "2026-05-14T13:20:00-06:00",
+  "total_alertas": 5,
+  "fuente": "Recopilación automática",
   "alertas": [
     {
-      "id": "ALT_001",
-      "titulo": "Cierre vial en Blvd. Campestre",
-      "descripcion": "Cierre total por obras de pavimentación entre calles Morelos y Hidalgo. Tráfico desviado por calle Juárez.",
+      "id": "ALERTA_001",
+      "titulo": "Caos vial por accidente en Autopista León-Aguascalientes",
+      "descripcion": "Una camioneta terminó en la canaleta tras un presunto cierre de paso provocado por un tráiler en la autopista León-Aguascalientes. El incidente ocurrió este jueves en dirección a la caseta de cobro.\n\nEl accidente ha generado un importante caos vial, dejando el tránsito prácticamente detenido con largas filas de vehículos. Se recomienda a los conductores utilizar vías alternas y extremar precauciones si transitan por la zona, ya que continúan las labores de rescate y remoción de las unidades.",
       "categoria": "trafico",
       "prioridad": "alta",
       "emoji": "🚧",
-      "fecha_publicacion": "2025-04-30T08:00:00-06:00",
-      "fecha_vigencia": "2025-05-05T18:00:00-06:00",
-      "ubicacion": "Blvd. Campestre, Col. Centro",
-      "fuente": "Tránsito Municipal León",
-      "url": null
+      "fecha_publicacion": "2026-05-14T11:55:00-06:00",
+      "fecha_vigencia": "2026-05-14T18:00:00-06:00",
+      "ubicacion": "Autopista León-Aguascalientes, dirección caseta",
+      "fuente": "Milenio León",
+      "url": "https://www.milenio.com/comunidad/accidente-en-la-leon-aguascalientes-camioneta-acaba-en-la-canaleta"
     },
     {
-      "id": "ALT_002",
-      "titulo": "Corte de agua programado",
-      "descripcion": "Suspensión del servicio de agua potable de 22:00 a 06:00 hrs por mantenimiento en red principal.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2025-04-30T10:15:00-06:00",
-      "fecha_vigencia": "2025-05-01T06:00:00-06:00",
-      "ubicacion": "Col. San Miguel, Col. La Luz",
-      "fuente": "SAPAL León",
-      "url": "https://www.sapal.gob.mx"
-    },
-    {
-      "id": "ALT_003",
-      "titulo": "Feria de León 2025 - Cierre de accesos",
-      "descripcion": "Restricción vehicular alrededor del Poliforum durante eventos nocturnos. Estacionamiento disponible en Plaza Mayor.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🎡",
-      "fecha_publicacion": "2025-04-29T16:00:00-06:00",
-      "fecha_vigencia": "2025-05-15T23:59:00-06:00",
-      "ubicacion": "Zona Poliforum",
-      "fuente": "Gobierno Municipal",
-      "url": null
-    },
-    {
-      "id": "ALT_004",
-      "titulo": "Alerta por altas temperaturas",
-      "descripcion": "Se esperan temperaturas superiores a 35°C. Manténgase hidratado y evite exposición solar prolongada entre 12:00 y 17:00 hrs.",
-      "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "🌡️",
-      "fecha_publicacion": "2025-04-30T07:00:00-06:00",
-      "fecha_vigencia": "2025-05-02T20:00:00-06:00",
-      "ubicacion": "Toda la ciudad",
-      "fuente": "Protección Civil León",
-      "url": null
-    },
-    {
-      "id": "ALT_005",
-      "titulo": "Accidente en Blvd. Adolfo López Mateos",
-      "descripcion": "Volcadura de unidad en sentido norte-sur a la altura de Plaza Mayor. Carril izquierdo cerrado. Tome vías alternas.",
+      "id": "ALERTA_002",
+      "titulo": "Obras de rehabilitación en Distribuidor Vial Benito Juárez",
+      "descripcion": "La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) inició obras de mantenimiento y rehabilitación en la parte inferior del Distribuidor Vial Benito Juárez. Los trabajos contemplan excavación y afinación de taludes a lo largo de aproximadamente 140 metros lineales.\n\nEl proyecto tendrá una duración estimada de 120 días, por lo que se registrarán cierres parciales y afectaciones viales continuas en la zona. Las autoridades piden a la ciudadanía paciencia, salir con tiempo a sus destinos y usar vías alternas.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2025-04-30T13:45:00-06:00",
-      "fecha_vigencia": "2025-04-30T16:00:00-06:00",
-      "ubicacion": "Blvd. López Mateos altura Plaza Mayor",
-      "fuente": "Tránsito Municipal",
-      "url": null
-    },
-    {
-      "id": "ALT_006",
-      "titulo": "Jornada de vacunación gratuita",
-      "descripcion": "Campaña de vacunación antirrábica para mascotas este sábado de 9:00 a 15:00 hrs en parques principales de la ciudad.",
-      "categoria": "salud",
-      "prioridad": "baja",
-      "emoji": "💉",
-      "fecha_publicacion": "2025-04-28T12:00:00-06:00",
-      "fecha_vigencia": "2025-05-03T15:00:00-06:00",
-      "ubicacion": "Parque Explora, Parque Metropolitano",
-      "fuente": "Secretaría de Salud",
-      "url": null
-    },
-    {
-      "id": "ALT_007",
-      "titulo": "Mantenimiento en semáforos",
-      "descripcion": "Reparación de semáforos en crucero Blvd. Juan Alonso de Torres y Calz. de los Héroes. Agentes viales regulando tráfico.",
-      "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "🚦",
-      "fecha_publicacion": "2025-04-30T11:30:00-06:00",
-      "fecha_vigencia": "2025-04-30T18:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres y Calz. Héroes",
-      "fuente": "Obras Públicas",
-      "url": null
+      "emoji": "🚜",
+      "fecha_publicacion": "2026-05-11T08:00:00-06:00",
+      "fecha_vigencia": "2026-09-08T23:59:00-06:00",
+      "ubicacion": "Distribuidor Vial Benito Juárez (parte inferior)",
+      "fuente": "El Sol de León",
+      "url": "https://oem.com.mx/elsoldeleon/local/inician-obras-de-rehabilitacion-en-distribuidor-vial-benito-juarez-en-leon-29925175"
     },
     {
-      "id": "ALT_008",
-      "titulo": "Recolección de basura suspendida",
-      "descripcion": "No habrá servicio de recolección el 1 de mayo por día festivo. Se reanuda servicio normal el 2 de mayo.",
+      "id": "ALERTA_003",
+      "titulo": "Cortes de agua afectan a más de 40 colonias",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) ha confirmado cortes en el suministro que afectan directamente a más de 40 colonias de la ciudad.\n\nLas cuadrillas se encuentran trabajando para restablecer y regularizar el servicio lo antes posible. SAPAL hace un llamado urgente a la ciudadanía para racionar el líquido disponible y priorizar su uso en actividades esenciales de salud, higiene y alimentación hasta nuevo aviso.",
       "categoria": "servicios",
-      "prioridad": "info",
-      "emoji": "🗑️",
-      "fecha_publicacion": "2025-04-29T08:00:00-06:00",
-      "fecha_vigencia": "2025-05-02T23:59:00-06:00",
-      "ubicacion": "Toda la ciudad",
-      "fuente": "Servicios Públicos Municipales",
-      "url": null
+      "prioridad": "alta",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-05-13T10:00:00-06:00",
+      "fecha_vigencia": "2026-05-16T23:59:00-06:00",
+      "ubicacion": "Más de 40 colonias a nivel municipal",
+      "fuente": "El Sol de León / SAPAL",
+      "url": "https://agua.org.mx/guanajuato-cortes-de-agua-afectan-a-mas-de-40-colonias-en-leon-el-sol-de-leon/"
     },
     {
-      "id": "ALT_009",
-      "titulo": "Operativo alcoholímetro",
-      "descripcion": "Puntos de revisión activos en zonas céntricas y principales avenidas de 20:00 a 02:00 hrs. Conduce responsablemente.",
+      "id": "ALERTA_004",
+      "titulo": "Precaución por aumento de accidentes mortales de motocicleta",
+      "descripcion": "La Policía Vial ha lanzado una alerta por el alarmante aumento en el número de accidentes de motociclistas en León, registrando 16 decesos en lo que va del año. Cuatro de estas fatalidades ocurrieron en un lapso de 24 horas recientemente.\n\nLas causas principales son el exceso de velocidad y la falta de pericia al conducir. La Secretaría de Seguridad mantiene operativos preventivos y exhorta a los motociclistas a respetar el reglamento de tránsito, los límites de velocidad y a portar casco y equipo de protección en todo momento.",
       "categoria": "seguridad",
-      "prioridad": "info",
-      "emoji": "🚔",
-      "fecha_publicacion": "2025-04-30T14:00:00-06:00",
-      "fecha_vigencia": "2025-05-01T02:00:00-06:00",
-      "ubicacion": "Zona Centro, Blvd. Campestre",
-      "fuente": "Seguridad Pública Municipal",
-      "url": null
-    },
-    {
-      "id": "ALT_010",
-      "titulo": "Obras en Blvd. Delta",
-      "descripcion": "Construcción de puente peatonal. Carril lateral cerrado permanentemente por 3 meses. Reduzca velocidad en la zona.",
-      "categoria": "obras",
       "prioridad": "media",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-05-12T09:30:00-06:00",
+      "fecha_vigencia": "2026-05-20T23:59:00-06:00",
+      "ubicacion": "Vialidades principales de León",
+      "fuente": "Policía Vial León / Noticias Vespertinas",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/aumentan-accidentes-de-motociclistas-y-muertes-en-leon-durante-2026-29944297"
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Intervención de drenaje sanitario en Haciendas del Rosario",
+      "descripcion": "SAPAL mantiene obras vigentes para la sustitución de más de 800 metros de infraestructura de drenaje sanitario en el fraccionamiento Haciendas del Rosario. Esta red había estado en operación constante por más de 30 años.\n\nDurante el desarrollo de los trabajos se presentarán cierres viales parciales en calles internas de la zona. Se sugiere a vecinos y transeúntes circular con extrema precaución, respetar los señalamientos de obra y tomar rutas alternas locales.",
+      "categoria": "servicios",
+      "prioridad": "baja",
       "emoji": "👷",
-      "fecha_publicacion": "2025-04-28T09:00:00-06:00",
-      "fecha_vigencia": "2025-07-30T23:59:00-06:00",
-      "ubicacion": "Blvd. Delta altura Prol. Campestre",
-      "fuente": "Obras Públicas",
-      "url": null
-    },
-    {
-      "id": "ALT_011",
-      "titulo": "Maratón León 2025",
-      "descripcion": "Cierre de vialidades principales este domingo de 6:00 a 12:00 hrs. Consulta rutas alternativas en sitio oficial.",
-      "categoria": "eventos",
-      "prioridad": "alta",
-      "emoji": "🏃",
-      "fecha_publicacion": "2025-04-29T15:00:00-06:00",
-      "fecha_vigencia": "2025-05-04T12:00:00-06:00",
-      "ubicacion": "Centro - Blvd. López Mateos - Estadio León",
-      "fuente": "Gobierno Municipal",
-      "url": "https://www.maraton-leon.com"
-    },
-    {
-      "id": "ALT_012",
-      "titulo": "Descuentos en pago de predial",
-      "descripcion": "Último día para aprovechar 15% de descuento en pago anual de impuesto predial. Pago en línea disponible.",
-      "categoria": "gobierno",
-      "prioridad": "info",
-      "emoji": "💰",
-      "fecha_publicacion": "2025-04-30T09:00:00-06:00",
-      "fecha_vigencia": "2025-04-30T23:59:00-06:00",
-      "ubicacion": "Tesorería Municipal o en línea",
-      "fuente": "Tesorería Municipal",
-      "url": "https://www.leon.gob.mx/tesoreria"
+      "fecha_publicacion": "2026-05-09T08:00:00-06:00",
+      "fecha_vigencia": "2026-05-31T18:00:00-06:00",
+      "ubicacion": "Fraccionamiento Haciendas del Rosario",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx/noticias"
     }
   ],
-  
   "categorias": {
     "trafico": {
       "nombre": "Tráfico y Vialidad",
@@ -172,56 +79,36 @@
     "servicios": {
       "nombre": "Servicios Públicos",
       "color": "#2196F3",
-      "emoji": "🔧"
-    },
-    "eventos": {
-      "nombre": "Eventos",
-      "color": "#9C27B0",
-      "emoji": "🎉"
-    },
-    "clima": {
-      "nombre": "Clima",
-      "color": "#FF9800",
-      "emoji": "🌤️"
-    },
-    "salud": {
-      "nombre": "Salud",
-      "color": "#4CAF50",
-      "emoji": "🏥"
+      "emoji": "💧"
     },
     "seguridad": {
-      "nombre": "Seguridad",
+      "nombre": "Seguridad Pública",
       "color": "#F44336",
       "emoji": "🚨"
     },
-    "obras": {
-      "nombre": "Obras Públicas",
-      "color": "#FF9800",
-      "emoji": "🏗️"
+    "clima": {
+      "nombre": "Clima y Ambiente",
+      "color": "#4CAF50",
+      "emoji": "⛈️"
     },
-    "gobierno": {
-      "nombre": "Gobierno",
-      "color": "#607D8B",
-      "emoji": "🏛️"
+    "eventos": {
+      "nombre": "Eventos Masivos",
+      "color": "#9C27B0",
+      "emoji": "🎉"
     }
   },
-  
   "prioridades": {
-    "alta": {
-      "nombre": "Alta",
-      "color": "#F44336"
-    },
-    "media": {
-      "nombre": "Media",
-      "color": "#FF9800"
-    },
     "baja": {
-      "nombre": "Baja",
+      "nombre": "Informativa",
       "color": "#4CAF50"
     },
-    "info": {
-      "nombre": "Informativa",
-      "color": "#2196F3"
+    "media": {
+      "nombre": "Precaución",
+      "color": "#FF9800"
+    },
+    "alta": {
+      "nombre": "Urgente",
+      "color": "#F44336"
     }
   }
 }
