@@ -1,88 +1,88 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-05-16T09:56:00-06:00",
+  "ultima_actualizacion": "2026-05-18T09:32:11-06:00",
   "total_alertas": 5,
-  "fuente": "Recopilación automática",
+  "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Programa de Tandeo de Agua SAPAL",
-      "descripcion": "SAPAL mantiene el programa de suministro de agua terciado en diversas colonias de la zona norte debido a la temporada de estiaje. Se recomienda a la población extremar el cuidado del vital líquido, almacenar agua de forma higiénica y revisar instalaciones para evitar fugas.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-05-10T08:00:00-06:00",
-      "fecha_vigencia": "2026-05-31T23:59:00-06:00",
-      "ubicacion": "Zona Norte del municipio",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "titulo": "Ola de Calor Severa",
+      "descripcion": "Proteccion Civil alerta por temperaturas superiores a los 38 grados centigrados en la ciudad durante los proximos dias. Se recomienda a la poblacion mantenerse hidratada, evitar exposicion al sol entre las 11:00 y 17:00 horas, y usar protector solar.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "☀️",
+      "fecha_publicacion": "2026-05-16T10:00:00-06:00",
+      "fecha_vigencia": "2026-05-22T20:00:00-06:00",
+      "ubicacion": "Toda la ciudad",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Alerta por Ola de Calor",
-      "descripcion": "Protección Civil municipal informa que se esperan temperaturas máximas superiores a los 35°C durante este fin de semana. Se exhorta a la ciudadanía a mantenerse hidratada, evitar la exposición prolongada al sol entre las 11:00 y 16:00 horas, y prestar especial atención a niños y adultos mayores.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-05-14T10:30:00-06:00",
-      "fecha_vigencia": "2026-05-18T20:00:00-06:00",
-      "ubicacion": "Todo el municipio",
-      "fuente": "Protección Civil León",
-      "url": "https://twitter.com/PC_Leon"
+      "titulo": "Tandeo de Agua en Zona Norte",
+      "descripcion": "SAPAL informa la continuacion del programa de tandeo de agua potable para mas de 70 colonias de la zona norte debido a los bajos niveles de la presa El Palote. El servicio estara disponible de manera intermitente. Se pide a la ciudadania extremar precauciones y reciclar el agua.",
+      "categoria": "servicios",
+      "prioridad": "alta",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-05-15T08:00:00-06:00",
+      "fecha_vigencia": "2026-05-31T23:59:00-06:00",
+      "ubicacion": "Zona Norte (Los Castillos, Gran Jardin, Valle del Campestre)",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Mantenimiento Nocturno en Blvd. Aeropuerto",
-      "descripcion": "Cierre parcial de dos carriles en Blvd. Aeropuerto en dirección a Silao debido a obras de reencarpetamiento nocturno. Las maniobras se realizan desde las 22:00 horas hasta las 05:00 horas. Se recomienda anticipar traslados o tomar vías alternas como el Eje Metropolitano.",
+      "titulo": "Obras de Mantenimiento Blvd. Aeropuerto",
+      "descripcion": "Cierre parcial de carriles en Blvd. Aeropuerto en direccion a Silao por obras de recarpeteo y mantenimiento vial. Los trabajos mayores se realizan en horario nocturno, pero se mantiene reduccion de velocidad durante el dia. Se sugiere tomar el Eje Metropolitano como via alterna.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-05-15T12:00:00-06:00",
-      "fecha_vigencia": "2026-05-20T05:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, altura Tajo de Santa Ana",
-      "fuente": "Tránsito Municipal León",
-      "url": "https://twitter.com/TransitoLeon"
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-05-17T07:30:00-06:00",
+      "fecha_vigencia": "2026-05-24T05:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, tramo Puente Milenio a Tajo de Santa Ana",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Carga vehicular por evento en Poliforum",
-      "descripcion": "Debido a la realización de un evento de talla nacional en las instalaciones de Poliforum León, se reporta alta carga vehicular en el Blvd. Adolfo López Mateos y Blvd. Francisco Villa. Considere tiempo adicional para sus traslados si circula por la zona.",
+      "titulo": "Cierres Viales por Evento en Estadio Leon",
+      "descripcion": "Debido a evento masivo programado en el Estadio Leon, se implementara un operativo de seguridad y vialidad en las inmediaciones del recinto. Habra cierres intermitentes y paso lento en Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga a partir de las 18:00 horas.",
       "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎉",
-      "fecha_publicacion": "2026-05-15T15:00:00-06:00",
-      "fecha_vigencia": "2026-05-17T18:00:00-06:00",
-      "ubicacion": "Poliforum León, Blvd. Adolfo López Mateos",
-      "fuente": "Gobierno Municipal de León",
-      "url": "https://www.leon.gob.mx"
+      "prioridad": "media",
+      "emoji": "🏟️",
+      "fecha_publicacion": "2026-05-18T09:00:00-06:00",
+      "fecha_vigencia": "2026-05-18T23:59:00-06:00",
+      "ubicacion": "Estadio Leon y zonas aledanas",
+      "fuente": "Secretaria de Seguridad Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo Salvando Vidas activo",
-      "descripcion": "La Policía Vial informa sobre la activación de los puntos de revisión del operativo alcoholímetro en principales arterias de la ciudad. Las revisiones se realizarán de forma aleatoria durante la noche y madrugada para prevenir accidentes de tránsito asociados al consumo de alcohol.",
+      "titulo": "Operativo Salvando Vidas",
+      "descripcion": "La Policia Vial mantendra de forma continua y aleatoria los puntos de revision del programa de alcoholimetria 'Salvando Vidas' en los principales bulevares de la ciudad, con el objetivo de prevenir accidentes de transito nocturnos.",
       "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-05-15T18:00:00-06:00",
-      "fecha_vigencia": "2026-05-17T06:00:00-06:00",
-      "ubicacion": "Vialidades principales (aleatorio)",
-      "fuente": "Policía Vial León",
-      "url": ""
+      "prioridad": "baja",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-05-14T12:00:00-06:00",
+      "fecha_vigencia": "2026-05-20T05:00:00-06:00",
+      "ubicacion": "Puntos itinerantes en vias principales",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
-      "nombre": "Tráfico y Vialidad",
+      "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
       "emoji": "🚗"
     },
     "servicios": {
-      "nombre": "Servicios Públicos",
+      "nombre": "Servicios Publicos",
       "color": "#2196F3",
       "emoji": "💧"
     },
     "seguridad": {
-      "nombre": "Seguridad Pública",
+      "nombre": "Seguridad Publica",
       "color": "#F44336",
       "emoji": "🚨"
     },
@@ -103,7 +103,7 @@
       "color": "#4CAF50"
     },
     "media": {
-      "nombre": "Precaución",
+      "nombre": "Precaucion",
       "color": "#FF9800"
     },
     "alta": {
