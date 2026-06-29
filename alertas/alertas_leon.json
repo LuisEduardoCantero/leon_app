@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-06-27T10:28:07-06:00",
+  "ultima_actualizacion": "2026-06-29T11:19:41-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Pronostico de lluvias y pavimento resbaladizo",
-      "descripcion": "Se anticipan lluvias ligeras y un descenso gradual de temperaturas en la ciudad, con el cielo mayormente cubierto durante el fin de semana. Proteccion Civil recomienda extrema precaucion al conducir, ya que las precipitaciones generaran superficies resbaladizas y reduciran la visibilidad en las principales vias del municipio.",
+      "titulo": "Tormenta intensa con granizo",
+      "descripcion": "Se registra un importante acumulado de lluvia de 23.2 mm y tormenta con caida de granizo ligero en distintas zonas de la ciudad, afectando severamente la visibilidad y creando encharcamientos en el asfalto. Se recomienda a los conductores de vehiculos y motocicletas extremar precauciones, encender sus luces y reducir la velocidad para evitar accidentes.",
       "categoria": "clima",
-      "prioridad": "media",
+      "prioridad": "alta",
       "emoji": "⛈️",
-      "fecha_publicacion": "2026-06-26T11:00:00-06:00",
+      "fecha_publicacion": "2026-06-29T08:00:00-06:00",
       "fecha_vigencia": "2026-06-29T23:59:00-06:00",
-      "ubicacion": "Todo el municipio de Leon",
+      "ubicacion": "Zona Urbana y vias rapidas del municipio",
       "fuente": "Proteccion Civil Leon",
-      "url": "https://heraldodemexico.com.mx/nacional/2026/6/25/clima-en-leon-guanajuato-viernes-26-de-junio-con-nubes-dispersas-ambiente-templado-839487.html"
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Cierre temporal de sucursal SAPAL Morelos",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que cerrara de forma temporal su sucursal Morelos por obras de remodelacion a partir del lunes 29 de junio. Para no afectar la atencion ciudadana, se instalara un Pagomatico en el estacionamiento del inmueble y se podran usar otras sedes o medios digitales.",
-      "categoria": "servicios",
-      "prioridad": "baja",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-06-26T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-31T23:59:00-06:00",
-      "ubicacion": "Blvd. Jose Maria Morelos #2922, Leon I",
-      "fuente": "SAPAL",
-      "url": "https://www.elsoldeleon.com.mx/elsoldeleon/local/toma-tus-precauciones-cierra-sapal-sucursal-morelos-en-leon-i-30791236"
+      "titulo": "Cierre precautorio por operativo de seguridad",
+      "descripcion": "Derivado del hallazgo y posterior identificacion de restos en la zona, elementos de la Fiscalia General del Estado, Guardia Nacional y Policia Municipal mantienen acordonamientos y un fuerte operativo de seguridad en las calles aledanas para continuar con las labores de investigacion y peritaje. Se recomienda a la ciudadania evitar circular por el area para no entorpecer los trabajos y prevenir congestiones viales.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-06-28T09:30:00-06:00",
+      "fecha_vigencia": "2026-06-29T20:00:00-06:00",
+      "ubicacion": "Colonia Balcones de la Joya",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Vehiculo derrapa en el Malecon del Rio",
-      "descripcion": "Se registro un accidente vial durante la madrugada donde un vehiculo, que presuntamente circulaba en sentido contrario, derrapo en el Malecon del Rio. Rescatistas y elementos de la Policia Vial trabajaron en la estabilizacion y extraccion. Se reporta trafico lento en la via por labores de limpieza, utilice rutas alternas.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-06-26T06:30:00-06:00",
-      "fecha_vigencia": "2026-06-27T14:00:00-06:00",
-      "ubicacion": "Malecon del Rio",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/accidentes-viales-en-leon-dejan-varias-personas-en-estado-delicado-29175568"
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Afectacion vial por choque en el Arco de la Calzada",
-      "descripcion": "Una camioneta tipo SUV se impacto contra las jardineras de la Prolongacion Calzada de los Heroes, justo a la altura del Arco de la Calzada. El percance causo afectaciones viales considerables y daños materiales a la infraestructura. Se recomienda evitar transitar por la zona mientras las autoridades concluyen los peritajes.",
+      "titulo": "Caos vial continuo en Libramiento Morelos",
+      "descripcion": "Continuan las graves afectaciones de trafico en el Libramiento Jose Maria Morelos tras un incidente vial previo que involucro la volcadura de maquinaria pesada. Aunque la maquina fue retirada, se reporta circulacion muy lenta debido a los trabajos adicionales de limpieza de aceite en el asfalto y reparacion de estructuras dañadas. Se solicita a los automovilistas utilizar rutas alternas hacia la zona norte.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-06-26T09:15:00-06:00",
-      "fecha_vigencia": "2026-06-27T18:00:00-06:00",
-      "ubicacion": "Prolongacion Calzada de los Heroes y Arco de la Calzada",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/choque-en-prolongacion-calzada-en-leon-deja-danos-materiales-30213434"
+      "fecha_publicacion": "2026-06-28T08:15:00-06:00",
+      "fecha_vigencia": "2026-06-29T18:00:00-06:00",
+      "ubicacion": "Libramiento Morelos (rumbo al Parque Metropolitano)",
+      "fuente": "Policia Vial Leon",
+      "url": "https://twitter.com/TransitoLeon"
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Obras de rehabilitacion de red de agua",
+      "descripcion": "SAPAL informa sobre cierres parciales y reduccion de carriles en varias calles debido a las obras de rehabilitacion de la red de alcantarillado sanitario y agua potable, como parte del fondo de infraestructura social. Habra cuadrillas de trabajadores y maquinaria pesada operando durante el dia. Conduzca con extrema precaucion en las colonias afectadas.",
+      "categoria": "servicios",
+      "prioridad": "baja",
+      "emoji": "🚰",
+      "fecha_publicacion": "2026-06-27T07:00:00-06:00",
+      "fecha_vigencia": "2026-07-05T18:00:00-06:00",
+      "ubicacion": "Colonias San Felipe de Jesus, Leon 1 y Unidad Deportiva",
+      "fuente": "SAPAL Leon",
+      "url": "https://www.sapal.gob.mx/"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Movilidad por el XXI Festival de Monologos",
-      "descripcion": "A partir de este 28 de junio comienza el XXI Festival de Monologos 'Teatro A Una Sola Voz' en el Teatro Maria Grever. Se espera un incremento en el flujo peatonal y vehicular en las calles aledañas del Centro Historico previo a las funciones diarias. Anticipe sus tiempos de traslado si circula por la zona centro.",
+      "titulo": "Carga vehicular por alta asistencia a exhibicion",
+      "descripcion": "Debido a la alta afluencia de visitantes a la exposicion aeroespacial 'Above And Beyond', instalada en el Centro de Ciencias Explora, se presenta una carga vehicular inusual sobre el bulevar Francisco Villa y zonas aledanas al recinto. Se sugiere a los conductores tomar sus previsiones de tiempo si transitan por el cruce con bulevar Mariano Escobedo y Vasco de Quiroga.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🎉",
-      "fecha_publicacion": "2026-06-27T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-04T23:59:00-06:00",
-      "ubicacion": "Teatro Maria Grever (Centro Historico)",
-      "fuente": "Instituto Cultural de Leon",
-      "url": "https://culturaleon.com/eventos"
+      "emoji": "🎟️",
+      "fecha_publicacion": "2026-06-27T09:00:00-06:00",
+      "fecha_vigencia": "2026-06-30T18:00:00-06:00",
+      "ubicacion": "Centro de Ciencias Explora (Blvd. Francisco Villa, La Martinica)",
+      "fuente": "Viva Leon / Explora",
+      "url": ""
     }
   ],
   "categorias": {
@@ -79,7 +79,7 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🛠️"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -94,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
