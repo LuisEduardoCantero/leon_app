@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-06-29T11:19:41-06:00",
+  "ultima_actualizacion": "2026-06-30T09:38:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Tormenta intensa con granizo",
-      "descripcion": "Se registra un importante acumulado de lluvia de 23.2 mm y tormenta con caida de granizo ligero en distintas zonas de la ciudad, afectando severamente la visibilidad y creando encharcamientos en el asfalto. Se recomienda a los conductores de vehiculos y motocicletas extremar precauciones, encender sus luces y reducir la velocidad para evitar accidentes.",
-      "categoria": "clima",
+      "titulo": "Bloqueo vial por conductores de plataforma",
+      "descripcion": "Conductores de transporte de plataforma mantienen bloqueos intermitentes en bulevar Aeropuerto (Distribuidor Vial Juan Pablo II) y el libramiento José María Morelos exigiendo la liberación de operadores detenidos. Se recomienda a los automovilistas utilizar el Eje Metropolitano, bulevar Timoteo Lozano o avenida Olímpica como rutas alternas para evitar el fuerte congestionamiento en la zona.",
+      "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⛈️",
+      "emoji": "🚗",
       "fecha_publicacion": "2026-06-29T08:00:00-06:00",
-      "fecha_vigencia": "2026-06-29T23:59:00-06:00",
-      "ubicacion": "Zona Urbana y vias rapidas del municipio",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "fecha_vigencia": "2026-06-30T23:59:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto y Libramiento José María Morelos",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Cierre precautorio por operativo de seguridad",
-      "descripcion": "Derivado del hallazgo y posterior identificacion de restos en la zona, elementos de la Fiscalia General del Estado, Guardia Nacional y Policia Municipal mantienen acordonamientos y un fuerte operativo de seguridad en las calles aledanas para continuar con las labores de investigacion y peritaje. Se recomienda a la ciudadania evitar circular por el area para no entorpecer los trabajos y prevenir congestiones viales.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-06-28T09:30:00-06:00",
-      "fecha_vigencia": "2026-06-29T20:00:00-06:00",
-      "ubicacion": "Colonia Balcones de la Joya",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/"
+      "titulo": "Trabajos nocturnos de SAPAL en Av. Miguel Alemán",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) lleva a cabo trabajos nocturnos para la rehabilitación de la red de agua potable sobre la avenida Miguel Alemán. Las labores buscan evitar fugas estructurales y eficientar el servicio a los usuarios. Se pide a los conductores manejar con precaución en la zona durante la noche y madrugada debido a la reducción parcial de carriles.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🔧",
+      "fecha_publicacion": "2026-06-28T20:00:00-06:00",
+      "fecha_vigencia": "2026-07-05T05:00:00-06:00",
+      "ubicacion": "Avenida Miguel Alemán",
+      "fuente": "SAPAL",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Caos vial continuo en Libramiento Morelos",
-      "descripcion": "Continuan las graves afectaciones de trafico en el Libramiento Jose Maria Morelos tras un incidente vial previo que involucro la volcadura de maquinaria pesada. Aunque la maquina fue retirada, se reporta circulacion muy lenta debido a los trabajos adicionales de limpieza de aceite en el asfalto y reparacion de estructuras dañadas. Se solicita a los automovilistas utilizar rutas alternas hacia la zona norte.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-06-28T08:15:00-06:00",
-      "fecha_vigencia": "2026-06-29T18:00:00-06:00",
-      "ubicacion": "Libramiento Morelos (rumbo al Parque Metropolitano)",
-      "fuente": "Policia Vial Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "titulo": "Resultados de operativo alcoholímetro y seguridad",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana informa que durante los operativos de vigilancia implementados en las últimas horas se detuvo a 127 conductores en estado de ebriedad y se aseguraron mil dosis de presuntas drogas. Se mantienen los puntos de revisión aleatorios en las principales vías de la ciudad para prevenir accidentes viales.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-06-29T10:30:00-06:00",
+      "fecha_vigencia": "2026-06-30T23:59:00-06:00",
+      "ubicacion": "Múltiples avenidas principales de León",
+      "fuente": "Policía Municipal León",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Obras de rehabilitacion de red de agua",
-      "descripcion": "SAPAL informa sobre cierres parciales y reduccion de carriles en varias calles debido a las obras de rehabilitacion de la red de alcantarillado sanitario y agua potable, como parte del fondo de infraestructura social. Habra cuadrillas de trabajadores y maquinaria pesada operando durante el dia. Conduzca con extrema precaucion en las colonias afectadas.",
+      "titulo": "Obras de infraestructura en San Felipe de Jesús y León I",
+      "descripcion": "Continúan las obras mayores por parte de SAPAL para rehabilitar de fondo las redes de drenaje sanitario y agua potable en las colonias San Felipe de Jesús, León I y Unidad Deportiva. Estas acciones representan una inversión de 162 millones de pesos para mejorar el suministro hídrico. Se prevén cortes de circulación locales, zanjas abiertas y modificaciones viales.",
       "categoria": "servicios",
-      "prioridad": "baja",
-      "emoji": "🚰",
-      "fecha_publicacion": "2026-06-27T07:00:00-06:00",
-      "fecha_vigencia": "2026-07-05T18:00:00-06:00",
-      "ubicacion": "Colonias San Felipe de Jesus, Leon 1 y Unidad Deportiva",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx/"
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-06-28T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-15T18:00:00-06:00",
+      "ubicacion": "San Felipe de Jesús, León I y Unidad Deportiva",
+      "fuente": "SAPAL / Gobierno Municipal",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Carga vehicular por alta asistencia a exhibicion",
-      "descripcion": "Debido a la alta afluencia de visitantes a la exposicion aeroespacial 'Above And Beyond', instalada en el Centro de Ciencias Explora, se presenta una carga vehicular inusual sobre el bulevar Francisco Villa y zonas aledanas al recinto. Se sugiere a los conductores tomar sus previsiones de tiempo si transitan por el cruce con bulevar Mariano Escobedo y Vasco de Quiroga.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎟️",
-      "fecha_publicacion": "2026-06-27T09:00:00-06:00",
-      "fecha_vigencia": "2026-06-30T18:00:00-06:00",
-      "ubicacion": "Centro de Ciencias Explora (Blvd. Francisco Villa, La Martinica)",
-      "fuente": "Viva Leon / Explora",
+      "titulo": "Movilización policial en Joyas de Castilla",
+      "descripcion": "Se registra una intensa movilización de elementos de seguridad pública en la colonia Joyas de Castilla tras el reporte de un incidente violento armado que dejó como saldo a una joven sin vida. La zona se encuentra actualmente acordonada por peritos y fuerzas de seguridad municipal. Se recomienda evitar transitar por el área para no entorpecer el flujo de las unidades de emergencia y de la fiscalía.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-06-30T07:15:00-06:00",
+      "fecha_vigencia": "2026-06-30T16:00:00-06:00",
+      "ubicacion": "Colonia Joyas de Castilla",
+      "fuente": "Policía Municipal León",
       "url": ""
     }
   ],
@@ -79,7 +79,7 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🛠️"
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -94,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🎭"
     }
   },
   "prioridades": {
