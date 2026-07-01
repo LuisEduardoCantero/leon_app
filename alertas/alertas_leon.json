@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-06-30T09:38:00-06:00",
+  "ultima_actualizacion": "2026-07-01T11:01:49-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Bloqueo vial por conductores de plataforma",
-      "descripcion": "Conductores de transporte de plataforma mantienen bloqueos intermitentes en bulevar Aeropuerto (Distribuidor Vial Juan Pablo II) y el libramiento José María Morelos exigiendo la liberación de operadores detenidos. Se recomienda a los automovilistas utilizar el Eje Metropolitano, bulevar Timoteo Lozano o avenida Olímpica como rutas alternas para evitar el fuerte congestionamiento en la zona.",
+      "titulo": "Obras intermitentes en Blvd. Aeropuerto",
+      "descripcion": "Como parte de los trabajos de ampliacion del Bulevar Aeropuerto, se llevaran a cabo bloqueos y reducciones de carril intermitentes en la zona de terraceria. No habra cierres totales, pero se recomienda extremar precauciones al transitar por el area debido a la entrada y salida de maquinaria pesada.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-06-29T08:00:00-06:00",
-      "fecha_vigencia": "2026-06-30T23:59:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto y Libramiento José María Morelos",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-06-30T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-05T23:59:00-06:00",
+      "ubicacion": "Bulevar Aeropuerto, zona de terraceria",
+      "fuente": "Gobierno Municipal Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Trabajos nocturnos de SAPAL en Av. Miguel Alemán",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) lleva a cabo trabajos nocturnos para la rehabilitación de la red de agua potable sobre la avenida Miguel Alemán. Las labores buscan evitar fugas estructurales y eficientar el servicio a los usuarios. Se pide a los conductores manejar con precaución en la zona durante la noche y madrugada debido a la reducción parcial de carriles.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🔧",
-      "fecha_publicacion": "2026-06-28T20:00:00-06:00",
-      "fecha_vigencia": "2026-07-05T05:00:00-06:00",
-      "ubicacion": "Avenida Miguel Alemán",
-      "fuente": "SAPAL",
-      "url": ""
+      "titulo": "Accidente en Bulevar Timoteo Lozano",
+      "descripcion": "Se reporta un accidente vial por alcance donde un vehiculo compacto cayo al fondo de un arroyo tras perder el control. Elementos de la Policia Vial y Bomberos laboran en el lugar para retirar el vehiculo. Se presenta transito lento en direccion oriente a poniente, se sugiere usar Bulevar Delta como via alterna.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-06-29T16:45:00-06:00",
+      "fecha_vigencia": "2026-07-01T15:00:00-06:00",
+      "ubicacion": "Bulevar Timoteo Lozano, cerca de San Pedro",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.am.com.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Resultados de operativo alcoholímetro y seguridad",
-      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana informa que durante los operativos de vigilancia implementados en las últimas horas se detuvo a 127 conductores en estado de ebriedad y se aseguraron mil dosis de presuntas drogas. Se mantienen los puntos de revisión aleatorios en las principales vías de la ciudad para prevenir accidentes viales.",
-      "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-06-29T10:30:00-06:00",
-      "fecha_vigencia": "2026-06-30T23:59:00-06:00",
-      "ubicacion": "Múltiples avenidas principales de León",
-      "fuente": "Policía Municipal León",
-      "url": ""
+      "titulo": "Precaucion por excavacion en Blvd. Olimpica",
+      "descripcion": "SAPAL informa que mantiene obras activas con excavacion profunda para aljibe en la colonia Paseos del Molino. Se exhorta a los conductores y motociclistas a respetar la malla vial y señalizacion de seguridad, ya que el carril derecho se encuentra confinado para estas maniobras.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-06-28T09:30:00-06:00",
+      "fecha_vigencia": "2026-07-02T18:00:00-06:00",
+      "ubicacion": "Bulevar Olimpica esquina Molino de Independencia",
+      "fuente": "SAPAL Leon",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Obras de infraestructura en San Felipe de Jesús y León I",
-      "descripcion": "Continúan las obras mayores por parte de SAPAL para rehabilitar de fondo las redes de drenaje sanitario y agua potable en las colonias San Felipe de Jesús, León I y Unidad Deportiva. Estas acciones representan una inversión de 162 millones de pesos para mejorar el suministro hídrico. Se prevén cortes de circulación locales, zanjas abiertas y modificaciones viales.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-06-28T09:00:00-06:00",
-      "fecha_vigencia": "2026-07-15T18:00:00-06:00",
-      "ubicacion": "San Felipe de Jesús, León I y Unidad Deportiva",
-      "fuente": "SAPAL / Gobierno Municipal",
+      "titulo": "Cierre parcial por accidente de motocicleta",
+      "descripcion": "Se reporta el cierre parcial de carriles en el Bulevar Hilario Medina debido a un grave accidente que involucro a un camion de transporte urbano y un motociclista. Cuerpos de emergencia y peritos de transito laboran en el sitio. Se recomienda tomar Paseo de los Insurgentes como alternativa vial.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚑",
+      "fecha_publicacion": "2026-06-29T10:15:00-06:00",
+      "fecha_vigencia": "2026-07-01T12:00:00-06:00",
+      "ubicacion": "Bulevar Hilario Medina",
+      "fuente": "PC Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Movilización policial en Joyas de Castilla",
-      "descripcion": "Se registra una intensa movilización de elementos de seguridad pública en la colonia Joyas de Castilla tras el reporte de un incidente violento armado que dejó como saldo a una joven sin vida. La zona se encuentra actualmente acordonada por peritos y fuerzas de seguridad municipal. Se recomienda evitar transitar por el área para no entorpecer el flujo de las unidades de emergencia y de la fiscalía.",
+      "titulo": "Accidente fatal en Blvd. Torres Landa",
+      "descripcion": "Movilizacion de cuerpos de emergencia y cierre parcial de carriles en el bulevar J.J. Torres Landa debido a un lamentable atropellamiento que involucro a un peaton y una pipa de agua. Elementos de la Fiscalia y Policia Vial acordonan la zona para las investigaciones correspondientes. Evitar el area.",
       "categoria": "seguridad",
       "prioridad": "alta",
       "emoji": "🚓",
-      "fecha_publicacion": "2026-06-30T07:15:00-06:00",
-      "fecha_vigencia": "2026-06-30T16:00:00-06:00",
-      "ubicacion": "Colonia Joyas de Castilla",
-      "fuente": "Policía Municipal León",
-      "url": ""
+      "fecha_publicacion": "2026-06-30T18:15:00-06:00",
+      "fecha_vigencia": "2026-07-01T14:00:00-06:00",
+      "ubicacion": "Bulevar J.J. Torres Landa",
+      "fuente": "Milenio Leon",
+      "url": "https://www.milenio.com"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚧"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "🌧️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎭"
+      "emoji": "🎤"
     }
   },
   "prioridades": {
