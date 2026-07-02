@@ -1,80 +1,80 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-01T11:01:49-06:00",
+  "ultima_actualizacion": "2026-07-02T11:45:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Obras intermitentes en Blvd. Aeropuerto",
-      "descripcion": "Como parte de los trabajos de ampliacion del Bulevar Aeropuerto, se llevaran a cabo bloqueos y reducciones de carril intermitentes en la zona de terraceria. No habra cierres totales, pero se recomienda extremar precauciones al transitar por el area debido a la entrada y salida de maquinaria pesada.",
+      "titulo": "Reducción de carriles en Blvd. López Mateos",
+      "descripcion": "La Dirección de Obra Pública informa sobre la reducción de dos carriles en el Blvd. Adolfo López Mateos, a la altura de la clínica T-1 del IMSS, debido a trabajos de bacheo profundo y mantenimiento de la carpeta asfáltica. Se recomienda tomar el Blvd. Mariano Escobedo o Av. Paseo de los Insurgentes como vías alternas para evitar demoras.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-06-30T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-05T23:59:00-06:00",
-      "ubicacion": "Bulevar Aeropuerto, zona de terraceria",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "fecha_publicacion": "2026-07-02T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-03T18:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo López Mateos, altura Clínica T-1 IMSS",
+      "fuente": "Obra Pública León",
+      "url": "https://leon.gob.mx/obrapublica"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Accidente en Bulevar Timoteo Lozano",
-      "descripcion": "Se reporta un accidente vial por alcance donde un vehiculo compacto cayo al fondo de un arroyo tras perder el control. Elementos de la Policia Vial y Bomberos laboran en el lugar para retirar el vehiculo. Se presenta transito lento en direccion oriente a poniente, se sugiere usar Bulevar Delta como via alterna.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-06-29T16:45:00-06:00",
-      "fecha_vigencia": "2026-07-01T15:00:00-06:00",
-      "ubicacion": "Bulevar Timoteo Lozano, cerca de San Pedro",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.am.com.mx"
-    },
-    {
-      "id": "ALERTA_003",
-      "titulo": "Precaucion por excavacion en Blvd. Olimpica",
-      "descripcion": "SAPAL informa que mantiene obras activas con excavacion profunda para aljibe en la colonia Paseos del Molino. Se exhorta a los conductores y motociclistas a respetar la malla vial y señalizacion de seguridad, ya que el carril derecho se encuentra confinado para estas maniobras.",
+      "titulo": "Corte de agua programado en zona norte",
+      "descripcion": "SAPAL notifica a los vecinos de las colonias Valle del Campestre, Bosques del Refugio y Lomas del Campestre sobre la suspensión temporal del servicio de agua potable debido a la reparación de una fuga en la línea principal de distribución. El servicio se restablecerá paulatinamente durante la noche de este jueves.",
       "categoria": "servicios",
       "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-06-28T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-02T18:00:00-06:00",
-      "ubicacion": "Bulevar Olimpica esquina Molino de Independencia",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx"
+      "fecha_publicacion": "2026-07-02T09:30:00-06:00",
+      "fecha_vigencia": "2026-07-02T23:59:00-06:00",
+      "ubicacion": "Valle del Campestre, Bosques del Refugio, Lomas del Campestre",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx/noticias"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Alerta preventiva por tormenta eléctrica",
+      "descripcion": "Protección Civil León emite una alerta amarilla para la tarde-noche de este jueves por pronóstico de tormentas eléctricas puntuales y rachas de viento en las zonas norte y oriente del municipio. Se exhorta a la población a resguardarse, no cruzar arroyos ni vialidades encharcadas y reportar cualquier emergencia al 911.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-07-02T10:15:00-06:00",
+      "fecha_vigencia": "2026-07-02T23:00:00-06:00",
+      "ubicacion": "Zona Norte y Oriente del municipio",
+      "fuente": "Protección Civil León",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Cierre parcial por accidente de motocicleta",
-      "descripcion": "Se reporta el cierre parcial de carriles en el Bulevar Hilario Medina debido a un grave accidente que involucro a un camion de transporte urbano y un motociclista. Cuerpos de emergencia y peritos de transito laboran en el sitio. Se recomienda tomar Paseo de los Insurgentes como alternativa vial.",
-      "categoria": "seguridad",
+      "titulo": "Accidente vial en Blvd. Delta",
+      "descripcion": "Tránsito Municipal reporta un choque por alcance que involucra a un camión de transporte público urbano (Oruga) y dos vehículos particulares en la intersección del Blvd. Delta y Blvd. La Luz. Se registra tráfico lento en la zona. Elementos de vialidad ya se encuentran abanderando el lugar; se solicita a los conductores ceder el paso a las unidades de emergencia.",
+      "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚑",
-      "fecha_publicacion": "2026-06-29T10:15:00-06:00",
-      "fecha_vigencia": "2026-07-01T12:00:00-06:00",
-      "ubicacion": "Bulevar Hilario Medina",
-      "fuente": "PC Leon",
-      "url": ""
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-07-02T11:00:00-06:00",
+      "fecha_vigencia": "2026-07-02T14:00:00-06:00",
+      "ubicacion": "Intersección Blvd. Delta y Blvd. La Luz",
+      "fuente": "Tránsito Municipal León",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Accidente fatal en Blvd. Torres Landa",
-      "descripcion": "Movilizacion de cuerpos de emergencia y cierre parcial de carriles en el bulevar J.J. Torres Landa debido a un lamentable atropellamiento que involucro a un peaton y una pipa de agua. Elementos de la Fiscalia y Policia Vial acordonan la zona para las investigaciones correspondientes. Evitar el area.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-06-30T18:15:00-06:00",
-      "fecha_vigencia": "2026-07-01T14:00:00-06:00",
-      "ubicacion": "Bulevar J.J. Torres Landa",
-      "fuente": "Milenio Leon",
-      "url": "https://www.milenio.com"
+      "titulo": "Operativo especial por evento en Poliforum",
+      "descripcion": "Debido a la inauguración de un foro empresarial en las instalaciones del Poliforum León, se implementará un operativo especial de movilidad en el Blvd. Adolfo López Mateos y Blvd. Francisco Villa para agilizar el ingreso de los asistentes. Se espera alta concentración vehicular en los accesos al recinto a partir de las 16:00 horas.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "📅",
+      "fecha_publicacion": "2026-07-02T07:45:00-06:00",
+      "fecha_vigencia": "2026-07-02T20:00:00-06:00",
+      "ubicacion": "Poliforum León (Blvd. Adolfo López Mateos y Francisco Villa)",
+      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
+      "url": "https://www.leon.gob.mx/seguridad"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚧"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌧️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎤"
+      "emoji": "🎪"
     }
   },
   "prioridades": {
