@@ -1,85 +1,85 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-02T11:45:00-06:00",
+  "ultima_actualizacion": "2026-07-03T12:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Reducción de carriles en Blvd. López Mateos",
-      "descripcion": "La Dirección de Obra Pública informa sobre la reducción de dos carriles en el Blvd. Adolfo López Mateos, a la altura de la clínica T-1 del IMSS, debido a trabajos de bacheo profundo y mantenimiento de la carpeta asfáltica. Se recomienda tomar el Blvd. Mariano Escobedo o Av. Paseo de los Insurgentes como vías alternas para evitar demoras.",
+      "titulo": "Mantenimiento en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "La Direccion de Obra Publica realiza trabajos de bacheo y rehabilitacion de asfalto en el Blvd. Adolfo Lopez Mateos, en el tramo comprendido entre Francisco Villa y Pradera. Se mantiene cerrado el carril de baja velocidad en sentido poniente a oriente. Se recomienda a los conductores anticipar sus traslados y utilizar el Blvd. Juan Jose Torres Landa o Blvd. Mariano Escobedo como vias alternas para evitar embotellamientos.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-07-02T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-03T18:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo López Mateos, altura Clínica T-1 IMSS",
-      "fuente": "Obra Pública León",
-      "url": "https://leon.gob.mx/obrapublica"
+      "fecha_publicacion": "2026-07-03T08:30:00-06:00",
+      "fecha_vigencia": "2026-07-04T18:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos, tramo Francisco Villa a Pradera",
+      "fuente": "Obra Publica Leon",
+      "url": "www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Corte de agua programado en zona norte",
-      "descripcion": "SAPAL notifica a los vecinos de las colonias Valle del Campestre, Bosques del Refugio y Lomas del Campestre sobre la suspensión temporal del servicio de agua potable debido a la reparación de una fuga en la línea principal de distribución. El servicio se restablecerá paulatinamente durante la noche de este jueves.",
+      "titulo": "Suspension de servicio de agua en Las Mandarinas",
+      "descripcion": "SAPAL informa que debido a la reparacion de emergencia de una fuga principal en una tuberia de 12 pulgadas, el servicio de suministro de agua potable estara suspendido en las colonias Las Mandarinas, San Miguel y aledanas. Las cuadrillas ya trabajan en la zona. Se estima que el servicio se restablecera paulatinamente a lo largo de las proximas 24 horas, por lo que se exhorta a la ciudadania a racionar el uso del agua almacenada.",
       "categoria": "servicios",
-      "prioridad": "media",
+      "prioridad": "alta",
       "emoji": "💧",
-      "fecha_publicacion": "2026-07-02T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-02T23:59:00-06:00",
-      "ubicacion": "Valle del Campestre, Bosques del Refugio, Lomas del Campestre",
+      "fecha_publicacion": "2026-07-03T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-04T10:00:00-06:00",
+      "ubicacion": "Colonias Las Mandarinas y San Miguel",
       "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx/noticias"
+      "url": "www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Alerta preventiva por tormenta eléctrica",
-      "descripcion": "Protección Civil León emite una alerta amarilla para la tarde-noche de este jueves por pronóstico de tormentas eléctricas puntuales y rachas de viento en las zonas norte y oriente del municipio. Se exhorta a la población a resguardarse, no cruzar arroyos ni vialidades encharcadas y reportar cualquier emergencia al 911.",
+      "titulo": "Alerta por lluvias intensas en Zona Norte",
+      "descripcion": "Proteccion Civil Municipal emite una alerta preventiva por pronostico de lluvias puntuales fuertes a intensas durante la tarde y noche en la zona norte y nororiente de la ciudad. Se mantiene un monitoreo constante de los cuerpos de agua, canales y la presa del Palote. Se solicita a la poblacion evitar resguardarse bajo arboles, no tirar basura en las calles para evitar taponamientos y no intentar cruzar vados o arroyos con corriente.",
       "categoria": "clima",
       "prioridad": "media",
       "emoji": "⛈️",
-      "fecha_publicacion": "2026-07-02T10:15:00-06:00",
-      "fecha_vigencia": "2026-07-02T23:00:00-06:00",
-      "ubicacion": "Zona Norte y Oriente del municipio",
-      "fuente": "Protección Civil León",
-      "url": "https://twitter.com/PC_Leon"
+      "fecha_publicacion": "2026-07-03T11:15:00-06:00",
+      "fecha_vigencia": "2026-07-03T23:59:00-06:00",
+      "ubicacion": "Zona Norte (Los Castillos, Gran Jardin, Rivera de la Presa)",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Accidente vial en Blvd. Delta",
-      "descripcion": "Tránsito Municipal reporta un choque por alcance que involucra a un camión de transporte público urbano (Oruga) y dos vehículos particulares en la intersección del Blvd. Delta y Blvd. La Luz. Se registra tráfico lento en la zona. Elementos de vialidad ya se encuentran abanderando el lugar; se solicita a los conductores ceder el paso a las unidades de emergencia.",
+      "titulo": "Falla de semaforos en Juan Alonso de Torres",
+      "descripcion": "Se reporta una falla general en el sistema de semaforizacion en la interseccion del Blvd. Juan Alonso de Torres y Blvd. Paseo del Moral, aparentemente derivada de una variacion de voltaje. Elementos de la Policia Vial ya se encuentran en la zona dirigiendo el trafico para evitar accidentes. Se pide a los automovilistas extremar precauciones, reducir la velocidad y ceder el paso al peaton y a otros vehiculos.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-02T11:00:00-06:00",
-      "fecha_vigencia": "2026-07-02T14:00:00-06:00",
-      "ubicacion": "Intersección Blvd. Delta y Blvd. La Luz",
-      "fuente": "Tránsito Municipal León",
-      "url": "https://twitter.com/TransitoLeon"
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-07-03T09:45:00-06:00",
+      "fecha_vigencia": "2026-07-03T15:00:00-06:00",
+      "ubicacion": "Cruce Blvd. Juan Alonso de Torres y Paseo del Moral",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo especial por evento en Poliforum",
-      "descripcion": "Debido a la inauguración de un foro empresarial en las instalaciones del Poliforum León, se implementará un operativo especial de movilidad en el Blvd. Adolfo López Mateos y Blvd. Francisco Villa para agilizar el ingreso de los asistentes. Se espera alta concentración vehicular en los accesos al recinto a partir de las 16:00 horas.",
+      "titulo": "Carga vehicular por congreso en Poliforum",
+      "descripcion": "Debido al inicio de un congreso nacional e internacional en las instalaciones de Poliforum Leon, se espera un incremento significativo en el flujo vehicular y peatonal sobre el Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Las mayores afectaciones se preve que ocurran durante los horarios de entrada y salida, entre las 8:30 y 10:00 hrs, y de 18:00 a 20:00 hrs. Personal de transito abanderara los cruces peatonales.",
       "categoria": "eventos",
       "prioridad": "baja",
       "emoji": "📅",
-      "fecha_publicacion": "2026-07-02T07:45:00-06:00",
-      "fecha_vigencia": "2026-07-02T20:00:00-06:00",
-      "ubicacion": "Poliforum León (Blvd. Adolfo López Mateos y Francisco Villa)",
-      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
-      "url": "https://www.leon.gob.mx/seguridad"
+      "fecha_publicacion": "2026-07-03T07:00:00-06:00",
+      "fecha_vigencia": "2026-07-05T20:00:00-06:00",
+      "ubicacion": "Poliforum Leon (Blvd. Adolfo Lopez Mateos)",
+      "fuente": "Secretaria de Seguridad",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚦"
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "☁️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
