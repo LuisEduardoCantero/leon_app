@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-04T12:00:00-06:00",
+  "ultima_actualizacion": "2026-07-06T10:11:06-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre vial por reparacion de socavon en Blvd. Juan Jose Torres Landa",
-      "descripcion": "La Direccion General de Obra Publica y Policia Vial informan sobre el cierre total de los carriles de alta velocidad en el Bulevar Juan Jose Torres Landa, en el tramo comprendido entre el Bulevar Francisco Villa y la Avenida Oceano Atlantico, con sentido hacia el Distribuidor Vial Juan Pablo II. Esta medida de urgencia se debe a la deteccion y reparacion de un socavon de considerables dimensiones en la carpeta asfaltica provocado por filtraciones subterraneas. Se recomienda a la ciudadania utilizar vias alternas como el Bulevar Timoteo Lozano o el Bulevar Vicente Valtierra, anticipar sus tiempos de traslado y respetar las indicaciones del personal de transito en la zona.",
+      "titulo": "Cierre parcial por choque multiple en Blvd. Vertiz Campero",
+      "descripcion": "Se reporta un accidente vehicular que involucra tres automoviles en la interseccion de Blvd. Vertiz Campero y Blvd. Vicente Valtierra. Elementos de Policia Vial se encuentran en la zona desviando el trafico hacia rutas alternas. Se recomienda evitar la zona y tomar el Blvd. de la Luz como alternativa. Tiempo estimado de liberacion de via: 2 horas.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-04T08:15:00-06:00",
-      "fecha_vigencia": "2026-07-06T18:00:00-06:00",
-      "ubicacion": "Blvd. Juan Jose Torres Landa entre Blvd. Francisco Villa y Av. Oceano Atlantico",
-      "fuente": "Policia Vial y Obra Publica Leon",
-      "url": ""
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-07-06T08:15:00-06:00",
+      "fecha_vigencia": "2026-07-06T11:00:00-06:00",
+      "ubicacion": "Blvd. Vertiz Campero esq. Vicente Valtierra",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Fuga de agua e interrupcion del servicio en el Coecillo y zonas aledañas",
-      "descripcion": "Cuadrillas operativas de SAPAL trabajan en la reparacion de una linea de conduccion principal de 12 pulgadas que sufrio una ruptura sobre la calle Herreros. Debido a estas maniobras tecnicas, se ha suspendido de manera temporal el suministro de agua potable en las colonias El Coecillo, San Juan de Dios y Barrio de Santiago. El servicio comenzara a restablecerse de forma paulatina durante el transcurso de la noche una vez concluidos los trabajos de soldadura y acoplamiento. Se exhorta a los usuarios a hacer un uso estrictamente eficiente del agua almacenada en sus tanques domiciliarios y cisternas.",
+      "titulo": "Mantenimiento preventivo en pozo de colonia Leon II",
+      "descripcion": "SAPAL informa a los habitantes de la colonia Leon II y San Juan Bosco sobre la disminucion de presion y posible suspension del servicio de agua potable debido a trabajos de mantenimiento correctivo en el pozo de abastecimiento principal de la zona. Se recomienda a los vecinos hacer uso racional del agua almacenada en sus tinacos. El servicio se normalizara durante la madrugada del martes.",
       "categoria": "servicios",
       "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-07-04T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-04T23:00:00-06:00",
-      "ubicacion": "Calle Herreros, Colonia El Coecillo",
-      "fuente": "Sistema de Agua Potable y Alcantarillado de Leon (SAPAL)",
-      "url": ""
+      "fecha_publicacion": "2026-07-05T18:30:00-06:00",
+      "fecha_vigencia": "2026-07-07T06:00:00-06:00",
+      "ubicacion": "Colonias Leon II y San Juan Bosco",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Dispositivo de seguridad vial por encuentro deportivo en Estadio Leon",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementara un operativo especial de vigilancia y control de trafico en los alrededores del Distrito Leon MX con motivo de un encuentro deportivo masivo. A partir de las 16:00 horas se realizaran restricciones e interrupciones intermitentes a la circulacion en el Bulevar Adolfo Lopez Mateos (carriles laterales), Bulevar Vasco de Quiroga y la Avenida Olimpo. El despliegue contara con elementos de Policia Vial para agilizar el flujo vehicular y garantizar el cruce seguro de los peatones. Se sugiere evitar la periferia del estadio si no asiste al evento.",
-      "categoria": "eventos",
+      "titulo": "Encharcamientos en nivel inferior del Malecon del Rio",
+      "descripcion": "Debido a las lluvias registradas durante la madrugada, Proteccion Civil reporta encharcamientos considerables en los cruces a desnivel del Malecon del Rio de los Gomez, particularmente a la altura de la Calzada de los Heroes y Blvd. Mariano Escobedo. El paso a desnivel se mantiene abierto pero se solicita a los conductores transitar con extrema precaucion y reducir la velocidad para evitar derrapes o averias mecanicas.",
+      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "⚽",
-      "fecha_publicacion": "2026-07-04T11:00:00-06:00",
-      "fecha_vigencia": "2026-07-04T22:30:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga",
-      "fuente": "Secretaria de Seguridad, Prevencion y Proteccion Ciudadana",
-      "url": ""
+      "emoji": "🌧️",
+      "fecha_publicacion": "2026-07-06T06:45:00-06:00",
+      "fecha_vigencia": "2026-07-06T14:00:00-06:00",
+      "ubicacion": "Malecon del Rio, tramo Calzada a Mariano Escobedo",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Aviso preventivo por fuertes rafagas de viento y chubascos aislados",
-      "descripcion": "La Direccion General de Proteccion Civil emite un aviso preventivo para la poblacion de Leon debido al ingreso de humedad que generara chubascos de variada intensidad acompañados de actividad electrica y rafagas de viento que podrian alcanzar de 45 a 60 km/h durante la tarde y noche. Se solicita a los ciudadanos asegurar objetos propensos a salir proyectados de azoteas o balcones, evitar resguardarse bajo arboles o estructuras espectaculares en la via publica, y manejar con extrema precaucion por posible acumulacion de agua en vialidades bajas.",
-      "categoria": "clima",
+      "titulo": "Operativo vial por evento deportivo en Estadio Leon",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementara un operativo de seguridad y vialidad en las inmediaciones del Estadio Leon (Nou Camp) con motivo del encuentro deportivo programado para esta noche. Habra cierres intermitentes y paso peatonal preferente en el Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga a partir de las 18:00 horas. Se sugiere a los conductores anticipar sus traslados.",
+      "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-07-03T16:00:00-06:00",
-      "fecha_vigencia": "2026-07-05T23:59:00-06:00",
-      "ubicacion": "Todo el municipio de Leon, Gto.",
-      "fuente": "Proteccion Civil Municipal Leon",
-      "url": ""
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-07-06T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-06T23:30:00-06:00",
+      "ubicacion": "Estadio Leon y vialidades aledanas",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierre parcial de circulacion por choque multiple en Blvd. Mariano Escobedo",
-      "descripcion": "Se registra un fuerte accidente vehicular por alcance que involucra a cuatro automoviles particulares sobre el Bulevar Mariano Escobedo, casi esquina con el Bulevar Hermanos Aldama, con direccion hacia la zona centro. Elementos de los cuerpos de emergencia y paramedicos de Bomberos ya se encuentran brindando las primeras atenciones en el sitio, reportandose unicamente personas con lesiones menores. El trafico se encuentra severamente afectado con solo un carril habilitado para la circulacion, provocando largas filas de vehiculos que se extienden hasta el Bulevar Venustiano Carranza. Maneje con precaucion.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "💥",
-      "fecha_publicacion": "2026-07-04T11:45:00-06:00",
-      "fecha_vigencia": "2026-07-04T14:30:00-06:00",
-      "ubicacion": "Blvd. Mariano Escobedo y Blvd. Hermanos Aldama",
-      "fuente": "Policia Vial Leon",
+      "titulo": "Filtro de revision de seguridad en Zona Centro",
+      "descripcion": "Como parte de las estrategias de disuasion y prevencion del delito, Policia Municipal mantiene un filtro de revision aleatoria de vehiculos y motocicletas en la calle Hermanos Aldama, casi esquina con Blvd. Mariano Escobedo. Esto ha generado ligero transito lento en la zona de aproximacion al centro historico. Se pide a la ciudadania cooperacion y portar documentacion en regla.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-07-05T20:10:00-06:00",
+      "fecha_vigencia": "2026-07-06T12:00:00-06:00",
+      "ubicacion": "Calle Hermanos Aldama y Blvd. Mariano Escobedo",
+      "fuente": "Secretaria de Seguridad Leon",
       "url": ""
     }
   ],
@@ -74,7 +74,7 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
@@ -84,12 +84,12 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": "☁️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
