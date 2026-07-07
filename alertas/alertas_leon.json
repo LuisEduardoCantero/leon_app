@@ -1,72 +1,59 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-06T10:11:06-06:00",
-  "total_alertas": 5,
+  "ultima_actualizacion": "2026-07-07T10:05:00-06:00",
+  "total_alertas": 4,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por choque multiple en Blvd. Vertiz Campero",
-      "descripcion": "Se reporta un accidente vehicular que involucra tres automoviles en la interseccion de Blvd. Vertiz Campero y Blvd. Vicente Valtierra. Elementos de Policia Vial se encuentran en la zona desviando el trafico hacia rutas alternas. Se recomienda evitar la zona y tomar el Blvd. de la Luz como alternativa. Tiempo estimado de liberacion de via: 2 horas.",
+      "titulo": "Cierre vial por obras de pavimentacion en Blvd. Francisco Villa",
+      "descripcion": "La Direccion General de Obra Publica y Policia Vial de Leon comunican el inicio de los trabajos de rehabilitacion y repavimentacion de los carriles centrales del Bulevar Francisco Villa, especificamente en el tramo comprendido entre el Bulevar Adolfo Lopez Mateos y la Avenida Vicente Valtierra. Las labores ocasionaran cierres parciales de circulacion durante el dia y reducciones a un solo carril en horarios pico. Se recomienda a la ciudadania tomar vias alternas como el Bulevar Hilario Medina o el Bulevar Vasco de Quiroga para evitar congestionamientos severos.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-07-06T08:15:00-06:00",
-      "fecha_vigencia": "2026-07-06T11:00:00-06:00",
-      "ubicacion": "Blvd. Vertiz Campero esq. Vicente Valtierra",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-06T09:15:00-06:00",
+      "fecha_vigencia": "2026-07-12T18:00:00-06:00",
+      "ubicacion": "Blvd. Francisco Villa entre Blvd. Adolfo Lopez Mateos y Av. Vicente Valtierra",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento preventivo en pozo de colonia Leon II",
-      "descripcion": "SAPAL informa a los habitantes de la colonia Leon II y San Juan Bosco sobre la disminucion de presion y posible suspension del servicio de agua potable debido a trabajos de mantenimiento correctivo en el pozo de abastecimiento principal de la zona. Se recomienda a los vecinos hacer uso racional del agua almacenada en sus tinacos. El servicio se normalizara durante la madrugada del martes.",
+      "titulo": "Corte de agua programado por mantenimiento de red en la colonia Centro",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a la interconexion de una nueva red de distribucion y sustitucion de valvulas obsoletas, se suspendera temporalmente el servicio de agua potable en la zona Centro y colonias colindantes como San Juan de Dios y Barrio de Santiago. Las maniobras operativas iniciaran a primera hora del dia, previendo la recuperacion paulatina del suministro hacia el mediodia del dia siguiente. Se exhorta a los usuarios a racionar y almacenar agua de manera anticipada para cubrir sus necesidades basicas.",
       "categoria": "servicios",
       "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-07-05T18:30:00-06:00",
-      "fecha_vigencia": "2026-07-07T06:00:00-06:00",
-      "ubicacion": "Colonias Leon II y San Juan Bosco",
+      "fecha_publicacion": "2026-07-07T07:00:00-06:00",
+      "fecha_vigencia": "2026-07-08T13:00:00-06:00",
+      "ubicacion": "Colonia Centro, San Juan de Dios y Barrio de Santiago",
       "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Encharcamientos en nivel inferior del Malecon del Rio",
-      "descripcion": "Debido a las lluvias registradas durante la madrugada, Proteccion Civil reporta encharcamientos considerables en los cruces a desnivel del Malecon del Rio de los Gomez, particularmente a la altura de la Calzada de los Heroes y Blvd. Mariano Escobedo. El paso a desnivel se mantiene abierto pero se solicita a los conductores transitar con extrema precaucion y reducir la velocidad para evitar derrapes o averias mecanicas.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-07-06T06:45:00-06:00",
-      "fecha_vigencia": "2026-07-06T14:00:00-06:00",
-      "ubicacion": "Malecon del Rio, tramo Calzada a Mariano Escobedo",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "titulo": "Alerta vial por congestionamiento en Blvd. Jose Maria Morelos zona norte",
+      "descripcion": "La Policia Vial de Leon reporta transito lento y pesada carga vehicular en el Libramiento Norte (Bulevar Jose Maria Morelos), en el tramo que va desde el Bulevar Juan Alonso de Torres hasta las inmediaciones del distribuidor vial Benito Juarez. El retraso en la circulacion es derivado del incremento de vehiculos pesados y maniobras de descarga de materiales comerciales de la zona. Elementos de transito agilizan el paso, sin embargo, se pide a los automovilistas guardar su distancia y salir con tiempo anticipado.",
+      "categoria": "trafico",
+      "prioridad": "baja",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-07-06T13:40:00-06:00",
+      "fecha_vigencia": "2026-07-07T11:00:00-06:00",
+      "ubicacion": "Blvd. Jose Maria Morelos entre Blvd. Juan Alonso de Torres y Distribuidor Benito Juarez",
+      "fuente": "Policia Vial de Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo vial por evento deportivo en Estadio Leon",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementara un operativo de seguridad y vialidad en las inmediaciones del Estadio Leon (Nou Camp) con motivo del encuentro deportivo programado para esta noche. Habra cierres intermitentes y paso peatonal preferente en el Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga a partir de las 18:00 horas. Se sugiere a los conductores anticipar sus traslados.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "⚽",
-      "fecha_publicacion": "2026-07-06T09:00:00-06:00",
-      "fecha_vigencia": "2026-07-06T23:30:00-06:00",
-      "ubicacion": "Estadio Leon y vialidades aledanas",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://www.leon.gob.mx"
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Filtro de revision de seguridad en Zona Centro",
-      "descripcion": "Como parte de las estrategias de disuasion y prevencion del delito, Policia Municipal mantiene un filtro de revision aleatoria de vehiculos y motocicletas en la calle Hermanos Aldama, casi esquina con Blvd. Mariano Escobedo. Esto ha generado ligero transito lento en la zona de aproximacion al centro historico. Se pide a la ciudadania cooperacion y portar documentacion en regla.",
-      "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-07-05T20:10:00-06:00",
-      "fecha_vigencia": "2026-07-06T12:00:00-06:00",
-      "ubicacion": "Calle Hermanos Aldama y Blvd. Mariano Escobedo",
-      "fuente": "Secretaria de Seguridad Leon",
+      "titulo": "Monitoreo por incremento de escurrimientos en Malecón del Rio",
+      "descripcion": "La Direccion General de Proteccion Civil mantiene un monitoreo constante sobre el cause del Malecon del Rio de los Gomez ante las recientes precipitaciones registradas en la Sierra de Lobos, que han generado escurrimientos e incremento en los niveles del agua. Hasta el momento los niveles se mantienen dentro de los rangos de seguridad en los carriles inferiores, no obstante, las autoridades alertan a la poblacion de posibles cierres preventivos repentinos en caso de continuar las lluvias intensas en la cuenca alta durante la tarde-noche.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "🌧️",
+      "fecha_publicacion": "2026-07-06T19:30:00-06:00",
+      "fecha_vigencia": "2026-07-08T08:00:00-06:00",
+      "ubicacion": "Malecon del Rio de los Gomez",
+      "fuente": "Proteccion Civil Leon",
       "url": ""
     }
   ],
@@ -74,22 +61,22 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚦"
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "☁️"
+      "emoji": "🌧️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
