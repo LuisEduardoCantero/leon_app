@@ -1,60 +1,34 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-07T10:05:00-06:00",
-  "total_alertas": 4,
+  "ultima_actualizacion": "2026-07-08T11:55:00-06:00",
+  "total_alertas": 2,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre vial por obras de pavimentacion en Blvd. Francisco Villa",
-      "descripcion": "La Direccion General de Obra Publica y Policia Vial de Leon comunican el inicio de los trabajos de rehabilitacion y repavimentacion de los carriles centrales del Bulevar Francisco Villa, especificamente en el tramo comprendido entre el Bulevar Adolfo Lopez Mateos y la Avenida Vicente Valtierra. Las labores ocasionaran cierres parciales de circulacion durante el dia y reducciones a un solo carril en horarios pico. Se recomienda a la ciudadania tomar vias alternas como el Bulevar Hilario Medina o el Bulevar Vasco de Quiroga para evitar congestionamientos severos.",
+      "titulo": "Colapso vial en Blvd. Hermanos Aldama por caida de laminas de acero",
+      "descripcion": "Un trailer que transportaba pesadas laminas de acero sufrio un percance, lo que provoco que su carga cayera sobre el asfalto y bloqueara por completo la circulacion en el Bulevar Hermanos Aldama. El incidente ha desatado un colapso vial severo que se extiende a los principales bulevares conectores de la zona sur y centro de la ciudad.\n\nElementos de la Policia Vial y cuerpos de emergencia trabajan a marchas forzadas en el retiro de las estructuras metalicas. Se solicita de la manera mas atenta a los automovilistas evitar por completo transitar por la zona y utilizar vias alternas como el Bulevar Timoteo Lozano o Bulevar Francisco Villa para evitar quedar atrapados en el congestionamiento.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-06T09:15:00-06:00",
-      "fecha_vigencia": "2026-07-12T18:00:00-06:00",
-      "ubicacion": "Blvd. Francisco Villa entre Blvd. Adolfo Lopez Mateos y Av. Vicente Valtierra",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": ""
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-07-08T10:15:00-06:00",
+      "fecha_vigencia": "2026-07-08T15:00:00-06:00",
+      "ubicacion": "Bulevar Hermanos Aldama, Leon, Gto.",
+      "fuente": "Noticias Vespertinas / Policia Vial Leon",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/trailer-tira-laminas-de-acero-y-colapsa-el-bulevar-hermanos-aldama-en-leon-por-mas-de-dos-horas-31016170"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Corte de agua programado por mantenimiento de red en la colonia Centro",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a la interconexion de una nueva red de distribucion y sustitucion de valvulas obsoletas, se suspendera temporalmente el servicio de agua potable en la zona Centro y colonias colindantes como San Juan de Dios y Barrio de Santiago. Las maniobras operativas iniciaran a primera hora del dia, previendo la recuperacion paulatina del suministro hacia el mediodia del dia siguiente. Se exhorta a los usuarios a racionar y almacenar agua de manera anticipada para cubrir sus necesidades basicas.",
-      "categoria": "servicios",
+      "titulo": "Bloqueo y retrasos graves en Estacion de Transferencia Delta del SIT",
+      "descripcion": "Un nutrido grupo de usuarios del Sistema Integrado de Transporte (SIT) decidieron bloquear los accesos y la libre circulacion de autobuses en el interior de la Estacion de Transferencia Delta. La manifestacion es un acto de protesta derivado del hartazgo ante los retrasos extremos que reportan, con esperas de mas de una hora en rutas alimentadoras y troncales como la 48, 89 y 96.\n\nEste bloqueo genera demoras en cadena en todo el sistema del transporte publico que conecta a la zona oriente y sur del municipio. Se recomienda a los usuarios anticipar sus traslados, buscar metodos alternativos de movilidad y mantenerse atentos a las indicaciones del personal de la Direccion General de Movilidad.",
+      "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-07T07:00:00-06:00",
-      "fecha_vigencia": "2026-07-08T13:00:00-06:00",
-      "ubicacion": "Colonia Centro, San Juan de Dios y Barrio de Santiago",
-      "fuente": "SAPAL",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_003",
-      "titulo": "Alerta vial por congestionamiento en Blvd. Jose Maria Morelos zona norte",
-      "descripcion": "La Policia Vial de Leon reporta transito lento y pesada carga vehicular en el Libramiento Norte (Bulevar Jose Maria Morelos), en el tramo que va desde el Bulevar Juan Alonso de Torres hasta las inmediaciones del distribuidor vial Benito Juarez. El retraso en la circulacion es derivado del incremento de vehiculos pesados y maniobras de descarga de materiales comerciales de la zona. Elementos de transito agilizan el paso, sin embargo, se pide a los automovilistas guardar su distancia y salir con tiempo anticipado.",
-      "categoria": "trafico",
-      "prioridad": "baja",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-07-06T13:40:00-06:00",
-      "fecha_vigencia": "2026-07-07T11:00:00-06:00",
-      "ubicacion": "Blvd. Jose Maria Morelos entre Blvd. Juan Alonso de Torres y Distribuidor Benito Juarez",
-      "fuente": "Policia Vial de Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Monitoreo por incremento de escurrimientos en Malecón del Rio",
-      "descripcion": "La Direccion General de Proteccion Civil mantiene un monitoreo constante sobre el cause del Malecon del Rio de los Gomez ante las recientes precipitaciones registradas en la Sierra de Lobos, que han generado escurrimientos e incremento en los niveles del agua. Hasta el momento los niveles se mantienen dentro de los rangos de seguridad en los carriles inferiores, no obstante, las autoridades alertan a la poblacion de posibles cierres preventivos repentinos en caso de continuar las lluvias intensas en la cuenca alta durante la tarde-noche.",
-      "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-07-06T19:30:00-06:00",
-      "fecha_vigencia": "2026-07-08T08:00:00-06:00",
-      "ubicacion": "Malecon del Rio de los Gomez",
-      "fuente": "Proteccion Civil Leon",
-      "url": ""
+      "emoji": "🛑",
+      "fecha_publicacion": "2026-07-05T14:30:00-06:00",
+      "fecha_vigencia": "2026-07-08T20:00:00-06:00",
+      "ubicacion": "Estacion de Transferencia Delta SIT, Blvd. Delta, Leon, Gto.",
+      "fuente": "Noticias Vespertinas / Redes Sociales",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/estacion-delta-de-leon-protestan-usuarios-por-retrasos-en-transporte-publico-y-largas-esperas-30954176"
     }
   ],
   "categorias": {
@@ -71,17 +45,17 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": "👮"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌧️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "📢"
     }
   },
   "prioridades": {
