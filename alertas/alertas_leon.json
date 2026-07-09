@@ -1,34 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-08T11:55:00-06:00",
-  "total_alertas": 2,
+  "ultima_actualizacion": "2026-07-09T11:25:06-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Colapso vial en Blvd. Hermanos Aldama por caida de laminas de acero",
-      "descripcion": "Un trailer que transportaba pesadas laminas de acero sufrio un percance, lo que provoco que su carga cayera sobre el asfalto y bloqueara por completo la circulacion en el Bulevar Hermanos Aldama. El incidente ha desatado un colapso vial severo que se extiende a los principales bulevares conectores de la zona sur y centro de la ciudad.\n\nElementos de la Policia Vial y cuerpos de emergencia trabajan a marchas forzadas en el retiro de las estructuras metalicas. Se solicita de la manera mas atenta a los automovilistas evitar por completo transitar por la zona y utilizar vias alternas como el Bulevar Timoteo Lozano o Bulevar Francisco Villa para evitar quedar atrapados en el congestionamiento.",
+      "titulo": "Volcadura de transporte de carga en Blvd. Aeropuerto",
+      "descripcion": "Se registra un fuerte accidente que involucra a un tractocamión volcado sobre el Bulevar Aeropuerto a la altura de la zona de Outlets, en dirección de Silao hacia León. El incidente obstruye dos de los tres carriles principales y el carril de baja velocidad.\n\nElementos de la Policía Vial y Protección Civil se encuentran en el lugar realizando maniobras para el retiro de la pesada unidad y la contención de un derrame de combustible. Se recomienda a los automovilistas utilizar el Eje Metropolitano como vía alterna urgente, ya que la fila de vehículos llega hasta el distribuidor vial de Santa Ana del Conde.",
       "categoria": "trafico",
       "prioridad": "alta",
       "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-08T10:15:00-06:00",
-      "fecha_vigencia": "2026-07-08T15:00:00-06:00",
-      "ubicacion": "Bulevar Hermanos Aldama, Leon, Gto.",
-      "fuente": "Noticias Vespertinas / Policia Vial Leon",
-      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/trailer-tira-laminas-de-acero-y-colapsa-el-bulevar-hermanos-aldama-en-leon-por-mas-de-dos-horas-31016170"
+      "fecha_publicacion": "2026-07-09T08:15:00-06:00",
+      "fecha_vigencia": "2026-07-09T14:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, altura Outlets",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Bloqueo y retrasos graves en Estacion de Transferencia Delta del SIT",
-      "descripcion": "Un nutrido grupo de usuarios del Sistema Integrado de Transporte (SIT) decidieron bloquear los accesos y la libre circulacion de autobuses en el interior de la Estacion de Transferencia Delta. La manifestacion es un acto de protesta derivado del hartazgo ante los retrasos extremos que reportan, con esperas de mas de una hora en rutas alimentadoras y troncales como la 48, 89 y 96.\n\nEste bloqueo genera demoras en cadena en todo el sistema del transporte publico que conecta a la zona oriente y sur del municipio. Se recomienda a los usuarios anticipar sus traslados, buscar metodos alternativos de movilidad y mantenerse atentos a las indicaciones del personal de la Direccion General de Movilidad.",
-      "categoria": "eventos",
+      "titulo": "Sustitución de colector sanitario en San Isidro",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) informa sobre el inicio de trabajos de emergencia para la reparación de un colector sanitario colapsado en la zona oriente de la ciudad.\n\nPor estas maniobras, se presentarán cierres parciales a la circulación local y posibles bajas presiones en el suministro de agua para las colonias Jardines de Jerez, San Isidro y Cerrito de Jerez. Se estima que los trabajos concluyan la noche de mañana, por lo que se pide comprensión y tomar previsiones con el uso del agua.",
+      "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "🛑",
-      "fecha_publicacion": "2026-07-05T14:30:00-06:00",
-      "fecha_vigencia": "2026-07-08T20:00:00-06:00",
-      "ubicacion": "Estacion de Transferencia Delta SIT, Blvd. Delta, Leon, Gto.",
-      "fuente": "Noticias Vespertinas / Redes Sociales",
-      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/estacion-delta-de-leon-protestan-usuarios-por-retrasos-en-transporte-publico-y-largas-esperas-30954176"
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-09T09:30:00-06:00",
+      "fecha_vigencia": "2026-07-10T23:59:00-06:00",
+      "ubicacion": "Colonias Jardines de Jerez y San Isidro",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Precontingencia Ambiental por PM10",
+      "descripcion": "La Secretaría de Medio Ambiente y Ordenamiento Territorial (SMAOT) y el Municipio de León activan la fase de Precontingencia Ambiental debido a las altas concentraciones de partículas PM10 en la estación de monitoreo de la Facultad de Medicina (CICEG).\n\nSe recomienda a la población evitar actividades físicas al aire libre, reducir el uso de vehículos particulares y suspender cualquier tipo de quema de residuos. Las condiciones de estancamiento atmosférico dificultan la dispersión de contaminantes.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-07-09T07:00:00-06:00",
+      "fecha_vigencia": "2026-07-10T12:00:00-06:00",
+      "ubicacion": "Zona centro y sur de León",
+      "fuente": "Gobierno Municipal Leon",
+      "url": "https://www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Operativo de Protección Civil en Central de Abastos",
+      "descripcion": "Elementos de Protección Civil, en coordinación con la Policía Municipal y el Ejército, mantienen un operativo preventivo de revisión en bodegas de la Central de Abastos tras recibir reportes anónimos sobre almacenamiento indebido de material pirotécnico y químicos industriales.\n\nLa operatividad del mercado no está suspendida, pero hay presencia de unidades de emergencia en los accesos principales. Se pide a comerciantes y visitantes seguir las instrucciones de las autoridades y no entorpecer los carriles de emergencia.",
+      "categoria": "seguridad",
+      "prioridad": "media",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-07-08T16:45:00-06:00",
+      "fecha_vigencia": "2026-07-09T18:00:00-06:00",
+      "ubicacion": "Central de Abastos de León",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Cierres viales intermitentes en la calle Madero",
+      "descripcion": "La Policía Vial informa que durante la tarde de hoy se llevarán a cabo cierres intermitentes a la circulación vehicular en la calle Francisco I. Madero, desde el Arco de la Calzada hasta la Plaza Principal, debido a un desfile cultural y festividad religiosa.\n\nEl servicio del Sistema Integrado de Transporte (SIT) que circula por la zona centro tendrá desvíos temporales en sus rutas convencionales. Se sugiere a peatones y automovilistas anticipar sus traslados y usar como alternativas el Blvd. Adolfo López Mateos o la calle Pedro Moreno.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🚶",
+      "fecha_publicacion": "2026-07-09T10:15:00-06:00",
+      "fecha_vigencia": "2026-07-09T20:00:00-06:00",
+      "ubicacion": "Calle Madero y Arco de la Calzada",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     }
   ],
   "categorias": {
@@ -40,22 +79,22 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "👮"
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "📢"
+      "emoji": "🎪"
     }
   },
   "prioridades": {
