@@ -1,71 +1,71 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-09T11:25:06-06:00",
+  "ultima_actualizacion": "2026-07-10T11:07:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Volcadura de transporte de carga en Blvd. Aeropuerto",
-      "descripcion": "Se registra un fuerte accidente que involucra a un tractocamión volcado sobre el Bulevar Aeropuerto a la altura de la zona de Outlets, en dirección de Silao hacia León. El incidente obstruye dos de los tres carriles principales y el carril de baja velocidad.\n\nElementos de la Policía Vial y Protección Civil se encuentran en el lugar realizando maniobras para el retiro de la pesada unidad y la contención de un derrame de combustible. Se recomienda a los automovilistas utilizar el Eje Metropolitano como vía alterna urgente, ya que la fila de vehículos llega hasta el distribuidor vial de Santa Ana del Conde.",
+      "titulo": "Accidente vehicular en Blvd. Aeropuerto",
+      "descripcion": "Se registra un choque alcance entre dos vehiculos particulares a la altura del retorno frente al Parque Industrial Stiva. La Policia Vial se encuentra abanderando el carril de baja velocidad, lo que genera trafico lento en direccion hacia el centro de la ciudad. Se recomienda tomar previsiones y buscar rutas alternas.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-09T08:15:00-06:00",
-      "fecha_vigencia": "2026-07-09T14:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, altura Outlets",
+      "prioridad": "media",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-07-10T09:15:00-06:00",
+      "fecha_vigencia": "2026-07-10T14:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, frente a Parque Industrial Stiva",
       "fuente": "Transito Municipal Leon",
       "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Sustitución de colector sanitario en San Isidro",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) informa sobre el inicio de trabajos de emergencia para la reparación de un colector sanitario colapsado en la zona oriente de la ciudad.\n\nPor estas maniobras, se presentarán cierres parciales a la circulación local y posibles bajas presiones en el suministro de agua para las colonias Jardines de Jerez, San Isidro y Cerrito de Jerez. Se estima que los trabajos concluyan la noche de mañana, por lo que se pide comprensión y tomar previsiones con el uso del agua.",
+      "titulo": "Mantenimiento preventivo en red hidraulica - Brisas del Campestre",
+      "descripcion": "SAPAL informa sobre trabajos de interconexion y sustitucion de valvulas de seccionamiento en la zona de Brisas del Campestre. Debido a estas maniobras, se presentara baja presion o suspension temporal del servicio durante las proximas horas. Se exhorta a los vecinos a almacenar agua para actividades basicas.",
       "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-09T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-10T23:59:00-06:00",
-      "ubicacion": "Colonias Jardines de Jerez y San Isidro",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "prioridad": "baja",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-07-09T16:30:00-06:00",
+      "fecha_vigencia": "2026-07-10T20:00:00-06:00",
+      "ubicacion": "Colonia Brisas del Campestre",
+      "fuente": "SAPAL Leon",
+      "url": "www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Precontingencia Ambiental por PM10",
-      "descripcion": "La Secretaría de Medio Ambiente y Ordenamiento Territorial (SMAOT) y el Municipio de León activan la fase de Precontingencia Ambiental debido a las altas concentraciones de partículas PM10 en la estación de monitoreo de la Facultad de Medicina (CICEG).\n\nSe recomienda a la población evitar actividades físicas al aire libre, reducir el uso de vehículos particulares y suspender cualquier tipo de quema de residuos. Las condiciones de estancamiento atmosférico dificultan la dispersión de contaminantes.",
-      "categoria": "clima",
+      "titulo": "Obras de repavimentacion en Blvd. San Juan Bosco",
+      "descripcion": "La Direccion de Obra Publica ha iniciado trabajos de bacheo profundo y rehabilitacion de carpeta asfaltica en los carriles centrales del Blvd. San Juan Bosco, tramo de Blvd. Las Torres hacia la zona del Cereso. La circulacion se encuentra reducida a un solo carril, ocasionando carga vehicular pesada en horas pico.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🌫️",
-      "fecha_publicacion": "2026-07-09T07:00:00-06:00",
-      "fecha_vigencia": "2026-07-10T12:00:00-06:00",
-      "ubicacion": "Zona centro y sur de León",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-09T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-12T18:00:00-06:00",
+      "ubicacion": "Blvd. San Juan Bosco, tramo Las Torres - Cereso",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "www.leon.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo de Protección Civil en Central de Abastos",
-      "descripcion": "Elementos de Protección Civil, en coordinación con la Policía Municipal y el Ejército, mantienen un operativo preventivo de revisión en bodegas de la Central de Abastos tras recibir reportes anónimos sobre almacenamiento indebido de material pirotécnico y químicos industriales.\n\nLa operatividad del mercado no está suspendida, pero hay presencia de unidades de emergencia en los accesos principales. Se pide a comerciantes y visitantes seguir las instrucciones de las autoridades y no entorpecer los carriles de emergencia.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-07-08T16:45:00-06:00",
-      "fecha_vigencia": "2026-07-09T18:00:00-06:00",
-      "ubicacion": "Central de Abastos de León",
+      "titulo": "Aviso preventivo por lluvias dispersas",
+      "descripcion": "Proteccion Civil Municipal mantiene monitoreo ante el pronostico de lluvias dispersas con actividad electrica durante la tarde y noche en la zona sur y oriente del municipio. Se pide a los conductores extremar precauciones por pavimento resbaladizo y evitar cruzar zonas con acumulacion de agua.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-07-10T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-10T23:59:00-06:00",
+      "ubicacion": "Zona Sur y Oriente de Leon",
       "fuente": "Proteccion Civil Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierres viales intermitentes en la calle Madero",
-      "descripcion": "La Policía Vial informa que durante la tarde de hoy se llevarán a cabo cierres intermitentes a la circulación vehicular en la calle Francisco I. Madero, desde el Arco de la Calzada hasta la Plaza Principal, debido a un desfile cultural y festividad religiosa.\n\nEl servicio del Sistema Integrado de Transporte (SIT) que circula por la zona centro tendrá desvíos temporales en sus rutas convencionales. Se sugiere a peatones y automovilistas anticipar sus traslados y usar como alternativas el Blvd. Adolfo López Mateos o la calle Pedro Moreno.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🚶",
-      "fecha_publicacion": "2026-07-09T10:15:00-06:00",
-      "fecha_vigencia": "2026-07-09T20:00:00-06:00",
-      "ubicacion": "Calle Madero y Arco de la Calzada",
+      "titulo": "Colision por alcance en Blvd. Insurgentes",
+      "descripcion": "Se reporta una colision multiple involucrando tres automoviles compactos sobre el Blvd. Insurgentes, a la altura de la Plaza Mayor. Elementos de transito y servicios de emergencia ya se encuentran en el lugar realizando el peritaje correspondiente. El flujo vehicular se encuentra desviado hacia carriles laterales.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-07-08T18:20:00-06:00",
+      "fecha_vigencia": "2026-07-09T12:00:00-06:00",
+      "ubicacion": "Blvd. Insurgentes, frente a Plaza Mayor",
       "fuente": "Transito Municipal Leon",
       "url": ""
     }
@@ -79,12 +79,12 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
@@ -94,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
