@@ -1,71 +1,84 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-10T11:07:00-06:00",
-  "total_alertas": 5,
+  "ultima_actualizacion": "2026-07-13T11:08:00-06:00",
+  "total_alertas": 6,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Accidente vehicular en Blvd. Aeropuerto",
-      "descripcion": "Se registra un choque alcance entre dos vehiculos particulares a la altura del retorno frente al Parque Industrial Stiva. La Policia Vial se encuentra abanderando el carril de baja velocidad, lo que genera trafico lento en direccion hacia el centro de la ciudad. Se recomienda tomar previsiones y buscar rutas alternas.",
+      "titulo": "Choque en Blvd. Las Torres",
+      "descripcion": "Se reporta un accidente vehicular entre dos automoviles particulares en la interseccion de Blvd. Las Torres y Av. Paseo del Moral. Hay reduccion a un carril en sentido de poniente a oriente. Se recomienda utilizar el Blvd. Campestre como via alterna para evitar retrasos.",
       "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-07-10T09:15:00-06:00",
-      "fecha_vigencia": "2026-07-10T14:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, frente a Parque Industrial Stiva",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-07-13T09:15:00-06:00",
+      "fecha_vigencia": "2026-07-13T13:00:00-06:00",
+      "ubicacion": "Blvd. Las Torres y Paseo del Moral",
       "fuente": "Transito Municipal Leon",
       "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento preventivo en red hidraulica - Brisas del Campestre",
-      "descripcion": "SAPAL informa sobre trabajos de interconexion y sustitucion de valvulas de seccionamiento en la zona de Brisas del Campestre. Debido a estas maniobras, se presentara baja presion o suspension temporal del servicio durante las proximas horas. Se exhorta a los vecinos a almacenar agua para actividades basicas.",
+      "titulo": "Corte de energía y baja presión de agua",
+      "descripcion": "Falla en transformador de CFE afecta el suministro electrico en la colonia Villas de San Juan y zonas aledañas. Esto esta provocando la detencion temporal del sistema de bombeo de SAPAL, ocasionando baja presion o falta de agua. CFE ya trabaja en la reparacion de las lineas.",
       "categoria": "servicios",
-      "prioridad": "baja",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-09T16:30:00-06:00",
-      "fecha_vigencia": "2026-07-10T20:00:00-06:00",
-      "ubicacion": "Colonia Brisas del Campestre",
-      "fuente": "SAPAL Leon",
-      "url": "www.sapal.gob.mx"
+      "prioridad": "alta",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-07-12T19:40:00-06:00",
+      "fecha_vigencia": "2026-07-13T18:00:00-06:00",
+      "ubicacion": "Colonia Villas de San Juan",
+      "fuente": "SAPAL",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Obras de repavimentacion en Blvd. San Juan Bosco",
-      "descripcion": "La Direccion de Obra Publica ha iniciado trabajos de bacheo profundo y rehabilitacion de carpeta asfaltica en los carriles centrales del Blvd. San Juan Bosco, tramo de Blvd. Las Torres hacia la zona del Cereso. La circulacion se encuentra reducida a un solo carril, ocasionando carga vehicular pesada en horas pico.",
-      "categoria": "trafico",
+      "titulo": "Alerta por tormentas eléctricas severas",
+      "descripcion": "Proteccion Civil emite alerta por formacion de nucleos de tormenta en la zona norte y oriente de la ciudad. Se esperan lluvias intensas, rachas de viento superiores a 50 km/h y posible caida de granizo durante la tarde. Evite resguardarse bajo arboles o estructuras inestables.",
+      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-09T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-12T18:00:00-06:00",
-      "ubicacion": "Blvd. San Juan Bosco, tramo Las Torres - Cereso",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "www.leon.gob.mx"
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-07-13T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-13T22:00:00-06:00",
+      "ubicacion": "Zona Norte y Oriente de Leon",
+      "fuente": "PC_Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Aviso preventivo por lluvias dispersas",
-      "descripcion": "Proteccion Civil Municipal mantiene monitoreo ante el pronostico de lluvias dispersas con actividad electrica durante la tarde y noche en la zona sur y oriente del municipio. Se pide a los conductores extremar precauciones por pavimento resbaladizo y evitar cruzar zonas con acumulacion de agua.",
-      "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-07-10T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-10T23:59:00-06:00",
-      "ubicacion": "Zona Sur y Oriente de Leon",
-      "fuente": "Proteccion Civil Leon",
+      "titulo": "Operativo en Eje Metropolitano",
+      "descripcion": "Fuerzas de Seguridad Publica del Estado (FSPE) y Policia Municipal mantienen un filtro de seguridad intensivo sobre el Eje Metropolitano a la altura de la entrada a Loza de los Padres. El trafico fluye lento por reduccion a un solo carril de revision. Tome precauciones al circular por la zona.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-07-12T08:30:00-06:00",
+      "fecha_vigencia": "2026-07-13T14:00:00-06:00",
+      "ubicacion": "Eje Metropolitano, entrada Loza de los Padres",
+      "fuente": "Secretaria de Seguridad Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Colision por alcance en Blvd. Insurgentes",
-      "descripcion": "Se reporta una colision multiple involucrando tres automoviles compactos sobre el Blvd. Insurgentes, a la altura de la Plaza Mayor. Elementos de transito y servicios de emergencia ya se encuentran en el lugar realizando el peritaje correspondiente. El flujo vehicular se encuentra desviado hacia carriles laterales.",
+      "titulo": "Mantenimiento nocturno en Distribuidor Vial",
+      "descripcion": "La Direccion de Obra Publica informa que a partir de las 22:00 horas habra cierre total del paso a desnivel del Distribuidor Vial Benito Juarez (salida a Lagos de Moreno) por trabajos de mantenimiento profundo y pintura. Utilice las vias laterales para incorporarse a la carretera.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-08T18:20:00-06:00",
-      "fecha_vigencia": "2026-07-09T12:00:00-06:00",
-      "ubicacion": "Blvd. Insurgentes, frente a Plaza Mayor",
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-11T16:20:00-06:00",
+      "fecha_vigencia": "2026-07-14T05:00:00-06:00",
+      "ubicacion": "Distribuidor Vial Benito Juarez",
+      "fuente": "GobMunLeon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_006",
+      "titulo": "Congreso internacional en Poliforum",
+      "descripcion": "Debido a la inauguracion de un congreso internacional, se registra fuerte carga vehicular en los bulevares Adolfo Lopez Mateos y Francisco Villa, en las inmediaciones del Poliforum Leon. Policia Vial implementa operativo para agilizar el cruce peatonal y acceso a estacionamientos.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-07-13T07:45:00-06:00",
+      "fecha_vigencia": "2026-07-13T18:00:00-06:00",
+      "ubicacion": "Poliforum Leon y Blvd. Lopez Mateos",
       "fuente": "Transito Municipal Leon",
       "url": ""
     }
@@ -84,17 +97,17 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🎪"
     }
   },
   "prioridades": {
