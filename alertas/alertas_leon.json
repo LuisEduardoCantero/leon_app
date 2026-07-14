@@ -1,86 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-13T11:08:00-06:00",
-  "total_alertas": 6,
+  "ultima_actualizacion": "2026-07-14T11:48:00-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Choque en Blvd. Las Torres",
-      "descripcion": "Se reporta un accidente vehicular entre dos automoviles particulares en la interseccion de Blvd. Las Torres y Av. Paseo del Moral. Hay reduccion a un carril en sentido de poniente a oriente. Se recomienda utilizar el Blvd. Campestre como via alterna para evitar retrasos.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-13T09:15:00-06:00",
-      "fecha_vigencia": "2026-07-13T13:00:00-06:00",
-      "ubicacion": "Blvd. Las Torres y Paseo del Moral",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_002",
-      "titulo": "Corte de energía y baja presión de agua",
-      "descripcion": "Falla en transformador de CFE afecta el suministro electrico en la colonia Villas de San Juan y zonas aledañas. Esto esta provocando la detencion temporal del sistema de bombeo de SAPAL, ocasionando baja presion o falta de agua. CFE ya trabaja en la reparacion de las lineas.",
-      "categoria": "servicios",
-      "prioridad": "alta",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-07-12T19:40:00-06:00",
-      "fecha_vigencia": "2026-07-13T18:00:00-06:00",
-      "ubicacion": "Colonia Villas de San Juan",
-      "fuente": "SAPAL",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_003",
-      "titulo": "Alerta por tormentas eléctricas severas",
-      "descripcion": "Proteccion Civil emite alerta por formacion de nucleos de tormenta en la zona norte y oriente de la ciudad. Se esperan lluvias intensas, rachas de viento superiores a 50 km/h y posible caida de granizo durante la tarde. Evite resguardarse bajo arboles o estructuras inestables.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-07-13T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-13T22:00:00-06:00",
-      "ubicacion": "Zona Norte y Oriente de Leon",
-      "fuente": "PC_Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Operativo en Eje Metropolitano",
-      "descripcion": "Fuerzas de Seguridad Publica del Estado (FSPE) y Policia Municipal mantienen un filtro de seguridad intensivo sobre el Eje Metropolitano a la altura de la entrada a Loza de los Padres. El trafico fluye lento por reduccion a un solo carril de revision. Tome precauciones al circular por la zona.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-07-12T08:30:00-06:00",
-      "fecha_vigencia": "2026-07-13T14:00:00-06:00",
-      "ubicacion": "Eje Metropolitano, entrada Loza de los Padres",
-      "fuente": "Secretaria de Seguridad Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Mantenimiento nocturno en Distribuidor Vial",
-      "descripcion": "La Direccion de Obra Publica informa que a partir de las 22:00 horas habra cierre total del paso a desnivel del Distribuidor Vial Benito Juarez (salida a Lagos de Moreno) por trabajos de mantenimiento profundo y pintura. Utilice las vias laterales para incorporarse a la carretera.",
+      "titulo": "Cierre parcial por obras en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "La Direccion de Obra Publica informa el cierre de dos carriles centrales en el Blvd. Adolfo Lopez Mateos, a la altura de las instalaciones del Poliforum Leon, en sentido oriente a poniente. Los trabajos corresponden a la rehabilitacion y mantenimiento del drenaje pluvial. Se recomienda utilizar el Blvd. Mariano Escobedo o el Blvd. La Luz como vias alternas para evitar congestionamientos en horas pico.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-07-11T16:20:00-06:00",
-      "fecha_vigencia": "2026-07-14T05:00:00-06:00",
-      "ubicacion": "Distribuidor Vial Benito Juarez",
-      "fuente": "GobMunLeon",
-      "url": ""
+      "fecha_publicacion": "2026-07-14T07:15:00-06:00",
+      "fecha_vigencia": "2026-07-16T18:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos (Zona Poliforum)",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
-      "id": "ALERTA_006",
-      "titulo": "Congreso internacional en Poliforum",
-      "descripcion": "Debido a la inauguracion de un congreso internacional, se registra fuerte carga vehicular en los bulevares Adolfo Lopez Mateos y Francisco Villa, en las inmediaciones del Poliforum Leon. Policia Vial implementa operativo para agilizar el cruce peatonal y acceso a estacionamientos.",
+      "id": "ALERTA_002",
+      "titulo": "Suspension de servicio de agua en Jardines del Moral",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) notifica a los vecinos de la colonia Jardines del Moral y zonas aledanas sobre un corte temporal en el suministro de agua potable. Esto se debe a la reparacion de emergencia de una fuga en la linea principal de distribucion. Se estima que el servicio se restablecera gradualmente a partir de la noche de hoy.",
+      "categoria": "servicios",
+      "prioridad": "alta",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-07-14T09:30:00-06:00",
+      "fecha_vigencia": "2026-07-14T23:00:00-06:00",
+      "ubicacion": "Colonia Jardines del Moral",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Falla de semaforos en cruce de Torres Landa",
+      "descripcion": "Se reporta una falla generalizada en la red de semaforos ubicados en la interseccion del Blvd. Juan Jose Torres Landa y Blvd. Timoteo Lozano debido a variaciones de energia electrica en el sector. Elementos de la Policia Vial ya se encuentran dirigiendo el trafico de manera manual, sin embargo, se presenta fuerte congestionamiento vehicular. Se pide a los automovilistas extremar precauciones.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-07-14T10:45:00-06:00",
+      "fecha_vigencia": "2026-07-14T16:00:00-06:00",
+      "ubicacion": "Cruce de Blvd. Juan Jose Torres Landa y Blvd. Timoteo Lozano",
+      "fuente": "Policia Vial Leon",
+      "url": "https://twitter.com/TransitoLeon"
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Aviso preventivo por rachas de viento fuerte",
+      "descripcion": "Proteccion Civil Municipal emite un aviso preventivo para la zona norte de la ciudad, especialmente en los alrededores del Parque Metropolitano y colonias cercanas a la sierra, debido al pronostico de rachas de viento superiores a los 45 km/h durante esta tarde. Se recomienda a la poblacion asegurar objetos sueltos en azoteas, evitar estacionarse debajo de arboles grandes y reportar incidencias al 911.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-07-13T17:00:00-06:00",
+      "fecha_vigencia": "2026-07-14T20:00:00-06:00",
+      "ubicacion": "Zona Norte (Parque Metropolitano y aledanas)",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://twitter.com/PC_Leon"
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Cierre perimetral por carrera atletica en Explora",
+      "descripcion": "Con motivo de una carrera atletica local de preparacion, se mantendran cierres intermitentes en las vialidades perimetrales del Parque Explora, incluyendo el Paseo de los Ninos y tramos contiguos, durante las proximas horas. El acceso vehicular al parque estara limitado, aunque las instalaciones peatonales siguen operando. Se sugiere a los asistentes y conductores tomar previsiones.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🎪",
-      "fecha_publicacion": "2026-07-13T07:45:00-06:00",
-      "fecha_vigencia": "2026-07-13T18:00:00-06:00",
-      "ubicacion": "Poliforum Leon y Blvd. Lopez Mateos",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "emoji": "🏃",
+      "fecha_publicacion": "2026-07-12T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-14T14:00:00-06:00",
+      "ubicacion": "Inmediaciones del Parque Explora",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://twitter.com/GobMunLeon"
     }
   ],
   "categorias": {
@@ -92,7 +79,7 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -102,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "⛅"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": "📅"
     }
   },
   "prioridades": {
