@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-14T11:48:00-06:00",
+  "ultima_actualizacion": "2026-07-15T11:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por obras en Blvd. Adolfo Lopez Mateos",
-      "descripcion": "La Direccion de Obra Publica informa el cierre de dos carriles centrales en el Blvd. Adolfo Lopez Mateos, a la altura de las instalaciones del Poliforum Leon, en sentido oriente a poniente. Los trabajos corresponden a la rehabilitacion y mantenimiento del drenaje pluvial. Se recomienda utilizar el Blvd. Mariano Escobedo o el Blvd. La Luz como vias alternas para evitar congestionamientos en horas pico.",
+      "titulo": "Fuerte choque en Blvd. Vicente Valtierra",
+      "descripcion": "Se reporta un accidente vehicular entre una unidad de transporte publico y un automovil particular en el cruce de Blvd. Vicente Valtierra y Blvd. Delta. Hay cierre parcial de dos carriles en direccion poniente a oriente. Elementos de transito se encuentran en la zona desviando el trafico. Se recomienda utilizar el Blvd. La Luz como ruta alterna y extremar precauciones.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-14T07:15:00-06:00",
-      "fecha_vigencia": "2026-07-16T18:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos (Zona Poliforum)",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-07-15T09:15:00-06:00",
+      "fecha_vigencia": "2026-07-15T13:00:00-06:00",
+      "ubicacion": "Cruce de Blvd. Vicente Valtierra y Blvd. Delta",
       "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Suspension de servicio de agua en Jardines del Moral",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) notifica a los vecinos de la colonia Jardines del Moral y zonas aledanas sobre un corte temporal en el suministro de agua potable. Esto se debe a la reparacion de emergencia de una fuga en la linea principal de distribucion. Se estima que el servicio se restablecera gradualmente a partir de la noche de hoy.",
+      "titulo": "Mantenimiento de pozos SAPAL en Las Joyas",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa sobre el inicio de trabajos de mantenimiento preventivo y limpieza en la bateria de pozos de la zona poniente. Debido a estas acciones, se presentara baja presion y cortes intermitentes en el suministro de agua potable para el poligono de Las Joyas y fraccionamientos aledaños. Se exhorta a racionar el uso del agua.",
       "categoria": "servicios",
-      "prioridad": "alta",
+      "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-07-14T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-14T23:00:00-06:00",
-      "ubicacion": "Colonia Jardines del Moral",
+      "fecha_publicacion": "2026-07-15T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-17T08:00:00-06:00",
+      "ubicacion": "Poligono Las Joyas",
       "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Falla de semaforos en cruce de Torres Landa",
-      "descripcion": "Se reporta una falla generalizada en la red de semaforos ubicados en la interseccion del Blvd. Juan Jose Torres Landa y Blvd. Timoteo Lozano debido a variaciones de energia electrica en el sector. Elementos de la Policia Vial ya se encuentran dirigiendo el trafico de manera manual, sin embargo, se presenta fuerte congestionamiento vehicular. Se pide a los automovilistas extremar precauciones.",
+      "titulo": "Cierres nocturnos por obras en Malecon del Rio",
+      "descripcion": "La Direccion de Obra Publica notifica que se llevaran a cabo cierres nocturnos en los carriles inferiores del Malecon del Rio, especificamente en el tramo comprendido entre Blvd. Mariano Escobedo y Calzada de los Heroes. Las cuadrillas estaran realizando trabajos de reencarpetamiento y limpieza de drenaje de 22:00 a 05:00 horas para afectar lo menos posible la movilidad diurna.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚦",
-      "fecha_publicacion": "2026-07-14T10:45:00-06:00",
-      "fecha_vigencia": "2026-07-14T16:00:00-06:00",
-      "ubicacion": "Cruce de Blvd. Juan Jose Torres Landa y Blvd. Timoteo Lozano",
-      "fuente": "Policia Vial Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "prioridad": "baja",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-14T18:00:00-06:00",
+      "fecha_vigencia": "2026-07-16T05:00:00-06:00",
+      "ubicacion": "Malecon del Rio (tramo Escobedo - Calzada de los Heroes)",
+      "fuente": "GobMunLeon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Aviso preventivo por rachas de viento fuerte",
-      "descripcion": "Proteccion Civil Municipal emite un aviso preventivo para la zona norte de la ciudad, especialmente en los alrededores del Parque Metropolitano y colonias cercanas a la sierra, debido al pronostico de rachas de viento superiores a los 45 km/h durante esta tarde. Se recomienda a la poblacion asegurar objetos sueltos en azoteas, evitar estacionarse debajo de arboles grandes y reportar incidencias al 911.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🌬️",
-      "fecha_publicacion": "2026-07-13T17:00:00-06:00",
-      "fecha_vigencia": "2026-07-14T20:00:00-06:00",
-      "ubicacion": "Zona Norte (Parque Metropolitano y aledanas)",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "titulo": "Operativo radar y alcoholimetro en Zona Centro",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana, a traves de la Policia Vial, implementara puntos de control aleatorios como parte del programa 'Salvando Vidas' en el Centro Historico y el corredor Madero. Se verificaran limites de velocidad, documentacion en regla y niveles de alcohol en la sangre. Se invita a los ciudadanos a designar un conductor si consumen bebidas alcoholicas.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "🚔",
+      "fecha_publicacion": "2026-07-15T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-16T03:00:00-06:00",
+      "ubicacion": "Centro Historico y Corredor Madero",
+      "fuente": "SSP Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierre perimetral por carrera atletica en Explora",
-      "descripcion": "Con motivo de una carrera atletica local de preparacion, se mantendran cierres intermitentes en las vialidades perimetrales del Parque Explora, incluyendo el Paseo de los Ninos y tramos contiguos, durante las proximas horas. El acceso vehicular al parque estara limitado, aunque las instalaciones peatonales siguen operando. Se sugiere a los asistentes y conductores tomar previsiones.",
+      "titulo": "Congestionamiento por expo en Parque Explora",
+      "descripcion": "Proteccion Civil y Transito reportan una fuerte carga vehicular y estacionamientos saturados en las inmediaciones del Parque Ecologico Explora debido a una expo de emprendedores locales que durara todo el dia. Se recomienda a quienes circulan por Blvd. Paseo de los Niños y Blvd. Francisco Villa que anticipen sus tiempos de traslado o eviten la zona si no asisten al evento.",
       "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🏃",
-      "fecha_publicacion": "2026-07-12T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-14T14:00:00-06:00",
-      "ubicacion": "Inmediaciones del Parque Explora",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://twitter.com/GobMunLeon"
+      "prioridad": "media",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-07-15T10:30:00-06:00",
+      "fecha_vigencia": "2026-07-15T20:00:00-06:00",
+      "ubicacion": "Parque Ecologico Explora",
+      "fuente": "PC Leon",
+      "url": ""
     }
   ],
   "categorias": {
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛅"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "📅"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
