@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-15T11:00:00-06:00",
+  "ultima_actualizacion": "2026-07-16T14:40:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Fuerte choque en Blvd. Vicente Valtierra",
-      "descripcion": "Se reporta un accidente vehicular entre una unidad de transporte publico y un automovil particular en el cruce de Blvd. Vicente Valtierra y Blvd. Delta. Hay cierre parcial de dos carriles en direccion poniente a oriente. Elementos de transito se encuentran en la zona desviando el trafico. Se recomienda utilizar el Blvd. La Luz como ruta alterna y extremar precauciones.",
+      "titulo": "Choque multiple en Libramiento Morelos",
+      "descripcion": "Se registra un fuerte accidente que involucra a cuatro vehiculos particulares sobre el Libramiento Jose Maria Morelos, a la altura del Parque Los Carcamos en direccion de sur a norte. El carril de alta velocidad y el central se encuentran obstruidos, generando una fila de vehiculos de mas de 2 kilometros. Elementos de la Policia Vial y paramedicos ya laboran en el lugar.\n\nSe recomienda a los automovilistas utilizar vias alternas como el Blvd. Hidalgo o el Blvd. Hermenegildo Bustos para evitar la zona de congestion. Se estima que las maniobras para retirar los vehiculos tomen al menos dos horas.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-15T09:15:00-06:00",
-      "fecha_vigencia": "2026-07-15T13:00:00-06:00",
-      "ubicacion": "Cruce de Blvd. Vicente Valtierra y Blvd. Delta",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-16T08:15:00-06:00",
+      "fecha_vigencia": "2026-07-16T11:00:00-06:00",
+      "ubicacion": "Libramiento Jose Maria Morelos a la altura de Parque Los Carcamos",
       "fuente": "Transito Municipal Leon",
       "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento de pozos SAPAL en Las Joyas",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa sobre el inicio de trabajos de mantenimiento preventivo y limpieza en la bateria de pozos de la zona poniente. Debido a estas acciones, se presentara baja presion y cortes intermitentes en el suministro de agua potable para el poligono de Las Joyas y fraccionamientos aledaños. Se exhorta a racionar el uso del agua.",
+      "titulo": "Retraso en recoleccion de residuos en Las Joyas",
+      "descripcion": "El Sistema Integral de Aseo Publico (SIAP) informa un retraso significativo en las rutas de recoleccion de basura programadas para hoy en las colonias del poligono Las Joyas y zonas aledanas. Esto derivado de complicaciones operativas en las rutas de acceso al relleno sanitario municipal.\n\nSe solicita a la ciudadania de esta zona mantener sus bolsas de residuos al interior de sus domicilios hasta nuevo aviso para evitar la dispersion por fauna callejera y obstruccion de coladeras. El servicio se normalizara durante el turno vespertino.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-15T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-17T08:00:00-06:00",
-      "ubicacion": "Poligono Las Joyas",
-      "fuente": "SAPAL",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-16T11:00:00-06:00",
+      "fecha_vigencia": "2026-07-16T20:00:00-06:00",
+      "ubicacion": "Poligono Las Joyas (varias colonias)",
+      "fuente": "Gobierno Municipal Leon",
       "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Cierres nocturnos por obras en Malecon del Rio",
-      "descripcion": "La Direccion de Obra Publica notifica que se llevaran a cabo cierres nocturnos en los carriles inferiores del Malecon del Rio, especificamente en el tramo comprendido entre Blvd. Mariano Escobedo y Calzada de los Heroes. Las cuadrillas estaran realizando trabajos de reencarpetamiento y limpieza de drenaje de 22:00 a 05:00 horas para afectar lo menos posible la movilidad diurna.",
-      "categoria": "trafico",
-      "prioridad": "baja",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-14T18:00:00-06:00",
-      "fecha_vigencia": "2026-07-16T05:00:00-06:00",
-      "ubicacion": "Malecon del Rio (tramo Escobedo - Calzada de los Heroes)",
-      "fuente": "GobMunLeon",
+      "titulo": "Aviso por ola de calor extremo",
+      "descripcion": "Proteccion Civil Municipal emite una alerta por pronostico de temperaturas extremadamente altas para la tarde de hoy, superando los 36°C con sensacion termica de hasta 38°C, afectando principalmente la zona centro y sur del municipio de Leon.\n\nSe recomienda a la poblacion mantenerse hidratada, no realizar actividades fisicas intensas a la intemperie entre las 12:00 y las 17:00 horas, y tener especial cuidado con adultos mayores, ninos y mascotas. Ante cualquier sintoma de golpe de calor, comuniquese al 911.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-16T13:30:00-06:00",
+      "fecha_vigencia": "2026-07-16T19:00:00-06:00",
+      "ubicacion": "Zona Centro y Sur de Leon",
+      "fuente": "Proteccion Civil Leon",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo radar y alcoholimetro en Zona Centro",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana, a traves de la Policia Vial, implementara puntos de control aleatorios como parte del programa 'Salvando Vidas' en el Centro Historico y el corredor Madero. Se verificaran limites de velocidad, documentacion en regla y niveles de alcohol en la sangre. Se invita a los ciudadanos a designar un conductor si consumen bebidas alcoholicas.",
-      "categoria": "seguridad",
+      "titulo": "Instalacion de escenario en el Arco de la Calzada",
+      "descripcion": "Con motivo de los preparativos para el Festival Cultural de Verano que se llevara a cabo este fin de semana, se ha delimitado un perimetro de seguridad alrededor del Arco de la Calzada de los Heroes. Las maniobras de instalacion de estructuras pesadas requieren el cierre temporal del paso peatonal directo bajo el arco.\n\nEl acceso vehicular en las calles laterales fluye con normalidad, aunque se pide a peatones y ciclistas extremar precauciones y respetar la senaletica preventiva para evitar accidentes durante las maniobras de montaje.",
+      "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🚔",
-      "fecha_publicacion": "2026-07-15T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-16T03:00:00-06:00",
-      "ubicacion": "Centro Historico y Corredor Madero",
-      "fuente": "SSP Leon",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-16T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-16T18:00:00-06:00",
+      "ubicacion": "Calzada de los Heroes y Calle Madero (Arco de la Calzada)",
+      "fuente": "Gobierno Municipal Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Congestionamiento por expo en Parque Explora",
-      "descripcion": "Proteccion Civil y Transito reportan una fuerte carga vehicular y estacionamientos saturados en las inmediaciones del Parque Ecologico Explora debido a una expo de emprendedores locales que durara todo el dia. Se recomienda a quienes circulan por Blvd. Paseo de los Niños y Blvd. Francisco Villa que anticipen sus tiempos de traslado o eviten la zona si no asisten al evento.",
-      "categoria": "eventos",
+      "titulo": "Operativo 'Salvando Vidas' a motociclistas",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon mantiene activo el operativo de revision de documentacion y uso de equipo de proteccion para motociclistas en la interseccion del Blvd. Vicente Valtierra y Blvd. Vertiz Campero. Esta accion busca reducir los indices de accidentes mortales en este tipo de vehiculos.\n\nHay reduccion de circulacion a un solo carril en la zona del filtro preventivo, lo que ocasiona transito lento en direccion de poniente a oriente. Se pide a los conductores paciencia, salir con tiempo a sus destinos y tener su documentacion en regla.",
+      "categoria": "seguridad",
       "prioridad": "media",
-      "emoji": "🎪",
-      "fecha_publicacion": "2026-07-15T10:30:00-06:00",
-      "fecha_vigencia": "2026-07-15T20:00:00-06:00",
-      "ubicacion": "Parque Ecologico Explora",
-      "fuente": "PC Leon",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-16T09:45:00-06:00",
+      "fecha_vigencia": "2026-07-16T15:00:00-06:00",
+      "ubicacion": "Blvd. Vicente Valtierra esquina Blvd. Vertiz Campero",
+      "fuente": "Secretaria de Seguridad Leon",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": ""
     }
   },
   "prioridades": {
