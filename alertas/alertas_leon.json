@@ -1,34 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-17T11:39:59-06:00",
-  "total_alertas": 0,
+  "ultima_actualizacion": "2026-07-17T14:10:00-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
-  "alertas": [],
+  "alertas": [
+    {
+      "id": "ALERTA_001",
+      "titulo": "Choque aparatoso en Blvd. Mariano Escobedo",
+      "descripcion": "Se registra un accidente de transito involucrando a un vehiculo compacto y una motocicleta en el cruce de Blvd. Mariano Escobedo y Av. Pradera. La Policia Vial mantiene bloqueado el carril derecho en direccion poniente-oriente mientras paramedicos brindan primeros auxilios. Se recomienda tomar vias alternas como el Blvd. La Luz para evitar la zona de congestion.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-07-17T13:15:00-06:00",
+      "fecha_vigencia": "2026-07-17T16:00:00-06:00",
+      "ubicacion": "Blvd. Mariano Escobedo y Av. Pradera",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_002",
+      "titulo": "Fuga de agua potable afecta zona poniente",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) atiende una fuga en una tuberia principal de 12 pulgadas en la colonia Vibar. El suministro de agua potable experimentara cortes intermitentes y baja presion en las colonias Vibar, San Juan Bosco y Piletas durante las proximas 12 horas mientras las cuadrillas especializadas realizan las labores de reparacion.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-07-17T11:00:00-06:00",
+      "fecha_vigencia": "2026-07-17T23:00:00-06:00",
+      "ubicacion": "Colonia Vibar y zonas aledañas",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Alerta por altas temperaturas",
+      "descripcion": "Proteccion Civil Municipal emite una alerta por onda de calor extremo en la region. Se pronostican temperaturas superiores a los 35 grados Celsius entre las 13:00 y las 17:00 horas del dia de hoy. Se exhorta a la poblacion a mantenerse hidratada, evitar la exposicion prolongada al sol, usar bloqueador solar y poner especial atencion a infantes y adultos mayores.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "🌡️",
+      "fecha_publicacion": "2026-07-17T09:30:00-06:00",
+      "fecha_vigencia": "2026-07-17T18:00:00-06:00",
+      "ubicacion": "Toda la ciudad",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Operativo de seguridad en Barrio del Coecillo",
+      "descripcion": "Elementos de la Policia Municipal, en conjunto con la Guardia Nacional, mantienen un operativo de revision y proximidad social en las inmediaciones del Barrio del Coecillo y zonas comerciales aledañas. Se realizan inspecciones preventivas a motocicletas y vehiculos con vidrios polarizados para disuadir actos delictivos. Se pide a la ciudadania colaborar y circular con precaucion.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "👮",
+      "fecha_publicacion": "2026-07-17T12:00:00-06:00",
+      "fecha_vigencia": "2026-07-17T20:00:00-06:00",
+      "ubicacion": "Barrio del Coecillo",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Congestion esperada por evento en Estadio Nou Camp",
+      "descripcion": "Debido a un evento deportivo programado para esta noche en el Estadio Nou Camp, la Policia Vial anticipa una severa carga vehicular a partir de las 18:00 horas en el Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga. Se implementara un dispositivo de seguridad y transito en los cruces peatonales. Se sugiere a los conductores anticipar sus traslados o utilizar el Blvd. Francisco Villa como alternativa.",
+      "categoria": "eventos",
+      "prioridad": "alta",
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-07-17T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-17T23:30:00-06:00",
+      "ubicacion": "Inmediaciones del Estadio Nou Camp",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
+    }
+  ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
