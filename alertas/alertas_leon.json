@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-17T14:10:00-06:00",
+  "ultima_actualizacion": "2026-07-18T10:47:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Choque aparatoso en Blvd. Mariano Escobedo",
-      "descripcion": "Se registra un accidente de transito involucrando a un vehiculo compacto y una motocicleta en el cruce de Blvd. Mariano Escobedo y Av. Pradera. La Policia Vial mantiene bloqueado el carril derecho en direccion poniente-oriente mientras paramedicos brindan primeros auxilios. Se recomienda tomar vias alternas como el Blvd. La Luz para evitar la zona de congestion.",
+      "titulo": "Fuerte congestionamiento en Blvd. Aeropuerto",
+      "descripcion": "Se reporta un accidente tipo alcance entre un tractocamion y dos vehiculos compactos en el Blvd. Aeropuerto, a la altura de los Outlets Mulza en direccion de Silao hacia Leon. Elementos de la Policia Vial ya se encuentran abanderando la zona.\n\nSe recomienda a los automovilistas utilizar el Eje Metropolitano como ruta alterna para ingresar a la ciudad, ya que la fila de vehiculos supera los 2 kilometros. El tiempo estimado de liberacion de la via es de aproximadamente dos horas.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-07-17T13:15:00-06:00",
-      "fecha_vigencia": "2026-07-17T16:00:00-06:00",
-      "ubicacion": "Blvd. Mariano Escobedo y Av. Pradera",
-      "fuente": "Transito Municipal Leon",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-18T09:15:00-06:00",
+      "fecha_vigencia": "2026-07-18T12:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto altura Outlets Mulza",
+      "fuente": "@TransitoLeon",
       "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Fuga de agua potable afecta zona poniente",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) atiende una fuga en una tuberia principal de 12 pulgadas en la colonia Vibar. El suministro de agua potable experimentara cortes intermitentes y baja presion en las colonias Vibar, San Juan Bosco y Piletas durante las proximas 12 horas mientras las cuadrillas especializadas realizan las labores de reparacion.",
+      "titulo": "Reparacion de fuga en Col. 10 de Mayo",
+      "descripcion": "SAPAL informa que cuadrillas operativas estan trabajando en la reparacion de una fuga en la linea principal de distribucion de agua potable ubicada en la colonia 10 de Mayo. Por este motivo, el suministro presentara baja presion o cortes intermitentes durante el dia.\n\nLas colonias afectadas incluyen 10 de Mayo, Cerrito de Jerez y San Jose de los Tanques. Se exhorta a los vecinos a racionar el agua almacenada en sus tinacos. El servicio se restablecera de manera paulatina durante la madrugada de manana.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-17T11:00:00-06:00",
-      "fecha_vigencia": "2026-07-17T23:00:00-06:00",
-      "ubicacion": "Colonia Vibar y zonas aledañas",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "emoji": "",
+      "fecha_publicacion": "2026-07-18T08:30:00-06:00",
+      "fecha_vigencia": "2026-07-19T02:00:00-06:00",
+      "ubicacion": "Colonia 10 de Mayo y aledanas",
+      "fuente": "www.sapal.gob.mx",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Alerta por altas temperaturas",
-      "descripcion": "Proteccion Civil Municipal emite una alerta por onda de calor extremo en la region. Se pronostican temperaturas superiores a los 35 grados Celsius entre las 13:00 y las 17:00 horas del dia de hoy. Se exhorta a la poblacion a mantenerse hidratada, evitar la exposicion prolongada al sol, usar bloqueador solar y poner especial atencion a infantes y adultos mayores.",
-      "categoria": "clima",
+      "titulo": "Operativo de vialidad por partido en el Estadio Leon",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana informa que a partir de las 16:00 horas comenzara el operativo vial en las inmediaciones del Estadio Nou Camp con motivo del encuentro de futbol. Se realizaran cortes parciales a la circulacion en las calles aledanas.\n\nSe recomienda evitar el Blvd. Adolfo Lopez Mateos en el tramo de Hilario Medina a Francisco Villa, asi como el Blvd. Vasco de Quiroga. Se sugiere utilizar como vias alternas el Blvd. Mariano Escobedo y Blvd. La Luz para evitar retrasos.",
+      "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "🌡️",
-      "fecha_publicacion": "2026-07-17T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-17T18:00:00-06:00",
-      "ubicacion": "Toda la ciudad",
-      "fuente": "Proteccion Civil Leon",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-18T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-18T23:30:00-06:00",
+      "ubicacion": "Inmediaciones del Estadio Leon",
+      "fuente": "@GobMunLeon",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo de seguridad en Barrio del Coecillo",
-      "descripcion": "Elementos de la Policia Municipal, en conjunto con la Guardia Nacional, mantienen un operativo de revision y proximidad social en las inmediaciones del Barrio del Coecillo y zonas comerciales aledañas. Se realizan inspecciones preventivas a motocicletas y vehiculos con vidrios polarizados para disuadir actos delictivos. Se pide a la ciudadania colaborar y circular con precaucion.",
-      "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "👮",
-      "fecha_publicacion": "2026-07-17T12:00:00-06:00",
-      "fecha_vigencia": "2026-07-17T20:00:00-06:00",
-      "ubicacion": "Barrio del Coecillo",
-      "fuente": "Gobierno Municipal de Leon",
+      "titulo": "Encharcamientos por lluvia matutina",
+      "descripcion": "Derivado de la lluvia registrada esta manana, Proteccion Civil reporta acumulacion de agua y encharcamientos considerables en el Blvd. Timoteo Lozano a la altura del paso a desnivel, asi como en el cruce de Blvd. Delta y Blvd. La Luz.\n\nSe pide a los conductores manejar con extrema precaucion, encender sus luces, aumentar la distancia entre vehiculos y respetar los limites de velocidad para evitar derrapes y accidentes por acuaplaneo.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-18T07:45:00-06:00",
+      "fecha_vigencia": "2026-07-18T14:00:00-06:00",
+      "ubicacion": "Blvd. Timoteo Lozano y Blvd. Delta",
+      "fuente": "@PC_Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Congestion esperada por evento en Estadio Nou Camp",
-      "descripcion": "Debido a un evento deportivo programado para esta noche en el Estadio Nou Camp, la Policia Vial anticipa una severa carga vehicular a partir de las 18:00 horas en el Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga. Se implementara un dispositivo de seguridad y transito en los cruces peatonales. Se sugiere a los conductores anticipar sus traslados o utilizar el Blvd. Francisco Villa como alternativa.",
-      "categoria": "eventos",
-      "prioridad": "alta",
-      "emoji": "⚽",
-      "fecha_publicacion": "2026-07-17T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-17T23:30:00-06:00",
-      "ubicacion": "Inmediaciones del Estadio Nou Camp",
-      "fuente": "Transito Municipal Leon",
+      "titulo": "Trabajos de bacheo en Zona Centro",
+      "descripcion": "La Direccion de Obra Publica notifica el inicio de trabajos de bacheo y pavimentacion en la calle 20 de Enero, en el tramo comprendido entre la calle Melchor Ocampo y la Plaza Principal de la Zona Centro.\n\nEl cierre de un carril de la vialidad se mantendra desde las 09:00 hasta las 17:00 horas del dia de hoy. El trafico se tornara lento, por lo que se sugiere tomar la calle 5 de Febrero como ruta alterna para ingresar al primer cuadro de la ciudad.",
+      "categoria": "trafico",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-18T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-18T17:00:00-06:00",
+      "ubicacion": "Calle 20 de Enero, Zona Centro",
+      "fuente": "www.leon.gob.mx",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": ""
     }
   },
   "prioridades": {
