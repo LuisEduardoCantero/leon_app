@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-18T10:47:00-06:00",
+  "ultima_actualizacion": "2026-07-20T14:31:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Fuerte congestionamiento en Blvd. Aeropuerto",
-      "descripcion": "Se reporta un accidente tipo alcance entre un tractocamion y dos vehiculos compactos en el Blvd. Aeropuerto, a la altura de los Outlets Mulza en direccion de Silao hacia Leon. Elementos de la Policia Vial ya se encuentran abanderando la zona.\n\nSe recomienda a los automovilistas utilizar el Eje Metropolitano como ruta alterna para ingresar a la ciudad, ya que la fila de vehiculos supera los 2 kilometros. El tiempo estimado de liberacion de la via es de aproximadamente dos horas.",
+      "id": "ALERTA_021",
+      "titulo": "Choque en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "Se reporta un accidente vehicular entre dos automoviles particulares en el Blvd. Adolfo Lopez Mateos, a la altura de la Av. Paseo de los Insurgentes. Dos carriles se encuentran obstruidos en direccion al Centro Histórico. Se recomienda utilizar el Blvd. Juan Alonso de Torres como ruta alterna y transitar con precaucion para evitar percances adicionales.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-18T09:15:00-06:00",
-      "fecha_vigencia": "2026-07-18T12:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto altura Outlets Mulza",
-      "fuente": "@TransitoLeon",
-      "url": ""
+      "prioridad": "media",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-07-20T13:15:00-06:00",
+      "fecha_vigencia": "2026-07-20T16:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos y Av. Paseo de los Insurgentes",
+      "fuente": "Policia Vial Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
-      "id": "ALERTA_002",
-      "titulo": "Reparacion de fuga en Col. 10 de Mayo",
-      "descripcion": "SAPAL informa que cuadrillas operativas estan trabajando en la reparacion de una fuga en la linea principal de distribucion de agua potable ubicada en la colonia 10 de Mayo. Por este motivo, el suministro presentara baja presion o cortes intermitentes durante el dia.\n\nLas colonias afectadas incluyen 10 de Mayo, Cerrito de Jerez y San Jose de los Tanques. Se exhorta a los vecinos a racionar el agua almacenada en sus tinacos. El servicio se restablecera de manera paulatina durante la madrugada de manana.",
+      "id": "ALERTA_022",
+      "titulo": "Corte de energia en Leon Moderno",
+      "descripcion": "Vecinos de la colonia Leon Moderno reportan fallas intermitentes en el suministro electrico desde el mediodia. Cuadrillas de la CFE ya se encuentran en la zona revisando los transformadores afectados en las calles principales. Se estima que el servicio sea restablecido en su totalidad durante la tarde de hoy. Se sugiere desconectar aparatos electronicos.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-18T08:30:00-06:00",
-      "fecha_vigencia": "2026-07-19T02:00:00-06:00",
-      "ubicacion": "Colonia 10 de Mayo y aledanas",
-      "fuente": "www.sapal.gob.mx",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-07-20T12:45:00-06:00",
+      "fecha_vigencia": "2026-07-20T18:00:00-06:00",
+      "ubicacion": "Colonia Leon Moderno",
+      "fuente": "Reportes ciudadanos",
       "url": ""
     },
     {
-      "id": "ALERTA_003",
-      "titulo": "Operativo de vialidad por partido en el Estadio Leon",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana informa que a partir de las 16:00 horas comenzara el operativo vial en las inmediaciones del Estadio Nou Camp con motivo del encuentro de futbol. Se realizaran cortes parciales a la circulacion en las calles aledanas.\n\nSe recomienda evitar el Blvd. Adolfo Lopez Mateos en el tramo de Hilario Medina a Francisco Villa, asi como el Blvd. Vasco de Quiroga. Se sugiere utilizar como vias alternas el Blvd. Mariano Escobedo y Blvd. La Luz para evitar retrasos.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-18T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-18T23:30:00-06:00",
-      "ubicacion": "Inmediaciones del Estadio Leon",
-      "fuente": "@GobMunLeon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Encharcamientos por lluvia matutina",
-      "descripcion": "Derivado de la lluvia registrada esta manana, Proteccion Civil reporta acumulacion de agua y encharcamientos considerables en el Blvd. Timoteo Lozano a la altura del paso a desnivel, asi como en el cruce de Blvd. Delta y Blvd. La Luz.\n\nSe pide a los conductores manejar con extrema precaucion, encender sus luces, aumentar la distancia entre vehiculos y respetar los limites de velocidad para evitar derrapes y accidentes por acuaplaneo.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-18T07:45:00-06:00",
-      "fecha_vigencia": "2026-07-18T14:00:00-06:00",
-      "ubicacion": "Blvd. Timoteo Lozano y Blvd. Delta",
-      "fuente": "@PC_Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Trabajos de bacheo en Zona Centro",
-      "descripcion": "La Direccion de Obra Publica notifica el inicio de trabajos de bacheo y pavimentacion en la calle 20 de Enero, en el tramo comprendido entre la calle Melchor Ocampo y la Plaza Principal de la Zona Centro.\n\nEl cierre de un carril de la vialidad se mantendra desde las 09:00 hasta las 17:00 horas del dia de hoy. El trafico se tornara lento, por lo que se sugiere tomar la calle 5 de Febrero como ruta alterna para ingresar al primer cuadro de la ciudad.",
+      "id": "ALERTA_023",
+      "titulo": "Obras de bacheo en Blvd. Las Torres",
+      "descripcion": "La Direccion de Obra Publica informa el inicio de trabajos de mantenimiento preventivo y bacheo sobre el Blvd. Juan Alonso de Torres, especificamente en el tramo comprendido entre Blvd. Hilario Medina y Blvd. Francisco Villa. Los trabajos mantendran un carril cerrado de manera intermitente, por lo que se pide a los automovilistas anticipar sus tiempos de traslado.",
       "categoria": "trafico",
       "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-18T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-18T17:00:00-06:00",
-      "ubicacion": "Calle 20 de Enero, Zona Centro",
-      "fuente": "www.leon.gob.mx",
-      "url": ""
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-20T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-22T17:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres (entre Hilario Medina y Francisco Villa)",
+      "fuente": "Obra Publica Leon",
+      "url": "https://www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_024",
+      "titulo": "Mantenimiento a red de agua en San Juan Bosco",
+      "descripcion": "SAPAL notifica a los usuarios de la colonia San Juan Bosco y zonas aledanas que el suministro de agua presentara baja presion durante las proximas 48 horas debido a labores de interconexion y limpieza en la red principal de distribucion. Se recomienda a la poblacion hacer un uso moderado, priorizando actividades esenciales, y cuidar el agua almacenada en tinacos.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-07-19T17:30:00-06:00",
+      "fecha_vigencia": "2026-07-21T17:30:00-06:00",
+      "ubicacion": "Colonia San Juan Bosco",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_025",
+      "titulo": "Operativo de vigilancia en Brisas del Campestre",
+      "descripcion": "Elementos de la Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon implementan un operativo especial de vigilancia y patrullaje disuasivo en la colonia Brisas del Campestre. Se mantendran puntos de revision itinerantes para vehiculos y motocicletas, con el fin de fortalecer la prevencion del delito en este poligono de la ciudad.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "👮",
+      "fecha_publicacion": "2026-07-19T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-20T23:59:00-06:00",
+      "ubicacion": "Colonia Brisas del Campestre",
+      "fuente": "Seguridad Leon",
+      "url": "https://twitter.com/Seguridad_Leon"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "⛅"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎉"
     }
   },
   "prioridades": {
