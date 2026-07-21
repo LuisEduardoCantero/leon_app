@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-20T14:31:00-06:00",
+  "ultima_actualizacion": "2026-07-21T14:54:38-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_021",
-      "titulo": "Choque en Blvd. Adolfo Lopez Mateos",
-      "descripcion": "Se reporta un accidente vehicular entre dos automoviles particulares en el Blvd. Adolfo Lopez Mateos, a la altura de la Av. Paseo de los Insurgentes. Dos carriles se encuentran obstruidos en direccion al Centro Histórico. Se recomienda utilizar el Blvd. Juan Alonso de Torres como ruta alterna y transitar con precaucion para evitar percances adicionales.",
+      "id": "ALERTA_001",
+      "titulo": "Cierre parcial por obras en Malecon del Rio",
+      "descripcion": "La Direccion de Obra Publica informa el cierre del carril inferior del Malecon del Rio, en el tramo comprendido entre Blvd. Adolfo Lopez Mateos y Calzada de los Heroes, debido a trabajos mayores de rehabilitacion de drenaje pluvial. Se recomienda utilizar el carril superior con precaucion o tomar rutas alternas como el Blvd. Francisco Villa. Los trabajos se mantendran de forma continua durante las proximas 72 horas.",
       "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-07-20T13:15:00-06:00",
-      "fecha_vigencia": "2026-07-20T16:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos y Av. Paseo de los Insurgentes",
-      "fuente": "Policia Vial Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-21T07:00:00-06:00",
+      "fecha_vigencia": "2026-07-24T18:00:00-06:00",
+      "ubicacion": "Malecon del Rio, tramo Lopez Mateos a Calzada de los Heroes",
+      "fuente": "Obra Publica Leon",
+      "url": "https://www.leon.gob.mx/obrapublica"
     },
     {
-      "id": "ALERTA_022",
-      "titulo": "Corte de energia en Leon Moderno",
-      "descripcion": "Vecinos de la colonia Leon Moderno reportan fallas intermitentes en el suministro electrico desde el mediodia. Cuadrillas de la CFE ya se encuentran en la zona revisando los transformadores afectados en las calles principales. Se estima que el servicio sea restablecido en su totalidad durante la tarde de hoy. Se sugiere desconectar aparatos electronicos.",
+      "id": "ALERTA_002",
+      "titulo": "Suspension temporal de energia en Zona Piel",
+      "descripcion": "Comision Federal de Electricidad notifica a los comerciantes y residentes de la Zona Piel sobre un corte de energia programado por mantenimiento correctivo a los transformadores subterraneos del sector. La afectacion principal sera en los locales comerciales. Se solicita a los locatarios tomar previsiones correspondientes.",
       "categoria": "servicios",
-      "prioridad": "media",
+      "prioridad": "alta",
       "emoji": "⚡",
-      "fecha_publicacion": "2026-07-20T12:45:00-06:00",
-      "fecha_vigencia": "2026-07-20T18:00:00-06:00",
-      "ubicacion": "Colonia Leon Moderno",
-      "fuente": "Reportes ciudadanos",
+      "fecha_publicacion": "2026-07-20T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-21T16:00:00-06:00",
+      "ubicacion": "Cuadrante de Blvd. Hilario Medina, La Luz y Espanita",
+      "fuente": "Gobierno Municipal Leon",
       "url": ""
     },
     {
-      "id": "ALERTA_023",
-      "titulo": "Obras de bacheo en Blvd. Las Torres",
-      "descripcion": "La Direccion de Obra Publica informa el inicio de trabajos de mantenimiento preventivo y bacheo sobre el Blvd. Juan Alonso de Torres, especificamente en el tramo comprendido entre Blvd. Hilario Medina y Blvd. Francisco Villa. Los trabajos mantendran un carril cerrado de manera intermitente, por lo que se pide a los automovilistas anticipar sus tiempos de traslado.",
-      "categoria": "trafico",
-      "prioridad": "baja",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-20T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-22T17:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres (entre Hilario Medina y Francisco Villa)",
-      "fuente": "Obra Publica Leon",
-      "url": "https://www.leon.gob.mx"
+      "id": "ALERTA_003",
+      "titulo": "Alerta por tormenta electrica y rafagas de viento",
+      "descripcion": "Proteccion Civil Municipal emite aviso preventivo por alta probabilidad de tormentas fuertes acompanadas de actividad electrica durante la tarde-noche de hoy. Se esperan rafagas de viento que podrian alcanzar los 45 km/h. Se recomienda a la poblacion asegurar objetos sueltos en azoteas, evitar resguardarse bajo arboles o estructuras inestables y conducir con luces encendidas.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-07-21T11:30:00-06:00",
+      "fecha_vigencia": "2026-07-21T23:59:00-06:00",
+      "ubicacion": "Todo el municipio",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
-      "id": "ALERTA_024",
-      "titulo": "Mantenimiento a red de agua en San Juan Bosco",
-      "descripcion": "SAPAL notifica a los usuarios de la colonia San Juan Bosco y zonas aledanas que el suministro de agua presentara baja presion durante las proximas 48 horas debido a labores de interconexion y limpieza en la red principal de distribucion. Se recomienda a la poblacion hacer un uso moderado, priorizando actividades esenciales, y cuidar el agua almacenada en tinacos.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-19T17:30:00-06:00",
-      "fecha_vigencia": "2026-07-21T17:30:00-06:00",
-      "ubicacion": "Colonia San Juan Bosco",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
-    },
-    {
-      "id": "ALERTA_025",
-      "titulo": "Operativo de vigilancia en Brisas del Campestre",
-      "descripcion": "Elementos de la Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon implementan un operativo especial de vigilancia y patrullaje disuasivo en la colonia Brisas del Campestre. Se mantendran puntos de revision itinerantes para vehiculos y motocicletas, con el fin de fortalecer la prevencion del delito en este poligono de la ciudad.",
+      "id": "ALERTA_004",
+      "titulo": "Acordonamiento preventivo en Centro Historico",
+      "descripcion": "Elementos de Seguridad Publica y Proteccion Civil mantienen acordonada la interseccion de la calle Madero con Donato Guerra debido al desprendimiento parcial de una marquesina en un edificio antiguo. No se reportan personas lesionadas, pero el paso peatonal y vehicular en ese punto exacto estara restringido hasta que especialistas evaluen el riesgo estructural.",
       "categoria": "seguridad",
+      "prioridad": "media",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-07-21T13:15:00-06:00",
+      "fecha_vigencia": "2026-07-22T10:00:00-06:00",
+      "ubicacion": "Calle Madero esq. Donato Guerra, Zona Centro",
+      "fuente": "Policia Municipal Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Trafico lento por inauguracion de exposicion en Poliforum",
+      "descripcion": "Debido a la apertura de una importante exposicion industrial y comercial en las instalaciones de Poliforum Leon, se registra trafico denso sobre el Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Transito Municipal mantiene operativos en los cruces peatonales para agilizar la entrada de visitantes y vehiculos logisticos. Se sugiere salir con tiempo anticipado si se circula por la zona.",
+      "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "👮",
-      "fecha_publicacion": "2026-07-19T09:00:00-06:00",
-      "fecha_vigencia": "2026-07-20T23:59:00-06:00",
-      "ubicacion": "Colonia Brisas del Campestre",
-      "fuente": "Seguridad Leon",
-      "url": "https://twitter.com/Seguridad_Leon"
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-07-21T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-21T21:00:00-06:00",
+      "ubicacion": "Poliforum Leon, Blvd. Adolfo Lopez Mateos",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     }
   ],
   "categorias": {
@@ -84,12 +84,12 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛅"
+      "emoji": "🌧️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
