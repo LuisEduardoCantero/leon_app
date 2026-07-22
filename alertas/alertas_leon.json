@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-21T14:54:38-06:00",
+  "ultima_actualizacion": "2026-07-22T14:30:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por obras en Malecon del Rio",
-      "descripcion": "La Direccion de Obra Publica informa el cierre del carril inferior del Malecon del Rio, en el tramo comprendido entre Blvd. Adolfo Lopez Mateos y Calzada de los Heroes, debido a trabajos mayores de rehabilitacion de drenaje pluvial. Se recomienda utilizar el carril superior con precaucion o tomar rutas alternas como el Blvd. Francisco Villa. Los trabajos se mantendran de forma continua durante las proximas 72 horas.",
-      "categoria": "trafico",
+      "titulo": "Cierre parcial en Blvd. Clouthier por obra hidráulica",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) realiza trabajos de sustitución de redes hidrosanitarias sobre el bulevar Manuel Clouthier. Se registra reducción de carriles en dirección de norte a sur, por lo que se recomienda utilizar rutas alternas como Paseo de los Insurgentes o libramiento.",
+      "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-21T07:00:00-06:00",
-      "fecha_vigencia": "2026-07-24T18:00:00-06:00",
-      "ubicacion": "Malecon del Rio, tramo Lopez Mateos a Calzada de los Heroes",
-      "fuente": "Obra Publica Leon",
-      "url": "https://www.leon.gob.mx/obrapublica"
+      "emoji": "",
+      "fecha_publicacion": "2026-07-22T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-25T18:00:00-06:00",
+      "ubicacion": "Blvd. Manuel Clouthier y esq. con Blvd. Cerro Gordo",
+      "fuente": "SAPAL Leon",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Suspension temporal de energia en Zona Piel",
-      "descripcion": "Comision Federal de Electricidad notifica a los comerciantes y residentes de la Zona Piel sobre un corte de energia programado por mantenimiento correctivo a los transformadores subterraneos del sector. La afectacion principal sera en los locales comerciales. Se solicita a los locatarios tomar previsiones correspondientes.",
-      "categoria": "servicios",
+      "titulo": "Accidente vial en Blvd. Insurgentes",
+      "descripcion": "Se registra colisión por alcance entre un camión de transporte urbano y un vehículo particular en el bulevar Paseo de los Insurgentes a la altura de la colonia Jardines del Moral. Personal de Tránsito Municipal abandera la zona mientras se retiran las unidades siniestradas, generando asentamiento vehicular moderado.",
+      "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-07-20T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-21T16:00:00-06:00",
-      "ubicacion": "Cuadrante de Blvd. Hilario Medina, La Luz y Espanita",
-      "fuente": "Gobierno Municipal Leon",
-      "url": ""
+      "emoji": "",
+      "fecha_publicacion": "2026-07-22T11:15:00-06:00",
+      "fecha_vigencia": "2026-07-22T14:00:00-06:00",
+      "ubicacion": "Blvd. Paseo de los Insurgentes, Col. Jardines del Moral",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Alerta por tormenta electrica y rafagas de viento",
-      "descripcion": "Proteccion Civil Municipal emite aviso preventivo por alta probabilidad de tormentas fuertes acompanadas de actividad electrica durante la tarde-noche de hoy. Se esperan rafagas de viento que podrian alcanzar los 45 km/h. Se recomienda a la poblacion asegurar objetos sueltos en azoteas, evitar resguardarse bajo arboles o estructuras inestables y conducir con luces encendidas.",
+      "titulo": "Alerta por tormentas dispersas y rachas de viento",
+      "descripcion": "La Dirección de Protección Civil emite aviso preventivo ante el pronóstico de precipitaciones pluviales acompañadas de actividad eléctrica y ráfagas de viento para la tarde y noche en gran parte del municipio. Se exhorta a la ciudadanía a asegurar objetos sueltos en azoteas y evitar cruzar corrientes de agua.",
       "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-07-21T11:30:00-06:00",
-      "fecha_vigencia": "2026-07-21T23:59:00-06:00",
-      "ubicacion": "Todo el municipio",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-22T12:00:00-06:00",
+      "fecha_vigencia": "2026-07-23T06:00:00-06:00",
+      "ubicacion": "Municipio de Leon",
       "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Acordonamiento preventivo en Centro Historico",
-      "descripcion": "Elementos de Seguridad Publica y Proteccion Civil mantienen acordonada la interseccion de la calle Madero con Donato Guerra debido al desprendimiento parcial de una marquesina en un edificio antiguo. No se reportan personas lesionadas, pero el paso peatonal y vehicular en ese punto exacto estara restringido hasta que especialistas evaluen el riesgo estructural.",
-      "categoria": "seguridad",
+      "titulo": "Mantenimiento eléctrico en Zona Industrial",
+      "descripcion": "La Comisión Federal de Electricidad (CFE) notifica corte temporal en el suministro de energía eléctrica en sectores de la Zona Industrial Delta derivado de labores de libranza y modernización de subestaciones. Se pide a las empresas y comercios tomar precauciones con sus equipos.",
+      "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-07-21T13:15:00-06:00",
-      "fecha_vigencia": "2026-07-22T10:00:00-06:00",
-      "ubicacion": "Calle Madero esq. Donato Guerra, Zona Centro",
-      "fuente": "Policia Municipal Leon",
-      "url": ""
+      "emoji": "",
+      "fecha_publicacion": "2026-07-22T09:30:00-06:00",
+      "fecha_vigencia": "2026-07-22T17:00:00-06:00",
+      "ubicacion": "Zona Industrial Delta",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Trafico lento por inauguracion de exposicion en Poliforum",
-      "descripcion": "Debido a la apertura de una importante exposicion industrial y comercial en las instalaciones de Poliforum Leon, se registra trafico denso sobre el Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Transito Municipal mantiene operativos en los cruces peatonales para agilizar la entrada de visitantes y vehiculos logisticos. Se sugiere salir con tiempo anticipado si se circula por la zona.",
+      "titulo": "Operativo vial por evento cultural en Poliforum",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana implementa un dispositivo de vialidad y control de estacionamientos en los alrededores del complejo Poliforum León con motivo de la inauguración de una exposición comercial masiva. Se prevé alta afluencia vehicular sobre el bulevar Adolfo López Mateos.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🎪",
-      "fecha_publicacion": "2026-07-21T09:00:00-06:00",
-      "fecha_vigencia": "2026-07-21T21:00:00-06:00",
-      "ubicacion": "Poliforum Leon, Blvd. Adolfo Lopez Mateos",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "emoji": "",
+      "fecha_publicacion": "2026-07-21T16:00:00-06:00",
+      "fecha_vigencia": "2026-07-23T22:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa",
+      "fuente": "Secretaria de Seguridad de Leon",
+      "url": "https://www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌧️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": ""
     }
   },
   "prioridades": {
