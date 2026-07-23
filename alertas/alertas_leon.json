@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-22T14:30:00-06:00",
+  "ultima_actualizacion": "2026-07-23T14:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial en Blvd. Clouthier por obra hidráulica",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) realiza trabajos de sustitución de redes hidrosanitarias sobre el bulevar Manuel Clouthier. Se registra reducción de carriles en dirección de norte a sur, por lo que se recomienda utilizar rutas alternas como Paseo de los Insurgentes o libramiento.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-22T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-25T18:00:00-06:00",
-      "ubicacion": "Blvd. Manuel Clouthier y esq. con Blvd. Cerro Gordo",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx"
+      "titulo": "Accidente vial en Blvd. Francisco Villa",
+      "descripcion": "Se reporta un fuerte choque entre una unidad de transporte publico y un vehiculo particular en el Blvd. Francisco Villa, cruce con Blvd. Vicente Valtierra. Elementos de vialidad ya se encuentran en el lugar. Se recomienda evitar la zona y tomar rutas alternas como el Blvd. Hilario Medina, ya que dos carriles permanecen cerrados.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-07-23T10:15:00-06:00",
+      "fecha_vigencia": "2026-07-23T15:00:00-06:00",
+      "ubicacion": "Blvd. Francisco Villa y Blvd. Vicente Valtierra",
+      "fuente": "@TransitoLeon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Accidente vial en Blvd. Insurgentes",
-      "descripcion": "Se registra colisión por alcance entre un camión de transporte urbano y un vehículo particular en el bulevar Paseo de los Insurgentes a la altura de la colonia Jardines del Moral. Personal de Tránsito Municipal abandera la zona mientras se retiran las unidades siniestradas, generando asentamiento vehicular moderado.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-22T11:15:00-06:00",
-      "fecha_vigencia": "2026-07-22T14:00:00-06:00",
-      "ubicacion": "Blvd. Paseo de los Insurgentes, Col. Jardines del Moral",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "titulo": "Mantenimiento de SAPAL en Colonia Andrade",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon informa sobre trabajos de interconexion en la red hidraulica de la Colonia Andrade. El suministro presentara intermitencias durante las proximas 12 horas. Se recomienda a los vecinos hacer uso racional del agua almacenada en sus tinacos.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-07-23T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-23T20:00:00-06:00",
+      "ubicacion": "Colonia Andrade",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Alerta por tormentas dispersas y rachas de viento",
-      "descripcion": "La Dirección de Protección Civil emite aviso preventivo ante el pronóstico de precipitaciones pluviales acompañadas de actividad eléctrica y ráfagas de viento para la tarde y noche en gran parte del municipio. Se exhorta a la ciudadanía a asegurar objetos sueltos en azoteas y evitar cruzar corrientes de agua.",
+      "titulo": "Mala calidad del aire en zona poniente",
+      "descripcion": "La Secretaria de Medio Ambiente municipal reporta calidad del aire en semaforo rojo (mala) en la estacion CICEG y zona poniente de la ciudad. Se recomienda a grupos vulnerables (ninos, adultos mayores y personas con enfermedades respiratorias) evitar actividades fisicas intensas al aire libre durante el transcurso del dia.",
       "categoria": "clima",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-22T12:00:00-06:00",
-      "fecha_vigencia": "2026-07-23T06:00:00-06:00",
-      "ubicacion": "Municipio de Leon",
-      "fuente": "Proteccion Civil Leon",
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-07-23T11:00:00-06:00",
+      "fecha_vigencia": "2026-07-23T23:59:00-06:00",
+      "ubicacion": "Zona Poniente (CICEG)",
+      "fuente": "Gobierno Municipal Leon",
       "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Mantenimiento eléctrico en Zona Industrial",
-      "descripcion": "La Comisión Federal de Electricidad (CFE) notifica corte temporal en el suministro de energía eléctrica en sectores de la Zona Industrial Delta derivado de labores de libranza y modernización de subestaciones. Se pide a las empresas y comercios tomar precauciones con sus equipos.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-22T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-22T17:00:00-06:00",
-      "ubicacion": "Zona Industrial Delta",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://www.leon.gob.mx"
+      "titulo": "Incendio controlado en Ciudad Industrial",
+      "descripcion": "Elementos de Bomberos y Proteccion Civil trabajan en la extincion total de un incendio en una bodega de calzado ubicada en Ciudad Industrial. La zona se mantiene acordonada en un radio de 200 metros para facilitar maniobras. No se reportan lesionados, pero se pide a la ciudadania no acercarse al lugar.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🔥",
+      "fecha_publicacion": "2026-07-23T13:45:00-06:00",
+      "fecha_vigencia": "2026-07-23T19:00:00-06:00",
+      "ubicacion": "Ciudad Industrial, Av. Restauradores",
+      "fuente": "@PC_Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo vial por evento cultural en Poliforum",
-      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana implementa un dispositivo de vialidad y control de estacionamientos en los alrededores del complejo Poliforum León con motivo de la inauguración de una exposición comercial masiva. Se prevé alta afluencia vehicular sobre el bulevar Adolfo López Mateos.",
+      "titulo": "Carga vehicular por evento en Domo de la Feria",
+      "descripcion": "Se registra un incremento significativo en la carga vehicular sobre el Blvd. Adolfo Lopez Mateos en direccion al Domo de la Feria, debido a un evento de graduacion masivo. Transito Municipal despliega operativo para agilizar la circulacion. Se recomienda usar el Blvd. Mariano Escobedo como alternativa.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-21T16:00:00-06:00",
-      "fecha_vigencia": "2026-07-23T22:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa",
-      "fuente": "Secretaria de Seguridad de Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🎓",
+      "fecha_publicacion": "2026-07-23T12:30:00-06:00",
+      "fecha_vigencia": "2026-07-23T17:00:00-06:00",
+      "ubicacion": "Domo de la Feria / Blvd. Adolfo Lopez Mateos",
+      "fuente": "@TransitoLeon",
+      "url": "https://twitter.com/TransitoLeon"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🔥"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "🌫️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎓"
     }
   },
   "prioridades": {
