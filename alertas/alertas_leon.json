@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-24T13:00:00-06:00",
+  "ultima_actualizacion": "2026-07-26T08:50:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por pavimentacion",
-      "descripcion": "La Direccion de Obra Publica informa sobre cierres parciales de circulacion debido a trabajos de rehabilitacion de pavimento en el Blvd. Mariano Escobedo. Las obras se concentran en el tramo comprendido entre Blvd. Francisco Villa y Av. Pradera en sentido de oriente a poniente. Se recomienda usar el Blvd. Juan Jose Torres Landa como via alterna para evitar retrasos.",
+      "titulo": "Volcadura de transporte de carga pesada",
+      "descripcion": "Se registra el cierre total de circulación en el Libramiento José María Morelos, a la altura de la entrada al Parque Metropolitano en sentido de norte a sur, debido a la volcadura de un tráiler que transportaba material de construcción. Elementos de Tránsito Municipal y Protección Civil se encuentran en el lugar realizando maniobras de retiro y limpieza de la vía. Se recomienda a los conductores utilizar vías alternas como el Blvd. Hidalgo o el Blvd. San Juan Bosco. Se estima que las labores tomen al menos tres horas adicionales.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-24T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-26T18:00:00-06:00",
-      "ubicacion": "Blvd. Mariano Escobedo entre Francisco Villa y Pradera",
-      "fuente": "Obra Publica Leon",
-      "url": "https://www.leon.gob.mx"
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-26T07:15:00-06:00",
+      "fecha_vigencia": "2026-07-26T12:00:00-06:00",
+      "ubicacion": "Libramiento José María Morelos altura Parque Metropolitano",
+      "fuente": "@TransitoLeon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Suspension de agua por limpieza",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) realiza trabajos de mantenimiento preventivo y limpieza de tanques de almacenamiento. Por este motivo, el suministro de agua potable estara suspendido temporalmente en las colonias Las Mandarinas, Los Olivos y San Miguel. Se exhorta a los vecinos a racionar el uso del liquido vital.",
+      "titulo": "Reparación de pozo y baja presión de agua",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) informa que debido a una falla electromecánica en el pozo de abastecimiento número 42, las colonias Villas de San Juan, Bosques del Carmen y El Cortijo presentarán baja presión o falta de suministro temporal durante este fin de semana. Cuadrillas técnicas ya trabajan en la sustitución de la bomba sumergible afectada. Se hace un llamado a la población de estas zonas para hacer un uso racional del agua almacenada en sus tinacos y cisternas mientras se restablece el servicio.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-24T09:30:00-06:00",
-      "fecha_vigencia": "2026-07-25T12:00:00-06:00",
-      "ubicacion": "Colonias Las Mandarinas, Los Olivos y San Miguel",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "emoji": "",
+      "fecha_publicacion": "2026-07-25T19:30:00-06:00",
+      "fecha_vigencia": "2026-07-27T18:00:00-06:00",
+      "ubicacion": "Villas de San Juan, Bosques del Carmen, El Cortijo",
+      "fuente": "www.sapal.gob.mx",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Falla general de semaforos",
-      "descripcion": "Se reporta una falla generalizada en la red de semaforos de la interseccion del Blvd. Vicente Valtierra y Blvd. Vertiz Campero debido a una variacion de voltaje en la zona. Elementos de la Policia Vial ya se encuentran en el punto dirigiendo el trafico. Se pide a los automovilistas extremar precauciones, ceder el paso y mantener una velocidad reducida.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-07-24T12:15:00-06:00",
-      "fecha_vigencia": "2026-07-24T17:00:00-06:00",
-      "ubicacion": "Interseccion Blvd. Vicente Valtierra y Vertiz Campero",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "titulo": "Cortes viales por Carrera Atlética Dominical",
+      "descripcion": "Con motivo de la carrera atlética 'Corriendo por tu Salud 2026', se realizarán cortes parciales a la circulación en los alrededores de la Plaza Expiatorio y a lo largo de la calle Francisco I. Madero, extendiéndose hasta el Arco de la Calzada. El operativo vial comenzará a las 6:30 am y se mantendrá hasta que el último contingente de corredores cruce la meta. Se pide a los automovilistas y usuarios del transporte público tomar precauciones, ya que algunas rutas modificarán temporalmente su recorrido.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-25T12:00:00-06:00",
+      "fecha_vigencia": "2026-07-26T13:00:00-06:00",
+      "ubicacion": "Plaza Expiatorio, Calle Madero, Arco de la Calzada",
+      "fuente": "@GobMunLeon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Cierre vial por carrera atletica",
-      "descripcion": "Con motivo de un evento deportivo regional, este fin de semana se realizaran cortes intermitentes a la circulacion en las vialidades aledanas al Parque Metropolitano de Leon. El acceso principal por Blvd. Adolfo Lopez Mateos norte tendra restricciones desde las primeras horas de la manana. Se recomienda a los usuarios del parque utilizar el acceso por la zona de Amazonas.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🏃",
-      "fecha_publicacion": "2026-07-24T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-26T13:00:00-06:00",
-      "ubicacion": "Inmediaciones del Parque Metropolitano",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://www.leon.gob.mx"
+      "titulo": "Aviso preventivo por onda de calor atípica",
+      "descripcion": "La Dirección de Protección Civil emite un aviso a la ciudadanía debido a una onda de calor atípica que afectará al municipio durante este fin de semana, con temperaturas máximas esperadas de hasta 35°C a la sombra. Se exhorta a la población a evitar la exposición prolongada al sol entre las 11:00 y las 16:00 horas, mantenerse constantemente hidratados y prestar especial atención a niños menores de 5 años y adultos mayores. Se recuerda la importancia de no dejar personas ni mascotas al interior de vehículos cerrados.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-07-26T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-27T20:00:00-06:00",
+      "ubicacion": "Todo el municipio",
+      "fuente": "@PC_Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Alerta por altas temperaturas",
-      "descripcion": "La Direccion de Proteccion Civil emite una alerta preventiva por el pronostico de un repunte en las temperaturas maximas, las cuales podrian superar los 34 grados Celsius en la zona urbana durante el fin de semana. Se exhorta a la poblacion a mantenerse hidratada, evitar la exposicion prolongada al sol entre las 11:00 y las 16:00 horas, y poner especial atencion en ninos y adultos mayores.",
-      "categoria": "clima",
+      "titulo": "Obras de pavimentación y cierre nocturno",
+      "descripcion": "Como parte de los trabajos de modernización de la infraestructura vial de la ciudad, la Dirección de Obra Pública informa el cierre total en horario nocturno de la intersección del Blvd. Hilario Medina y el Blvd. La Luz. Los cierres se llevarán a cabo desde las 22:00 horas hasta las 05:00 horas del día siguiente para permitir la colocación de concreto hidráulico. Fuera de estos horarios, la circulación estará habilitada parcialmente a un carril por sentido. Se recomienda utilizar el Blvd. Vicente Valtierra como ruta alterna.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "☀️",
-      "fecha_publicacion": "2026-07-24T11:00:00-06:00",
-      "fecha_vigencia": "2026-07-26T20:00:00-06:00",
-      "ubicacion": "Todo el municipio",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "emoji": "",
+      "fecha_publicacion": "2026-07-25T16:00:00-06:00",
+      "fecha_vigencia": "2026-07-28T05:00:00-06:00",
+      "ubicacion": "Intersección Blvd. Hilario Medina y Blvd. La Luz",
+      "fuente": "AM Leon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": ""
     }
   },
   "prioridades": {
