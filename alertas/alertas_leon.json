@@ -1,72 +1,85 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-28T16:05:00-06:00",
-  "total_alertas": 5,
+  "ultima_actualizacion": "2026-07-29T14:30:00-06:00",
+  "total_alertas": 6,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Fuerte choque multiple en Blvd. Aeropuerto",
-      "descripcion": "Se reporta un accidente vehicular que involucra a tres automoviles particulares sobre el Blvd. Aeropuerto en direccion a Silao, a la altura del puente de Herradura. La circulacion se encuentra reducida a un solo carril, generando intenso trafico en la zona. Se recomienda utilizar el Eje Metropolitano como ruta alterna. Unidades de Transito y paramedicos ya laboran en el lugar.",
+      "titulo": "Socavon en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "Se reporta la formacion de un socavon sobre el carril central del Blvd. Adolfo Lopez Mateos a la altura del centro comercial Centro Max, en direccion de sur a norte. Elementos de Transito Municipal mantienen abanderada la zona y han cerrado el carril afectado.\n\nSe recomienda a los conductores utilizar el Blvd. Torres Landa o el Blvd. Francisco Villa como vias alternas para evitar embotellamientos, ya que el personal de Obra Publica apenas comienza la evaluacion del dano.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-28T09:15:00-06:00",
-      "fecha_vigencia": "2026-07-28T14:30:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto altura puente Herradura",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-29T08:15:00-06:00",
+      "fecha_vigencia": "2026-07-31T23:59:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos a la altura de Centro Max",
+      "fuente": "@TransitoLeon",
+      "url": "www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento electrico en Jardines del Moral",
-      "descripcion": "La Comision Federal de Electricidad notifica sobre un corte temporal en el suministro de energia electrica en la colonia Jardines del Moral, debido a trabajos de mantenimiento preventivo en transformadores subterraneos. Los cortes afectaran principalmente la avenida Paseo del Moral y calles aledanas entre las 10:00 y las 16:00 horas.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-28T08:00:00-06:00",
-      "fecha_vigencia": "2026-07-28T17:00:00-06:00",
-      "ubicacion": "Colonia Jardines del Moral, zona comercial",
-      "fuente": "Gobierno Municipal Leon",
+      "titulo": "Fuga de gas y evacuacion preventiva",
+      "descripcion": "Elementos de Proteccion Civil y Bomberos atienden una fuerte fuga de gas natural ocasionada por trabajos de excavacion en la interseccion de las calles San Juan y Sevilla, dentro de la colonia San Juan Bosco.\n\nSe ha evacuado de manera preventiva a los vecinos de la cuadra aledana para evitar intoxicaciones o riesgos mayores. Se pide a la poblacion evitar transitar por la zona y permitir el libre paso a los vehiculos de emergencia.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-07-29T12:30:00-06:00",
+      "fecha_vigencia": "2026-07-29T18:00:00-06:00",
+      "ubicacion": "Interseccion San Juan y Sevilla, Col. San Juan Bosco",
+      "fuente": "@PC_Leon",
       "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Alerta por lluvias intensas en zona norte",
-      "descripcion": "La Direccion de Proteccion Civil emite aviso por desarrollo de nucleos de tormenta en la zona norte del municipio, afectando las colonias Los Castillos, Ribera de la Presa y zonas aledanas. Se preven precipitaciones intensas en las proximas horas. Se exhorta a la poblacion a evitar cruzar arroyos y reportar emergencias al 911.",
-      "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-28T15:30:00-06:00",
-      "fecha_vigencia": "2026-07-28T22:00:00-06:00",
-      "ubicacion": "Zona Norte (Los Castillos, Ribera de la Presa)",
-      "fuente": "Proteccion Civil Leon",
+      "titulo": "Corte de luz programado en Las Trojes",
+      "descripcion": "La Comision Federal de Electricidad notifica a los residentes y comercios de la colonia Las Trojes sobre una suspension temporal en el suministro de energia debido a la instalacion de nuevos transformadores para mejorar la red local.\n\nEl corte esta programado para iniciar en punto de las 10:00 horas y se espera que el servicio quede completamente restablecido pasadas las 16:30 horas. Se sugiere tomar precauciones con aparatos electronicos y alimentos refrigerados.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-07-29T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-29T17:00:00-06:00",
+      "ubicacion": "Colonia Las Trojes",
+      "fuente": "AM Leon",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Congreso medico en Poliforum genera carga vehicular",
-      "descripcion": "Debido a la inauguracion de un importante congreso medico internacional en las instalaciones de Poliforum Leon, se registra una alta afluencia de vehiculos y peatones en el Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Se recomienda a los conductores tomar precauciones, anticipar sus tiempos de traslado y respetar las indicaciones de la Policia Vial.",
+      "titulo": "Congestionamiento por concierto en Velaria",
+      "descripcion": "Debido a la presentacion de un artista de talla internacional en las instalaciones de la Velaria de la Feria programada para esta noche, se anticipa una carga vehicular pesada en los bulevares Paseo de los Ninos y Francisco Villa.\n\nLas autoridades municipales recomiendan a los asistentes llegar con anticipacion, utilizar el transporte publico, o emplear rutas alternas si solo se transita por las inmediaciones del recinto ferial.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-28T11:00:00-06:00",
-      "fecha_vigencia": "2026-07-30T18:00:00-06:00",
-      "ubicacion": "Poliforum Leon, Blvd. Adolfo Lopez Mateos",
-      "fuente": "Transito Municipal Leon",
+      "emoji": "🎤",
+      "fecha_publicacion": "2026-07-29T11:45:00-06:00",
+      "fecha_vigencia": "2026-07-29T23:59:00-06:00",
+      "ubicacion": "Velaria de la Feria, Blvd. Paseo de los Ninos",
+      "fuente": "@GobMunLeon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo de revision a motociclistas en Centro Historico",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana lleva a cabo un operativo especial de revision a conductores de motocicletas en los principales accesos al Centro Historico de la ciudad. El objetivo es verificar el uso de casco, documentacion en regla y prevenir actos delictivos. Se pide paciencia a los conductores por posibles demoras.",
-      "categoria": "seguridad",
+      "titulo": "Reduccion de carriles en Malecon del Rio",
+      "descripcion": "La Direccion de Obra Publica informa el cierre temporal del carril inferior del Malecon del Rio de los Gomez, en el tramo comprendido entre Blvd. Hidalgo y Blvd. Vicente Valtierra, direccion norte a sur.\n\nLa medida obedece a labores de desazolve y retiro de escombro tras los fuertes vientos y arrastres de los ultimos dias. El cierre se mantendra durante las proximas 48 horas, por lo que se pide a los automovilistas usar los carriles superiores.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-07-28T13:45:00-06:00",
-      "fecha_vigencia": "2026-07-28T20:00:00-06:00",
-      "ubicacion": "Accesos al Centro Historico (Calle Madero, 5 de Mayo, 20 de Enero)",
-      "fuente": "Seguridad Publica Leon",
+      "emoji": "🚜",
+      "fecha_publicacion": "2026-07-28T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-30T18:00:00-06:00",
+      "ubicacion": "Malecon del Rio entre Hidalgo y Vicente Valtierra",
+      "fuente": "@GobMunLeon",
+      "url": "www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_006",
+      "titulo": "Rachas de viento y caida de arboles",
+      "descripcion": "La Secretaria de Seguridad y Proteccion Civil advierte sobre fuertes rachas de viento atipicas que han provocado la caida de al menos tres arboles de gran tamano en la zona sur de la ciudad, especificamente afectando vialidades en la colonia 10 de Mayo.\n\nEquipos de emergencia de Parques y Jardines ya se encuentran en el lugar trozando y retirando el follaje. Se pide a conductores manejar con extrema precaucion por la posible presencia de ramas en el arroyo vehicular.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "🍃",
+      "fecha_publicacion": "2026-07-28T16:30:00-06:00",
+      "fecha_vigencia": "2026-07-29T20:00:00-06:00",
+      "ubicacion": "Colonia 10 de Mayo",
+      "fuente": "@PC_Leon",
       "url": ""
     }
   ],
@@ -74,27 +87,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎉"
     }
   },
   "prioridades": {
