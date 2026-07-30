@@ -1,113 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-29T14:30:00-06:00",
-  "total_alertas": 6,
+  "ultima_actualizacion": "2026-07-30T14:00:00-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Socavon en Blvd. Adolfo Lopez Mateos",
-      "descripcion": "Se reporta la formacion de un socavon sobre el carril central del Blvd. Adolfo Lopez Mateos a la altura del centro comercial Centro Max, en direccion de sur a norte. Elementos de Transito Municipal mantienen abanderada la zona y han cerrado el carril afectado.\n\nSe recomienda a los conductores utilizar el Blvd. Torres Landa o el Blvd. Francisco Villa como vias alternas para evitar embotellamientos, ya que el personal de Obra Publica apenas comienza la evaluacion del dano.",
+      "titulo": "Cierre parcial por obras de drenaje pluvial en Blvd. San Juan Bosco",
+      "descripcion": "La Dirección de Obra Pública y Tránsito Municipal informan el cierre parcial de un carril en dirección poniente a oriente sobre el Blvd. San Juan Bosco, a la altura de la colonia Vista Hermosa, debido a la sustitución de la tubería de drenaje pluvial. Se recomienda tomar como vía alternativa el Blvd. Juan Alonso de Torres.",
       "categoria": "trafico",
-      "prioridad": "alta",
+      "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-07-29T08:15:00-06:00",
-      "fecha_vigencia": "2026-07-31T23:59:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos a la altura de Centro Max",
-      "fuente": "@TransitoLeon",
-      "url": "www.leon.gob.mx"
+      "fecha_publicacion": "2026-07-30T08:30:00-06:00",
+      "fecha_vigencia": "2026-08-02T18:00:00-06:00",
+      "ubicacion": "Blvd. San Juan Bosco intersección con Col. Vista Hermosa",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Fuga de gas y evacuacion preventiva",
-      "descripcion": "Elementos de Proteccion Civil y Bomberos atienden una fuerte fuga de gas natural ocasionada por trabajos de excavacion en la interseccion de las calles San Juan y Sevilla, dentro de la colonia San Juan Bosco.\n\nSe ha evacuado de manera preventiva a los vecinos de la cuadra aledana para evitar intoxicaciones o riesgos mayores. Se pide a la poblacion evitar transitar por la zona y permitir el libre paso a los vehiculos de emergencia.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-07-29T12:30:00-06:00",
-      "fecha_vigencia": "2026-07-29T18:00:00-06:00",
-      "ubicacion": "Interseccion San Juan y Sevilla, Col. San Juan Bosco",
-      "fuente": "@PC_Leon",
-      "url": ""
+      "titulo": "Corte de agua por sustitución de tubería en Col. León Moderno",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) notifica la suspensión temporal del suministro de agua potable en la colonia León Moderno debido a la sustitución programada de una línea principal de distribución. Se prevé la normalización del servicio durante la mañana del 31 de julio.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-07-30T10:00:00-06:00",
+      "fecha_vigencia": "2026-07-31T08:00:00-06:00",
+      "ubicacion": "Colonia León Moderno",
+      "fuente": "SAPAL León",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Corte de luz programado en Las Trojes",
-      "descripcion": "La Comision Federal de Electricidad notifica a los residentes y comercios de la colonia Las Trojes sobre una suspension temporal en el suministro de energia debido a la instalacion de nuevos transformadores para mejorar la red local.\n\nEl corte esta programado para iniciar en punto de las 10:00 horas y se espera que el servicio quede completamente restablecido pasadas las 16:30 horas. Se sugiere tomar precauciones con aparatos electronicos y alimentos refrigerados.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-07-29T09:00:00-06:00",
-      "fecha_vigencia": "2026-07-29T17:00:00-06:00",
-      "ubicacion": "Colonia Las Trojes",
-      "fuente": "AM Leon",
-      "url": ""
+      "titulo": "Pronóstico de vientos fuertes y rachas para la zona sur de León",
+      "descripcion": "La Dirección de Protección Civil emite un aviso meteorológico por la entrada de un frente de inestabilidad que ocasionará rachas de viento de hasta 45 km/h y posible caída de ramas sobre vialidades del sur del municipio, especialmente cerca del Blvd. Timoteo Lozano. Se insta a extremar precauciones al conducir.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-07-30T11:15:00-06:00",
+      "fecha_vigencia": "2026-07-30T22:00:00-06:00",
+      "ubicacion": "Zona Sur de la ciudad (Blvd. Timoteo Lozano y periféricos)",
+      "fuente": "Protección Civil León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Congestionamiento por concierto en Velaria",
-      "descripcion": "Debido a la presentacion de un artista de talla internacional en las instalaciones de la Velaria de la Feria programada para esta noche, se anticipa una carga vehicular pesada en los bulevares Paseo de los Ninos y Francisco Villa.\n\nLas autoridades municipales recomiendan a los asistentes llegar con anticipacion, utilizar el transporte publico, o emplear rutas alternas si solo se transita por las inmediaciones del recinto ferial.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎤",
-      "fecha_publicacion": "2026-07-29T11:45:00-06:00",
-      "fecha_vigencia": "2026-07-29T23:59:00-06:00",
-      "ubicacion": "Velaria de la Feria, Blvd. Paseo de los Ninos",
-      "fuente": "@GobMunLeon",
-      "url": ""
+      "titulo": "Operativo 'Vialidad Segura' en accesos a la zona industrial Delta",
+      "descripcion": "Elementos de la Secretaría de Seguridad, Prevención y Protección Ciudadana implementan un dispositivo de agilización del tránsito y alcoholimetría preventiva en la zona de parques industriales Delta y Santa Cruz. Se prevé tránsito lento durante las horas pico de salida de turnos de trabajo.",
+      "categoria": "seguridad",
+      "prioridad": "media",
+      "emoji": "👮",
+      "fecha_publicacion": "2026-07-29T16:00:00-06:00",
+      "fecha_vigencia": "2026-07-31T23:59:00-06:00",
+      "ubicacion": "Zona Industrial Delta y accesos a Santa Cruz",
+      "fuente": "Secretaría de Seguridad Pública de León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Reduccion de carriles en Malecon del Rio",
-      "descripcion": "La Direccion de Obra Publica informa el cierre temporal del carril inferior del Malecon del Rio de los Gomez, en el tramo comprendido entre Blvd. Hidalgo y Blvd. Vicente Valtierra, direccion norte a sur.\n\nLa medida obedece a labores de desazolve y retiro de escombro tras los fuertes vientos y arrastres de los ultimos dias. El cierre se mantendra durante las proximas 48 horas, por lo que se pide a los automovilistas usar los carriles superiores.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚜",
-      "fecha_publicacion": "2026-07-28T09:00:00-06:00",
-      "fecha_vigencia": "2026-07-30T18:00:00-06:00",
-      "ubicacion": "Malecon del Rio entre Hidalgo y Vicente Valtierra",
-      "fuente": "@GobMunLeon",
-      "url": "www.leon.gob.mx"
-    },
-    {
-      "id": "ALERTA_006",
-      "titulo": "Rachas de viento y caida de arboles",
-      "descripcion": "La Secretaria de Seguridad y Proteccion Civil advierte sobre fuertes rachas de viento atipicas que han provocado la caida de al menos tres arboles de gran tamano en la zona sur de la ciudad, especificamente afectando vialidades en la colonia 10 de Mayo.\n\nEquipos de emergencia de Parques y Jardines ya se encuentran en el lugar trozando y retirando el follaje. Se pide a conductores manejar con extrema precaucion por la posible presencia de ramas en el arroyo vehicular.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🍃",
-      "fecha_publicacion": "2026-07-28T16:30:00-06:00",
-      "fecha_vigencia": "2026-07-29T20:00:00-06:00",
-      "ubicacion": "Colonia 10 de Mayo",
-      "fuente": "@PC_Leon",
-      "url": ""
+      "titulo": "Reducción de carriles por feria gastronómica en Plaza Mayor",
+      "descripcion": "Debido a la instalación de logística e infraestructura para la Feria Gastronómica Regional en las inmediaciones del centro comercial Plaza Mayor, se registra reducción de carriles sobre el Blvd. Juan Alonso de Torres en sentido poniente. Se sugiere utilizar Blvd. Cerro Gordo para evitar carga vehicular.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-07-30T12:00:00-06:00",
+      "fecha_vigencia": "2026-08-01T23:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres a la altura de Plaza Mayor",
+      "fuente": "Gobierno Municipal de León",
+      "url": "https://www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚧"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🚰"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "🌦️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
