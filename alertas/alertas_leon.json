@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-07-30T14:00:00-06:00",
+  "ultima_actualizacion": "2026-07-31T14:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por obras de drenaje pluvial en Blvd. San Juan Bosco",
-      "descripcion": "La Dirección de Obra Pública y Tránsito Municipal informan el cierre parcial de un carril en dirección poniente a oriente sobre el Blvd. San Juan Bosco, a la altura de la colonia Vista Hermosa, debido a la sustitución de la tubería de drenaje pluvial. Se recomienda tomar como vía alternativa el Blvd. Juan Alonso de Torres.",
+      "titulo": "Semáforos inoperantes por falla de energía",
+      "descripcion": "La Dirección de Tránsito Municipal informa que debido a un corte de energía en la zona, la red de semáforos en la intersección de Blvd. Vicente Valtierra y Blvd. Hilario Medina se encuentra fuera de servicio. Elementos de vialidad ya se encuentran en el punto dirigiendo el tráfico.\n\nSe recomienda a los automovilistas extremar precauciones, reducir la velocidad y ceder el paso a los peatones. El personal de CFE y mantenimiento vial estima que el servicio se restablecerá alrededor de las 16:00 horas.",
       "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-07-30T08:30:00-06:00",
-      "fecha_vigencia": "2026-08-02T18:00:00-06:00",
-      "ubicacion": "Blvd. San Juan Bosco intersección con Col. Vista Hermosa",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-07-31T12:15:00-06:00",
+      "fecha_vigencia": "2026-07-31T16:00:00-06:00",
+      "ubicacion": "Blvd. Vicente Valtierra esquina Blvd. Hilario Medina",
+      "fuente": "@TransitoLeon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Corte de agua por sustitución de tubería en Col. León Moderno",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) notifica la suspensión temporal del suministro de agua potable en la colonia León Moderno debido a la sustitución programada de una línea principal de distribución. Se prevé la normalización del servicio durante la mañana del 31 de julio.",
+      "titulo": "Trabajos de bacheo profundo en Las Torres",
+      "descripcion": "La Dirección de Obra Pública notifica sobre trabajos de bacheo profundo y mantenimiento de la carpeta asfáltica en el Blvd. Juan Alonso de Torres, en el tramo comprendido entre Paseo del Moral y Blvd. Campestre, en sentido de oriente a poniente.\n\nLas labores obligan a la reducción de dos carriles de circulación, lo que está generando avance lento en la zona. Se sugiere utilizar el Blvd. Mariano Escobedo o el Blvd. Guanajuato como rutas alternas durante el horario de los trabajos.",
       "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-07-30T10:00:00-06:00",
-      "fecha_vigencia": "2026-07-31T08:00:00-06:00",
-      "ubicacion": "Colonia León Moderno",
-      "fuente": "SAPAL León",
-      "url": "https://www.sapal.gob.mx"
+      "prioridad": "baja",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-07-31T09:00:00-06:00",
+      "fecha_vigencia": "2026-07-31T17:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres, tramo Moral-Campestre",
+      "fuente": "www.leon.gob.mx",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Pronóstico de vientos fuertes y rachas para la zona sur de León",
-      "descripcion": "La Dirección de Protección Civil emite un aviso meteorológico por la entrada de un frente de inestabilidad que ocasionará rachas de viento de hasta 45 km/h y posible caída de ramas sobre vialidades del sur del municipio, especialmente cerca del Blvd. Timoteo Lozano. Se insta a extremar precauciones al conducir.",
+      "titulo": "Activación de Fase de Precontingencia Ambiental",
+      "descripcion": "La Secretaría de Medio Ambiente ha activado la fase de Precontingencia Ambiental debido a las altas concentraciones de partículas PM10 registradas en la estación de monitoreo CICEG durante las últimas horas, superando los límites permisibles.\n\nSe prohíben las quemas a cielo abierto y se recomienda a la población vulnerable (niños, adultos mayores y personas con enfermedades respiratorias) evitar actividades físicas al aire libre hasta nuevo aviso.",
       "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "🌬️",
-      "fecha_publicacion": "2026-07-30T11:15:00-06:00",
-      "fecha_vigencia": "2026-07-30T22:00:00-06:00",
-      "ubicacion": "Zona Sur de la ciudad (Blvd. Timoteo Lozano y periféricos)",
-      "fuente": "Protección Civil León",
-      "url": "https://www.leon.gob.mx"
+      "prioridad": "alta",
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-07-30T20:30:00-06:00",
+      "fecha_vigencia": "2026-08-01T12:00:00-06:00",
+      "ubicacion": "Zona sur y centro de León",
+      "fuente": "@PC_Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo 'Vialidad Segura' en accesos a la zona industrial Delta",
-      "descripcion": "Elementos de la Secretaría de Seguridad, Prevención y Protección Ciudadana implementan un dispositivo de agilización del tránsito y alcoholimetría preventiva en la zona de parques industriales Delta y Santa Cruz. Se prevé tránsito lento durante las horas pico de salida de turnos de trabajo.",
+      "titulo": "Operativo Alcoholímetro y Revisión Vehicular",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana informa que como parte de la estrategia 'Salvando Vidas', se instalarán filtros de revisión vehicular y alcoholímetro en los principales accesos a la ciudad, incluyendo el Eco Bulevar (salida a San Francisco del Rincón) y la salida a Silao.\n\nEl operativo busca prevenir accidentes relacionados con el consumo de alcohol durante el fin de semana. Se solicita a los conductores tener su documentación en regla y colaborar con los oficiales durante las revisiones preventivas.",
       "categoria": "seguridad",
       "prioridad": "media",
       "emoji": "👮",
-      "fecha_publicacion": "2026-07-29T16:00:00-06:00",
-      "fecha_vigencia": "2026-07-31T23:59:00-06:00",
-      "ubicacion": "Zona Industrial Delta y accesos a Santa Cruz",
-      "fuente": "Secretaría de Seguridad Pública de León",
-      "url": "https://www.leon.gob.mx"
+      "fecha_publicacion": "2026-07-31T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-02T03:00:00-06:00",
+      "ubicacion": "Eco Bulevar y Blvd. Aeropuerto",
+      "fuente": "@GobMunLeon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Reducción de carriles por feria gastronómica en Plaza Mayor",
-      "descripcion": "Debido a la instalación de logística e infraestructura para la Feria Gastronómica Regional en las inmediaciones del centro comercial Plaza Mayor, se registra reducción de carriles sobre el Blvd. Juan Alonso de Torres en sentido poniente. Se sugiere utilizar Blvd. Cerro Gordo para evitar carga vehicular.",
+      "titulo": "Cierres preventivos por partido en Estadio León",
+      "descripcion": "Con motivo del encuentro de fútbol programado para esta noche en el Estadio León, la Policía Vial implementará un operativo de cierres parciales y control de tráfico en las inmediaciones del recinto a partir de las 17:00 horas.\n\nLas vialidades con mayor afectación serán el Blvd. Adolfo López Mateos (lateral derecha), Blvd. Vasco de Quiroga y la calle Olimpo. Se prevé saturación en los estacionamientos aledaños y alta afluencia peatonal, por lo que se recomienda a quienes no asistan al evento evitar la zona del Polígono Poliforum.",
       "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎪",
-      "fecha_publicacion": "2026-07-30T12:00:00-06:00",
-      "fecha_vigencia": "2026-08-01T23:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres a la altura de Plaza Mayor",
-      "fuente": "Gobierno Municipal de León",
-      "url": "https://www.leon.gob.mx"
+      "prioridad": "media",
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-07-31T08:00:00-06:00",
+      "fecha_vigencia": "2026-07-31T23:59:00-06:00",
+      "ubicacion": "Inmediaciones del Estadio León",
+      "fuente": "Milenio Leon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚧"
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🚰"
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌦️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🏟️"
     }
   },
   "prioridades": {
