@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-01T10:17:14-06:00",
+  "ultima_actualizacion": "2026-08-03T13:30:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial en Blvd. Juan Alonso de Torres",
-      "descripcion": "La Dirección de Obra Pública informa el cierre de dos carriles de circulación en el Blvd. Juan Alonso de Torres (Las Torres), en su cruce con el Blvd. Hilario Medina, debido a trabajos de bacheo profundo y mantenimiento de la carpeta asfáltica. Se recomienda utilizar el Blvd. Vicente Valtierra como vía alterna para evitar demoras.",
+      "titulo": "Accidente vehicular en Blvd. Morelos",
+      "descripcion": "Se reporta un fuerte choque por alcance entre un camion de transporte de personal y dos vehiculos particulares sobre el Blvd. Jose Maria Morelos, a la altura del distribuidor vial Benito Juarez en direccion de norte a sur. Elementos de Transito y Paramédicos laboran en la zona. Se recomienda utilizar el Blvd. Las Torres como ruta alterna debido al cierre de dos carriles centrales.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-08-01T07:30:00-06:00",
-      "fecha_vigencia": "2026-08-01T18:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres y Blvd. Hilario Medina",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-03T12:15:00-06:00",
+      "fecha_vigencia": "2026-08-03T16:00:00-06:00",
+      "ubicacion": "Blvd. Jose Maria Morelos y Distribuidor Benito Juarez",
       "fuente": "Transito Municipal Leon",
-      "url": "www.leon.gob.mx"
+      "url": "https://www.leon.gob.mx/transito"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Suspensión de agua en San Juan de Dios y Centro",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) notifica a los vecinos del Barrio de San Juan de Dios y la zona Centro sobre un corte temporal en el servicio de agua potable. Esto obedece a la reparación urgente de una fuga detectada en la red principal de distribución. El servicio se restablecerá gradualmente durante la noche de este sábado.",
+      "titulo": "Suspension de servicio de agua por mantenimiento",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a trabajos de interconexion y mantenimiento en la red principal, se suspendera el suministro de agua en las colonias San Juan de Dios, Barrio Arriba y Obregon. Se pide a la ciudadania tomar precauciones y racionar su consumo. El servicio se restablecera de manera gradual durante la madrugada del martes.",
       "categoria": "servicios",
-      "prioridad": "alta",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-08-01T08:15:00-06:00",
-      "fecha_vigencia": "2026-08-01T23:59:00-06:00",
-      "ubicacion": "Barrio de San Juan de Dios y Zona Centro",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-02T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-03T23:59:00-06:00",
+      "ubicacion": "Colonias San Juan de Dios, Barrio Arriba y Obregon",
       "fuente": "SAPAL",
-      "url": "www.sapal.gob.mx"
+      "url": "https://www.sapal.gob.mx/avisos"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso preventivo por altas temperaturas",
-      "descripcion": "Protección Civil de León emite un aviso preventivo ante las condiciones meteorológicas que provocarán temperaturas máximas de hasta 34°C durante el mediodía y la tarde. Se exhorta a la población a mantenerse hidratada, evitar la exposición prolongada al sol entre las 12:00 y 17:00 horas, y mantener resguardadas a las mascotas.",
-      "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "☀️",
-      "fecha_publicacion": "2026-08-01T09:00:00-06:00",
-      "fecha_vigencia": "2026-08-01T19:00:00-06:00",
-      "ubicacion": "Todo el municipio de León",
-      "fuente": "PC Leon",
-      "url": ""
+      "titulo": "Cierre parcial por obras de repavimentacion",
+      "descripcion": "La Direccion de Obra Publica notifica el cierre de circulacion en el carril de baja velocidad del Blvd. Hilario Medina, en el tramo comprendido entre Blvd. Vicente Valtierra y calle Candelaria. Las cuadrillas estaran realizando trabajos de fresado y colocacion de nueva carpeta asfaltica. Se sugiere transitar con extrema precaucion y respetar los limites de velocidad por presencia de maquinaria pesada.",
+      "categoria": "trafico",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-02T08:30:00-06:00",
+      "fecha_vigencia": "2026-08-04T18:00:00-06:00",
+      "ubicacion": "Blvd. Hilario Medina entre Valtierra y Candelaria",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://www.leon.gob.mx/obrapub"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Cierres viales por Carrera Atlética de Verano",
-      "descripcion": "Este sábado se llevará a cabo la Carrera Atlética de Verano 5K, lo que generará cierres intermitentes a partir de las 18:00 horas en la Calzada de los Héroes y la prolongación Calzada, abarcando las inmediaciones del Fórum Cultural. Elementos de Policía Vial abanderarán la zona para garantizar la seguridad de los participantes y automovilistas.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🏃",
-      "fecha_publicacion": "2026-08-01T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-01T21:30:00-06:00",
-      "ubicacion": "Calzada de los Héroes y Fórum Cultural",
-      "fuente": "GobMunLeon",
-      "url": ""
+      "titulo": "Alerta por altas temperaturas y radiacion UV",
+      "descripcion": "Proteccion Civil Municipal emite una alerta preventiva por una ola de calor atipica para la temporada, esperando temperaturas que podrian alcanzar los 34°C con indices de radiacion UV extremadamente altos entre las 12:00 y las 16:00 horas. Se recomienda a la poblacion mantenerse hidratada, evitar la exposicion prolongada al sol, usar protector solar y prestar especial atencion a menores y adultos mayores.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-03T07:00:00-06:00",
+      "fecha_vigencia": "2026-08-04T20:00:00-06:00",
+      "ubicacion": "Todo el municipio",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://www.leon.gob.mx/proteccioncivil"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Accidente vehicular y tráfico lento en Libramiento Morelos",
-      "descripcion": "Cuerpos de emergencia y elementos de Tránsito atienden la volcadura de un vehículo de carga ligera sobre el Libramiento José María Morelos, a la altura del Parque Metropolitano en dirección al sur. La vialidad presenta fuerte carga vehicular, dejando habilitado únicamente el carril de alta velocidad mientras se realizan las maniobras de retiro.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-08-01T09:45:00-06:00",
-      "fecha_vigencia": "2026-08-01T13:00:00-06:00",
-      "ubicacion": "Libramiento José María Morelos, altura Parque Metropolitano",
+      "titulo": "Cierres viales por evento ciclista en Parque Metropolitano",
+      "descripcion": "Con motivo del desarrollo de la 'Ruta Ciclista Regional', se llevaran a cabo cortes a la circulacion en las vialidades perimetrales al Parque Metropolitano, afectando principalmente el Blvd. Adolfo Lopez Mateos norte y el Camino a Comanja de Corona. El operativo contara con abanderamiento por parte de la Policia Vial. Se sugiere planificar rutas con anticipacion si se dirige a la zona de Balcones del Campestre o Gran Jardin.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-01T15:00:00-06:00",
+      "fecha_vigencia": "2026-08-03T15:00:00-06:00",
+      "ubicacion": "Inmediaciones del Parque Metropolitano de Leon",
       "fuente": "Transito Municipal Leon",
-      "url": ""
+      "url": "https://www.leon.gob.mx/transito/operativos"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": ""
     }
   },
   "prioridades": {
