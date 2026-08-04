@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-03T13:30:00-06:00",
+  "ultima_actualizacion": "2026-08-04T14:58:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Accidente vehicular en Blvd. Morelos",
-      "descripcion": "Se reporta un fuerte choque por alcance entre un camion de transporte de personal y dos vehiculos particulares sobre el Blvd. Jose Maria Morelos, a la altura del distribuidor vial Benito Juarez en direccion de norte a sur. Elementos de Transito y Paramédicos laboran en la zona. Se recomienda utilizar el Blvd. Las Torres como ruta alterna debido al cierre de dos carriles centrales.",
+      "id": "ALERTA_027",
+      "titulo": "Choque aparatoso en Blvd. Delta",
+      "descripcion": "Se registra un fuerte accidente vial entre una unidad del transporte publico (oruga) y un vehiculo particular sobre el Blvd. Delta, a la altura de la colonia Agua Azul. Equipos de emergencia laboran en la zona. El carril exclusivo y el carril izquierdo de circulacion se encuentran bloqueados. Se recomienda utilizar el Blvd. Epsilon como ruta alterna para evitar el embotellamiento hacia la estacion de transferencia.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-03T12:15:00-06:00",
-      "fecha_vigencia": "2026-08-03T16:00:00-06:00",
-      "ubicacion": "Blvd. Jose Maria Morelos y Distribuidor Benito Juarez",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx/transito"
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-08-04T12:15:00-06:00",
+      "fecha_vigencia": "2026-08-04T16:00:00-06:00",
+      "ubicacion": "Blvd. Delta esquina con Via de los Girasoles",
+      "fuente": "@TransitoLeon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
-      "id": "ALERTA_002",
-      "titulo": "Suspension de servicio de agua por mantenimiento",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a trabajos de interconexion y mantenimiento en la red principal, se suspendera el suministro de agua en las colonias San Juan de Dios, Barrio Arriba y Obregon. Se pide a la ciudadania tomar precauciones y racionar su consumo. El servicio se restablecera de manera gradual durante la madrugada del martes.",
+      "id": "ALERTA_028",
+      "titulo": "Fuga y corte de agua en Valles del Campestre",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) notifica sobre la ruptura accidental de una tuberia principal durante trabajos viales en la colonia Valles del Campestre. El suministro de agua potable estara suspendido en esta colonia y en Valle de Leon durante las proximas 8 horas. Cuadrillas especializadas ya se encuentran en el punto realizando las maniobras de reparacion.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-02T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-03T23:59:00-06:00",
-      "ubicacion": "Colonias San Juan de Dios, Barrio Arriba y Obregon",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx/avisos"
+      "emoji": "💧",
+      "fecha_publicacion": "2026-08-04T09:30:00-06:00",
+      "fecha_vigencia": "2026-08-04T18:30:00-06:00",
+      "ubicacion": "Col. Valles del Campestre y Valle de Leon",
+      "fuente": "SAPAL Leon",
+      "url": "https://www.sapal.gob.mx"
     },
     {
-      "id": "ALERTA_003",
-      "titulo": "Cierre parcial por obras de repavimentacion",
-      "descripcion": "La Direccion de Obra Publica notifica el cierre de circulacion en el carril de baja velocidad del Blvd. Hilario Medina, en el tramo comprendido entre Blvd. Vicente Valtierra y calle Candelaria. Las cuadrillas estaran realizando trabajos de fresado y colocacion de nueva carpeta asfaltica. Se sugiere transitar con extrema precaucion y respetar los limites de velocidad por presencia de maquinaria pesada.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-02T08:30:00-06:00",
-      "fecha_vigencia": "2026-08-04T18:00:00-06:00",
-      "ubicacion": "Blvd. Hilario Medina entre Valtierra y Candelaria",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://www.leon.gob.mx/obrapub"
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Alerta por altas temperaturas y radiacion UV",
-      "descripcion": "Proteccion Civil Municipal emite una alerta preventiva por una ola de calor atipica para la temporada, esperando temperaturas que podrian alcanzar los 34°C con indices de radiacion UV extremadamente altos entre las 12:00 y las 16:00 horas. Se recomienda a la poblacion mantenerse hidratada, evitar la exposicion prolongada al sol, usar protector solar y prestar especial atencion a menores y adultos mayores.",
+      "id": "ALERTA_029",
+      "titulo": "Tormenta de rapida formacion en zona oriente",
+      "descripcion": "La Direccion de Proteccion Civil advierte sobre el rapido desarrollo de una celda de tormenta que afectara principalmente la zona oriente de la ciudad, incluyendo las colonias Villas de San Juan, 10 de Mayo y San Juan de Abajo. Se esperan precipitaciones fuertes, actividad electrica y probabilidad de granizo aislado. Se exhorta a la ciudadania a extremar precauciones al conducir y evitar transitar por zonas con tendencia a inundacion.",
       "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-03T07:00:00-06:00",
+      "prioridad": "alta",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-08-04T13:45:00-06:00",
       "fecha_vigencia": "2026-08-04T20:00:00-06:00",
-      "ubicacion": "Todo el municipio",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://www.leon.gob.mx/proteccioncivil"
+      "ubicacion": "Zona Oriente y Suroriente de Leon",
+      "fuente": "@PC_Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
-      "id": "ALERTA_005",
-      "titulo": "Cierres viales por evento ciclista en Parque Metropolitano",
-      "descripcion": "Con motivo del desarrollo de la 'Ruta Ciclista Regional', se llevaran a cabo cortes a la circulacion en las vialidades perimetrales al Parque Metropolitano, afectando principalmente el Blvd. Adolfo Lopez Mateos norte y el Camino a Comanja de Corona. El operativo contara con abanderamiento por parte de la Policia Vial. Se sugiere planificar rutas con anticipacion si se dirige a la zona de Balcones del Campestre o Gran Jardin.",
+      "id": "ALERTA_030",
+      "titulo": "Cierres viales por operativo en Las Joyas",
+      "descripcion": "La Secretaria de Seguridad Publica, en coordinacion con fuerzas estatales, mantiene un despliegue operativo en el poligono de Las Joyas. Debido a la fuerte movilizacion de unidades policiales y de emergencia, se presentan cortes intermitentes a la circulacion sobre el Blvd. Aristoteles y sus intersecciones. Se solicita a los conductores ceder el paso a los vehiculos de emergencia y tomar precauciones.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-08-03T20:10:00-06:00",
+      "fecha_vigencia": "2026-08-04T17:00:00-06:00",
+      "ubicacion": "Poligono Las Joyas y Blvd. Aristoteles",
+      "fuente": "@Seguridad_Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_031",
+      "titulo": "Carga vehicular y peatonal por evento en Poliforum",
+      "descripcion": "Continuan las actividades de la convencion de comics y cultura pop en las instalaciones de Poliforum Leon. Transito Municipal reporta una importante carga vehicular y un alto flujo peatonal en los cruces del Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Elementos de vialidad coordinan el paso peatonal. Considere tiempo adicional para sus traslados si circula por la zona y respete las indicaciones de los agentes.",
       "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-01T15:00:00-06:00",
-      "fecha_vigencia": "2026-08-03T15:00:00-06:00",
-      "ubicacion": "Inmediaciones del Parque Metropolitano de Leon",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx/transito/operativos"
+      "prioridad": "baja",
+      "emoji": "🚶",
+      "fecha_publicacion": "2026-08-03T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-05T20:00:00-06:00",
+      "ubicacion": "Poliforum Leon, Blvd. Adolfo Lopez Mateos y Francisco Villa",
+      "fuente": "Gobierno Municipal",
+      "url": "https://www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎪"
     }
   },
   "prioridades": {
