@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-04T14:58:00-06:00",
+  "ultima_actualizacion": "2026-08-05T13:16:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_027",
-      "titulo": "Choque aparatoso en Blvd. Delta",
-      "descripcion": "Se registra un fuerte accidente vial entre una unidad del transporte publico (oruga) y un vehiculo particular sobre el Blvd. Delta, a la altura de la colonia Agua Azul. Equipos de emergencia laboran en la zona. El carril exclusivo y el carril izquierdo de circulacion se encuentran bloqueados. Se recomienda utilizar el Blvd. Epsilon como ruta alterna para evitar el embotellamiento hacia la estacion de transferencia.",
+      "id": "ALERTA_001",
+      "titulo": "Falla general de semaforos en Blvd. Aeropuerto",
+      "descripcion": "La Direccion de Transito Municipal reporta la inoperatividad de los cruces semaforizados sobre el Blvd. Aeropuerto a la altura del Tajo de Santa Ana y Blvd. Delta debido a un desperfecto electrico en la zona. Se recomienda tomar rutas alternas como el Eje Metropolitano ya que se presenta carga vehicular severa. Agentes de vialidad ya se encuentran coordinando el paso de vehiculos.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-08-04T12:15:00-06:00",
-      "fecha_vigencia": "2026-08-04T16:00:00-06:00",
-      "ubicacion": "Blvd. Delta esquina con Via de los Girasoles",
-      "fuente": "@TransitoLeon",
-      "url": "https://twitter.com/TransitoLeon"
-    },
-    {
-      "id": "ALERTA_028",
-      "titulo": "Fuga y corte de agua en Valles del Campestre",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) notifica sobre la ruptura accidental de una tuberia principal durante trabajos viales en la colonia Valles del Campestre. El suministro de agua potable estara suspendido en esta colonia y en Valle de Leon durante las proximas 8 horas. Cuadrillas especializadas ya se encuentran en el punto realizando las maniobras de reparacion.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-08-04T09:30:00-06:00",
-      "fecha_vigencia": "2026-08-04T18:30:00-06:00",
-      "ubicacion": "Col. Valles del Campestre y Valle de Leon",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx"
-    },
-    {
-      "id": "ALERTA_029",
-      "titulo": "Tormenta de rapida formacion en zona oriente",
-      "descripcion": "La Direccion de Proteccion Civil advierte sobre el rapido desarrollo de una celda de tormenta que afectara principalmente la zona oriente de la ciudad, incluyendo las colonias Villas de San Juan, 10 de Mayo y San Juan de Abajo. Se esperan precipitaciones fuertes, actividad electrica y probabilidad de granizo aislado. Se exhorta a la ciudadania a extremar precauciones al conducir y evitar transitar por zonas con tendencia a inundacion.",
-      "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-08-04T13:45:00-06:00",
-      "fecha_vigencia": "2026-08-04T20:00:00-06:00",
-      "ubicacion": "Zona Oriente y Suroriente de Leon",
-      "fuente": "@PC_Leon",
-      "url": "https://twitter.com/PC_Leon"
-    },
-    {
-      "id": "ALERTA_030",
-      "titulo": "Cierres viales por operativo en Las Joyas",
-      "descripcion": "La Secretaria de Seguridad Publica, en coordinacion con fuerzas estatales, mantiene un despliegue operativo en el poligono de Las Joyas. Debido a la fuerte movilizacion de unidades policiales y de emergencia, se presentan cortes intermitentes a la circulacion sobre el Blvd. Aristoteles y sus intersecciones. Se solicita a los conductores ceder el paso a los vehiculos de emergencia y tomar precauciones.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-08-03T20:10:00-06:00",
-      "fecha_vigencia": "2026-08-04T17:00:00-06:00",
-      "ubicacion": "Poligono Las Joyas y Blvd. Aristoteles",
-      "fuente": "@Seguridad_Leon",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-05T11:00:00-06:00",
+      "fecha_vigencia": "2026-08-05T18:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto interseccion con Tajo de Santa Ana y Blvd. Delta",
+      "fuente": "Transito Municipal Leon",
       "url": ""
     },
     {
-      "id": "ALERTA_031",
-      "titulo": "Carga vehicular y peatonal por evento en Poliforum",
-      "descripcion": "Continuan las actividades de la convencion de comics y cultura pop en las instalaciones de Poliforum Leon. Transito Municipal reporta una importante carga vehicular y un alto flujo peatonal en los cruces del Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Elementos de vialidad coordinan el paso peatonal. Considere tiempo adicional para sus traslados si circula por la zona y respete las indicaciones de los agentes.",
-      "categoria": "eventos",
+      "id": "ALERTA_002",
+      "titulo": "Mantenimiento preventivo en colector sanitario",
+      "descripcion": "SAPAL notifica el inicio de trabajos de desazolve profundo y mantenimiento preventivo en el colector sanitario de la zona poniente. Por este motivo, se mantendra inhabilitado el carril de extrema derecha del Blvd. Mariano Escobedo, en su tramo comprendido entre el Blvd. Francisco Villa y la Calle Pradera. Se exhorta a los automovilistas a manejar con precaucion y anticipar sus traslados.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-05T08:30:00-06:00",
+      "fecha_vigencia": "2026-08-07T17:00:00-06:00",
+      "ubicacion": "Blvd. Mariano Escobedo, entre Francisco Villa y Pradera",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Aviso por probables tormentas puntuales",
+      "descripcion": "Proteccion Civil Municipal advierte sobre el desarrollo de nucleos de tormenta en la zona norte de la ciudad, lo cual estara afectando las inmediaciones de Los Castillos, Presa del Palote y zonas aledanas. Se preve lluvia de moderada a fuerte con posible actividad electrica durante la tarde y noche de hoy. Se recomienda a la ciudadania evitar cruzar arroyos o zonas con antecedentes de inundacion.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-05T12:15:00-06:00",
+      "fecha_vigencia": "2026-08-05T23:59:00-06:00",
+      "ubicacion": "Zona Norte (Los Castillos, Gran Jardin, Presa del Palote)",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Operativo especial de vigilancia en Zona Piel",
+      "descripcion": "La Secretaria de Seguridad Publica implementa un despliegue operativo especial en la Zona Piel y las inmediaciones de la Central de Autobuses ante el incremento de actividad comercial. Elementos de policia preventiva, en conjunto con cadetes de la academia, estaran realizando patrullajes a pie, dirigiendo el flujo de peatones y previniendo la comision de delitos patrimoniales en los corredores comerciales.",
+      "categoria": "seguridad",
       "prioridad": "baja",
-      "emoji": "🚶",
-      "fecha_publicacion": "2026-08-03T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-05T20:00:00-06:00",
-      "ubicacion": "Poliforum Leon, Blvd. Adolfo Lopez Mateos y Francisco Villa",
-      "fuente": "Gobierno Municipal",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "",
+      "fecha_publicacion": "2026-08-04T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-10T20:00:00-06:00",
+      "ubicacion": "Zona Piel y periferia de la Central Camionera",
+      "fuente": "Gobierno Municipal Leon",
+      "url": "www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Congestionamiento por logistica en Poliforum",
+      "descripcion": "Debido al arribo de transporte de carga pesada, expositores y trabajos de montaje logistico para un evento industrial de gran escala que inicia manana en Poliforum Leon, se registra transito lento y cortes intermitentes sobre el Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. La Policia Vial recomienda fuertemente a los conductores utilizar el Blvd. Mariano Escobedo o el Blvd. La Luz como vias alternas.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-04T16:00:00-06:00",
+      "fecha_vigencia": "2026-08-05T18:00:00-06:00",
+      "ubicacion": "Inmediaciones de Poliforum Leon (Lopez Mateos y Francisco Villa)",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": ""
     }
   },
   "prioridades": {
