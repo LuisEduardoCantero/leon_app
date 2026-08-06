@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-05T13:00:00-06:00",
-  "total_noticias": 8,
-  "fuente": "Recopilacion automatica de medios locales",
-  "noticias": [
+  "ultima_actualizacion": "2026-08-06T15:00:00-06:00",
+  "total_alertas": 5,
+  "fuente": "Recopilacion automatica",
+  "alertas": [
     {
-      "id": "NOTICIA_001",
-      "titulo": "Inicia modernización del sistema de pago con tarjeta en la Oruga: adiós al efectivo en 2027",
-      "resumen": "El Sistema Integrado de Transporte (SIT) en León anunció la transición total hacia el pago electrónico. A partir de hoy, 50 nuevas unidades cuentan con validadores de última generación.",
-      "contenido_completo": "El director de Movilidad de León anunció este miércoles el inicio formal de la segunda fase de modernización tecnológica del Sistema Integrado de Transporte (SIT), conocido popularmente como 'La Oruga'. Con una inversión superior a los 45 millones de pesos, se han instalado validadores de última generación en 50 nuevas unidades articuladas que cubrirán las rutas troncales más transitadas de la ciudad, permitiendo no solo el pago con la tradicional tarjeta Pagobús, sino también la integración de pagos sin contacto mediante tarjetas bancarias y aplicaciones móviles. Durante la presentación en la estación de transferencia Delta, las autoridades explicaron que este esfuerzo es el primer paso para una transición que culminará en 2027, año en el que se proyecta eliminar por completo el uso de efectivo a bordo de los camiones. Esta medida busca reducir los tiempos de abordaje en un 30 por ciento y disminuir drásticamente los asaltos a operadores, un problema que el gremio de transportistas ha denunciado de manera reiterada. Representantes de los usuarios señalaron que, aunque la modernización es muy positiva, se requiere habilitar más puntos de recarga en colonias periféricas. El municipio se comprometió a instalar 200 nuevos quioscos de recarga automática en tiendas de conveniencia y espacios públicos antes de finalizar el año.",
-      "categoria": "transporte",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T10:00:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/guanajuato/leon/transporte/inicia-modernizacion-pago-tarjeta-oruga-2026",
-      "relevancia": "alta"
+      "id": "ALERTA_001",
+      "titulo": "Fuerte accidente en Blvd. Aeropuerto",
+      "descripcion": "Se registra un choque múltiple involucrando a tres vehículos particulares y un tráiler sobre el Blvd. Aeropuerto en dirección a Silao, a la altura de los outlets. La circulación se encuentra reducida a un solo carril, generando un embotellamiento severo de más de 3 kilómetros. Se recomienda a los conductores utilizar el Eje Metropolitano como vía alterna. Elementos de Policía Vial y paramédicos ya se encuentran laborando en el lugar.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-08-06T14:15:00-06:00",
+      "fecha_vigencia": "2026-08-06T18:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, altura Outlets Mulza",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     },
     {
-      "id": "NOTICIA_002",
-      "titulo": "Avanza segunda etapa del Malecón del Río: reportan 85% de progreso y cierres parciales",
-      "resumen": "Las obras de ampliación en los carriles inferiores del Malecón del Río alcanzan un 85% de avance. Autoridades piden paciencia a los conductores por cierres preventivos esta semana.",
-      "contenido_completo": "La Secretaría de Infraestructura, Conectividad y Movilidad del Estado de Guanajuato informó que los trabajos correspondientes a la segunda gran etapa de rehabilitación y ampliación del Malecón del Río en la ciudad de León han alcanzado un 85 por ciento de avance general. Esta obra, catalogada como uno de los proyectos de infraestructura más ambiciosos del trienio, tiene como objetivo desahogar el severo congestionamiento vehicular que diariamente colapsa esta arteria vital, reduciendo los tiempos de traslado de norte a sur. Sin embargo, para finalizar la pavimentación con concreto hidráulico en los tramos más complejos, el gobierno municipal anunció cierres viales intermitentes en los carriles inferiores a la altura de la calzada de los Héroes y el bulevar Mariano Escobedo durante los próximos tres días. El director de Obra Pública municipal solicitó paciencia a los miles de automovilistas que utilizan esta vía, sugiriendo rutas alternas como el bulevar Francisco Villa y la avenida Miguel Alemán. Se estima que, una vez concluidos los trabajos a finales de este mes de agosto, la capacidad de flujo del Malecón se incrementará significativamente. Además de la mejora en la carpeta asfáltica, el proyecto integral incluye la rehabilitación del sistema de drenaje pluvial para evitar encharcamientos severos.",
-      "categoria": "desarrollo_urbano",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-04T12:15:00-06:00",
-      "fuente": "www.milenio.com/politica/comunidad/leon",
-      "url": "https://www.milenio.com/politica/comunidad/leon/avanza-segunda-etapa-malecon-del-rio-leon-85-avance",
-      "relevancia": "alta"
+      "id": "ALERTA_002",
+      "titulo": "Falla de semáforos en Blvd. López Mateos",
+      "descripcion": "Debido a una falla en el suministro eléctrico en la zona, la red de semáforos ubicada en la intersección del Blvd. Adolfo López Mateos y el Blvd. Francisco Villa se encuentra inoperante. Elementos de la Policía Vial están agilizando el tráfico de manera manual. Se pide a los automovilistas extremar precauciones, ceder el paso a peatones y reducir la velocidad al aproximarse al cruce.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-08-06T13:40:00-06:00",
+      "fecha_vigencia": "2026-08-06T17:30:00-06:00",
+      "ubicacion": "Intersección Blvd. López Mateos y Blvd. Francisco Villa",
+      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
+      "url": ""
     },
     {
-      "id": "NOTICIA_003",
-      "titulo": "Policía de León desarticula peligrosa banda dedicada al robo de vehículos en Las Joyas",
-      "resumen": "Tras un operativo de inteligencia, autoridades municipales capturaron a cinco sujetos implicados en el robo de automóviles. Se recuperaron tres vehículos con reporte de robo vigente.",
-      "contenido_completo": "En un operativo coordinado que involucró semanas de seguimiento e inteligencia, elementos de la Secretaría de Seguridad, Prevención y Protección Ciudadana de León lograron desarticular una peligrosa banda delictiva dedicada al robo con violencia de vehículos particulares en la zona poniente de la ciudad. La intervención táctica tuvo lugar durante la madrugada de este miércoles en un predio abandonado ubicado en las inmediaciones del polígono habitacional de Las Joyas. En el lugar de los hechos, los agentes policiales lograron la detención de cinco individuos, todos mayores de edad, quienes presuntamente operaban bajo un esquema de interceptación en cruceros poco iluminados. Durante el cateo del inmueble, las autoridades lograron asegurar y recuperar tres camionetas de reciente modelo que contaban con reportes de robo vigentes interpuestos en los últimos cinco días. Además, se confiscaron herramientas especializadas para el desmantelamiento rápido de unidades, inhibidores de señal GPS, chalecos balísticos y dos armas de fuego de calibre corto. El titular de la dependencia de seguridad municipal destacó que este importante golpe al crimen organizado local fue posible gracias a las denuncias ciudadanas anónimas y al uso del sistema de cámaras de videovigilancia conectadas al C4. Los detenidos fueron puestos a disposición de la Fiscalía General del Estado.",
+      "id": "ALERTA_003",
+      "titulo": "Congestionamiento por evento en Domo de la Feria",
+      "descripcion": "Se reporta alta carga vehicular en los alrededores del Domo de la Feria y el Blvd. Paseo de los Niños debido al acceso de asistentes para un concierto programado para esta noche. El congestionamiento afecta principalmente los carriles laterales del Blvd. Francisco Villa. Se sugiere tomar vías alternas como Blvd. Mariano Escobedo o Blvd. La Luz si no asiste al evento.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎤",
+      "fecha_publicacion": "2026-08-06T14:50:00-06:00",
+      "fecha_vigencia": "2026-08-06T22:00:00-06:00",
+      "ubicacion": "Inmediaciones del Domo de la Feria, Blvd. Francisco Villa",
+      "fuente": "Policía Vial León",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Alerta por lluvias intensas en zona norte",
+      "descripcion": "El Sistema Meteorológico y Protección Civil alertan sobre la aproximación de un núcleo de tormenta que dejará lluvias de moderadas a fuertes en la zona norte de la ciudad, afectando principalmente las colonias Los Castillos, Valle Hermoso y las inmediaciones del Parque Metropolitano. Se exhorta a la población a no cruzar arroyos ni calles encharcadas y mantener limpias las alcantarillas.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-08-06T12:00:00-06:00",
+      "fecha_vigencia": "2026-08-06T20:00:00-06:00",
+      "ubicacion": "Zona Norte (Los Castillos, Presa del Palote)",
+      "fuente": "Protección Civil León",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Fuga de gas y evacuación en Zona Piel",
+      "descripcion": "Cuerpos de emergencia del H. Cuerpo de Bomberos y Protección Civil atienden un reporte de fuga de gas natural en una zona comercial del corazón de la Zona Piel. De manera preventiva, se ha evacuado a comerciantes y compradores en un radio de dos cuadras sobre la calle Hilario Medina y Españita. La zona permanece acordonada mientras el personal técnico de la compañía gasera controla la situación y disipa el riesgo.",
       "categoria": "seguridad",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T08:45:00-06:00",
-      "fuente": "www.elsoldeleon.com.mx",
-      "url": "https://www.elsoldeleon.com.mx/policiaca/desarticulan-banda-robo-vehiculos-las-joyas-leon-2026",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_004",
-      "titulo": "SAPICA 2026 anuncia edición de otoño con expectativa de generar derrama económica histórica",
-      "resumen": "La Cámara de la Industria del Calzado presentó la nueva edición de SAPICA. Esperan la visita de más de 3,000 compradores internacionales y ventas millonarias para la ciudad.",
-      "contenido_completo": "La Cámara de la Industria del Calzado del Estado de Guanajuato presentó oficialmente la edición de otoño-invierno del Salón de la Piel y el Calzado (SAPICA) 2026, el cual se llevará a cabo a finales del presente mes en las instalaciones del Poliforum León. Durante la conferencia de prensa celebrada este martes, los organizadores proyectaron expectativas sin precedentes para la reactivación comercial, anticipando una derrama económica superior a los 350 millones de pesos de manera directa para el municipio. El magno evento, considerado la feria de exhibición de calzado y artículos de marroquinería más importante de América Latina, contará con la participación activa de 400 marcas expositoras locales y nacionales. Se ha confirmado la asistencia de más de 3,000 compradores internacionales, destacando nuevas misiones comerciales provenientes de Colombia, Chile y el sur de Estados Unidos. El presidente de la cámara enfatizó que la industria del calzado leonés se encuentra en una fase de profunda innovación tecnológica, apostando fuertemente por diseños sostenibles y el uso de biomateriales para competir en los mercados globales. SAPICA 2026 no solo impulsará la comercialización directa de zapatos, sino que beneficiará enormemente a los sectores hotelero, restaurantero y de servicios en León.",
-      "categoria": "economia",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-04T14:20:00-06:00",
-      "fuente": "Periodico Correo (Leon)",
-      "url": "https://periodicocorreo.com.mx/leon/sapica-2026-anuncia-edicion-otono-expectativa-derrama-historica/",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_005",
-      "titulo": "Museo de Arte e Historia inaugura impresionante exposición inmersiva sobre muralismo mexicano",
-      "resumen": "El MAHG abre sus puertas a una nueva experiencia digital que rinde homenaje a los grandes muralistas. La muestra combina proyecciones en 360 grados y realidad virtual.",
-      "contenido_completo": "Con un espectáculo visual deslumbrante que fusiona tradición y modernidad, el Museo de Arte e Historia de Guanajuato, ubicado dentro del emblemático complejo del Forum Cultural en León, inauguró anoche su nueva y ambiciosa exposición temporal titulada Ecos del Muro: Experiencia Inmersiva. Esta innovadora muestra artística rinde un profundo homenaje al movimiento del muralismo mexicano y a sus tres máximos exponentes universales: Diego Rivera, David Alfaro Siqueiros y José Clemente Orozco. A diferencia de las exhibiciones tradicionales de pintura y caballete, este proyecto utiliza tecnología de vanguardia para envolver al espectador. A través de gigantescas proyecciones de mapeo en 360 grados, sonido envolvente espacial y estaciones interactivas de realidad virtual, los visitantes pueden adentrarse en los intrincados detalles, colores y mensajes sociopolíticos de las obras maestras más icónicas del siglo XX mexicano. La directora del museo destacó que esta es la primera vez que una producción inmersiva de este calibre, desarrollada íntegramente por un colectivo de talentosos artistas visuales e ingenieros guanajuatenses, se presenta en la ciudad de León. La exposición estará abierta al público general a partir de este miércoles y permanecerá en la sala principal hasta noviembre, esperando atraer a más de 50,000 asistentes.",
-      "categoria": "cultura",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T07:10:00-06:00",
-      "fuente": "AM.com.mx/guanajuato/leon",
-      "url": "https://www.am.com.mx/guanajuato/leon/cultura/mahg-inaugura-exposicion-inmersiva-muralismo-mexicano-2026",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_006",
-      "titulo": "Inauguran nueva clínica de atención psicológica gratuita para adolescentes en el centro de León",
-      "resumen": "El gobierno municipal y organizaciones civiles abrieron un centro especializado en salud mental juvenil. Ofrecerá terapias y prevención de adicciones sin costo alguno.",
-      "contenido_completo": "En respuesta a la urgente y creciente preocupación por el deterioro del bienestar emocional entre la población juvenil, el gobierno municipal de León, en estrecha colaboración con asociaciones civiles dedicadas al cuidado sanitario, inauguró este lunes la primera Clínica de Atención Psicológica Integral para Adolescentes. Las modernas instalaciones, ubicadas estratégicamente en la zona centro de la ciudad para garantizar el fácil acceso mediante el transporte público, cuentan con múltiples consultorios equipados y salas diseñadas para terapias grupales. Este nuevo centro médico tiene como objetivo prioritario brindar acompañamiento profesional, diagnóstico temprano y terapias de seguimiento a jóvenes de entre 12 y 19 años que enfrentan trastornos de ansiedad, cuadros de depresión severa, problemas de conducta o que se encuentran en grave riesgo de caer en el consumo de sustancias psicoactivas. Todos los servicios de salud mental, incluyendo la orientación obligatoria a los padres de familia y tutores legales, serán completamente gratuitos para los residentes del municipio tras un breve estudio socioeconómico. La titular de la Dirección General de Salud Municipal destacó durante la ceremonia de corte de listón que los servicios públicos tradicionales se encontraban rebasados. Se estima atender a más de 300 jóvenes mensualmente.",
-      "categoria": "salud",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-03T16:30:00-06:00",
-      "fuente": "www.milenio.com/politica/comunidad/leon",
-      "url": "https://www.milenio.com/politica/comunidad/leon/inauguran-clinica-atencion-psicologica-gratuita-adolescentes",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_007",
-      "titulo": "Universidad de Guanajuato sede León lanza nueva carrera en Inteligencia Artificial y Datos",
-      "resumen": "El campus León de la UG amplía su oferta académica con un programa enfocado en tecnologías emergentes. La primera generación de especialistas iniciará clases en enero de 2027.",
-      "contenido_completo": "El Consejo General Universitario de la Universidad de Guanajuato aprobó formalmente la creación y apertura de la nueva Licenciatura en Inteligencia Artificial y Ciencia de Datos, la cual se impartirá de manera exclusiva en la División de Ciencias e Ingenierías del Campus León. Este histórico anuncio, realizado el pasado martes, responde a la urgente demanda del dinámico sector industrial y tecnológico del Bajío por integrar talento altamente especializado en el análisis de grandes volúmenes de información, aprendizaje automático y desarrollo de algoritmos predictivos complejos. El rector del campus detalló que el diseño del moderno plan de estudios tomó más de dos años de rigurosa investigación académica y contó con la valiosa asesoría directa de importantes empresas tecnológicas con presencia en el estado, asegurando así su absoluta pertinencia en el mercado laboral actual. El nuevo programa educativo, que contempla una duración de ocho semestres intensivos, ofrecerá a los futuros estudiantes acceso a laboratorios recién equipados con servidores de alto rendimiento. El proceso de admisión para la primera generación, que estará conformada por únicamente 40 lugares para garantizar la máxima calidad académica, comenzará en octubre, perfilando el inicio oficial de clases para enero de 2027.",
-      "categoria": "educacion",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-04T11:00:00-06:00",
-      "fuente": "www.elsoldeleon.com.mx",
-      "url": "https://www.elsoldeleon.com.mx/local/ug-campus-leon-lanza-licenciatura-inteligencia-artificial-2026",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_008",
-      "titulo": "Vecinos de la zona norte denuncian alarmante tala clandestina en área de Los Castillos",
-      "resumen": "Colectivos ambientalistas y habitantes de la colonia Los Castillos exigen mayor vigilancia. Reportan el corte ilegal de docenas de árboles mezquites en las últimas semanas.",
-      "contenido_completo": "Habitantes de la populosa colonia Los Castillos y diversos colectivos ambientalistas de León han levantado la voz públicamente para denunciar un alarmante incremento en la tala clandestina de árboles nativos en la zona de amortiguamiento ecológico situada al norte de la presa de El Palote. De acuerdo con los detallados reportes entregados formalmente a la Dirección General de Medio Ambiente municipal, durante las últimas tres semanas se ha documentado fotográficamente el derribo ilegal de al menos 45 ejemplares maduros de mezquites y huizaches. Estas especies se encuentran estrictamente protegidas por las normativas locales debido a su crucial importancia para la retención del suelo fértil y la captación de agua en la región, la cual sufre de estrés hídrico. Los vecinos afectados señalan que grupos de personas no identificadas ingresan a los predios durante altas horas de la madrugada equipados con potentes motosierras, presuntamente para extraer la madera y comercializarla rápidamente en el mercado informal de carbón. Los activistas exigieron una respuesta inmediata por parte de la Policía Ambiental, argumentando que los rondines son insuficientes. El municipio prometió instalar cámaras de monitoreo disimuladas e intensificar los patrullajes nocturnos en el área.",
-      "categoria": "medio_ambiente",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T09:20:00-06:00",
-      "fuente": "Periodico Correo (Leon)",
-      "url": "https://periodicocorreo.com.mx/leon/vecinos-denuncian-tala-clandestina-area-protegida-los-castillos/",
-      "relevancia": "alta"
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-08-05T16:30:00-06:00",
+      "fecha_vigencia": "2026-08-06T19:00:00-06:00",
+      "ubicacion": "Zona Piel, cruce de Hilario Medina y Españita",
+      "fuente": "Bomberos León / PC León",
+      "url": ""
     }
   ],
-  "categorias_noticias": {
-    "transporte": "",
-    "desarrollo_urbano": "",
-    "seguridad": "",
-    "economia": "",
-    "cultura": "",
-    "salud": "",
-    "educacion": "",
-    "medio_ambiente": ""
+  "categorias": {
+    "trafico": {
+      "nombre": "Trafico y Vialidad",
+      "color": "#FF5722",
+      "emoji": "🚗"
+    },
+    "servicios": {
+      "nombre": "Servicios Publicos",
+      "color": "#2196F3",
+      "emoji": "🔧"
+    },
+    "seguridad": {
+      "nombre": "Seguridad Publica",
+      "color": "#F44336",
+      "emoji": "🚓"
+    },
+    "clima": {
+      "nombre": "Clima y Ambiente",
+      "color": "#4CAF50",
+      "emoji": "🌤️"
+    },
+    "eventos": {
+      "nombre": "Eventos Masivos",
+      "color": "#9C27B0",
+      "emoji": "🎉"
+    }
+  },
+  "prioridades": {
+    "baja": {
+      "nombre": "Informativa",
+      "color": "#4CAF50"
+    },
+    "media": {
+      "nombre": "Precaucion",
+      "color": "#FF9800"
+    },
+    "alta": {
+      "nombre": "Urgente",
+      "color": "#F44336"
+    }
   }
 }

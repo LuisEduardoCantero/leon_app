@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-05T13:16:00-06:00",
+  "ultima_actualizacion": "2026-08-06T15:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Falla general de semaforos en Blvd. Aeropuerto",
-      "descripcion": "La Direccion de Transito Municipal reporta la inoperatividad de los cruces semaforizados sobre el Blvd. Aeropuerto a la altura del Tajo de Santa Ana y Blvd. Delta debido a un desperfecto electrico en la zona. Se recomienda tomar rutas alternas como el Eje Metropolitano ya que se presenta carga vehicular severa. Agentes de vialidad ya se encuentran coordinando el paso de vehiculos.",
+      "titulo": "Fuerte accidente en Blvd. Aeropuerto",
+      "descripcion": "Se registra un choque múltiple involucrando a tres vehículos particulares y un tráiler sobre el Blvd. Aeropuerto en dirección a Silao, a la altura de los outlets. La circulación se encuentra reducida a un solo carril, generando un embotellamiento severo de más de 3 kilómetros. Se recomienda a los conductores utilizar el Eje Metropolitano como vía alterna. Elementos de Policía Vial y paramédicos ya se encuentran laborando en el lugar.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T11:00:00-06:00",
-      "fecha_vigencia": "2026-08-05T18:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto interseccion con Tajo de Santa Ana y Blvd. Delta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-08-06T14:15:00-06:00",
+      "fecha_vigencia": "2026-08-06T18:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, altura Outlets Mulza",
       "fuente": "Transito Municipal Leon",
       "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento preventivo en colector sanitario",
-      "descripcion": "SAPAL notifica el inicio de trabajos de desazolve profundo y mantenimiento preventivo en el colector sanitario de la zona poniente. Por este motivo, se mantendra inhabilitado el carril de extrema derecha del Blvd. Mariano Escobedo, en su tramo comprendido entre el Blvd. Francisco Villa y la Calle Pradera. Se exhorta a los automovilistas a manejar con precaucion y anticipar sus traslados.",
+      "titulo": "Falla de semáforos en Blvd. López Mateos",
+      "descripcion": "Debido a una falla en el suministro eléctrico en la zona, la red de semáforos ubicada en la intersección del Blvd. Adolfo López Mateos y el Blvd. Francisco Villa se encuentra inoperante. Elementos de la Policía Vial están agilizando el tráfico de manera manual. Se pide a los automovilistas extremar precauciones, ceder el paso a peatones y reducir la velocidad al aproximarse al cruce.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T08:30:00-06:00",
-      "fecha_vigencia": "2026-08-07T17:00:00-06:00",
-      "ubicacion": "Blvd. Mariano Escobedo, entre Francisco Villa y Pradera",
-      "fuente": "SAPAL",
-      "url": "www.sapal.gob.mx"
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-08-06T13:40:00-06:00",
+      "fecha_vigencia": "2026-08-06T17:30:00-06:00",
+      "ubicacion": "Intersección Blvd. López Mateos y Blvd. Francisco Villa",
+      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso por probables tormentas puntuales",
-      "descripcion": "Proteccion Civil Municipal advierte sobre el desarrollo de nucleos de tormenta en la zona norte de la ciudad, lo cual estara afectando las inmediaciones de Los Castillos, Presa del Palote y zonas aledanas. Se preve lluvia de moderada a fuerte con posible actividad electrica durante la tarde y noche de hoy. Se recomienda a la ciudadania evitar cruzar arroyos o zonas con antecedentes de inundacion.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-05T12:15:00-06:00",
-      "fecha_vigencia": "2026-08-05T23:59:00-06:00",
-      "ubicacion": "Zona Norte (Los Castillos, Gran Jardin, Presa del Palote)",
-      "fuente": "Proteccion Civil Leon",
+      "titulo": "Congestionamiento por evento en Domo de la Feria",
+      "descripcion": "Se reporta alta carga vehicular en los alrededores del Domo de la Feria y el Blvd. Paseo de los Niños debido al acceso de asistentes para un concierto programado para esta noche. El congestionamiento afecta principalmente los carriles laterales del Blvd. Francisco Villa. Se sugiere tomar vías alternas como Blvd. Mariano Escobedo o Blvd. La Luz si no asiste al evento.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎤",
+      "fecha_publicacion": "2026-08-06T14:50:00-06:00",
+      "fecha_vigencia": "2026-08-06T22:00:00-06:00",
+      "ubicacion": "Inmediaciones del Domo de la Feria, Blvd. Francisco Villa",
+      "fuente": "Policía Vial León",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo especial de vigilancia en Zona Piel",
-      "descripcion": "La Secretaria de Seguridad Publica implementa un despliegue operativo especial en la Zona Piel y las inmediaciones de la Central de Autobuses ante el incremento de actividad comercial. Elementos de policia preventiva, en conjunto con cadetes de la academia, estaran realizando patrullajes a pie, dirigiendo el flujo de peatones y previniendo la comision de delitos patrimoniales en los corredores comerciales.",
-      "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-04T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-10T20:00:00-06:00",
-      "ubicacion": "Zona Piel y periferia de la Central Camionera",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "www.leon.gob.mx"
+      "titulo": "Alerta por lluvias intensas en zona norte",
+      "descripcion": "El Sistema Meteorológico y Protección Civil alertan sobre la aproximación de un núcleo de tormenta que dejará lluvias de moderadas a fuertes en la zona norte de la ciudad, afectando principalmente las colonias Los Castillos, Valle Hermoso y las inmediaciones del Parque Metropolitano. Se exhorta a la población a no cruzar arroyos ni calles encharcadas y mantener limpias las alcantarillas.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-08-06T12:00:00-06:00",
+      "fecha_vigencia": "2026-08-06T20:00:00-06:00",
+      "ubicacion": "Zona Norte (Los Castillos, Presa del Palote)",
+      "fuente": "Protección Civil León",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Congestionamiento por logistica en Poliforum",
-      "descripcion": "Debido al arribo de transporte de carga pesada, expositores y trabajos de montaje logistico para un evento industrial de gran escala que inicia manana en Poliforum Leon, se registra transito lento y cortes intermitentes sobre el Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. La Policia Vial recomienda fuertemente a los conductores utilizar el Blvd. Mariano Escobedo o el Blvd. La Luz como vias alternas.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-04T16:00:00-06:00",
-      "fecha_vigencia": "2026-08-05T18:00:00-06:00",
-      "ubicacion": "Inmediaciones de Poliforum Leon (Lopez Mateos y Francisco Villa)",
-      "fuente": "Transito Municipal Leon",
+      "titulo": "Fuga de gas y evacuación en Zona Piel",
+      "descripcion": "Cuerpos de emergencia del H. Cuerpo de Bomberos y Protección Civil atienden un reporte de fuga de gas natural en una zona comercial del corazón de la Zona Piel. De manera preventiva, se ha evacuado a comerciantes y compradores en un radio de dos cuadras sobre la calle Hilario Medina y Españita. La zona permanece acordonada mientras el personal técnico de la compañía gasera controla la situación y disipa el riesgo.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-08-05T16:30:00-06:00",
+      "fecha_vigencia": "2026-08-06T19:00:00-06:00",
+      "ubicacion": "Zona Piel, cruce de Hilario Medina y Españita",
+      "fuente": "Bomberos León / PC León",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎉"
     }
   },
   "prioridades": {
