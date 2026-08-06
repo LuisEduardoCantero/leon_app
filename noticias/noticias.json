@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-06T15:00:00-06:00",
-  "total_alertas": 5,
-  "fuente": "Recopilacion automatica",
-  "alertas": [
+  "ultima_actualizacion": "2026-08-06T18:00:00-06:00",
+  "total_noticias": 8,
+  "fuente": "Recopilacion automatica de medios locales",
+  "noticias": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Fuerte accidente en Blvd. Aeropuerto",
-      "descripcion": "Se registra un choque múltiple involucrando a tres vehículos particulares y un tráiler sobre el Blvd. Aeropuerto en dirección a Silao, a la altura de los outlets. La circulación se encuentra reducida a un solo carril, generando un embotellamiento severo de más de 3 kilómetros. Se recomienda a los conductores utilizar el Eje Metropolitano como vía alterna. Elementos de Policía Vial y paramédicos ya se encuentran laborando en el lugar.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-08-06T14:15:00-06:00",
-      "fecha_vigencia": "2026-08-06T18:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, altura Outlets Mulza",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "id": "NOTICIA_001",
+      "titulo": "León estrena ruta de Transporte Urbano Incluyente TÜI; más de 2 mil usuarios serán beneficiados",
+      "resumen": "Se puso en operación la nueva ruta RI-08 del Transporte Urbano Incluyente (TÜI) en León. Beneficiará a más de 2 mil usuarios con discapacidad, facilitando su acceso a servicios médicos y de rehabilitación.",
+      "contenido_completo": "La ciudad de León dio un paso importante en materia de movilidad inclusiva al poner en operación la nueva ruta RI-08 de su sistema de Transporte Urbano Incluyente (TÜI) este 4 de agosto de 2026. Este servicio especializado busca atender una demanda creciente para el traslado seguro y adecuado de personas con discapacidad física o movilidad reducida hacia centros de rehabilitación y áreas de atención especializada.\n\nSe estima que más de 2 mil usuarios serán beneficiados de forma directa con la apertura de este nuevo recorrido. Las unidades de la ruta cuentan con adecuaciones específicas, como rampas automáticas, espacios designados para sillas de ruedas, asideros y señalética en sistema braille, para garantizar un viaje accesible y libre de barreras físicas.\n\nLa Dirección de Movilidad de León subrayó que este tipo de proyectos son fundamentales para la integración social y el derecho al libre tránsito de todas las personas. Además, se espera que en el futuro la red del TÜI se expanda para conectar con más estaciones de transferencia y hospitales del municipio, mejorando sustancialmente la calidad de vida de los sectores más vulnerables de la población local.",
+      "categoria": "transporte",
+      "emoji": "🚌",
+      "fecha_publicacion": "2026-08-05T10:00:00-06:00",
+      "fuente": "Milenio León",
+      "url": "https://www.milenio.com/temas/leon",
+      "relevancia": "alta"
     },
     {
-      "id": "ALERTA_002",
-      "titulo": "Falla de semáforos en Blvd. López Mateos",
-      "descripcion": "Debido a una falla en el suministro eléctrico en la zona, la red de semáforos ubicada en la intersección del Blvd. Adolfo López Mateos y el Blvd. Francisco Villa se encuentra inoperante. Elementos de la Policía Vial están agilizando el tráfico de manera manual. Se pide a los automovilistas extremar precauciones, ceder el paso a peatones y reducir la velocidad al aproximarse al cruce.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🚦",
-      "fecha_publicacion": "2026-08-06T13:40:00-06:00",
-      "fecha_vigencia": "2026-08-06T17:30:00-06:00",
-      "ubicacion": "Intersección Blvd. López Mateos y Blvd. Francisco Villa",
-      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
-      "url": ""
+      "id": "NOTICIA_002",
+      "titulo": "Van 260 millones y 3 años de espera, pero la nanotecnología de Sapal sigue sin permisos",
+      "resumen": "El proyecto de nanotecnología del Sistema de Agua Potable y Alcantarillado de León (Sapal) permanece detenido por falta de permisos. La inversión acumulada asciende a los 260 millones de pesos sin fecha de arranque.",
+      "contenido_completo": "A tres años de haber sido anunciada como una solución innovadora para el tratamiento de agua en la región, la planta de nanotecnología impulsada por el Sistema de Agua Potable y Alcantarillado de León (Sapal) aún no cuenta con los permisos necesarios para su operación. Este estancamiento burocrático mantiene inmovilizada una inversión que ya alcanza los 260 millones de pesos provenientes del erario municipal.\n\nLa infraestructura fue diseñada para purificar el vital líquido mediante procesos de tecnología avanzada, con el fin de incrementar las reservas de agua potable en la ciudad frente a los retos de la sequía y la alta demanda poblacional. Sin embargo, los trámites ante autoridades federales y ambientales no se han concretado, lo que impide que los equipos de última generación puedan encenderse y cumplir con su propósito original.\n\nMiembros del consejo directivo y regidores del Ayuntamiento de León han expresado su preocupación por el largo tiempo de espera y el capital invertido en una obra inoperante. Las autoridades locales mantienen gestiones constantes con las dependencias correspondientes, aunque hasta el momento no se ha establecido una fecha clara para que la planta de nanotecnología entre en funcionamiento y comience a beneficiar el suministro hídrico de los leoneses.",
+      "categoria": "desarrollo_urbano",
+      "emoji": "🏗️",
+      "fecha_publicacion": "2026-08-05T14:30:00-06:00",
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon",
+      "relevancia": "media"
     },
     {
-      "id": "ALERTA_003",
-      "titulo": "Congestionamiento por evento en Domo de la Feria",
-      "descripcion": "Se reporta alta carga vehicular en los alrededores del Domo de la Feria y el Blvd. Paseo de los Niños debido al acceso de asistentes para un concierto programado para esta noche. El congestionamiento afecta principalmente los carriles laterales del Blvd. Francisco Villa. Se sugiere tomar vías alternas como Blvd. Mariano Escobedo o Blvd. La Luz si no asiste al evento.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎤",
-      "fecha_publicacion": "2026-08-06T14:50:00-06:00",
-      "fecha_vigencia": "2026-08-06T22:00:00-06:00",
-      "ubicacion": "Inmediaciones del Domo de la Feria, Blvd. Francisco Villa",
-      "fuente": "Policía Vial León",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Alerta por lluvias intensas en zona norte",
-      "descripcion": "El Sistema Meteorológico y Protección Civil alertan sobre la aproximación de un núcleo de tormenta que dejará lluvias de moderadas a fuertes en la zona norte de la ciudad, afectando principalmente las colonias Los Castillos, Valle Hermoso y las inmediaciones del Parque Metropolitano. Se exhorta a la población a no cruzar arroyos ni calles encharcadas y mantener limpias las alcantarillas.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-08-06T12:00:00-06:00",
-      "fecha_vigencia": "2026-08-06T20:00:00-06:00",
-      "ubicacion": "Zona Norte (Los Castillos, Presa del Palote)",
-      "fuente": "Protección Civil León",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Fuga de gas y evacuación en Zona Piel",
-      "descripcion": "Cuerpos de emergencia del H. Cuerpo de Bomberos y Protección Civil atienden un reporte de fuga de gas natural en una zona comercial del corazón de la Zona Piel. De manera preventiva, se ha evacuado a comerciantes y compradores en un radio de dos cuadras sobre la calle Hilario Medina y Españita. La zona permanece acordonada mientras el personal técnico de la compañía gasera controla la situación y disipa el riesgo.",
+      "id": "NOTICIA_003",
+      "titulo": "Doble hallazgo en León: Matan a mujer y hombre en zona cerril de Las Joyas",
+      "resumen": "Los cuerpos de un hombre y una mujer con huellas de violencia fueron hallados en una zona cerril del polígono de Las Joyas. La Fiscalía inició las investigaciones correspondientes tras el reporte policiaco.",
+      "contenido_completo": "La mañana del 4 de agosto, elementos de seguridad confirmaron el violento hallazgo de dos cuerpos sin vida en una zona despoblada de la colonia Punta del Sol, en las inmediaciones del polígono de Las Joyas. Se trata de un hombre y una mujer que presentaban evidentes signos de violencia y heridas de arma de fuego, de acuerdo con los primeros reportes periciales recabados en el lugar de los hechos.\n\nEl doble homicidio fue reportado de manera anónima a la línea de emergencias 911, alertando sobre la presencia de las víctimas en un área cerril de muy difícil acceso. Al llegar al sitio, policías preventivos municipales y paramédicos confirmaron que ambas personas carecían de signos vitales, por lo que procedieron a resguardar el perímetro con cinta amarilla para evitar la alteración y contaminación de la escena.\n\nPeritos de la Fiscalía General del Estado de Guanajuato acudieron posteriormente para iniciar la rigurosa recolección de indicios y trasladar los restos a las instalaciones del Servicio Médico Forense (Semefo). Hasta el momento, las identidades de las víctimas permanecen en calidad de desconocidas, y las autoridades mantienen abiertas diversas líneas de investigación para esclarecer el móvil del crimen.",
       "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-08-05T16:30:00-06:00",
-      "fecha_vigencia": "2026-08-06T19:00:00-06:00",
-      "ubicacion": "Zona Piel, cruce de Hilario Medina y Españita",
-      "fuente": "Bomberos León / PC León",
-      "url": ""
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-08-04T11:15:00-06:00",
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/08/04/doble-hallazgo-en-leon-matan-a-mujer-y-hombre-en-zona-cerril-de-las-joyas-1827628.html",
+      "relevancia": "alta"
+    },
+    {
+      "id": "NOTICIA_004",
+      "titulo": "Fábrica de hielo operaba sin permiso, paga multa y ahora construirá 5 naves",
+      "resumen": "El Municipio de León multó con más de 124 mil pesos a una fábrica de hielo por operar de manera irregular. Además, se le autorizó el cambio de uso de suelo para construir cinco naves industriales.",
+      "contenido_completo": "La Comisión de Desarrollo Urbano del Ayuntamiento de León aprobó la regularización de un predio ubicado en la zona sur del municipio, donde anteriormente operaba una fábrica de hielo sin los permisos correspondientes. Para subsanar las irregularidades operativas, el gobierno local aplicó a la empresa infractora una multa económica que asciende a los 124 mil 554 pesos.\n\nDurante la sesión, los regidores avalaron el cambio de asignación de uso de suelo del terreno, pasando de Zona Agrícola a Industria de Intensidad Alta. El predio, situado en el Ejido de San Judas sobre la carretera Los Ramírez-Santa Ana del Conde, cuenta con una superficie de más de 58 mil metros cuadrados. Según el Instituto Municipal de Planeación (Implan), las operaciones de la fábrica de hielo se detuvieron hace más de un año.\n\nCon el nuevo uso de suelo aprobado, la empresa desarrolladora proyecta la construcción de cinco nuevas naves industriales que serán destinadas para su arrendamiento. Esta resolución generó debate entre los integrantes del Ayuntamiento, quienes cuestionaron inicialmente las operaciones irregulares, pero terminaron aprobando el proyecto argumentando que promete atraer nueva infraestructura, generar empleos directos y fortalecer la oferta de espacios para la inversión económica.",
+      "categoria": "economia",
+      "emoji": "📈",
+      "fecha_publicacion": "2026-08-04T16:45:00-06:00",
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/08/04/fabrica-de-hielo-operaba-sin-permiso-paga-multa-y-ahora-construira-5-naves-1827656.html",
+      "relevancia": "media"
+    },
+    {
+      "id": "NOTICIA_005",
+      "titulo": "Sí habrá 'Halloween Zoo' este año, pero... no en el Zoológico",
+      "resumen": "La décima edición del popular evento 'Halloween Zoo' está confirmada para este 2026 en León, pero cambiará de sede. Ya no se realizará en las instalaciones del Zoológico debido a restricciones de protección ambiental.",
+      "contenido_completo": "La popular celebración conocida como 'Halloween Zoo', que por años ha reunido a miles de personas, confirmó la realización de su décima edición para este 2026. Sin embargo, los organizadores anunciaron que el evento cambiará de sede y dejará de llevarse a cabo en las instalaciones del Zoológico de León, como era tradición, para cumplir con normativas vigentes de protección ambiental y cuidado animal.\n\nEl cambio obedece a las múltiples observaciones y restricciones emitidas por la Procuraduría Federal de Protección al Ambiente (Profepa). Durante la edición anterior, el evento enfrentó críticas por parte de activistas a través de diversas plataformas digitales, donde argumentaban que el ruido excesivo, las potentes luces estroboscópicas y la afluencia masiva de visitantes nocturnos alteraban gravemente el bienestar y el ciclo de sueño de los ejemplares resguardados en el parque.\n\nAnte esta situación, el equipo de comunicación del evento, operado por una empresa particular, aseguró que la nueva locación garantizará el ambiente festivo sin comprometer la tranquilidad de ninguna especie. La ubicación oficial será revelada en los próximos días mediante una rueda de prensa, lo que mantiene a la expectativa a los cientos de jóvenes y familias leonesas que acuden cada año a disfrutar de los recorridos.",
+      "categoria": "cultura",
+      "emoji": "🎭",
+      "fecha_publicacion": "2026-08-04T09:20:00-06:00",
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/08/02/si-habra-halloween-zoo-este-ano-pero-no-en-el-zoologico-1826784.html",
+      "relevancia": "media"
+    },
+    {
+      "id": "NOTICIA_006",
+      "titulo": "Saturado el Issste León: Hacen filas de horas y no hay citas de especialidad para 2026",
+      "resumen": "La clínica del ISSSTE en León reportó una severa saturación al agotar su agenda de citas para especialidades médicas de todo 2026. Autoridades buscan implementar estrategias emergentes para ampliar la atención a los derechohabientes.",
+      "contenido_completo": "La clínica de medicina familiar y de especialidades del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (ISSSTE) en León se encuentra operando al límite de su capacidad operativa. En los primeros días de agosto, las autoridades médicas confirmaron que la agenda para consultas de diversas especialidades se encuentra totalmente agotada para lo que resta del año 2026, dejando a cientos de derechohabientes en lista de espera.\n\nLos pacientes que acudieron recientemente a solicitar turnos para áreas críticas como cardiología, traumatología y oftalmología fueron informados de que no hay espacios disponibles a corto ni mediano plazo. Esta situación ha generado largas filas y evidentes molestias entre los usuarios, quienes denuncian tiempos de espera de hasta seis meses solo para recibir una valoración inicial. Muchos de ellos se ven obligados a buscar atención en el sector privado, asumiendo costos elevados que impactan su economía familiar.\n\nAnte la crisis de saturación, la dirección del ISSSTE en la ciudad anunció que buscará implementar de inmediato un plan emergente. Entre las estrategias que se están evaluando destaca la contratación de personal médico por honorarios, la apertura de turnos vespertinos y guardias de fines de semana, así como la subrogación temporal de algunos servicios para lograr despresurizar el sistema.",
+      "categoria": "salud",
+      "emoji": "🏥",
+      "fecha_publicacion": "2026-08-04T07:45:00-06:00",
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon",
+      "relevancia": "alta"
+    },
+    {
+      "id": "NOTICIA_007",
+      "titulo": "Telesecundaria de León le dice adiós a la escasez: Cosecharán agua de lluvia",
+      "resumen": "Una telesecundaria en León implementará un novedoso sistema de captación de agua de lluvia. El proyecto garantizará el suministro hídrico del plantel y servirá como herramienta para impulsar la educación sustentable.",
+      "contenido_completo": "Con el objetivo de combatir el constante desabasto hídrico y fomentar la conciencia ambiental desde las aulas, una telesecundaria de León se ha convertido en pionera al instalar un sistema integral para la captación y aprovechamiento de agua de lluvia. Este proyecto, respaldado por autoridades educativas y municipales, permitirá a la institución educativa poner fin a los problemas de escasez que afectaban sus operaciones cotidianas y la higiene básica de sus instalaciones.\n\nLa nueva infraestructura recolectará las precipitaciones pluviales a través de los techos de las aulas, para luego canalizarlas mediante tuberías hacia grandes cisternas de almacenamiento equipadas con filtros purificadores. Esta agua será destinada principalmente para el mantenimiento de las áreas verdes, limpieza de patios y el uso indispensable en los módulos de sanitarios, reduciendo significativamente la dependencia de la red municipal de agua potable de la ciudad.\n\nAdemás del enorme beneficio operativo, el novedoso sistema funcionará como un laboratorio vivo para los estudiantes. Los docentes integrarán el funcionamiento de esta tecnología sustentable en sus planes de estudio, promoviendo una educación práctica orientada a la ecología. Durante la entrega de la obra, autoridades locales señalaron que en la actual administración se han invertido millones en la mejora y equipamiento ecológico de los espacios educativos.",
+      "categoria": "educacion",
+      "emoji": "📚",
+      "fecha_publicacion": "2026-08-06T08:30:00-06:00",
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/08/06/telesecundaria-de-leon-le-dice-adios-a-la-escasez-cosecharan-agua-de-lluvia-1828234.html",
+      "relevancia": "media"
+    },
+    {
+      "id": "NOTICIA_008",
+      "titulo": "Asume Carlos Caballero Acosta la presidencia del Consejo Directivo del Zoológico de León",
+      "resumen": "Carlos Caballero Acosta tomó protesta como nuevo presidente del Consejo Directivo del Zoológico de León. En su primer discurso se comprometió a fortalecer los programas de conservación animal y garantizar la transparencia del recinto.",
+      "contenido_completo": "El Zoológico de León inició una nueva etapa en su administración con la toma de protesta de Carlos Caballero Acosta como nuevo presidente del Consejo Directivo del Patronato. El nombramiento fue oficializado a principios de agosto de 2026, en una ceremonia formal donde diversas autoridades municipales destacaron la enorme importancia de mantener a esta institución como un referente nacional en materia de cuidado y preservación de especies.\n\nDurante su primer discurso al frente del patronato, Caballero Acosta se comprometió a impulsar un manejo administrativo basado en la absoluta transparencia de los recursos y en la mejora continua de los hábitats de los ejemplares. Subrayó que uno de sus principales retos será fortalecer las alianzas con organizaciones internacionales para promover la reproducción de especies en peligro de extinción, así como incentivar la educación ambiental entre los miles de visitantes que recibe el parque anualmente.\n\nEste cambio de directiva ocurre en un momento crucial en el que el zoológico busca renovar su imagen pública tras algunos señalamientos de grupos activistas sobre las políticas de eventos masivos en el recinto. El nuevo presidente aseguró tajantemente que su gestión será de puertas abiertas y mantendrá un diálogo constante para garantizar que el bienestar animal ecológico sea la prioridad absoluta.",
+      "categoria": "medio_ambiente",
+      "emoji": "🌳",
+      "fecha_publicacion": "2026-08-05T13:00:00-06:00",
+      "fuente": "Milenio León",
+      "url": "https://www.milenio.com/temas/leon",
+      "relevancia": "media"
     }
   ],
-  "categorias": {
-    "trafico": {
-      "nombre": "Trafico y Vialidad",
-      "color": "#FF5722",
-      "emoji": "🚗"
-    },
-    "servicios": {
-      "nombre": "Servicios Publicos",
-      "color": "#2196F3",
-      "emoji": "🔧"
-    },
-    "seguridad": {
-      "nombre": "Seguridad Publica",
-      "color": "#F44336",
-      "emoji": "🚓"
-    },
-    "clima": {
-      "nombre": "Clima y Ambiente",
-      "color": "#4CAF50",
-      "emoji": "🌤️"
-    },
-    "eventos": {
-      "nombre": "Eventos Masivos",
-      "color": "#9C27B0",
-      "emoji": "🎉"
-    }
-  },
-  "prioridades": {
-    "baja": {
-      "nombre": "Informativa",
-      "color": "#4CAF50"
-    },
-    "media": {
-      "nombre": "Precaucion",
-      "color": "#FF9800"
-    },
-    "alta": {
-      "nombre": "Urgente",
-      "color": "#F44336"
-    }
+  "categorias_noticias": {
+    "transporte": "1 noticia",
+    "desarrollo_urbano": "1 noticia",
+    "seguridad": "1 noticia",
+    "economia": "1 noticia",
+    "cultura": "1 noticia",
+    "salud": "1 noticia",
+    "educacion": "1 noticia",
+    "medio_ambiente": "1 noticia"
   }
 }
