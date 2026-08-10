@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-07T14:44:55-06:00",
+  "ultima_actualizacion": "2026-08-10T09:20:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Encharcamientos por lluvia en Blvd. Timoteo Lozano",
-      "descripcion": "La Dirección de Protección Civil informa sobre acumulación de agua y encharcamientos severos en el Blvd. Timoteo Lozano, a la altura de la colonia San Miguel. Se recomienda a los conductores tomar vías alternas como el Blvd. Torres Landa para evitar daños a sus vehículos y congestionamiento.\n\nPersonal operativo de Protección Civil y Bomberos ya se encuentran en la zona realizando labores de desazolve de alcantarillas.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-08-07T13:15:00-06:00",
-      "fecha_vigencia": "2026-08-07T18:00:00-06:00",
-      "ubicacion": "Blvd. Timoteo Lozano, altura San Miguel",
-      "fuente": "Proteccion Civil Municipal",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_002",
-      "titulo": "Accidente múltiple en Blvd. San Juan Bosco",
-      "descripcion": "Se registra un fuerte accidente vial que involucra a tres vehículos particulares y una motocicleta sobre el Blvd. San Juan Bosco, en su cruce con el Blvd. Miguel de Cervantes Saavedra. La circulación se encuentra reducida a un solo carril en dirección al centro.\n\nUnidades de emergencia de Cruz Roja y Policía Vial atienden el incidente. Se reporta carga vehicular pesada desde la colonia Vibar, por lo que se pide extremar precauciones.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-08-07T14:05:00-06:00",
-      "fecha_vigencia": "2026-08-07T16:30:00-06:00",
-      "ubicacion": "Blvd. San Juan Bosco y Cervantes Saavedra",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_003",
-      "titulo": "Cierre nocturno en Malecón del Río",
-      "descripcion": "La Secretaría de Infraestructura, Movilidad y Desarrollo Sustentable avisa sobre el cierre total de la parte baja del Malecón del Río, en el tramo de Blvd. Adolfo López Mateos a Calzada de los Héroes, debido a trabajos nocturnos de modernización y balizamiento.\n\nEl cierre comenzará a las 22:30 horas y concluirá a las 05:00 horas del día siguiente. Se pide a los automovilistas utilizar la parte alta del Malecón o el Blvd. Francisco Villa como rutas alternativas.",
+      "id": "ALERTA_026",
+      "titulo": "Cierres nocturnos por mantenimiento en Distribuidor Vial Benito Juarez",
+      "descripcion": "La Direccion de Obra Publica informa que se llevaran a cabo cierres parciales nocturnos en el Distribuidor Vial Benito Juarez, afectando la circulacion que conecta el Blvd. Clouthier con el Libramiento Jose Maria Morelos. Los trabajos consisten en la sustitucion de luminarias y mantenimiento de la carpeta asfaltica.\n\nSe recomienda a los automovilistas utilizar vias alternas como el Blvd. Campestre o Blvd. San Juan Bosco. Las obras se realizaran exclusivamente en horario nocturno para minimizar el impacto en el trafico diario.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-08-07T09:00:00-06:00",
-      "fecha_vigencia": "2026-08-08T05:00:00-06:00",
-      "ubicacion": "Malecón del Río (tramo López Mateos a Calzada)",
+      "fecha_publicacion": "2026-08-09T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-12T05:00:00-06:00",
+      "ubicacion": "Distribuidor Vial Benito Juarez (Clouthier y Morelos)",
       "fuente": "Obra Publica Leon",
-      "url": ""
+      "url": "www.leon.gob.mx"
     },
     {
-      "id": "ALERTA_004",
-      "titulo": "Falta de suministro eléctrico en zona Centro",
-      "descripcion": "Comerciantes y residentes de la zona Centro de León reportan un corte en el suministro de energía eléctrica que afecta principalmente el corredor peatonal de la calle Madero y la Plaza Principal. Los semáforos en las intersecciones cercanas se encuentran apagados.\n\nCuadrillas de la Comisión Federal de Electricidad (CFE) ya están enteradas del reporte y estiman el restablecimiento del servicio en un lapso de 2 a 3 horas. Tránsito Municipal apoya en los cruces peatonales para evitar accidentes.",
+      "id": "ALERTA_027",
+      "titulo": "Suspension de servicio de agua en Jardines del Moral y zonas aledanas",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a la reparacion de emergencia de una tuberia de conduccion de 12 pulgadas, se suspendera temporalmente el suministro de agua potable en la colonia Jardines del Moral, Bosques del Campestre y Valle de Leon.\n\nCuadrillas de la paramunicipal ya se encuentran laborando en la zona. Se estima que el servicio comience a restablecerse paulatinamente a partir de la noche de hoy. Se solicita a la ciudadania hacer un uso racional del agua almacenada en sus tinacos y cisternas.",
       "categoria": "servicios",
       "prioridad": "alta",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-08-07T12:45:00-06:00",
-      "fecha_vigencia": "2026-08-07T16:00:00-06:00",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-08-10T08:15:00-06:00",
+      "fecha_vigencia": "2026-08-11T12:00:00-06:00",
+      "ubicacion": "Colonia Jardines del Moral y zonas aledanas",
+      "fuente": "SAPAL Leon",
+      "url": "www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_028",
+      "titulo": "Desvio de rutas de transporte por evento deportivo en Zona Centro",
+      "descripcion": "La Direccion de Movilidad notifica a los usuarios del Sistema Integrado de Transporte (SIT) que diversas rutas convencionales y alimentadoras que cruzan el primer cuadro de la ciudad sufriran desvios temporales. Esto obedece a la realizacion de un evento deportivo que mantendra cerrada la calle Francisco I. Madero y la zona peatonal.\n\nLas rutas afectadas incluyen la R-16, R-34 y algunas unidades articuladas de la linea 1 que reduciran su velocidad en el paradero Aquiles Serdan. Se invita a los usuarios a anticipar sus traslados y consultar las modificaciones detalladas en la aplicacion oficial.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "🏃",
+      "fecha_publicacion": "2026-08-08T14:30:00-06:00",
+      "fecha_vigencia": "2026-08-10T15:00:00-06:00",
       "ubicacion": "Zona Centro, Calle Madero y Plaza Principal",
-      "fuente": "Reportes ciudadanos / Transito Leon",
+      "fuente": "Movilidad Leon",
       "url": ""
     },
     {
-      "id": "ALERTA_005",
-      "titulo": "Tráfico denso por concierto en Domo de la Feria",
-      "descripcion": "La Policía Vial de León informa sobre carga vehicular intensa en el Blvd. Adolfo López Mateos y el Paseo de los Niños, esto derivado del ingreso de asistentes a un concierto programado para esta noche en el Domo de la Feria.\n\nSe ha implementado un operativo para agilizar el tráfico y el acceso a los estacionamientos del complejo ferial. Se recomienda a la ciudadanía que no acuda al evento, evitar transitar por la zona y utilizar el Blvd. Mariano Escobedo o Blvd. La Luz.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎤",
-      "fecha_publicacion": "2026-08-07T14:30:00-06:00",
-      "fecha_vigencia": "2026-08-07T23:30:00-06:00",
-      "ubicacion": "Domo de la Feria, Blvd. Adolfo López Mateos",
-      "fuente": "Transito Municipal Leon",
+      "id": "ALERTA_029",
+      "titulo": "Fuerte accidente y cierre total en Blvd. Hermanos Aldama",
+      "descripcion": "Elementos de la Policia Vial y cuerpos de rescate atienden un aparatoso accidente tipo volcadura que involucra a un vehiculo de transporte de materiales en el Blvd. Hermanos Aldama, a la altura del Parque Industrial Stiva, en direccion al sur de la ciudad.\n\nLa vialidad se encuentra completamente cerrada en dicho sentido mientras se realizan las maniobras para retirar la unidad y limpiar el derrame de combustible. Se exhorta a los conductores a evitar la zona y utilizar la carretera a Cueramaro o el Blvd. Timoteo Lozano como rutas alternas para evitar largas filas.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-08-10T07:45:00-06:00",
+      "fecha_vigencia": "2026-08-10T14:00:00-06:00",
+      "ubicacion": "Blvd. Hermanos Aldama, altura Parque Industrial Stiva",
+      "fuente": "Transito Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_030",
+      "titulo": "Caida de arboles y cables electricos por fuertes rachas de viento",
+      "descripcion": "La Direccion de Proteccion Civil reporta que los fuertes vientos registrados durante la madrugada han provocado la caida de al menos tres arboles de gran tamano y el desprendimiento de cableado electrico en las inmediaciones de la colonia Leon Moderno y Las Arboledas.\n\nPersonal de CFE y cuadrillas municipales ya se encuentran en el lugar para retirar los escombros y restablecer el suministro de energia en las viviendas afectadas. Se recomienda a los peatones no acercarse a zonas con cables sueltos y reportar cualquier situacion de riesgo al numero de emergencias 911.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-08-09T06:20:00-06:00",
+      "fecha_vigencia": "2026-08-10T18:00:00-06:00",
+      "ubicacion": "Colonia Leon Moderno y Las Arboledas",
+      "fuente": "Proteccion Civil Leon",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎫"
+      "emoji": ""
     }
   },
   "prioridades": {
