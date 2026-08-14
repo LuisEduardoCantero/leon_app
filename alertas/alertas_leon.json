@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-13T14:30:25-06:00",
+  "ultima_actualizacion": "2026-08-14T12:27:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Choque por alcance en Libramiento Morelos",
-      "descripcion": "Se registra un accidente vial involucrando un camion de carga y dos automoviles particulares sobre el Libramiento Jose Maria Morelos, a la altura del Blvd. Hilario Medina. Los carriles central e izquierdo estan obstruidos en direccion poniente. Se sugiere utilizar el Blvd. Juan Alonso de Torres como ruta alterna.",
+      "titulo": "Reparacion de hundimiento en Blvd. Las Torres",
+      "descripcion": "La Direccion de Obra Publica trabaja en la reparacion de un hundimiento detectado en el carril central del Blvd. Juan Alonso de Torres, a la altura de Paseo del Moral. Se mantiene cerrado un carril en direccion de poniente a oriente. Se recomienda utilizar el Blvd. Campestre como ruta alterna para evitar congestionamientos severos.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-08-13T13:45:00-06:00",
-      "fecha_vigencia": "2026-08-13T16:30:00-06:00",
-      "ubicacion": "Libramiento Jose Maria Morelos y Blvd. Hilario Medina",
-      "fuente": "@TransitoLeon",
-      "url": ""
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-08-14T09:00:00-06:00",
+      "fecha_vigencia": "2026-08-16T20:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres y Paseo del Moral",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Trabajos de mantenimiento en red hidraulica",
-      "descripcion": "SAPAL notifica sobre trabajos de interconexion y mantenimiento preventivo en tuberias de suministro. Se experimentara baja presion y posibles cortes intermitentes de agua potable en la colonia Leon Moderno y fraccionamientos adyacentes durante una jornada estimada de 8 horas.",
-      "categoria": "servicios",
+      "titulo": "Pronostico de lluvias intensas en Zona Norte",
+      "descripcion": "Proteccion Civil advierte sobre la formacion de nucleos de tormenta que afectaran principalmente la zona norte de la ciudad durante la tarde y noche de hoy. Se pronostican lluvias puntuales fuertes con posible caida de granizo en colonias como Los Castillos, Balcones del Campestre y Gran Jardin. Se exhorta a conducir con precaucion, encender las luces y mantener distancia entre vehiculos.",
+      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-08-13T08:00:00-06:00",
-      "fecha_vigencia": "2026-08-13T18:00:00-06:00",
-      "ubicacion": "Colonia Leon Moderno",
-      "fuente": "www.sapal.gob.mx",
-      "url": ""
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-08-14T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-14T23:59:00-06:00",
+      "ubicacion": "Zona Norte (Los Castillos, Gran Jardin)",
+      "fuente": "PC_Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Reduccion de carriles por evento deportivo",
-      "descripcion": "Debido a la logistica e instalacion de infraestructuras para una carrera atletica programada para el fin de semana, se instalaran vallas en el carril de baja velocidad del Blvd. Paseo de los Insurgentes. Se advierte transito lento en la zona hospitalaria.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🏃",
-      "fecha_publicacion": "2026-08-13T10:30:00-06:00",
-      "fecha_vigencia": "2026-08-15T12:00:00-06:00",
-      "ubicacion": "Blvd. Paseo de los Insurgentes",
-      "fuente": "@GobMunLeon",
-      "url": ""
+      "titulo": "Mantenimiento a pozo afecta abasto de agua",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que, debido a trabajos de mantenimiento preventivo y correctivo en la infraestructura hidraulica y un pozo profundo, el servicio presentara baja presion o cortes intermitentes en las colonias Leon I y Deportiva II. El suministro se restablecera de forma paulatina durante el fin de semana.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-08-14T08:30:00-06:00",
+      "fecha_vigencia": "2026-08-16T12:00:00-06:00",
+      "ubicacion": "Colonias Leon I y Deportiva II",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Bancos de niebla densa en salidas de la ciudad",
-      "descripcion": "La Direccion de Proteccion Civil emite un aviso precautorio para automovilistas por la formacion de espesos bancos de niebla en la carretera de salida a Lagos de Moreno. La visibilidad se reduce a menos de 50 metros. Se solicita encender luces, disminuir velocidad y no rebasar.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🌫️",
-      "fecha_publicacion": "2026-08-13T06:15:00-06:00",
-      "fecha_vigencia": "2026-08-14T09:00:00-06:00",
-      "ubicacion": "Carretera Leon - Lagos de Moreno",
-      "fuente": "@PC_Leon",
-      "url": ""
+      "titulo": "Falla general de semaforos en crucero principal",
+      "descripcion": "Se reporta la inoperatividad total del sistema de semaforizacion en el concurrido cruce de Blvd. Vicente Valtierra y Blvd. Francisco Villa debido a un corto circuito ocurrido durante la madrugada. Elementos de la Policia Vial se encuentran en el lugar coordinando el transito vehicular de forma manual. Se pide extremar precauciones, reducir la velocidad y acatar las indicaciones de los agentes.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-08-14T07:15:00-06:00",
+      "fecha_vigencia": "2026-08-14T18:00:00-06:00",
+      "ubicacion": "Cruce de Blvd. Vicente Valtierra y Blvd. Francisco Villa",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Despliegue operativo en el sector Las Joyas",
-      "descripcion": "Elementos de Seguridad Publica realizan un operativo de vigilancia e inspeccion vehicular en el sector de Las Joyas (zona Baluartes) como parte del programa de disuasion. Hay filtros de revision instalados intermitentemente. Se pide la cooperacion de los ciudadanos y facilitar las labores.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-08-13T12:00:00-06:00",
-      "fecha_vigencia": "2026-08-13T20:00:00-06:00",
-      "ubicacion": "Poligono Las Joyas",
-      "fuente": "Milenio Leon",
-      "url": ""
+      "titulo": "Cierres parciales por festividad en El Coecillo",
+      "descripcion": "La Direccion General de Movilidad avisa a la ciudadania que debido a festividades tradicionales y la instalacion de comercio semifijo en el Barrio del Coecillo, se implementaran cierres viales en la calle San Juan y vialidades aledanas a la plaza principal a partir de las 18:00 horas. Algunas rutas convencionales sufriran desvios menores en sus trayectos originales.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎉",
+      "fecha_publicacion": "2026-08-14T11:00:00-06:00",
+      "fecha_vigencia": "2026-08-15T01:00:00-06:00",
+      "ubicacion": "Barrio del Coecillo (Calle San Juan)",
+      "fuente": "GobMunLeon",
+      "url": "https://twitter.com/GobMunLeon"
     }
   ],
   "categorias": {
@@ -84,17 +84,17 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛅"
+      "emoji": "☀️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎪"
     }
   },
   "prioridades": {
