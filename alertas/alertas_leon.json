@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-14T12:27:00-06:00",
+  "ultima_actualizacion": "2026-08-17T12:35:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Reparacion de hundimiento en Blvd. Las Torres",
-      "descripcion": "La Direccion de Obra Publica trabaja en la reparacion de un hundimiento detectado en el carril central del Blvd. Juan Alonso de Torres, a la altura de Paseo del Moral. Se mantiene cerrado un carril en direccion de poniente a oriente. Se recomienda utilizar el Blvd. Campestre como ruta alterna para evitar congestionamientos severos.",
+      "titulo": "Cierre parcial por reencarpetamiento en Blvd. Lopez Mateos",
+      "descripcion": "La Direccion de Obra Publica notifica el cierre de dos carriles de circulacion en el Blvd. Adolfo Lopez Mateos, en el tramo comprendido entre Blvd. Francisco Villa y Av. Pradera, direccion centro. Los trabajos de mantenimiento y bacheo profundo se realizaran en horario diurno. Se recomienda utilizar el Blvd. Juan Jose Torres Landa como via alterna para evitar congestionamientos.",
       "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-08-14T09:00:00-06:00",
-      "fecha_vigencia": "2026-08-16T20:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres y Paseo del Moral",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "",
+      "fecha_publicacion": "2026-08-16T08:00:00-06:00",
+      "fecha_vigencia": "2026-08-19T18:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos, zona Poliforum",
+      "fuente": "Obra Publica Leon",
+      "url": "www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Pronostico de lluvias intensas en Zona Norte",
-      "descripcion": "Proteccion Civil advierte sobre la formacion de nucleos de tormenta que afectaran principalmente la zona norte de la ciudad durante la tarde y noche de hoy. Se pronostican lluvias puntuales fuertes con posible caida de granizo en colonias como Los Castillos, Balcones del Campestre y Gran Jardin. Se exhorta a conducir con precaucion, encender las luces y mantener distancia entre vehiculos.",
-      "categoria": "clima",
+      "titulo": "Corte programado de energia en Barrio del Coecillo",
+      "descripcion": "La Comision Federal de Electricidad (CFE) informa sobre la suspension temporal del suministro electrico debido a trabajos de libranza y mantenimiento preventivo en lineas de media tension. La afectacion comprendera el perimetro del Barrio del Coecillo y parte de la colonia Killian. Se estima que el servicio se restablezca en su totalidad despues de las 16:00 horas.",
+      "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-08-14T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-14T23:59:00-06:00",
-      "ubicacion": "Zona Norte (Los Castillos, Gran Jardin)",
-      "fuente": "PC_Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "emoji": "",
+      "fecha_publicacion": "2026-08-15T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-17T16:00:00-06:00",
+      "ubicacion": "Barrio del Coecillo y Col. Killian",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Mantenimiento a pozo afecta abasto de agua",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que, debido a trabajos de mantenimiento preventivo y correctivo en la infraestructura hidraulica y un pozo profundo, el servicio presentara baja presion o cortes intermitentes en las colonias Leon I y Deportiva II. El suministro se restablecera de forma paulatina durante el fin de semana.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-08-14T08:30:00-06:00",
-      "fecha_vigencia": "2026-08-16T12:00:00-06:00",
-      "ubicacion": "Colonias Leon I y Deportiva II",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "titulo": "Alerta por posibles encharcamientos en Malecon del Rio",
+      "descripcion": "Proteccion Civil Municipal emite una alerta preventiva por el pronostico de lluvias puntuales fuertes durante la tarde y noche en la zona urbana. Se mantiene un monitoreo constante en los niveles del Malecon del Rio de los Gomez. Se exhorta a los automovilistas a reducir la velocidad, encender sus luces y evitar utilizar el nivel inferior del Malecon en caso de precipitaciones intensas.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-17T11:00:00-06:00",
+      "fecha_vigencia": "2026-08-18T06:00:00-06:00",
+      "ubicacion": "Malecon del Rio de los Gomez",
+      "fuente": "@PC_Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Falla general de semaforos en crucero principal",
-      "descripcion": "Se reporta la inoperatividad total del sistema de semaforizacion en el concurrido cruce de Blvd. Vicente Valtierra y Blvd. Francisco Villa debido a un corto circuito ocurrido durante la madrugada. Elementos de la Policia Vial se encuentran en el lugar coordinando el transito vehicular de forma manual. Se pide extremar precauciones, reducir la velocidad y acatar las indicaciones de los agentes.",
-      "categoria": "trafico",
+      "titulo": "Trafico lento por accidente en Blvd. Juan Alonso de Torres",
+      "descripcion": "Elementos de Policia Vial atienden un accidente vehicular tipo volcadura sobre el Blvd. Juan Alonso de Torres (Las Torres), a la altura de la colonia San Jeronimo. El carril de alta velocidad se encuentra obstruido en direccion de oriente a poniente. Cuerpos de emergencia laboran en el lugar, por lo que se registra avance lento. Se sugiere tomar Av. Paseo del Moral como alternativa.",
+      "categoria": "seguridad",
       "prioridad": "alta",
-      "emoji": "🚦",
-      "fecha_publicacion": "2026-08-14T07:15:00-06:00",
-      "fecha_vigencia": "2026-08-14T18:00:00-06:00",
-      "ubicacion": "Cruce de Blvd. Vicente Valtierra y Blvd. Francisco Villa",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "emoji": "",
+      "fecha_publicacion": "2026-08-17T12:15:00-06:00",
+      "fecha_vigencia": "2026-08-17T15:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres y San Jeronimo",
+      "fuente": "@TransitoLeon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierres parciales por festividad en El Coecillo",
-      "descripcion": "La Direccion General de Movilidad avisa a la ciudadania que debido a festividades tradicionales y la instalacion de comercio semifijo en el Barrio del Coecillo, se implementaran cierres viales en la calle San Juan y vialidades aledanas a la plaza principal a partir de las 18:00 horas. Algunas rutas convencionales sufriran desvios menores en sus trayectos originales.",
+      "titulo": "Congestionamiento por evento masivo en Poliforum",
+      "descripcion": "Debido a la inauguracion de un congreso industrial en el recinto ferial de Poliforum Leon, se reporta alta carga vehicular en las inmediaciones del Blvd. Adolfo Lopez Mateos, Av. del Nino y Blvd. Francisco Villa. Oficiales de Policia Vial mantienen un operativo en los cruceros aledanos para agilizar el ingreso a los estacionamientos y dar fluidez al transporte publico.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🎉",
-      "fecha_publicacion": "2026-08-14T11:00:00-06:00",
-      "fecha_vigencia": "2026-08-15T01:00:00-06:00",
-      "ubicacion": "Barrio del Coecillo (Calle San Juan)",
-      "fuente": "GobMunLeon",
-      "url": "https://twitter.com/GobMunLeon"
+      "emoji": "",
+      "fecha_publicacion": "2026-08-17T09:30:00-06:00",
+      "fecha_vigencia": "2026-08-17T20:00:00-06:00",
+      "ubicacion": "Poliforum Leon y vias aledanas",
+      "fuente": "@GobMunLeon",
+      "url": "www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "☀️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": ""
     }
   },
   "prioridades": {
