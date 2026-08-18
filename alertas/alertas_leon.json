@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-17T12:35:00-06:00",
+  "ultima_actualizacion": "2026-08-18T12:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por reencarpetamiento en Blvd. Lopez Mateos",
-      "descripcion": "La Direccion de Obra Publica notifica el cierre de dos carriles de circulacion en el Blvd. Adolfo Lopez Mateos, en el tramo comprendido entre Blvd. Francisco Villa y Av. Pradera, direccion centro. Los trabajos de mantenimiento y bacheo profundo se realizaran en horario diurno. Se recomienda utilizar el Blvd. Juan Jose Torres Landa como via alterna para evitar congestionamientos.",
+      "titulo": "Cierre parcial en Malecón del Río",
+      "descripcion": "La Dirección de Obra Pública informa la reducción a un solo carril en la parte baja del Malecón del Río, en el tramo comprendido entre Blvd. Mariano Escobedo y Blvd. Adolfo López Mateos, en dirección norte a sur. Esto se debe a trabajos intensivos de limpieza y mantenimiento de muros de contención. Se recomienda utilizar el carril superior o circular por el Blvd. Francisco Villa como rutas alternas para evitar retrasos.",
       "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-16T08:00:00-06:00",
-      "fecha_vigencia": "2026-08-19T18:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos, zona Poliforum",
-      "fuente": "Obra Publica Leon",
-      "url": "www.leon.gob.mx"
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-08-18T08:00:00-06:00",
+      "fecha_vigencia": "2026-08-20T18:00:00-06:00",
+      "ubicacion": "Malecón del Río entre Mariano Escobedo y López Mateos",
+      "fuente": "Obra Pública León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Corte programado de energia en Barrio del Coecillo",
-      "descripcion": "La Comision Federal de Electricidad (CFE) informa sobre la suspension temporal del suministro electrico debido a trabajos de libranza y mantenimiento preventivo en lineas de media tension. La afectacion comprendera el perimetro del Barrio del Coecillo y parte de la colonia Killian. Se estima que el servicio se restablezca en su totalidad despues de las 16:00 horas.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-15T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-17T16:00:00-06:00",
-      "ubicacion": "Barrio del Coecillo y Col. Killian",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": ""
+      "titulo": "Tráfico denso por accidente múltiple en Blvd. Aeropuerto",
+      "descripcion": "La Policía Vial atiende un accidente tipo carambola que involucra cuatro vehículos particulares a la altura de la zona de los Outlets, en dirección a Silao. El incidente bloquea dos de los tres carriles de circulación, generando un severo cuello de botella y tráfico a vuelta de rueda desde el distribuidor Juan Pablo II. Se pide a los conductores manejar con precaución y ceder el paso a las unidades de emergencia.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-08-18T10:15:00-06:00",
+      "fecha_vigencia": "2026-08-18T14:30:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, zona Outlets",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Alerta por posibles encharcamientos en Malecon del Rio",
-      "descripcion": "Proteccion Civil Municipal emite una alerta preventiva por el pronostico de lluvias puntuales fuertes durante la tarde y noche en la zona urbana. Se mantiene un monitoreo constante en los niveles del Malecon del Rio de los Gomez. Se exhorta a los automovilistas a reducir la velocidad, encender sus luces y evitar utilizar el nivel inferior del Malecon en caso de precipitaciones intensas.",
-      "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-17T11:00:00-06:00",
-      "fecha_vigencia": "2026-08-18T06:00:00-06:00",
-      "ubicacion": "Malecon del Rio de los Gomez",
-      "fuente": "@PC_Leon",
+      "titulo": "Saturación vial por evento en Poliforum",
+      "descripcion": "Debido a la inauguración de una convención industrial masiva, se registra saturación en los estacionamientos aledaños y tráfico vehicular considerablemente lento sobre el Blvd. Adolfo López Mateos, Av. del Niño y Francisco Villa. Elementos de tránsito municipal se encuentran agilizando el flujo y coordinando el cruce peatonal. Se recomienda prever al menos 25 minutos extra en sus tiempos de traslado si transita por esta zona.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-08-18T09:30:00-06:00",
+      "fecha_vigencia": "2026-08-18T20:00:00-06:00",
+      "ubicacion": "Poliforum León y periferia del Blvd. López Mateos",
+      "fuente": "Dirección de Movilidad",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Trafico lento por accidente en Blvd. Juan Alonso de Torres",
-      "descripcion": "Elementos de Policia Vial atienden un accidente vehicular tipo volcadura sobre el Blvd. Juan Alonso de Torres (Las Torres), a la altura de la colonia San Jeronimo. El carril de alta velocidad se encuentra obstruido en direccion de oriente a poniente. Cuerpos de emergencia laboran en el lugar, por lo que se registra avance lento. Se sugiere tomar Av. Paseo del Moral como alternativa.",
-      "categoria": "seguridad",
+      "titulo": "Encharcamientos severos al sur de la ciudad",
+      "descripcion": "Protección Civil emite aviso por acumulación importante de agua en las intersecciones del Blvd. Timoteo Lozano y Blvd. Hermanos Aldama debido a las lluvias puntuales registradas esta mañana. Se exhorta a los automovilistas y motociclistas a no intentar cruzar zonas con niveles altos de agua y reducir la velocidad para evitar el derrape. Unidades de emergencia realizan recorridos en el área.",
+      "categoria": "clima",
       "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-17T12:15:00-06:00",
-      "fecha_vigencia": "2026-08-17T15:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres y San Jeronimo",
-      "fuente": "@TransitoLeon",
-      "url": ""
+      "emoji": "🌧️",
+      "fecha_publicacion": "2026-08-18T11:45:00-06:00",
+      "fecha_vigencia": "2026-08-18T16:00:00-06:00",
+      "ubicacion": "Cruce de Timoteo Lozano y Hermanos Aldama",
+      "fuente": "Protección Civil León",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Congestionamiento por evento masivo en Poliforum",
-      "descripcion": "Debido a la inauguracion de un congreso industrial en el recinto ferial de Poliforum Leon, se reporta alta carga vehicular en las inmediaciones del Blvd. Adolfo Lopez Mateos, Av. del Nino y Blvd. Francisco Villa. Oficiales de Policia Vial mantienen un operativo en los cruceros aledanos para agilizar el ingreso a los estacionamientos y dar fluidez al transporte publico.",
-      "categoria": "eventos",
+      "titulo": "Suspensión eléctrica por mantenimiento preventivo",
+      "descripcion": "Se reporta un corte de energía programado en las colonias León Moderno y Andrade. Personal de la Comisión Federal de Electricidad (CFE) realiza labores de poda preventiva de árboles que interfieren con las líneas de media tensión, así como trabajos de reemplazo de cableado deteriorado. El suministro eléctrico se restablecerá de manera paulatina a lo largo de la tarde.",
+      "categoria": "servicios",
       "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-08-17T09:30:00-06:00",
-      "fecha_vigencia": "2026-08-17T20:00:00-06:00",
-      "ubicacion": "Poliforum Leon y vias aledanas",
-      "fuente": "@GobMunLeon",
-      "url": "www.leon.gob.mx"
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-08-18T08:30:00-06:00",
+      "fecha_vigencia": "2026-08-18T17:00:00-06:00",
+      "ubicacion": "Colonias León Moderno y Andrade",
+      "fuente": "Atención Ciudadana León",
+      "url": "https://www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚥"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "⛅"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "📅"
     }
   },
   "prioridades": {
