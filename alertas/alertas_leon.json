@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-18T12:00:00-06:00",
+  "ultima_actualizacion": "2026-08-20T11:40:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial en Malecón del Río",
-      "descripcion": "La Dirección de Obra Pública informa la reducción a un solo carril en la parte baja del Malecón del Río, en el tramo comprendido entre Blvd. Mariano Escobedo y Blvd. Adolfo López Mateos, en dirección norte a sur. Esto se debe a trabajos intensivos de limpieza y mantenimiento de muros de contención. Se recomienda utilizar el carril superior o circular por el Blvd. Francisco Villa como rutas alternas para evitar retrasos.",
+      "titulo": "Obras de drenaje en Blvd. Timoteo Lozano",
+      "descripcion": "La Dirección de Obra Pública informa sobre el cierre parcial de dos carriles en el Blvd. Timoteo Lozano, en su cruce con Blvd. Hermanos Aldama, debido a trabajos de rehabilitación de la red de drenaje sanitario. Se recomienda a los automovilistas tomar precauciones, anticipar sus salidas y utilizar vías alternas como el Blvd. Torres Landa para evitar demoras.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-08-18T08:00:00-06:00",
-      "fecha_vigencia": "2026-08-20T18:00:00-06:00",
-      "ubicacion": "Malecón del Río entre Mariano Escobedo y López Mateos",
-      "fuente": "Obra Pública León",
+      "fecha_publicacion": "2026-08-19T08:00:00-06:00",
+      "fecha_vigencia": "2026-08-21T18:00:00-06:00",
+      "ubicacion": "Blvd. Timoteo Lozano esquina Blvd. Hermanos Aldama",
+      "fuente": "Transito Municipal Leon",
       "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Tráfico denso por accidente múltiple en Blvd. Aeropuerto",
-      "descripcion": "La Policía Vial atiende un accidente tipo carambola que involucra cuatro vehículos particulares a la altura de la zona de los Outlets, en dirección a Silao. El incidente bloquea dos de los tres carriles de circulación, generando un severo cuello de botella y tráfico a vuelta de rueda desde el distribuidor Juan Pablo II. Se pide a los conductores manejar con precaución y ceder el paso a las unidades de emergencia.",
-      "categoria": "trafico",
+      "titulo": "Suspensión de servicio de agua en zona sur",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) informa que debido a una falla electromecánica imprevista en el rebombeo principal, las colonias 10 de Mayo, Cerrito de Jerez y aledañas presentarán falta de suministro de agua potable. Cuadrillas especializadas ya se encuentran laborando en la reparación de los equipos para restablecer el servicio a la brevedad posible.",
+      "categoria": "servicios",
       "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-08-18T10:15:00-06:00",
-      "fecha_vigencia": "2026-08-18T14:30:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, zona Outlets",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "emoji": "💧",
+      "fecha_publicacion": "2026-08-20T07:30:00-06:00",
+      "fecha_vigencia": "2026-08-21T12:00:00-06:00",
+      "ubicacion": "Colonias 10 de Mayo y Cerrito de Jerez",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Saturación vial por evento en Poliforum",
-      "descripcion": "Debido a la inauguración de una convención industrial masiva, se registra saturación en los estacionamientos aledaños y tráfico vehicular considerablemente lento sobre el Blvd. Adolfo López Mateos, Av. del Niño y Francisco Villa. Elementos de tránsito municipal se encuentran agilizando el flujo y coordinando el cruce peatonal. Se recomienda prever al menos 25 minutos extra en sus tiempos de traslado si transita por esta zona.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🎪",
-      "fecha_publicacion": "2026-08-18T09:30:00-06:00",
-      "fecha_vigencia": "2026-08-18T20:00:00-06:00",
-      "ubicacion": "Poliforum León y periferia del Blvd. López Mateos",
-      "fuente": "Dirección de Movilidad",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Encharcamientos severos al sur de la ciudad",
-      "descripcion": "Protección Civil emite aviso por acumulación importante de agua en las intersecciones del Blvd. Timoteo Lozano y Blvd. Hermanos Aldama debido a las lluvias puntuales registradas esta mañana. Se exhorta a los automovilistas y motociclistas a no intentar cruzar zonas con niveles altos de agua y reducir la velocidad para evitar el derrape. Unidades de emergencia realizan recorridos en el área.",
+      "titulo": "Alerta por fuertes ráfagas de viento",
+      "descripcion": "Protección Civil Municipal emite un aviso preventivo por pronóstico de ráfagas de viento superiores a 45 km/h durante la tarde en gran parte de la ciudad. Se recomienda a la ciudadanía retirar objetos de azoteas que puedan caer, alejarse de árboles con riesgo de colapso y reportar inmediatamente cualquier cable caído o anuncio espectacular inestable al número de emergencias 911.",
       "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-08-18T11:45:00-06:00",
-      "fecha_vigencia": "2026-08-18T16:00:00-06:00",
-      "ubicacion": "Cruce de Timoteo Lozano y Hermanos Aldama",
+      "prioridad": "media",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-08-20T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-20T21:00:00-06:00",
+      "ubicacion": "Zona Centro y área metropolitana",
       "fuente": "Protección Civil León",
       "url": "https://twitter.com/PC_Leon"
     },
     {
+      "id": "ALERTA_004",
+      "titulo": "Cierre vial por incendio en bodega del Barrio Arriba",
+      "descripcion": "Cuerpos de Bomberos y Protección Civil atienden un incendio en una bodega de insumos para calzado en la colonia Obregón, conocida como el Barrio Arriba. Por protocolos de seguridad, se mantiene cerrada la circulación vehicular y peatonal en las calles 27 de Septiembre y Aquiles Serdán. Se solicita a la población evitar la zona para permitir el libre paso de las unidades de emergencia.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🔥",
+      "fecha_publicacion": "2026-08-19T14:15:00-06:00",
+      "fecha_vigencia": "2026-08-20T18:00:00-06:00",
+      "ubicacion": "Calle 27 de Septiembre, Colonia Obregón",
+      "fuente": "Secretaría de Seguridad Pública",
+      "url": ""
+    },
+    {
       "id": "ALERTA_005",
-      "titulo": "Suspensión eléctrica por mantenimiento preventivo",
-      "descripcion": "Se reporta un corte de energía programado en las colonias León Moderno y Andrade. Personal de la Comisión Federal de Electricidad (CFE) realiza labores de poda preventiva de árboles que interfieren con las líneas de media tensión, así como trabajos de reemplazo de cableado deteriorado. El suministro eléctrico se restablecerá de manera paulatina a lo largo de la tarde.",
-      "categoria": "servicios",
+      "titulo": "Cierres perimetrales por evento en el Expiatorio",
+      "descripcion": "La Dirección General de Movilidad informa que, con motivo de la instalación de escenarios y carpas para un festival cultural de fin de semana, se implementarán cierres viales intermitentes en la calle Francisco I. Madero y calle Zaragoza, en las inmediaciones del Templo Expiatorio. Se pide a los conductores usar la calle Pedro Moreno y Díaz Mirón como rutas alternas.",
+      "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-08-18T08:30:00-06:00",
-      "fecha_vigencia": "2026-08-18T17:00:00-06:00",
-      "ubicacion": "Colonias León Moderno y Andrade",
-      "fuente": "Atención Ciudadana León",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-08-20T09:00:00-06:00",
+      "fecha_vigencia": "2026-08-22T23:00:00-06:00",
+      "ubicacion": "Plaza Expiatorio (Madero y Zaragoza)",
+      "fuente": "Dirección de Movilidad",
       "url": "https://www.leon.gob.mx"
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚥"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛅"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "📅"
+      "emoji": ""
     }
   },
   "prioridades": {
