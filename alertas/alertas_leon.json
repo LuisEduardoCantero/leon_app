@@ -1,9 +1,75 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-27T14:23:03-06:00",
-  "total_alertas": 0,
+  "ultima_actualizacion": "2026-08-27T17:25:32-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
-  "alertas": [],
+  "alertas": [
+    {
+      "id": "ALERTA_001",
+      "titulo": "Volcadura de transporte de carga en Blvd. Las Torres",
+      "descripcion": "La Policia Vial reporta un accidente tipo volcadura de un camion repartidor en el cruce de Blvd. Juan Alonso de Torres y Blvd. Vertiz Campero, direccion oriente. Se mantienen cerrados dos carriles de circulacion mientras se realizan las maniobras de retiro y limpieza de fluidos.\n\nSe registra intenso caos vehicular en la zona. Se recomienda a los conductores utilizar el Blvd. Jose Maria Morelos o el Blvd. Vicente Valtierra como vias alternas. Evite la zona durante las proximas dos horas.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-27T15:30:00-06:00",
+      "fecha_vigencia": "2026-08-27T18:30:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres esq. Vertiz Campero",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_002",
+      "titulo": "Mantenimiento emergente en red de agua Valle Campestre",
+      "descripcion": "Personal operativo de SAPAL atiende la ruptura de una valvula principal de distribucion en la zona norte de la ciudad. Debido a esto, el servicio de agua potable experimentara baja presion o interrupcion total en las colonias Valle Campestre, Bosques del Refugio y Lomas del Campestre.\n\nSe estima que las labores de reparacion concluyan alrededor de las 22:00 horas del dia de hoy, comenzando la recuperacion del servicio durante la madrugada. Se solicita a los vecinos racionar sus reservas en tinacos y cisternas.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-27T11:00:00-06:00",
+      "fecha_vigencia": "2026-08-27T23:59:00-06:00",
+      "ubicacion": "Zona Norte (Valle Campestre y aledañas)",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Pronostico de tormenta electrica al poniente",
+      "descripcion": "Proteccion Civil Municipal emite una alerta temprana ante el desarrollo de un nucleo de tormenta que afectara principalmente la zona poniente y centro de la ciudad durante la tarde y noche. Se esperan lluvias de moderadas a fuertes acompañadas de actividad electrica.\n\nSe exhorta a la ciudadania a conducir con precaucion, encender sus luces, mantener la distancia de seguridad y evitar cruzar por arroyos o calles con historial de encharcamientos severos. Asegure objetos en azoteas y patios.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-27T16:15:00-06:00",
+      "fecha_vigencia": "2026-08-27T22:00:00-06:00",
+      "ubicacion": "Zona Poniente y Centro de Leon",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Paseo ciclista nocturno afectara vialidades del centro",
+      "descripcion": "La Direccion General de Movilidad informa que hoy jueves se llevara a cabo el tradicional paseo ciclista nocturno, el cual iniciara a las 20:00 horas en el Arco de la Calzada, recorriendo la calle Madero hasta la Plaza Principal y regresando por el Blvd. Adolfo Lopez Mateos.\n\nElementos de la Policia Vial realizaran cortes intermitentes a la circulacion al paso del contingente. Se pide a los automovilistas tomar precauciones, respetar los señalamientos de transito y tener paciencia con los participantes del evento.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-27T10:00:00-06:00",
+      "fecha_vigencia": "2026-08-27T23:00:00-06:00",
+      "ubicacion": "Arco de la Calzada - Calle Madero - Zona Centro",
+      "fuente": "Movilidad Leon",
+      "url": "www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Simulacro de evacuacion en Centro Comercial Altacia",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana notifica que, como parte de los protocolos de seguridad civil, se realizara un simulacro de evacuacion por amenaza de incendio en las instalaciones del Centro Comercial Altacia en punto de las 18:00 horas.\n\nHabra movilizacion de unidades de Bomberos, Proteccion Civil y Cruz Roja en el Blvd. Aeropuerto. Es importante recalcar que se trata de un ejercicio preventivo y no de una emergencia real, por lo que se pide no alarmarse ni difundir rumores en redes sociales.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-08-27T14:00:00-06:00",
+      "fecha_vigencia": "2026-08-27T19:30:00-06:00",
+      "ubicacion": "Centro Comercial Altacia, Blvd. Aeropuerto",
+      "fuente": "PC Leon",
+      "url": ""
+    }
+  ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
