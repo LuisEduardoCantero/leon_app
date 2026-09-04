@@ -1,85 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-08-31T14:18:19-06:00",
-  "total_alertas": 6,
+  "ultima_actualizacion": "2026-09-04T08:00:00-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Cierre parcial por carambola en Blvd. Aeropuerto",
-      "descripcion": "Elementos de la Policía Vial atienden un accidente múltiple involucrando cuatro vehículos en Blvd. Aeropuerto a la altura del puente de Tajo de Santa Ana, en dirección de Silao hacia León. Dos carriles de alta velocidad se encuentran obstruidos, generando un importante cuello de botella.\n\nSe recomienda a los automovilistas utilizar el Eje Metropolitano o Blvd. Timoteo Lozano como vías alternas para ingresar a la ciudad. Se estima que las maniobras de retiro con grúa tomen al menos dos horas.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-08-31T08:15:00-06:00",
-      "fecha_vigencia": "2026-08-31T12:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto a la altura de Tajo de Santa Ana",
-      "fuente": "@TransitoLeon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_002",
-      "titulo": "Cierre precautorio del Malecón del Río",
-      "descripcion": "Protección Civil Municipal ha determinado el cierre temporal de los accesos a la parte baja del Malecón del Río de los Gómez debido al incremento rápido y significativo del cauce tras las fuertes y constantes lluvias registradas en la zona norte durante la madrugada de hoy.\n\nEl cierre abarca desde el tramo de Blvd. Hidalgo hasta Vicente Valtierra. Elementos de tránsito resguardan las bajadas. Se pide a la ciudadanía no intentar cruzar ni retirar las vallas de seguridad.",
-      "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-08-31T06:30:00-06:00",
-      "fecha_vigencia": "2026-08-31T16:00:00-06:00",
-      "ubicacion": "Malecón del Río de los Gómez (tramo Blvd. Hidalgo a Vicente Valtierra)",
-      "fuente": "@PC_Leon",
-      "url": "www.leon.gob.mx"
-    },
-    {
-      "id": "ALERTA_003",
-      "titulo": "Cortes intermitentes de energía en Zona Piel",
-      "descripcion": "Comerciantes y residentes de la Zona Piel experimentarán cortes de energía eléctrica intermitentes debido a trabajos de mantenimiento preventivo y sustitución de transformadores por parte de cuadrillas de la CFE en el cuadrante comercial principal.\n\nSe recomienda a los locatarios tomar previsiones respecto a sistemas de cobro y refrigeración. Los cortes no superarán las 2 horas de duración continua por cuadra intervenida.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-08-30T09:00:00-06:00",
-      "fecha_vigencia": "2026-08-31T18:00:00-06:00",
-      "ubicacion": "Zona Piel (cuadrante de Blvd. Hilario Medina, La Luz y Españita)",
-      "fuente": "AM Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Operativo de revisión en Blvd. Mariano Escobedo",
-      "descripcion": "La Secretaría de Seguridad Pública de León implementa un operativo estático de revisión a vehículos con vidrios polarizados y motocicletas sin placas en la intersección del Blvd. Mariano Escobedo y Av. Pradera, dirección oriente.\n\nDebido al filtro de seguridad, se reporta tráfico lento en la zona. Se solicita a los conductores mantener la calma, tener sus documentos en regla y seguir las indicaciones de los oficiales de seguridad y tránsito.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-08-30T16:45:00-06:00",
-      "fecha_vigencia": "2026-08-31T22:00:00-06:00",
-      "ubicacion": "Blvd. Mariano Escobedo y Av. Pradera",
-      "fuente": "@GobMunLeon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Reducción de carriles por pavimentación en Vía Rápida Bicentenario",
-      "descripcion": "La Dirección de Obra Pública informa que continúan los trabajos de rehabilitación profunda de pavimento en el Blvd. José María Morelos (Vía Rápida Bicentenario), específicamente en el tramo comprendido entre Blvd. Ibarrilla y Blvd. Hilario Medina.\n\nSolo se encuentra habilitado el carril de baja velocidad en sentido poniente a oriente, lo que genera demoras significativas de hasta 25 minutos. Se sugiere encarecidamente utilizar el Blvd. Vicente Valtierra como ruta alterna.",
+      "id": "ALERTA_021",
+      "titulo": "Obras de repavimentacion en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "La Direccion de Obra Publica inicia trabajos de repavimentacion nocturna en el Blvd. Adolfo Lopez Mateos, en el tramo de Av. Miguel Aleman hasta Paseo de los Insurgentes. Los cierres seran parciales (dos carriles habilitados) de 22:00 a 05:00 horas. Se recomienda usar Blvd. Mariano Escobedo o Blvd. Vicente Valtierra como vias alternas.",
       "categoria": "trafico",
       "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-08-29T07:00:00-06:00",
-      "fecha_vigencia": "2026-08-31T20:00:00-06:00",
-      "ubicacion": "Blvd. José María Morelos (tramo Ibarrilla - Hilario Medina)",
-      "fuente": "Milenio Leon",
+      "fecha_publicacion": "2026-09-02T09:00:00-06:00",
+      "fecha_vigencia": "2026-09-15T05:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos, zona centro",
+      "fuente": "Obra Publica Leon",
+      "url": "www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_022",
+      "titulo": "Suspension de energia electrica por trabajos de CFE",
+      "descripcion": "La Comision Federal de Electricidad (CFE) informa que debido a trabajos de libranza y mantenimiento a la red aerea, se suspendera el suministro electrico en las colonias Andrade, Leon Moderno y partes de la Zona Centro. Se exhorta a tomar precauciones con aparatos electronicos y perecederos.",
+      "categoria": "servicios",
+      "prioridad": "alta",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-09-03T11:30:00-06:00",
+      "fecha_vigencia": "2026-09-04T16:00:00-06:00",
+      "ubicacion": "Colonias Andrade, Leon Moderno y Centro",
+      "fuente": "Proteccion Civil Leon",
       "url": ""
     },
     {
-      "id": "ALERTA_006",
-      "titulo": "Desvíos de transporte por festividad patronal en El Coecillo",
-      "descripcion": "La Dirección General de Movilidad notifica a los usuarios del transporte público sobre el desvío temporal de las rutas convencionales R-14, R-18 y R-37 debido a los cierres viales establecidos en las calles aledañas a la Plaza de San Francisco en el tradicional Barrio del Coecillo.\n\nEl cierre obedece a las festividades locales y la instalación de comercio de temporada. Las rutas retomarán su trayecto original por la calle Monterrey una vez que las vialidades sean liberadas a medianoche.",
+      "id": "ALERTA_023",
+      "titulo": "Congestionamiento por partido en el Estadio Nou Camp",
+      "descripcion": "La Policia Vial notifica el despliegue de un operativo de transito por el encuentro de futbol de la Liga MX a realizarse a las 21:00 hrs. Se preven cierres preventivos en el Blvd. Vasco de Quiroga y transito lento en el Blvd. Adolfo Lopez Mateos desde dos horas antes del evento. Evitar la zona si no se asiste al evento.",
       "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎉",
-      "fecha_publicacion": "2026-08-29T10:00:00-06:00",
-      "fecha_vigencia": "2026-08-31T23:59:00-06:00",
-      "ubicacion": "Barrio del Coecillo (Plaza San Francisco y calles aledañas)",
-      "fuente": "www.leon.gob.mx",
+      "prioridad": "media",
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-09-04T07:15:00-06:00",
+      "fecha_vigencia": "2026-09-04T23:59:00-06:00",
+      "ubicacion": "Estadio Nou Camp e inmediaciones",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_024",
+      "titulo": "Aviso por rafagas de viento y posible caida de ramas",
+      "descripcion": "El Sistema Meteorologico Nacional y Proteccion Civil advierten sobre un sistema frontal que estara generando rafagas de viento de entre 45 y 55 km/h en la ciudad. Se hace un llamado a la poblacion a no resguardarse bajo arboles de gran tamaño, asegurar objetos en azoteas y reportar postes o espectaculares en riesgo de caer al 911.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-09-03T14:00:00-06:00",
+      "fecha_vigencia": "2026-09-05T18:00:00-06:00",
+      "ubicacion": "Todo el municipio",
+      "fuente": "PC_Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_025",
+      "titulo": "Choque multiple en Libramiento Jose Maria Morelos",
+      "descripcion": "Cierre temporal a la circulacion en los carriles centrales del Libramiento Jose Maria Morelos, a la altura del Parque Metropolitano (direccion sur a norte), debido a un choque por alcance que involucra cuatro vehiculos particulares. Unidades de emergencia y transito ya laboran en el lugar. Usar carriles laterales o Blvd. Hermenegildo Bustos.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-09-04T07:45:00-06:00",
+      "fecha_vigencia": "2026-09-04T11:00:00-06:00",
+      "ubicacion": "Libramiento Morelos y Blvd. Adolfo Lopez Mateos norte",
+      "fuente": "Transito Municipal Leon",
       "url": ""
     }
   ],
@@ -87,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "⛅"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎫"
     }
   },
   "prioridades": {
