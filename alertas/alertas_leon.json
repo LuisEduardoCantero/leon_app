@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-07T14:25:38-06:00",
-  "total_noticias": 8,
-  "fuente": "Recopilacion automatica de medios locales",
-  "noticias": [
+  "ultima_actualizacion": "2026-09-05T17:16:00-06:00",
+  "total_alertas": 5,
+  "fuente": "Recopilacion automatica",
+  "alertas": [
     {
-      "id": "NOTICIA_001",
-      "titulo": "Muere otro motociclista por accidente en León; iba a gran velocidad por bulevar Omega",
-      "resumen": "Un trágico accidente cobró la vida de un motociclista que circulaba a exceso de velocidad en el bulevar Omega. Las autoridades reiteran el llamado a extremar precauciones ante el aumento de percances viales.",
-      "contenido_completo": "La mañana de este lunes se registró un nuevo accidente fatal que involucró a un motociclista en la ciudad de León. Los hechos ocurrieron sobre el bulevar Omega, una de las arterias donde los vecinos han reportado en repetidas ocasiones la alta velocidad a la que circulan los vehículos. De acuerdo con los primeros reportes de la Policía Vial y testigos presenciales, la víctima perdió el control de su unidad debido al exceso de velocidad con el que transitaba, impactándose fuertemente y perdiendo la vida en el lugar de los hechos de manera casi instantánea.\n\nAl sitio acudieron paramédicos y elementos de seguridad, sin embargo, solo pudieron confirmar el fallecimiento. La zona fue acordonada para permitir los trabajos de la Fiscalía General del Estado (FGE) y el levantamiento del cuerpo por parte del Servicio Médico Forense. Este lamentable suceso vuelve a encender las alarmas sobre la seguridad vial y la urgente necesidad de implementar operativos de control de velocidad en los principales bulevares de León.\n\nLas autoridades municipales aprovecharon para hacer un enérgico llamado a los conductores, especialmente a quienes usan motocicletas, a respetar los límites de velocidad y usar siempre el equipo de protección adecuado. La creciente cifra de accidentes de motociclistas en León se ha convertido en un reto prioritario para la Dirección de Movilidad y Tránsito, buscando estrategias para reducir la mortalidad en las calles de la ciudad.",
-      "categoria": "transporte",
-      "emoji": "🏍️",
-      "fecha_publicacion": "2026-09-07T10:00:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "alta"
+      "id": "ALERTA_001",
+      "titulo": "Operativo vial por evento deportivo en el Estadio Leon",
+      "descripcion": "La Secretaria de Seguridad implementa cierres parciales y operativo de vialidad en las inmediaciones del Estadio Nou Camp debido al encuentro de futbol programado para hoy. Se anticipa carga vehicular densa en Blvd. Adolfo Lopez Mateos y Blvd. Vasco de Quiroga a partir de las 17:00 hrs. Se sugiere utilizar Blvd. La Luz o Hilario Medina como alternativas.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-09-05T12:00:00-06:00",
+      "fecha_vigencia": "2026-09-05T23:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos y Vasco de Quiroga",
+      "fuente": "Transito Municipal Leon",
+      "url": "www.leon.gob.mx"
     },
     {
-      "id": "NOTICIA_002",
-      "titulo": "Asalto en rosticería La Merced en León acaba en tragedia; encargado se resiste y lo balean",
-      "resumen": "Un intento de asalto en un negocio de la colonia La Merced terminó de forma violenta cuando el encargado opuso resistencia. La víctima fue trasladada grave a un hospital tras recibir impactos de bala.",
-      "contenido_completo": "La inseguridad en el sector comercial de León cobró una nueva víctima este lunes, luego de que el encargado de una rosticería en el tradicional barrio de La Merced fuera atacado a balazos. Los primeros informes señalan que sujetos armados ingresaron al establecimiento comercial con la aparente intención de despojarlo de las ganancias del día. Ante las exigencias de los delincuentes, el trabajador intentó resistirse al asalto para proteger el patrimonio del negocio, lo que provocó que uno de los asaltantes detonara su arma de fuego en su contra.\n\nTras el ataque, los agresores huyeron rápidamente del lugar con rumbo desconocido. Un compañero de trabajo de la víctima, al presenciar la gravedad de las heridas y la urgencia de la situación, decidió no esperar a los servicios de emergencia y trasladó al lesionado por sus propios medios hacia un hospital cercano, donde fue reportado grave de salud. \n\nElementos de la Policía Municipal de León desplegaron un operativo en las calles aledañas de la colonia La Merced para intentar dar con los responsables, aunque hasta el momento no se han reportado detenciones relacionadas con este caso. La Fiscalía General del Estado ya abrió la carpeta de investigación correspondiente para esclarecer los hechos y revisar las cámaras de videovigilancia de la zona, en un esfuerzo por frenar la ola de robos con violencia que afecta a los comercios locales.",
-      "categoria": "seguridad",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-09-07T08:30:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "alta"
+      "id": "ALERTA_002",
+      "titulo": "Reduccion de carriles por reparacion sanitaria",
+      "descripcion": "Cuadrillas operativas de SAPAL realizan la intervencion urgente de un colector sanitario colapsado en el Blvd. Aristoteles. Debido a la presencia de maquinaria pesada, la circulacion se reduce a un solo carril en direccion a Las Joyas. Los trabajos se extenderan durante todo el fin de semana, posibles afectaciones al suministro de agua local.",
+      "categoria": "servicios",
+      "prioridad": "alta",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-09-05T08:30:00-06:00",
+      "fecha_vigencia": "2026-09-07T18:00:00-06:00",
+      "ubicacion": "Blvd. Aristoteles, entrada a poligono Las Joyas",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx"
     },
     {
-      "id": "NOTICIA_003",
-      "titulo": "Feria de León 2027: Sector hotelero ve positivo que el Estado pague los conciertos",
-      "resumen": "Líderes hoteleros respaldaron la reciente decisión del Gobierno Estatal de asumir el costo de los artistas para la Feria de León 2027. Confían en que esto liberará recursos locales para potenciar la promoción turística y económica.",
-      "contenido_completo": "La Asociación de Hoteles y Moteles de León expresó su optimismo frente al nuevo esquema de financiamiento anunciado para la Feria Estatal de León 2027, donde el Gobierno del Estado de Guanajuato se encargará directamente del pago de los artistas internacionales que engalanarán el evento. Representantes del gremio señalaron que esta medida representa un importante alivio financiero para el Patronato de la Feria, lo cual permitirá redirigir capital hacia la promoción turística a nivel nacional e internacional.\n\nEl sector hotelero argumenta que la cartelera de espectáculos es uno de los principales ganchos para atraer visitantes foráneos, quienes no solo compran boletos, sino que pernoctan en la ciudad, consumen en restaurantes locales y utilizan servicios de transporte. Según las estimaciones preliminares, liberar al municipio de esta fuerte carga económica ayudará a diversificar las inversiones durante la temporada de feria, mejorando la infraestructura de servicios y garantizando una experiencia de mayor calidad para los turistas.\n\nAdemás, los empresarios hoteleros sugieren que con este ahorro se podrían crear paquetes promocionales más atractivos que incluyan hospedaje y acceso a eventos exclusivos. El impacto económico de la Feria de León es vital para la economía local al inicio de cada año, por lo que ven en esta colaboración entre el estado y el municipio una estrategia ganadora que consolidará al evento como el más importante de México, impulsando la ocupación hotelera que en ediciones anteriores ha logrado superar el 80% durante los fines de semana de mayor afluencia.",
-      "categoria": "economia",
-      "emoji": "🏨",
-      "fecha_publicacion": "2026-09-07T12:15:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "media"
+      "id": "ALERTA_003",
+      "titulo": "Fuerte accidente en el Eje Metropolitano",
+      "descripcion": "Cuerpos de emergencia atienden un choque por alcance entre un camion de transporte de personal y un vehiculo compacto en el Eje Metropolitano, a la altura de la comunidad Loza de los Padres. El trafico se encuentra completamente detenido en direccion hacia el Puerto Interior de Silao. Se pide ceder el paso a ambulancias.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-09-05T16:45:00-06:00",
+      "fecha_vigencia": "2026-09-05T19:30:00-06:00",
+      "ubicacion": "Eje Metropolitano Leon-Silao, altura Loza de los Padres",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
     },
     {
-      "id": "NOTICIA_004",
-      "titulo": "Explota la población en León: Suma 737 mil habitantes en lo que va del siglo",
-      "resumen": "Un análisis demográfico revela que León ha experimentado un crecimiento explosivo, sumando más de 700 mil nuevos habitantes en este siglo. Este fenómeno plantea enormes retos para la planeación urbana y la provisión de servicios básicos.",
-      "contenido_completo": "La ciudad de León enfrenta un desafío monumental en materia de desarrollo urbano tras revelarse que su población ha experimentado un crecimiento explosivo en lo que va del presente siglo. De acuerdo con un análisis reciente de datos demográficos, el municipio ha sumado 737 mil nuevos habitantes en las últimas dos décadas, consolidándose como una de las urbes de más rápido crecimiento y mayor densidad poblacional a nivel nacional.\n\nEste acelerado incremento poblacional ha desbordado en muchas ocasiones los planes de desarrollo municipal, generando una rápida expansión de la mancha urbana hacia las periferias. Las autoridades de planeación advierten que este ritmo de crecimiento demanda de manera urgente la creación de nuevas vialidades, mayor cobertura en las redes de agua potable, alcantarillado, transporte público masivo y espacios recreativos, para evitar el colapso de la infraestructura existente y garantizar una calidad de vida aceptable para todos los ciudadanos.\n\nEspecialistas en urbanismo señalan que León ya no puede darse el lujo de crecer horizontalmente de manera desordenada y proponen impulsar políticas de redensificación en zonas céntricas, así como incentivar la construcción de vivienda vertical sustentable. La explosión demográfica también evidencia la migración constante hacia el municipio atraída por el desarrollo industrial y comercial del Bajío, obligando al Ayuntamiento a rediseñar su Instituto Municipal de Planeación (IMPLAN) para proyectar soluciones a largo plazo en una ciudad que parece no detener su marcha de expansión acelerada.",
-      "categoria": "desarrollo_urbano",
-      "emoji": "🏙️",
-      "fecha_publicacion": "2026-09-06T09:45:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "alta"
+      "id": "ALERTA_004",
+      "titulo": "Aviso preventivo por rafagas de viento",
+      "descripcion": "El Servicio Meteorologico local y Proteccion Civil alertan sobre rafagas de viento ocasionales que superan los 45 km/h en gran parte de la mancha urbana. Se han reportado caida de lonas comerciales y ramas menores. Se exhorta a la poblacion a asegurar objetos sueltos en azoteas y conducir con precaucion.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-09-05T14:15:00-06:00",
+      "fecha_vigencia": "2026-09-05T21:00:00-06:00",
+      "ubicacion": "Toda la ciudad, afectacion general",
+      "fuente": "PC Leon",
+      "url": ""
     },
     {
-      "id": "NOTICIA_005",
-      "titulo": "Primaria Martín Muñoz en León no abre por daño estructural; alumnos toman clases a distancia",
-      "resumen": "Debido a graves fallas estructurales en el plantel, la escuela primaria Martín Muñoz no pudo iniciar clases presenciales. Las autoridades educativas implementaron el modelo a distancia mientras se define el proyecto de rehabilitación.",
-      "contenido_completo": "El reciente inicio de ciclo escolar en la ciudad de León se ha visto opacado para decenas de familias luego de que la escuela primaria Martín Muñoz tuviera que suspender de manera indefinida sus actividades presenciales. Una revisión técnica dictaminó que el inmueble presenta severos daños estructurales que ponen en riesgo inminente la seguridad de estudiantes, docentes y personal administrativo, motivo por el cual Protección Civil ordenó el cierre preventivo de las instalaciones.\n\nAnte esta situación de emergencia, la Secretaría de Educación de Guanajuato (SEG) instruyó a los directivos del plantel a retomar temporalmente la modalidad de clases a distancia para asegurar que los alumnos no pierdan su ritmo de aprendizaje. Los padres de familia, aunque comprensivos ante el riesgo de un colapso, han manifestado su preocupación y exigen a las autoridades que se agilicen los peritajes definitivos y la asignación de presupuesto para reparar la escuela, ya que el modelo virtual representa un desafío logístico para los hogares donde ambos padres trabajan.\n\nPersonal de infraestructura educativa del estado ya se encuentra evaluando si los edificios pueden ser rehabilitados mediante refuerzos estructurales o si será necesaria la demolición de algunas alas del complejo educativo. Este caso ha abierto el debate sobre la falta de mantenimiento preventivo en decenas de escuelas públicas antiguas de la región, instando al gobierno municipal y estatal a realizar un censo exhaustivo para garantizar entornos seguros para la comunidad estudiantil.",
-      "categoria": "educacion",
-      "emoji": "🏫",
-      "fecha_publicacion": "2026-09-06T11:20:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_006",
-      "titulo": "Parque Metropolitano Oriente en León: Obra de 79 mdp avanzó sin licencias ambientales",
-      "resumen": "Una investigación reveló que las primeras obras del nuevo Parque Metropolitano Oriente se ejecutaron sin contar con los permisos ambientales correspondientes. El proyecto ecológico enfrenta ahora cuestionamientos por inconsistencias en sus regulaciones.",
-      "contenido_completo": "Un proyecto concebido como el gran nuevo pulmón verde para la ciudad se encuentra bajo escrutinio público, tras darse a conocer que la construcción del Parque Metropolitano Oriente en León ha avanzado sin contar con todas las licencias de impacto ambiental. Una investigación reciente reveló que se han invertido hasta el momento 79 millones de pesos en movimientos de tierra y delimitación del terreno, saltándose presuntamente protocolos clave de la normativa ecológica vigente en Guanajuato.\n\nEl desarrollo de este espacio recreativo, ubicado en la zona suroriente del municipio, tenía como objetivo mitigar el déficit de áreas verdes por habitante y preservar la flora y fauna local. Sin embargo, colectivos ambientalistas han levantado la voz advirtiendo que la falta de un Manifiesto de Impacto Ambiental (MIA) adecuado pone en riesgo ecosistemas sensibles en el polígono. Las autoridades municipales, por su parte, argumentaron que los trámites se encuentran en proceso de regularización y negaron cualquier daño ecológico irreparable, sosteniendo que las obras actuales son preliminares.\n\nA pesar de las justificaciones oficiales, el caso evidencia deficiencias en la coordinación entre las direcciones de Obra Pública y Medio Ambiente de León. Regidores de oposición han exigido una auditoría inmediata y la suspensión temporal de las maquinarias en el predio hasta que se garantice el estricto apego a la ley. La controversia refleja la ironía de un proyecto sustentable tropezando con regulaciones ambientales, mientras la ciudadanía demanda transparencia en el ejercicio de los recursos públicos y protección real del entorno.",
-      "categoria": "medio_ambiente",
-      "emoji": "🌳",
-      "fecha_publicacion": "2026-09-06T07:15:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_007",
-      "titulo": "Orgullo de León: La arquitecta Sara Narváez imparte cátedra de arte en España",
-      "resumen": "La destacada arquitecta leonesa Sara Narváez trasciende fronteras al ser invitada a impartir una serie de cátedras sobre arte y arquitectura en España. Su trayectoria pone en alto el talento cultural del Bajío a nivel internacional.",
-      "contenido_completo": "La comunidad cultural de León celebra el reconocimiento internacional otorgado a la arquitecta y académica leonesa Sara Narváez, quien ha sido invitada por prestigiosas instituciones académicas en España para impartir una serie de cátedras especializadas en arte y teoría arquitectónica. Este logro consolida su trayectoria no solo como diseñadora de espacios, sino como una pensadora crítica que exporta la visión estética del Bajío hacia escenarios europeos.\n\nDurante su estancia en España, Narváez compartirá sus investigaciones sobre la integración de técnicas tradicionales de construcción con corrientes de arte contemporáneo, un enfoque que ha caracterizado sus proyectos en Guanajuato. Sus conferencias están atrayendo a estudiantes de posgrado y profesionales del gremio, destacando cómo la identidad cultural de México puede dialogar de manera armónica y propositiva con las vanguardias globales. Para la arquitecta, este intercambio académico representa una oportunidad invaluable para nutrir su propia obra y abrir puertas a futuras colaboraciones transatlánticas.\n\nAutoridades culturales de León y representantes del colegio de arquitectos local han manifestado su orgullo por este hito, subrayando que Sara Narváez se convierte en una embajadora de la cultura guanajuatense. Su éxito internacional sirve de inspiración para los jóvenes creadores de las universidades de León, demostrando que el rigor académico, la preservación de las raíces artísticas y la innovación son las claves para posicionar el talento mexicano en las esferas más exigentes del circuito cultural y académico del mundo.",
-      "categoria": "cultura",
-      "emoji": "🏛️",
-      "fecha_publicacion": "2026-09-07T14:00:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/leon",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_008",
-      "titulo": "Canacintra León impulsa Comité de Salud para fortalecer productividad empresarial",
-      "resumen": "La cámara industrial creó un nuevo comité enfocado en la salud física y mental de los trabajadores de León. Buscarán atender padecimientos crónicos y reducir el estrés laboral para mejorar el bienestar en las empresas del Bajío.",
-      "contenido_completo": "Con el objetivo de transformar los entornos laborales y priorizar el bienestar de los colaboradores, la Cámara Nacional de la Industria de Transformación (Canacintra) en León anunció la creación de su nuevo Comité de Salud. Esta iniciativa sin precedentes en el sector industrial local busca establecer un puente de colaboración directa entre empresas, hospitales, clínicas especializadas y universidades, para diseñar estrategias integrales que mejoren la calidad de vida de la fuerza laboral del Bajío.\n\nEl comité se enfocará en dos vertientes principales: la salud física, a través de campañas de prevención y atención de enfermedades crónico-degenerativas como diabetes e hipertensión; y la salud mental, abordando de frente problemáticas como el estrés crónico, la ansiedad y el síndrome de burnout. Líderes empresariales reconocieron que el desgaste emocional ha sido una de las principales causas de rotación y baja productividad en los últimos años, por lo que invertir en la salud de los trabajadores se ha convertido en una necesidad estratégica, más allá de una obligación normativa.\n\nEl proyecto contempla la organización de ferias de la salud dentro de los parques industriales de León, talleres de gestión emocional y la creación de redes de apoyo médico accesible. Al colocar la salud integral como el eje central de la productividad, Canacintra León espera no solo reducir el ausentismo, sino fomentar un clima organizacional más humano y resiliente, posicionando al municipio como un referente en responsabilidad social empresarial y salud ocupacional a nivel regional.",
-      "categoria": "salud",
-      "emoji": "⚕️",
-      "fecha_publicacion": "2026-09-07T09:00:00-06:00",
-      "fuente": "Periódico AM",
-      "url": "https://www.am.com.mx/",
-      "relevancia": "alta"
+      "id": "ALERTA_005",
+      "titulo": "Cierre temporal por maniobras de CFE",
+      "descripcion": "La Comision Federal de Electricidad notifica a industriales y automovilistas sobre el cierre temporal del tramo sur del Blvd. Hermanos Aldama por trabajos de sustitucion de cableado de media tension. Se ha habilitado un carril a contraflujo para aminorar la congestion vial en la zona industrial.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-09-05T10:00:00-06:00",
+      "fecha_vigencia": "2026-09-05T20:00:00-06:00",
+      "ubicacion": "Blvd. Hermanos Aldama esq. Restauradores, Cd. Industrial",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     }
   ],
-  "categorias_noticias": {
-    "transporte": "",
-    "desarrollo_urbano": "",
-    "seguridad": "",
-    "economia": "",
-    "cultura": "",
-    "salud": "",
-    "educacion": "",
-    "medio_ambiente": ""
+  "categorias": {
+    "trafico": {
+      "nombre": "Trafico y Vialidad",
+      "color": "#FF5722",
+      "emoji": "🚗"
+    },
+    "servicios": {
+      "nombre": "Servicios Publicos",
+      "color": "#2196F3",
+      "emoji": "🔧"
+    },
+    "seguridad": {
+      "nombre": "Seguridad Publica",
+      "color": "#F44336",
+      "emoji": "🚓"
+    },
+    "clima": {
+      "nombre": "Clima y Ambiente",
+      "color": "#4CAF50",
+      "emoji": "☁️"
+    },
+    "eventos": {
+      "nombre": "Eventos Masivos",
+      "color": "#9C27B0",
+      "emoji": "🎉"
+    }
+  },
+  "prioridades": {
+    "baja": {
+      "nombre": "Informativa",
+      "color": "#4CAF50"
+    },
+    "media": {
+      "nombre": "Precaucion",
+      "color": "#FF9800"
+    },
+    "alta": {
+      "nombre": "Urgente",
+      "color": "#F44336"
+    }
   }
 }
