@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-10T09:41:00-06:00",
+  "ultima_actualizacion": "2026-09-14T12:20:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Accidente fatal en Blvd. Juan Alonso de Torres",
-      "descripcion": "Se registró un grave accidente de motocicleta en el bulevar Juan Alonso de Torres, a la altura de la colonia San José del Potrero, resultando en el fallecimiento del conductor. Elementos de la Policía Vial y peritos de la Fiscalía acordonaron el sitio para realizar las investigaciones correspondientes. Se recomienda extremar precauciones al circular por el área debido a cierres parciales de carriles y tránsito lento.",
+      "titulo": "Cierre de carriles en Blvd. Aeropuerto por accidente",
+      "descripcion": "Elementos de Policia Vial atienden un choque por alcance entre tres vehiculos particulares sobre el Blvd. Aeropuerto en direccion a Silao, a la altura de los Outlets. Dos carriles se encuentran obstruidos, lo que genera transito lento desde el puente de Tajo de Santa Ana. Se recomienda utilizar el Eje Metropolitano como via alterna y anticipar tiempos de traslado.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-09-09T18:30:00-06:00",
-      "fecha_vigencia": "2026-09-10T12:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres, col. San José del Potrero",
-      "fuente": "Milenio Leon / Policia Vial",
-      "url": "https://www.milenio.com/comunidad/leon-joven-motociclista-muere-tras-accidente-en-juan-alonso-de-torres"
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-09-14T09:15:00-06:00",
+      "fecha_vigencia": "2026-09-14T14:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto direccion Silao, altura Outlets",
+      "fuente": "Policia Vial Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Bloqueo intermitente en Autopista León-Aguascalientes",
-      "descripcion": "Se reportan afectaciones severas a la movilidad debido a un bloqueo intermitente realizado por productores del campo en la Autopista León-Aguascalientes. La vialidad quedó paralizada por lapsos de hasta una hora y media. Se exhorta a los automovilistas y transportistas a anticipar sus salidas y buscar rutas alternas para evitar quedar atrapados en el congestionamiento vehicular.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-09-10T08:00:00-06:00",
-      "fecha_vigencia": "2026-09-10T15:00:00-06:00",
-      "ubicacion": "Autopista León - Aguascalientes",
-      "fuente": "Milenio Leon",
+      "titulo": "Corte de suministro de agua en Zona Norte",
+      "descripcion": "SAPAL informa la suspension temporal del servicio de agua potable en las colonias Jardines del Moral, Valle del Campestre y Bosques del Refugio debido a una falla electromecanica en la bateria de pozos de la zona. Las cuadrillas ya se encuentran laborando en la reparacion. Se estima que el servicio se restablezca de manera paulatina durante la noche de este lunes.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-09-13T16:30:00-06:00",
+      "fecha_vigencia": "2026-09-14T23:00:00-06:00",
+      "ubicacion": "Colonias Jardines del Moral, Valle del Campestre, Bosques del Refugio",
+      "fuente": "SAPAL",
       "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Obras de infraestructura sanitaria en Blvd. Timoteo Lozano",
-      "descripcion": "SAPAL mantiene cuadrillas de trabajo por la introducción de una nueva línea de alimentación sanitaria que cruza el bulevar Timoteo Lozano, en la zona de Providencia. Las obras incluyen la instalación de 670 metros de tubería, por lo que existen reducciones de carril. Se pide a los conductores manejar con velocidad moderada y respetar el señalamiento preventivo.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🚜",
-      "fecha_publicacion": "2026-09-08T09:00:00-06:00",
-      "fecha_vigencia": "2026-09-15T18:00:00-06:00",
-      "ubicacion": "Blvd. Timoteo Lozano, zona Providencia",
-      "fuente": "SAPAL",
-      "url": "https://oem.com.mx/elsoldeleon/local/sapal-invierte-22-4-millones-en-obras-que-beneficiaran-a-mas-de-40-mil-habitantes-del-sur-de-leon-31393431"
+      "titulo": "Cierres viales por Desfile Conmemorativo",
+      "descripcion": "Con motivo del desfile civico-militar del 16 de septiembre, la Secretaria de Seguridad, Prevencion y Proteccion Ciudadana anuncia el cierre total del Blvd. Adolfo Lopez Mateos desde el Parque Hidalgo hasta el distribuidor vial Juan Pablo II. Los cortes a la circulacion comenzaran a las 06:00 horas del 16 de septiembre, afectando tambien el servicio de la Oruga (SIT). Planifique su ruta con anticipacion.",
+      "categoria": "eventos",
+      "prioridad": "alta",
+      "emoji": "🎉",
+      "fecha_publicacion": "2026-09-13T10:00:00-06:00",
+      "fecha_vigencia": "2026-09-16T15:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos (Parque Hidalgo a Juan Pablo II)",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Pronóstico de lluvias ligeras y ambiente fresco",
-      "descripcion": "El Servicio Meteorológico y Protección Civil advierten sobre un día mayormente nublado con precipitaciones ligeras en la ciudad. Las temperaturas oscilarán entre los 14°C y 20°C. Se recomienda a los conductores mantener distancia de seguridad ante el pavimento resbaladizo, y a los peatones salir prevenidos con impermeable o paraguas.",
+      "titulo": "Alerta amarilla por tormentas aisladas",
+      "descripcion": "La Direccion General de Proteccion Civil emite un aviso preventivo ante el pronostico de lluvias de moderadas a fuertes acompañadas de actividad electrica durante la tarde y noche de este lunes. Se exhorta a la ciudadania a conducir con precaucion, no tirar basura en las calles para evitar taponamientos y evitar circular por los desniveles del Malecon del Rio ante la posibilidad de escurrimientos rapidos.",
       "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-09-10T06:00:00-06:00",
-      "fecha_vigencia": "2026-09-10T23:59:00-06:00",
-      "ubicacion": "Toda la ciudad",
+      "prioridad": "media",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-09-14T07:45:00-06:00",
+      "fecha_vigencia": "2026-09-15T06:00:00-06:00",
+      "ubicacion": "Municipio de Leon (Precaucion Malecon del Rio)",
       "fuente": "Proteccion Civil Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Movilización de seguridad en el Barrio de San Miguel",
-      "descripcion": "Fuerte presencia de corporaciones de seguridad en el Barrio de San Miguel tras un operativo que culminó con la detención de presuntos implicados en actos ilícitos y el decomiso de armas de alto calibre. Algunas calles aledañas presentan acordonamientos que limitan el paso peatonal y vehicular mientras la Fiscalía concluye el levantamiento de indicios.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-09-09T20:00:00-06:00",
-      "fecha_vigencia": "2026-09-10T14:00:00-06:00",
-      "ubicacion": "Barrio de San Miguel",
-      "fuente": "Noticias Vespertinas",
+      "titulo": "Obras de reencarpetamiento en Blvd. Las Torres",
+      "descripcion": "La Direccion de Obra Publica continua con los trabajos de mantenimiento vial y reencarpetamiento en el Blvd. Juan Alonso de Torres, en el tramo comprendido entre Paseo del Moral y Blvd. Campestre. Las labores se realizan ocupando un carril de circulacion, lo que provoca transito lento en las horas pico. Se solicita a los conductores respetar los señalamientos y limites de velocidad en la zona de obra.",
+      "categoria": "trafico",
+      "prioridad": "baja",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-09-12T08:00:00-06:00",
+      "fecha_vigencia": "2026-09-18T18:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres entre Paseo del Moral y Blvd. Campestre",
+      "fuente": "Obra Publica Leon",
       "url": ""
     }
   ],
@@ -79,22 +79,22 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": "💡"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌧️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
