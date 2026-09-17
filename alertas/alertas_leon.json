@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-15T17:41:22-06:00",
+  "ultima_actualizacion": "2026-09-17T12:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierres viales por Desfile Civico-Militar",
-      "descripcion": "A partir de las 22:00 horas del 15 de septiembre y hasta las 14:00 horas del 16 de septiembre, se realizara el cierre total a la circulacion en el Blvd. Adolfo Lopez Mateos, desde el Parque Hidalgo hasta el Blvd. Francisco Villa. Esto con motivo del tradicional desfile patrio. Se recomienda utilizar el Blvd. Vicente Valtierra, Paseo de los Insurgentes y Blvd. Mariano Escobedo como vias alternas.",
-      "categoria": "eventos",
-      "prioridad": "alta",
+      "titulo": "Obras de pavimentacion en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "La Direccion de Obra Publica informa sobre la reduccion a dos carriles en el Blvd. Adolfo Lopez Mateos, en el tramo de Av. Miguel Aleman a Blvd. Francisco Villa, debido a trabajos de bacheo y reencarpetamiento. Se recomienda utilizar el Malecon del Rio como ruta alterna para evitar congestionamiento.",
+      "categoria": "trafico",
+      "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-09-14T09:00:00-06:00",
-      "fecha_vigencia": "2026-09-16T15:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos (Tramo Parque Hidalgo a Francisco Villa)",
-      "fuente": "Policia Vial Leon",
-      "url": "www.leon.gob.mx"
+      "fecha_publicacion": "2026-09-15T08:00:00-06:00",
+      "fecha_vigencia": "2026-09-20T18:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos (tramo Miguel Aleman - Francisco Villa)",
+      "fuente": "Obra Publica Leon",
+      "url": "https://www.leon.gob.mx/obrapublica"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Operativo Alcoholimetro Salvando Vidas",
-      "descripcion": "La Secretaria de Seguridad Publica implementa el operativo especial de alcoholimetro fijo y carrusel en las principales vialidades de la ciudad durante las noches del 14, 15 y 16 de septiembre por los festejos patrios. Habra presencia reforzada en Blvd. Campestre, Blvd. Alonso de Torres y salidas de la ciudad.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-09-13T12:00:00-06:00",
-      "fecha_vigencia": "2026-09-17T06:00:00-06:00",
-      "ubicacion": "Principales bulevares y zona norte",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_003",
-      "titulo": "Corte de agua en Zona Norte",
-      "descripcion": "SAPAL informa sobre la suspension temporal del servicio de agua potable en las colonias Gran Jardin, Portones del Campestre y Los Naranjos debido a trabajos de interconexion de la nueva red hidraulica. El servicio presentara baja presion a partir de hoy y se restablecera por completo al mediodia del 16 de septiembre. Se exhorta a racionar el liquido.",
+      "titulo": "Mantenimiento a red de agua en San Juan Bosco",
+      "descripcion": "SAPAL llevara a cabo trabajos de interconexion en la red de distribucion principal, lo que ocasionara baja presion y cortes intermitentes en el suministro de agua potable para las colonias San Juan Bosco, Vista Hermosa y Piletas. El servicio se restablecera paulatinamente a partir de esta noche.",
       "categoria": "servicios",
       "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-09-14T14:30:00-06:00",
-      "fecha_vigencia": "2026-09-16T13:00:00-06:00",
-      "ubicacion": "Zona Norte (Gran Jardin, Portones del Campestre, Los Naranjos)",
+      "fecha_publicacion": "2026-09-16T09:30:00-06:00",
+      "fecha_vigencia": "2026-09-17T23:59:00-06:00",
+      "ubicacion": "Colonias San Juan Bosco, Vista Hermosa y Piletas",
       "fuente": "SAPAL",
-      "url": "www.sapal.gob.mx"
+      "url": "https://www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Pronostico de lluvias puntuales fuertes",
+      "descripcion": "Proteccion Civil emite un aviso por probabilidad de lluvias fuertes acompañadas de actividad electrica durante la tarde y noche de hoy. Se exhorta a la ciudadania a evitar cruzar arroyos, no tirar basura en las calles para prevenir taponamientos de alcantarillas y manejar con precaucion.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-09-17T10:00:00-06:00",
+      "fecha_vigencia": "2026-09-18T06:00:00-06:00",
+      "ubicacion": "Zona metropolitana de Leon",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Carambola en Blvd. Aeropuerto",
-      "descripcion": "Se registra un choque multiple involucrando cuatro vehiculos particulares sobre el Blvd. Aeropuerto en direccion Leon-Silao, justo frente a la plaza comercial Mulza. Hay reduccion a un solo carril, lo que genera asentamientos viales de mas de 3 kilometros. Unidades de emergencia laboran en el punto; se sugiere usar Eje Metropolitano.",
+      "titulo": "Cierre parcial por choque en Libramiento Morelos",
+      "descripcion": "Se reporta un accidente vehicular multiple en el Libramiento Jose Maria Morelos, a la altura del distribuidor vial Benito Juarez en direccion al norte. Elementos de Policia Vial ya se encuentran abanderando la zona. Hay un solo carril habilitado, se reporta trafico lento en la zona.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "💥",
-      "fecha_publicacion": "2026-09-15T16:15:00-06:00",
-      "fecha_vigencia": "2026-09-15T20:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto frente a Mulza",
-      "fuente": "Transito Municipal",
-      "url": ""
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-09-17T11:45:00-06:00",
+      "fecha_vigencia": "2026-09-17T15:00:00-06:00",
+      "ubicacion": "Libramiento Jose Maria Morelos y Distribuidor Benito Juarez",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Pronostico de tormentas para festejos patrios",
-      "descripcion": "Proteccion Civil emite aviso preventivo ante el pronostico de tormentas electricas y lluvias de intensidad fuerte para la tarde-noche del 15 de septiembre en gran parte del municipio. Se advierte posible crecida en el nivel del Malecon del Rio. Se solicita a la poblacion extremar precauciones si asisten a las plazas publicas.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-09-15T10:00:00-06:00",
-      "fecha_vigencia": "2026-09-16T03:00:00-06:00",
-      "ubicacion": "Todo el municipio",
-      "fuente": "Proteccion Civil Leon",
-      "url": "www.leon.gob.mx"
+      "titulo": "Desmontaje de escenarios en Plaza Principal",
+      "descripcion": "Tras las festividades del Grito de Independencia y el desfile civico, cuadrillas del municipio realizan labores de limpieza y desmontaje de estructuras en la Plaza Principal y calles aledañas. Habra paso restringido a peatones y cierres intermitentes en algunas zonas del Centro Historico.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-09-17T08:00:00-06:00",
+      "fecha_vigencia": "2026-09-18T18:00:00-06:00",
+      "ubicacion": "Plaza Principal y zona peatonal Centro Historico",
+      "fuente": "Gobierno Municipal Leon",
+      "url": "https://twitter.com/GobMunLeon"
     }
   ],
   "categorias": {
@@ -84,7 +84,7 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
