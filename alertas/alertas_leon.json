@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-17T12:00:00-06:00",
+  "ultima_actualizacion": "2026-09-18T17:30:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Obras de pavimentacion en Blvd. Adolfo Lopez Mateos",
-      "descripcion": "La Direccion de Obra Publica informa sobre la reduccion a dos carriles en el Blvd. Adolfo Lopez Mateos, en el tramo de Av. Miguel Aleman a Blvd. Francisco Villa, debido a trabajos de bacheo y reencarpetamiento. Se recomienda utilizar el Malecon del Rio como ruta alterna para evitar congestionamiento.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-09-15T08:00:00-06:00",
-      "fecha_vigencia": "2026-09-20T18:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos (tramo Miguel Aleman - Francisco Villa)",
-      "fuente": "Obra Publica Leon",
-      "url": "https://www.leon.gob.mx/obrapublica"
+      "titulo": "Ambiente fresco y alta nubosidad",
+      "descripcion": "León experimenta un clima predominantemente nublado y fresco, con temperaturas máximas esperadas de 22°C y mínimas de 13°C. Se registra un 76% de humedad relativa en la zona urbana. Protección Civil recomienda a la población abrigarse en capas, especialmente por las mañanas y noches, y mantenerse atenta al pronóstico ante la probabilidad de lloviznas ligeras durante el próximo fin de semana.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-09-18T08:00:00-06:00",
+      "fecha_vigencia": "2026-09-20T23:59:00-06:00",
+      "ubicacion": "Todo el municipio",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento a red de agua en San Juan Bosco",
-      "descripcion": "SAPAL llevara a cabo trabajos de interconexion en la red de distribucion principal, lo que ocasionara baja presion y cortes intermitentes en el suministro de agua potable para las colonias San Juan Bosco, Vista Hermosa y Piletas. El servicio se restablecera paulatinamente a partir de esta noche.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-09-16T09:30:00-06:00",
-      "fecha_vigencia": "2026-09-17T23:59:00-06:00",
-      "ubicacion": "Colonias San Juan Bosco, Vista Hermosa y Piletas",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "titulo": "Accidente en Ciudad Industrial",
+      "descripcion": "Se atiende un fuerte percance vial involucrando una motocicleta y un camión de carga pesada en el bulevar Restauradores, justo en su cruce con el bulevar Hermanos Aldama. El incidente ha provocado el cierre parcial de carriles mientras peritos y personal de la Policía Vial realizan las labores de investigación y retiro de vehículos. Se pide a los conductores evitar la zona y utilizar vías alternas para reducir el congestionamiento.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-09-18T07:15:00-06:00",
+      "fecha_vigencia": "2026-09-18T19:00:00-06:00",
+      "ubicacion": "Blvd. Restauradores y Blvd. Hermanos Aldama",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Pronostico de lluvias puntuales fuertes",
-      "descripcion": "Proteccion Civil emite un aviso por probabilidad de lluvias fuertes acompañadas de actividad electrica durante la tarde y noche de hoy. Se exhorta a la ciudadania a evitar cruzar arroyos, no tirar basura en las calles para prevenir taponamientos de alcantarillas y manejar con precaucion.",
-      "categoria": "clima",
+      "titulo": "Intermitencia de agua en Zona Oriente",
+      "descripcion": "Derivado de una falla eléctrica en las redes de la Comisión Federal de Electricidad (CFE), SAPAL informa que más de 200 colonias en la zona oriente, incluyendo Villas de San Juan y El Dorado II, presentan baja presión o cortes intermitentes en el suministro de agua. Las cuadrillas trabajan de la mano con CFE para restablecer la energía en los pozos afectados. Se exhorta a los vecinos a racionar sus reservas y usar el agua solo para actividades esenciales.",
+      "categoria": "servicios",
       "prioridad": "alta",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-09-17T10:00:00-06:00",
-      "fecha_vigencia": "2026-09-18T06:00:00-06:00",
-      "ubicacion": "Zona metropolitana de Leon",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "emoji": "",
+      "fecha_publicacion": "2026-09-17T15:30:00-06:00",
+      "fecha_vigencia": "2026-09-19T14:00:00-06:00",
+      "ubicacion": "Villas de San Juan, El Dorado II y aledañas",
+      "fuente": "SAPAL Leon",
+      "url": "www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Cierre parcial por choque en Libramiento Morelos",
-      "descripcion": "Se reporta un accidente vehicular multiple en el Libramiento Jose Maria Morelos, a la altura del distribuidor vial Benito Juarez en direccion al norte. Elementos de Policia Vial ya se encuentran abanderando la zona. Hay un solo carril habilitado, se reporta trafico lento en la zona.",
+      "titulo": "Cierre vial en Malecon del Rio",
+      "descripcion": "Como parte de los avances en la modernización de la infraestructura urbana, se implementa el cierre temporal de la vialidad superior del Malecón del Río de los Gómez. Este corte abarca el tramo desde el bulevar Hermanos Aldama hasta la calle Tres Guerras, en dirección de norte a sur. Las autoridades de Tránsito sugieren a los automovilistas transitar por la parte inferior de la vialidad o tomar rutas secundarias.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-09-17T11:45:00-06:00",
-      "fecha_vigencia": "2026-09-17T15:00:00-06:00",
-      "ubicacion": "Libramiento Jose Maria Morelos y Distribuidor Benito Juarez",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-09-16T10:00:00-06:00",
+      "fecha_vigencia": "2026-10-15T23:59:00-06:00",
+      "ubicacion": "Malecon del Rio, de Hermanos Aldama a Tres Guerras",
+      "fuente": "Obra Publica Leon",
+      "url": "www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Desmontaje de escenarios en Plaza Principal",
-      "descripcion": "Tras las festividades del Grito de Independencia y el desfile civico, cuadrillas del municipio realizan labores de limpieza y desmontaje de estructuras en la Plaza Principal y calles aledañas. Habra paso restringido a peatones y cierres intermitentes en algunas zonas del Centro Historico.",
+      "titulo": "Operativo por Convencion Nacional",
+      "descripcion": "Con la inauguración y desarrollo de la XVII Convención Nacional Nikkei 2026 en la ciudad, se ha desplegado un operativo vial y de seguridad perimetral en la zona de Poliforum León. Se reporta un incremento significativo en el aforo vehicular sobre el bulevar Adolfo López Mateos y zonas hoteleras aledañas. Se solicita a los conductores planificar sus tiempos de traslado, manejar con cortesía y dar preferencia a los peatones.",
       "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎪",
-      "fecha_publicacion": "2026-09-17T08:00:00-06:00",
-      "fecha_vigencia": "2026-09-18T18:00:00-06:00",
-      "ubicacion": "Plaza Principal y zona peatonal Centro Historico",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "https://twitter.com/GobMunLeon"
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-09-17T09:00:00-06:00",
+      "fecha_vigencia": "2026-09-19T18:00:00-06:00",
+      "ubicacion": "Inmediaciones de Poliforum Leon, Blvd. Adolfo Lopez Mateos",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": ""
     }
   },
   "prioridades": {
