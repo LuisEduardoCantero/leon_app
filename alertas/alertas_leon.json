@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-21T12:00:00-06:00",
+  "ultima_actualizacion": "2026-09-23T12:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_026",
-      "titulo": "Cierre temporal en Malecon del Rio por volcadura",
-      "descripcion": "Unidad de Policia Vial reporta el cierre temporal de los carriles inferiores del Malecon del Rio de los Gomez, en direccion norte a sur a la altura del Puente Republica. Esto debido a la volcadura de un vehiculo particular que excedio los limites de velocidad. Servicios de emergencia se encuentran realizando maniobras de rescate y remocion. Se exhorta a utilizar los carriles superiores o el Blvd. Vicente Valtierra como alternativas.",
+      "id": "ALERTA_001",
+      "titulo": "Choque por alcance en Blvd. Vicente Valtierra",
+      "descripcion": "Se reporta transito lento debido a un choque por alcance entre un autobus de transporte publico y un vehiculo particular sobre Blvd. Vicente Valtierra casi esquina con Blvd. Francisco Villa. Unidades de Policia Vial y paramedicos se encuentran en la zona evaluando la situacion.\n\nSe recomienda a los conductores tomar rutas alternas como Blvd. La Luz o Blvd. Guanajuato para evitar el congestionamiento vial en la zona mientras se retiran los vehiculos afectados.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-09-21T11:45:00-06:00",
-      "fecha_vigencia": "2026-09-21T15:30:00-06:00",
-      "ubicacion": "Malecon del Rio, tramo Puente Republica (Norte-Sur)",
-      "fuente": "Transito Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_027",
-      "titulo": "Llegada del primer frente frio de la temporada",
-      "descripcion": "Proteccion Civil Municipal emite una alerta preventiva por un descenso marcado en las temperaturas matutinas y nocturnas, derivadas del primer frente frio. Se esperan minimas de hasta 9 grados Celsius en la zona urbana y sensaciones mas bajas en comunidades rurales de la zona norte como Sierra de Lobos. Se exhorta a la poblacion a abrigarse adecuadamente y proteger a poblacion vulnerable.",
-      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-09-21T07:15:00-06:00",
-      "fecha_vigencia": "2026-09-24T10:00:00-06:00",
-      "ubicacion": "Municipio de Leon (Afectacion general)",
-      "fuente": "PC_Leon",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-09-23T08:15:00-06:00",
+      "fecha_vigencia": "2026-09-23T14:00:00-06:00",
+      "ubicacion": "Blvd. Vicente Valtierra y Blvd. Francisco Villa",
+      "fuente": "Transito Municipal Leon",
       "url": ""
     },
     {
-      "id": "ALERTA_028",
-      "titulo": "Mantenimiento y poda en Blvd. Mariano Escobedo",
-      "descripcion": "La Direccion de Medio Ambiente y Obra Publica realiza trabajos de poda preventiva de arboles sobre el camellon central del Blvd. Mariano Escobedo. Se presenta cierre parcial e intermitente del carril de alta velocidad en sentido de Poniente a Oriente, entre Av. Americas y calle Prisciliano Sanchez. Se recomienda usar Blvd. Francisco Villa como ruta alterna para agilizar sus traslados.",
-      "categoria": "trafico",
-      "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-09-21T08:30:00-06:00",
-      "fecha_vigencia": "2026-09-21T16:00:00-06:00",
-      "ubicacion": "Blvd. Mariano Escobedo entre Americas y Prisciliano",
-      "fuente": "GobMunLeon",
-      "url": "www.leon.gob.mx"
-    },
-    {
-      "id": "ALERTA_029",
-      "titulo": "Bacheo nocturno en Libramiento Morelos",
-      "descripcion": "Cuadrillas de mantenimiento vial llevaran a cabo labores de bacheo profundo y renivelacion nocturna sobre los carriles centrales del Libramiento Jose Maria Morelos, a la altura del distribuidor vial Benito Juarez. Los trabajos inician a las 23:00 horas para minimizar el impacto al trafico diario. Se pide a los automovilistas circular con extremada precaucion y respetar los señalamientos luminosos de la obra.",
+      "id": "ALERTA_002",
+      "titulo": "Mantenimiento preventivo de red potable en Las Mandarinas",
+      "descripcion": "SAPAL informa que debido a trabajos de mantenimiento preventivo y sustitucion de valvulas en la red de distribucion, se suspendera temporalmente el servicio de agua potable en la colonia Las Mandarinas y fraccionamientos aledaños del sur-poniente de la ciudad.\n\nEl servicio comenzara a restablecerse paulatinamente durante la madrugada del jueves. Se exhorta a la ciudadania a hacer un uso racional del agua almacenada en sus tinacos y aljibes durante este periodo.",
       "categoria": "servicios",
+      "prioridad": "baja",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-09-22T10:00:00-06:00",
+      "fecha_vigencia": "2026-09-24T06:00:00-06:00",
+      "ubicacion": "Colonia Las Mandarinas",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Reparacion de alcantarillado en Blvd. Delta",
+      "descripcion": "Cuadrillas de la Direccion de Obra Publica mantienen cerrado el carril de baja velocidad en el Blvd. Delta, en direccion de norte a sur a la altura de la colonia Agua Azul. El cierre se debe a la reparacion urgente de una alcantarilla colapsada que representaba un riesgo para los automovilistas.\n\nSe pide precaucion al circular por la zona, disminuir la velocidad y respetar los señalamientos de la obra para evitar incidentes.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-09-20T10:00:00-06:00",
-      "fecha_vigencia": "2026-09-22T05:00:00-06:00",
-      "ubicacion": "Libramiento Jose Maria Morelos, zona del Distribuidor Benito Juarez",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-09-22T14:20:00-06:00",
+      "fecha_vigencia": "2026-09-24T18:00:00-06:00",
+      "ubicacion": "Blvd. Delta altura Agua Azul",
       "fuente": "Obra Publica Leon",
       "url": "www.leon.gob.mx"
     },
     {
-      "id": "ALERTA_030",
-      "titulo": "Corte de energia programado en Zona Centro",
-      "descripcion": "La Comision Federal de Electricidad notifica sobre la suspension temporal del servicio de energia electrica en diversas cuadras de la Colonia Centro, especificamente en los cuadrantes comprendidos entre las calles 5 de Mayo y Pedro Moreno. El corte es estrictamente necesario para realizar la sustitucion de transformadores subterraneos dañados y durara aproximadamente 6 horas continuas.",
-      "categoria": "servicios",
+      "id": "ALERTA_004",
+      "titulo": "Bancos de niebla matutinos en salida a Lagos de Moreno",
+      "descripcion": "La Direccion de Proteccion Civil advierte sobre la formacion de densos bancos de niebla en la carretera Leon - Lagos de Moreno y zonas altas del norponiente de la ciudad, los cuales reducen significativamente la visibilidad durante las primeras horas de la mañana.\n\nSe exhorta a los automovilistas y transportistas a encender las luces de sus vehiculos, usar faros antiniebla si es posible, reducir la velocidad y mantener una mayor distancia de seguridad entre unidades.",
+      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-09-19T14:00:00-06:00",
-      "fecha_vigencia": "2026-09-21T18:00:00-06:00",
-      "ubicacion": "Zona Centro, calles 5 de Mayo y Pedro Moreno",
-      "fuente": "CFE / Gobierno Municipal",
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-09-23T05:30:00-06:00",
+      "fecha_vigencia": "2026-09-24T10:00:00-06:00",
+      "ubicacion": "Carretera Leon - Lagos de Moreno",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Operativo de revision a motocicletas",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementa filtros de revision aleatoria a motocicletas en distintos puntos del Blvd. San Juan Bosco. El objetivo es verificar que los conductores porten casco protector de forma adecuada, cuenten con placas vigentes y no presenten reportes de robo.\n\nSe puede presentar un ligero avance lento en la zona de los filtros. Se recomienda a los motociclistas llevar su documentacion en regla para agilizar las revisiones.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "👮",
+      "fecha_publicacion": "2026-09-22T16:45:00-06:00",
+      "fecha_vigencia": "2026-09-23T20:00:00-06:00",
+      "ubicacion": "Blvd. San Juan Bosco",
+      "fuente": "GobMunLeon",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "👮"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎉"
     }
   },
   "prioridades": {
