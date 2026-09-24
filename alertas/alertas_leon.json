@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-23T12:00:00-06:00",
+  "ultima_actualizacion": "2026-09-24T11:39:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Choque por alcance en Blvd. Vicente Valtierra",
-      "descripcion": "Se reporta transito lento debido a un choque por alcance entre un autobus de transporte publico y un vehiculo particular sobre Blvd. Vicente Valtierra casi esquina con Blvd. Francisco Villa. Unidades de Policia Vial y paramedicos se encuentran en la zona evaluando la situacion.\n\nSe recomienda a los conductores tomar rutas alternas como Blvd. La Luz o Blvd. Guanajuato para evitar el congestionamiento vial en la zona mientras se retiran los vehiculos afectados.",
-      "categoria": "trafico",
+      "titulo": "Trabajos de interconexión hidráulica en Blvd. Torres Landa",
+      "descripcion": "SAPAL realiza obras de sustitución e interconexión de tubería principal en el cruce de Blvd. Juan José Torres Landa y Av. Prisciliano Sánchez. Habrá reducción a un carril en sentido oriente a poniente. Se sugiere tomar vías alternativas como Blvd. Timoteo Lozano.",
+      "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-09-23T08:15:00-06:00",
-      "fecha_vigencia": "2026-09-23T14:00:00-06:00",
-      "ubicacion": "Blvd. Vicente Valtierra y Blvd. Francisco Villa",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "emoji": "🚰",
+      "fecha_publicacion": "2026-09-24T08:15:00-06:00",
+      "fecha_vigencia": "2026-09-25T18:00:00-06:00",
+      "ubicacion": "Blvd. Juan José Torres Landa y Av. Prisciliano Sánchez",
+      "fuente": "SAPAL León",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento preventivo de red potable en Las Mandarinas",
-      "descripcion": "SAPAL informa que debido a trabajos de mantenimiento preventivo y sustitucion de valvulas en la red de distribucion, se suspendera temporalmente el servicio de agua potable en la colonia Las Mandarinas y fraccionamientos aledaños del sur-poniente de la ciudad.\n\nEl servicio comenzara a restablecerse paulatinamente durante la madrugada del jueves. Se exhorta a la ciudadania a hacer un uso racional del agua almacenada en sus tinacos y aljibes durante este periodo.",
-      "categoria": "servicios",
-      "prioridad": "baja",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-09-22T10:00:00-06:00",
-      "fecha_vigencia": "2026-09-24T06:00:00-06:00",
-      "ubicacion": "Colonia Las Mandarinas",
-      "fuente": "SAPAL",
-      "url": "www.sapal.gob.mx"
+      "titulo": "Desvío vehicular por mantenimiento en Puente Delti",
+      "descripcion": "Tránsito Municipal de León informa sobre el cierre parcial de los carriles centrales en el Puente Delti sobre Blvd. Aeropuerto debido a trabajos de renivelación de juntas de dilatación. El flujo de carga pesada será desviado hacia los carriles laterales.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-09-24T07:00:00-06:00",
+      "fecha_vigencia": "2026-09-24T20:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, Puente Delti, León, Gto.",
+      "fuente": "Tránsito Municipal León",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Reparacion de alcantarillado en Blvd. Delta",
-      "descripcion": "Cuadrillas de la Direccion de Obra Publica mantienen cerrado el carril de baja velocidad en el Blvd. Delta, en direccion de norte a sur a la altura de la colonia Agua Azul. El cierre se debe a la reparacion urgente de una alcantarilla colapsada que representaba un riesgo para los automovilistas.\n\nSe pide precaucion al circular por la zona, disminuir la velocidad y respetar los señalamientos de la obra para evitar incidentes.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-09-22T14:20:00-06:00",
-      "fecha_vigencia": "2026-09-24T18:00:00-06:00",
-      "ubicacion": "Blvd. Delta altura Agua Azul",
-      "fuente": "Obra Publica Leon",
-      "url": "www.leon.gob.mx"
+      "titulo": "Aviso de rachas de viento y lluvias aisladas",
+      "descripcion": "Protección Civil León emite un aviso meteorológico por rachas de viento de 40 a 50 km/h durante la tarde, acompañadas de chubascos ocasionales en la zona serrana y norte del municipio. Se recomienda asegurar objetos expuestos y conducir con precaución.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "🌧️",
+      "fecha_publicacion": "2026-09-23T11:00:00-06:00",
+      "fecha_vigencia": "2026-09-24T23:59:00-06:00",
+      "ubicacion": "Municipio de León",
+      "fuente": "Protección Civil León",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Bancos de niebla matutinos en salida a Lagos de Moreno",
-      "descripcion": "La Direccion de Proteccion Civil advierte sobre la formacion de densos bancos de niebla en la carretera Leon - Lagos de Moreno y zonas altas del norponiente de la ciudad, los cuales reducen significativamente la visibilidad durante las primeras horas de la mañana.\n\nSe exhorta a los automovilistas y transportistas a encender las luces de sus vehiculos, usar faros antiniebla si es posible, reducir la velocidad y mantener una mayor distancia de seguridad entre unidades.",
-      "categoria": "clima",
+      "titulo": "Dispositivo vial por evento cultural en Poliforum León",
+      "descripcion": "Con motivo del desarrollo de actividades culturales en el recinto Poliforum León, la Policía Vial implementará un dispositivo de agilización del tráfico en Blvd. Francisco Villa y Blvd. Adolfo López Mateos durante las horas de mayor afluencia vehicular.",
+      "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "🌫️",
-      "fecha_publicacion": "2026-09-23T05:30:00-06:00",
-      "fecha_vigencia": "2026-09-24T10:00:00-06:00",
-      "ubicacion": "Carretera Leon - Lagos de Moreno",
-      "fuente": "Proteccion Civil Leon",
-      "url": ""
+      "emoji": "🎟️",
+      "fecha_publicacion": "2026-09-22T16:00:00-06:00",
+      "fecha_vigencia": "2026-09-27T21:00:00-06:00",
+      "ubicacion": "Poliforum León y Blvd. Francisco Villa",
+      "fuente": "Gobierno Municipal de León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo de revision a motocicletas",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementa filtros de revision aleatoria a motocicletas en distintos puntos del Blvd. San Juan Bosco. El objetivo es verificar que los conductores porten casco protector de forma adecuada, cuenten con placas vigentes y no presenten reportes de robo.\n\nSe puede presentar un ligero avance lento en la zona de los filtros. Se recomienda a los motociclistas llevar su documentacion en regla para agilizar las revisiones.",
+      "titulo": "Operativo de vigilancia preventiva en Zona Industrial Delta",
+      "descripcion": "La Secretaría de Seguridad Pública de León mantiene patrullajes reforzados e inspecciones aleatorias en la zona industrial y accesos sobre Blvd. Delta. Se exhorta a las empresas y transportistas a reportar cualquier anomalía de inmediato al 911.",
       "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "👮",
-      "fecha_publicacion": "2026-09-22T16:45:00-06:00",
-      "fecha_vigencia": "2026-09-23T20:00:00-06:00",
-      "ubicacion": "Blvd. San Juan Bosco",
-      "fuente": "GobMunLeon",
-      "url": ""
+      "prioridad": "media",
+      "emoji": "🛡️",
+      "fecha_publicacion": "2026-09-23T19:30:00-06:00",
+      "fecha_vigencia": "2026-09-26T23:59:00-06:00",
+      "ubicacion": "Parque Industrial Delta y Blvd. Delta",
+      "fuente": "Secretaría de Seguridad Pública de León",
+      "url": "https://twitter.com/GobMunLeon"
     }
   ],
   "categorias": {
@@ -79,22 +79,22 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🚰"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "👮"
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "🌧️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
