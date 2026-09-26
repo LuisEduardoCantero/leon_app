@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-24T11:39:00-06:00",
+  "ultima_actualizacion": "2026-09-26T10:49:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Trabajos de interconexión hidráulica en Blvd. Torres Landa",
-      "descripcion": "SAPAL realiza obras de sustitución e interconexión de tubería principal en el cruce de Blvd. Juan José Torres Landa y Av. Prisciliano Sánchez. Habrá reducción a un carril en sentido oriente a poniente. Se sugiere tomar vías alternativas como Blvd. Timoteo Lozano.",
+      "titulo": "Cierre parcial por sustitucion de tuberia en Blvd. Torres Landa",
+      "descripcion": "SAPAL realiza trabajos de sustitucion de tuberia sanitaria sobre el Bulevar Juan Jose Torres Landa, entre Av. Pradera y Blvd. Francisco Villa. Se mantiene habilitado solo un carril a la circulacion con sentido hacia Santa Julia. Se recomienda tomar como ruta alterna el Bulevar Timoteo Lozano.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "🚰",
-      "fecha_publicacion": "2026-09-24T08:15:00-06:00",
-      "fecha_vigencia": "2026-09-25T18:00:00-06:00",
-      "ubicacion": "Blvd. Juan José Torres Landa y Av. Prisciliano Sánchez",
-      "fuente": "SAPAL León",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-09-25T08:30:00-06:00",
+      "fecha_vigencia": "2026-09-27T18:00:00-06:00",
+      "ubicacion": "Blvd. Juan Jose Torres Landa entre Av. Pradera y Blvd. Francisco Villa",
+      "fuente": "SAPAL / Policia Vial Leon",
       "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Desvío vehicular por mantenimiento en Puente Delti",
-      "descripcion": "Tránsito Municipal de León informa sobre el cierre parcial de los carriles centrales en el Puente Delti sobre Blvd. Aeropuerto debido a trabajos de renivelación de juntas de dilatación. El flujo de carga pesada será desviado hacia los carriles laterales.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-09-24T07:00:00-06:00",
-      "fecha_vigencia": "2026-09-24T20:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, Puente Delti, León, Gto.",
-      "fuente": "Tránsito Municipal León",
-      "url": "https://twitter.com/TransitoLeon"
+      "titulo": "Corte de energia programado en Col. Jardines del Moral",
+      "descripcion": "La Comision Federal de Electricidad (CFE) realiza labores de mantenimiento en la red electrica de la colonia Jardines del Moral. Se suspende temporalmente el servicio afectando inmuebles sobre Av. Paseo de los Insurgentes y calles aledanas. Se sugiere tomar precauciones con aparatos electronicos.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-09-25T10:00:00-06:00",
+      "fecha_vigencia": "2026-09-26T16:00:00-06:00",
+      "ubicacion": "Colonia Jardines del Moral y Av. Paseo de los Insurgentes",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso de rachas de viento y lluvias aisladas",
-      "descripcion": "Protección Civil León emite un aviso meteorológico por rachas de viento de 40 a 50 km/h durante la tarde, acompañadas de chubascos ocasionales en la zona serrana y norte del municipio. Se recomienda asegurar objetos expuestos y conducir con precaución.",
+      "titulo": "Aviso preventivo por lluvias y rafagas de viento",
+      "descripcion": "Proteccion Civil Municipal emite aviso por probabilidad de chubascos y rafagas de viento fuertes durante la tarde y noche en diversas zonas de la ciudad. Se exhorta a la poblacion a no cruzar encharcamientos o arroyos con corriente y conducir con las luces encendidas.",
       "categoria": "clima",
-      "prioridad": "baja",
+      "prioridad": "alta",
       "emoji": "🌧️",
-      "fecha_publicacion": "2026-09-23T11:00:00-06:00",
-      "fecha_vigencia": "2026-09-24T23:59:00-06:00",
-      "ubicacion": "Municipio de León",
-      "fuente": "Protección Civil León",
+      "fecha_publicacion": "2026-09-26T09:00:00-06:00",
+      "fecha_vigencia": "2026-09-26T23:59:00-06:00",
+      "ubicacion": "Municipio de Leon (Cobertura general)",
+      "fuente": "Proteccion Civil Leon",
       "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Dispositivo vial por evento cultural en Poliforum León",
-      "descripcion": "Con motivo del desarrollo de actividades culturales en el recinto Poliforum León, la Policía Vial implementará un dispositivo de agilización del tráfico en Blvd. Francisco Villa y Blvd. Adolfo López Mateos durante las horas de mayor afluencia vehicular.",
+      "titulo": "Cierres viales por evento deportivo en Zona Centro",
+      "descripcion": "Elementos de la Policia Vial implementan dispositivos de cierre de circulacion sobre la calle Hidalgo, Arco de la Calzada y tramos del Blvd. Lopez Mateos debido a un evento atletico local. Se recomienda utilizar vias alternativas como la calle 5 de Mayo y Blvd. Diaz Ordaz.",
       "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "🎟️",
-      "fecha_publicacion": "2026-09-22T16:00:00-06:00",
-      "fecha_vigencia": "2026-09-27T21:00:00-06:00",
-      "ubicacion": "Poliforum León y Blvd. Francisco Villa",
-      "fuente": "Gobierno Municipal de León",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🏃",
+      "fecha_publicacion": "2026-09-26T07:00:00-06:00",
+      "fecha_vigencia": "2026-09-27T14:00:00-06:00",
+      "ubicacion": "Zona Centro, Arco de la Calzada y Blvd. Adolfo Lopez Mateos",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo de vigilancia preventiva en Zona Industrial Delta",
-      "descripcion": "La Secretaría de Seguridad Pública de León mantiene patrullajes reforzados e inspecciones aleatorias en la zona industrial y accesos sobre Blvd. Delta. Se exhorta a las empresas y transportistas a reportar cualquier anomalía de inmediato al 911.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🛡️",
-      "fecha_publicacion": "2026-09-23T19:30:00-06:00",
-      "fecha_vigencia": "2026-09-26T23:59:00-06:00",
-      "ubicacion": "Parque Industrial Delta y Blvd. Delta",
-      "fuente": "Secretaría de Seguridad Pública de León",
-      "url": "https://twitter.com/GobMunLeon"
+      "titulo": "Congestion vehicular por volcadura en Blvd. Aeropuerto",
+      "descripcion": "Se atiende un percance vial tipo volcadura sobre Blvd. Aeropuerto a la altura del Puente del Milenio en direccion a Silao. Servicios de emergencia y Policia Vial laboran en el sitio, registrandose asentamiento vehicular intenso desde el Distribuidor Vial Juan Pablo II.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-09-26T08:15:00-06:00",
+      "fecha_vigencia": "2026-09-26T13:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto a la altura del Puente del Milenio",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     }
   ],
   "categorias": {
@@ -79,7 +79,7 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🚰"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -94,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
