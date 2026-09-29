@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-28T12:00:00-06:00",
+  "ultima_actualizacion": "2026-09-29T13:11:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por reparación en estructura de Puente López Mateos",
-      "descripcion": "La Policía Vial de León informa sobre la reducción a un solo carril en el paso vehicular de Bulevar Adolfo López Mateos en su cruce con Bulevar Juan Alonso de Torres, en sentido poniente a oriente. La medida se debe a trabajos de reparación urgente en las juntas de dilatación. Se recomienda tomar como vías alternas Bulevar Miguel Hidalgo o Bulevar Vicente Valtierra.",
-      "categoria": "trafico",
+      "titulo": "Manifestacion estudiantil por la movilidad publica en Zona Centro y Blvd. Lopez Mateos",
+      "descripcion": "Un contingente de estudiantes universitarios realiza una marcha pacifica en demanda de mejoras al servicio de transporte urbano y la consolidacion de tarifas preferenciales. El recorrido parte de la Calzada de los Heroes y avanza sobre el Bulevar Adolfo Lopez Mateos hacia la Presidencia Municipal. Se presentan cierres parciales de circulacion vial y retrasos temporales en el paso de las orugas del Sistema Integrado de Transporte (SIT). Se recomienda hacer uso de vias alternas como Bulevar Mariano Escobedo y Malecon del Rio de los Gomez.",
+      "categoria": "eventos",
       "prioridad": "alta",
-      "emoji": "🚦",
-      "fecha_publicacion": "2026-09-28T07:15:00-06:00",
-      "fecha_vigencia": "2026-09-29T18:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo López Mateos y Blvd. Juan Alonso de Torres",
-      "fuente": "Tránsito Municipal León",
-      "url": "https://www.leon.gob.mx/noticias/vialidad-lopez-mateos"
+      "emoji": "📢",
+      "fecha_publicacion": "2026-09-29T10:30:00-06:00",
+      "fecha_vigencia": "2026-09-29T16:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos de Calzada de los Heroes a Plaza Principal, Zona Centro",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.leon.gob.mx/avisos-viales"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento de red potable con afectación temporal en Jardines del Moral",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) lleva a cabo trabajos de sustitución de valvulería e interconexión en el polígono de la colonia Jardines del Moral y zonas inmediatas a Paseo de los Insurgentes. Durante la jornada se registrará baja presión o suspensión temporal del servicio. Se solicita a los habitantes hacer uso eficiente del agua almacenada.",
-      "categoria": "servicios",
+      "titulo": "Mantenimiento de semaforos e infraestructura vial en Bulevar Hermanos Aldama",
+      "descripcion": "La Direccion General de Movilidad efectua trabajos de sustitucion de cableado y modernizacion de controladores semaforicos en el cruce de Bulevar Hermanos Aldama con Bulevar Timoteo Lozano. Debido a las maniobras, los semaforos se mantendran en destello intermitente en ambos sentidos. Personal de la Policia Vial abandera la zona para agilizar el paso de vehiculos de carga y transporte de pasajeros.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-09-27T09:00:00-06:00",
-      "fecha_vigencia": "2026-09-28T21:00:00-06:00",
-      "ubicacion": "Colonia Jardines del Moral y Paseo de los Insurgentes",
-      "fuente": "SAPAL León",
-      "url": "https://www.sapal.gob.mx/avisos/mantenimiento-jardines-del-moral"
+      "emoji": "🚦",
+      "fecha_publicacion": "2026-09-29T08:00:00-06:00",
+      "fecha_vigencia": "2026-09-29T18:00:00-06:00",
+      "ubicacion": "Cruce de Bulevar Hermanos Aldama y Bulevar Timoteo Lozano",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.leon.gob.mx/transito"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso meteorológico por chubascos vespertinos y humedad",
-      "descripcion": "Protección Civil Municipal emite un aviso por la probabilidad de chubascos de ligeros a moderados durante la tarde y noche en la mancha urbana y zona serrana de León. Se prevén descensos en la temperatura durante la madrugada con mínimas cercanas a los 12°C. Se sugiere extremar precauciones al conducir sobre pavimento mojado y mantener encendidas las luces.",
-      "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-09-28T10:00:00-06:00",
-      "fecha_vigencia": "2026-09-29T08:00:00-06:00",
-      "ubicacion": "Municipio de León (Zona Urbana y Sierra de Lobos)",
-      "fuente": "Protección Civil León",
-      "url": "https://www.leon.gob.mx/proteccion-civil/clima"
+      "titulo": "Trabajos de reparacion de fuga en red primaria de agua en Colonia La Martinica",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) atiende una fuga importante en la tuberia principal ubicada en la interseccion de Bulevar San Pedro y Prolongacion Calzada de los Ninos Heroes. Se efectua la suspension temporal del suministro de agua potable en la colonia La Martinica y zonas contiguas. Se estima la normalizacion gradual del servicio durante el transcurso de la noche.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🚰",
+      "fecha_publicacion": "2026-09-28T16:15:00-06:00",
+      "fecha_vigencia": "2026-09-29T22:00:00-06:00",
+      "ubicacion": "Blvd. San Pedro esquina Prolongacion Calzada, Col. La Martinica",
+      "fuente": "SAPAL Leon",
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Cierre temporal de vialidades por carrera atlética en Calzada de los Héroes",
-      "descripcion": "Con motivo de la celebración de un evento deportivo nocturno, la Policía Vial implementará cierres a la circulación en Calzada de los Héroes y Prolongación Calzada, desde la zona del Arco hasta las inmediaciones del Forum Cultural. El dispositivo de desviación iniciará a las 18:00 horas, habilitando Bulevar Mariano Escobedo y Calle Madero como rutas alternas.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🏃",
-      "fecha_publicacion": "2026-09-27T16:30:00-06:00",
-      "fecha_vigencia": "2026-09-28T23:00:00-06:00",
-      "ubicacion": "Calzada de los Héroes desde Arco de la Calzada hasta Forum Cultural",
-      "fuente": "Gobierno Municipal de León",
-      "url": "https://www.leon.gob.mx/eventos/carrera-nocturna"
+      "titulo": "Despliegue operativo preventivo y filtro vial en Bulevar Jose Maria Morelos norte",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementa un dispositivo de vigilancia y revisiones aleatorias sobre el Bulevar Jose Maria Morelos, a la altura de la colonia Brisas del Campestre y la salida a Lagos de Moreno. La presencia institucional genera desaceleracion moderada del trafico en los carriles laterales. Se exhorta a los automovilistas a atender el abanderamiento preventivo.",
+      "categoria": "seguridad",
+      "prioridad": "baja",
+      "emoji": "🛡️",
+      "fecha_publicacion": "2026-09-27T19:00:00-06:00",
+      "fecha_vigencia": "2026-09-30T02:00:00-06:00",
+      "ubicacion": "Blvd. Jose Maria Morelos tramo Brisas del Campestre",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://www.leon.gob.mx/seguridad"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Dispositivo de inspección vial preventiva en corredores gastronómicos",
-      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana de León desplegará puntos de revisión preventiva y alcoholimetría en Bulevar Campestre, Avenida Panorama y Bulevar Juan Alonso de Torres. El objetivo es prevenir percances viales relacionados con el consumo de alcohol. Se invita a la ciudadanía a designar conductor o utilizar alternativas de transporte.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🛡️",
-      "fecha_publicacion": "2026-09-27T21:00:00-06:00",
-      "fecha_vigencia": "2026-09-29T05:00:00-06:00",
-      "ubicacion": "Blvd. Campestre, Av. Panorama y Blvd. Juan Alonso de Torres",
-      "fuente": "Secretaría de Seguridad Pública de León",
-      "url": "https://www.leon.gob.mx/seguridad/dispositivo-vial"
+      "titulo": "Alerta meteorologica por lluvias moderadas y riesgo de encharcamientos en zona sur",
+      "descripcion": "La Direccion de Proteccion Civil emitio un aviso preventivo ante el desarrollo de celdas de tormenta acompanadas de descargas electricas y rachas de viento en la zona surponiente del municipio. Se anticipa posible acumulacion de agua en pasos de deprimidos como el del Bulevar Timoteo Lozano. Se recomienda extremar precauciones al conducir, conservar distancia entre vehiculos y encender luces de emergencia.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "⛈️",
+      "fecha_publicacion": "2026-09-29T11:45:00-06:00",
+      "fecha_vigencia": "2026-09-29T21:00:00-06:00",
+      "ubicacion": "Zona surponiente y pasos a desnivel de Leon",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://www.leon.gob.mx/proteccioncivil"
     }
   ],
   "categorias": {
@@ -79,7 +79,7 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🚰"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌧️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "📢"
     }
   },
   "prioridades": {
