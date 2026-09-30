@@ -1,85 +1,85 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-09-29T13:11:00-06:00",
+  "ultima_actualizacion": "2026-09-30T14:33:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Manifestacion estudiantil por la movilidad publica en Zona Centro y Blvd. Lopez Mateos",
-      "descripcion": "Un contingente de estudiantes universitarios realiza una marcha pacifica en demanda de mejoras al servicio de transporte urbano y la consolidacion de tarifas preferenciales. El recorrido parte de la Calzada de los Heroes y avanza sobre el Bulevar Adolfo Lopez Mateos hacia la Presidencia Municipal. Se presentan cierres parciales de circulacion vial y retrasos temporales en el paso de las orugas del Sistema Integrado de Transporte (SIT). Se recomienda hacer uso de vias alternas como Bulevar Mariano Escobedo y Malecon del Rio de los Gomez.",
-      "categoria": "eventos",
-      "prioridad": "alta",
-      "emoji": "📢",
-      "fecha_publicacion": "2026-09-29T10:30:00-06:00",
-      "fecha_vigencia": "2026-09-29T16:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos de Calzada de los Heroes a Plaza Principal, Zona Centro",
+      "titulo": "Cierre parcial por obras de reencarpetado en Bulevar Hermanos Aldama",
+      "descripcion": "La Dirección de Tránsito Municipal informa sobre la reducción de carriles en Bulevar Hermanos Aldama, en el tramo comprendido entre Bulevar Timoteo Lozano y la calle Pedro de Alba, debido a trabajos de reencarpetado y nivelación de la carpeta asfáltica. Se recomienda circular con extrema precaución y anticipar tiempos de traslado utilizando vías alternas como Bulevar Francisco Villa.",
+      "categoria": "trafico",
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-09-30T07:30:00-06:00",
+      "fecha_vigencia": "2026-10-03T18:00:00-06:00",
+      "ubicacion": "Blvd. Hermanos Aldama entre Timoteo Lozano y Pedro de Alba",
       "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx/avisos-viales"
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento de semaforos e infraestructura vial en Bulevar Hermanos Aldama",
-      "descripcion": "La Direccion General de Movilidad efectua trabajos de sustitucion de cableado y modernizacion de controladores semaforicos en el cruce de Bulevar Hermanos Aldama con Bulevar Timoteo Lozano. Debido a las maniobras, los semaforos se mantendran en destello intermitente en ambos sentidos. Personal de la Policia Vial abandera la zona para agilizar el paso de vehiculos de carga y transporte de pasajeros.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚦",
-      "fecha_publicacion": "2026-09-29T08:00:00-06:00",
-      "fecha_vigencia": "2026-09-29T18:00:00-06:00",
-      "ubicacion": "Cruce de Bulevar Hermanos Aldama y Bulevar Timoteo Lozano",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx/transito"
+      "titulo": "Corte de agua por reparación de red principal en Colonia San Miguel",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) lleva a cabo labores urgentes de reparación en tubería de distribución principal en la colonia San Miguel. Debido a las maniobras técnicos, el servicio presentará baja presión o suspensión temporal en la zona afectada. Se estima la restauración progresiva del suministro durante el transcurso de la noche.",
+      "categoria": "servicios",
+      "prioridad": "alta",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-09-30T09:15:00-06:00",
+      "fecha_vigencia": "2026-09-30T22:00:00-06:00",
+      "ubicacion": "Colonia San Miguel y zonas aledañas",
+      "fuente": "SAPAL Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Trabajos de reparacion de fuga en red primaria de agua en Colonia La Martinica",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) atiende una fuga importante en la tuberia principal ubicada en la interseccion de Bulevar San Pedro y Prolongacion Calzada de los Ninos Heroes. Se efectua la suspension temporal del suministro de agua potable en la colonia La Martinica y zonas contiguas. Se estima la normalizacion gradual del servicio durante el transcurso de la noche.",
-      "categoria": "servicios",
+      "titulo": "Aviso meteorológico por rachas de viento sostenidas",
+      "descripcion": "Protección Civil Municipal emite un aviso preventivo ante el incremento en la velocidad del viento, previéndose rachas de hasta 45 km/h durante la tarde en el área urbana. Se solicita a la población asegurar objetos livianos en azoteas o balcones y evitar estacionar vehículos debajo de árboles o estructuras vulnerables.",
+      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "🚰",
-      "fecha_publicacion": "2026-09-28T16:15:00-06:00",
-      "fecha_vigencia": "2026-09-29T22:00:00-06:00",
-      "ubicacion": "Blvd. San Pedro esquina Prolongacion Calzada, Col. La Martinica",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx"
+      "emoji": "💨",
+      "fecha_publicacion": "2026-09-30T08:00:00-06:00",
+      "fecha_vigencia": "2026-10-01T20:00:00-06:00",
+      "ubicacion": "Municipio de León",
+      "fuente": "Protección Civil León",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Despliegue operativo preventivo y filtro vial en Bulevar Jose Maria Morelos norte",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementa un dispositivo de vigilancia y revisiones aleatorias sobre el Bulevar Jose Maria Morelos, a la altura de la colonia Brisas del Campestre y la salida a Lagos de Moreno. La presencia institucional genera desaceleracion moderada del trafico en los carriles laterales. Se exhorta a los automovilistas a atender el abanderamiento preventivo.",
+      "titulo": "Dispositivo preventivo de vigilancia en Bulevar Insurgentes",
+      "descripcion": "Elementos de la Secretaría de Seguridad, Prevención y Protección Ciudadana de León mantienen puntos de inspección y presencia preventiva sobre el Bulevar Insurgentes en su intersección con Bulevar Campestre. La intervención busca inhibir conductas de riesgo y verificar la documentación vial de automovilistas y motociclistas.",
       "categoria": "seguridad",
       "prioridad": "baja",
       "emoji": "🛡️",
-      "fecha_publicacion": "2026-09-27T19:00:00-06:00",
-      "fecha_vigencia": "2026-09-30T02:00:00-06:00",
-      "ubicacion": "Blvd. Jose Maria Morelos tramo Brisas del Campestre",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://www.leon.gob.mx/seguridad"
+      "fecha_publicacion": "2026-09-30T10:30:00-06:00",
+      "fecha_vigencia": "2026-09-30T19:00:00-06:00",
+      "ubicacion": "Blvd. Insurgentes y Blvd. Campestre",
+      "fuente": "Gobierno Municipal Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Alerta meteorologica por lluvias moderadas y riesgo de encharcamientos en zona sur",
-      "descripcion": "La Direccion de Proteccion Civil emitio un aviso preventivo ante el desarrollo de celdas de tormenta acompanadas de descargas electricas y rachas de viento en la zona surponiente del municipio. Se anticipa posible acumulacion de agua en pasos de deprimidos como el del Bulevar Timoteo Lozano. Se recomienda extremar precauciones al conducir, conservar distancia entre vehiculos y encender luces de emergencia.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "⛈️",
-      "fecha_publicacion": "2026-09-29T11:45:00-06:00",
-      "fecha_vigencia": "2026-09-29T21:00:00-06:00",
-      "ubicacion": "Zona surponiente y pasos a desnivel de Leon",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://www.leon.gob.mx/proteccioncivil"
+      "titulo": "Modificación temporal de vialidad por Muestra Cultural en Plaza Fundadores",
+      "descripcion": "Con motivo de la realización de la Muestra Cultural y Artesanal en el Centro Histórico, se mantendrá un paso peatonal extendido sobre la calle Pino Suárez y accesos a la Plaza Fundadores. Se prevé mayor flujo de visitantes en la zona, por lo que se recomienda el uso de estacionamientos públicos perimetrales.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-09-30T11:00:00-06:00",
+      "fecha_vigencia": "2026-10-02T22:00:00-06:00",
+      "ubicacion": "Plaza Fundadores, Centro Histórico",
+      "fuente": "Gobierno Municipal Leon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🚰"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "🌧️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "📢"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
