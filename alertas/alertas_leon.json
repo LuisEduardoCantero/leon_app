@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-02T13:45:00-06:00",
+  "ultima_actualizacion": "2026-10-05T10:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Reduccion de carriles por rehabilitacion de pavimento en Bulevar San Juan Bosco",
-      "descripcion": "La Direccion General de Obra Publica en coordinacion con la Policia Vial iniciaron trabajos de fresado y colocacion de carpeta asfaltica en los carriles centrales de Bulevar San Juan Bosco. Las labores provocaran congestion vehicular constante durante las horas pico en ambos sentidos de circulacion.\n\nSe recomienda a los automovilistas utilizar como vias alternas Bulevar Aristoteles y Bulevar Paseo de la Plata, planificar sus traslados con anticipacion y atender los señalamientos de los agentes viales desplagados en el tramo afectado.",
+      "titulo": "Cierre parcial por trabajos de reencarpetado en Bulevar Francisco Villa",
+      "descripcion": "La Dirección General de Obra Pública y Policía Vial realizan labores de renivelación y bacheo profundo sobre el Bulevar Francisco Villa en el carril de baja velocidad. Los trabajos generan lentitud en la circulación en dirección norte a sur.\n\nSe recomienda a los automovilistas reducir la velocidad al aproximarse a la zona de obras, anticipar sus tiempos de traslado o tomar vías alternas como el Bulevar Hilario Medina.",
       "categoria": "trafico",
-      "prioridad": "alta",
+      "prioridad": "media",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-10-01T08:00:00-06:00",
-      "fecha_vigencia": "2026-10-05T18:00:00-06:00",
-      "ubicacion": "Bulevar San Juan Bosco entre Blvd. Juan Alonso de Torres y Av. Progresistas",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "fecha_publicacion": "2026-10-03T08:30:00-06:00",
+      "fecha_vigencia": "2026-10-06T18:00:00-06:00",
+      "ubicacion": "Blvd. Francisco Villa entre Blvd. Mariano Escobedo y Blvd. González Bocanegra",
+      "fuente": "Tránsito Municipal León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento en tanque potabilizador y baja presion en Colonia El Coecillo",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) realiza trabajos de sustitucion de valvuleria e interconexion de lineas de distribucion en la infraestructura de la zona de El Coecillo. Esto generara baja presion o suspension temporal en el suministro de agua potable en el sector.\n\nSe exhorta a la poblacion del poligono a almacenar y hacer un uso racional del liquido. Personal operativo mantendra apoyo mediante pipas para servicios e instalaciones prioritarias mientras concluyen las maniobras.",
+      "titulo": "Mantenimiento programado de red potable en Colonia Obregón",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) realiza maniobras de sustitución de valvulería y mantenimiento preventivo en la red principal de distribución que surte a la Colonia Obregón. Se prevé suspensión temporal o baja presión del servicio.\n\nSe sugiere a la población tomar previsiones en el almacenamiento de agua para uso doméstico básico y hacer un consumo responsable durante la realización de los trabajos.",
       "categoria": "servicios",
       "prioridad": "media",
       "emoji": "🚰",
-      "fecha_publicacion": "2026-10-01T11:30:00-06:00",
-      "fecha_vigencia": "2026-10-03T20:00:00-06:00",
-      "ubicacion": "Colonia El Coecillo y zonas aledañas",
-      "fuente": "SAPAL Leon",
+      "fecha_publicacion": "2026-10-04T09:00:00-06:00",
+      "fecha_vigencia": "2026-10-05T20:00:00-06:00",
+      "ubicacion": "Colonia Obregón",
+      "fuente": "SAPAL León",
       "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso por descenso de temperatura matutina y rafagas de viento",
-      "descripcion": "La Direccion de Proteccion Civil Municipal emite un aviso preventivo por el ingreso de una masa de aire frio que provocara temperaturas minimas entre 8 °C y 11 °C en la mancha urbana, asi como rafagas de viento de hasta 40 km/h en la zona norte del municipio.\n\nSe sugiere a la ciudadania abrigarse adecuadamente durante las primeras horas del dia, sujetar objetos sueltos en azoteas o balcones que puedan ser proyectados por el viento y prestar especial atencion a niños y adultos mayores.",
+      "titulo": "Aviso meteorológico por descenso de temperatura y bancos de niebla",
+      "descripcion": "La Dirección de Protección Civil Municipal emite un aviso preventivo ante el descenso de temperaturas durante la madrugada y mañana, así como la formación de bancos de niebla densa en zonas elevadas y tramos carreteros del municipio.\n\nSe exhorta a los conductores a encender luces intermitentes o de niebla, mantener distancia de seguridad y moderar la velocidad para evitar accidentes.",
       "categoria": "clima",
       "prioridad": "baja",
-      "emoji": "🌬️",
-      "fecha_publicacion": "2026-10-02T07:00:00-06:00",
-      "fecha_vigencia": "2026-10-03T12:00:00-06:00",
-      "ubicacion": "Zona urbana y sector norte de Leon",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-10-04T19:00:00-06:00",
+      "fecha_vigencia": "2026-10-06T11:00:00-06:00",
+      "ubicacion": "Zona urbana y accesos carreteros de León",
+      "fuente": "Protección Civil León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Cierres viales temporales por montaje de festival cultural en Forum Cultural Guanajuato",
-      "descripcion": "Con motivo de la instalacion de escenarios y logistica para un festival de artes escenicas en el Forum Cultural Guanajuato, la Policia Vial aplicara cierres intermitentes sobre Prolongacion Calzada de los Heroes y restricciones de estacionamiento en Bulevar Vasco de Quiroga.\n\nSe aconseja a las rutas del transporte urbano tomar precauciones ante pequeñas desviaciones en la zona. Se invita a los asistentes a utilizar los estacionamientos del Distrito Leon MX para evitar saturar calles secundarias.",
+      "titulo": "Dispositivo vial por evento deportivo masivo en Estadio León",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana implementará un dispositivo de agilización vial y cortes intermitentes a la circulación con motivo de un encuentro deportivo en el Estadio León.\n\nSe registrará mayor carga vehicular sobre Bulevar Adolfo López Mateos y Bulevar Vasco de Quiroga antes y después del partido. Se recomienda utilizar vías secundarias y respetar las indicaciones del personal de vialidad.",
       "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🎭",
-      "fecha_publicacion": "2026-10-01T16:00:00-06:00",
-      "fecha_vigencia": "2026-10-04T23:59:00-06:00",
-      "ubicacion": "Prolongacion Calzada de los Heroes y Bulevar Vasco de Quiroga",
-      "fuente": "Gobierno Municipal de Leon",
+      "prioridad": "alta",
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-10-04T14:00:00-06:00",
+      "fecha_vigencia": "2026-10-05T23:30:00-06:00",
+      "ubicacion": "Inmediaciones del Estadio León (Blvd. López Mateos y Blvd. Vasco de Quiroga)",
+      "fuente": "Gobierno Municipal de León",
       "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Operativo de vigilancia y control de velocidad en Bulevar Timoteo Lozano",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementa dispositivos de radar y patrullaje preventivo permanente sobre Bulevar Timoteo Lozano para inhibir el exceso de velocidad y prevenir accidentes viales en la zona sur de la ciudad.\n\nElementos viales estaran supervisando el cumplimiento de los limites de velocidad (60 km/h) y el uso correcto del cinturon de seguridad. Se solicita a los conductores mantener la calma y conducir con precaucion.",
+      "titulo": "Operativo de control de velocidad y prevención vial en Bulevar Torres Landa",
+      "descripcion": "Elementos de la Policía Vial despliegan un operativo preventivo con radares de velocidad en tramos críticos del Bulevar Juan José Torres Landa, con la finalidad de disminuir percances viales e inhibir el exceso de velocidad.\n\nSe solicita a las y los automovilistas conducir con precaución, abstenerse del uso de dispositivos móviles al volante y acatar los límites señalizados.",
       "categoria": "seguridad",
       "prioridad": "media",
       "emoji": "🚔",
-      "fecha_publicacion": "2026-10-02T09:00:00-06:00",
-      "fecha_vigencia": "2026-10-04T22:00:00-06:00",
-      "ubicacion": "Bulevar Timoteo Lozano entre Av. Atotonilco y Blvd. Francisco Villa",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "https://twitter.com/GobMunLeon"
+      "fecha_publicacion": "2026-10-05T07:00:00-06:00",
+      "fecha_vigencia": "2026-10-07T22:00:00-06:00",
+      "ubicacion": "Blvd. Juan José Torres Landa en cruce con Blvd. Francisco Villa",
+      "fuente": "Secretaría de Seguridad Pública de León",
+      "url": "https://www.leon.gob.mx"
     }
   ],
   "categorias": {
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌬️"
+      "emoji": "🌫️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎭"
+      "emoji": "⚽"
     }
   },
   "prioridades": {
