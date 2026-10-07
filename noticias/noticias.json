@@ -1,114 +1,80 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-05T10:00:00-06:00",
+  "ultima_actualizacion": "2026-10-07T14:40:00-06:00",
   "total_noticias": 8,
   "fuente": "Recopilacion automatica de medios locales",
   "noticias": [
     {
       "id": "NOTICIA_001",
-      "titulo": "Ponen en marcha sistema de pago con tarjeta bancaria y QR en terminales del SIT León",
-      "resumen": "La Dirección General de Movilidad habilitó una prueba piloto para permitir el acceso al transporte público mediante tarjetas de débito, crédito y código QR. La medida busca agilizar el ingreso en terminales con alto flujo de pasajeros.",
-      "contenido_completo": "La Dirección General de Movilidad de León inició la fase piloto del nuevo sistema de cobro electrónico y digital en las estaciones de transferencia San Jerónimo y San Juan Bosco. Este esquema permite a los usuarios acceder a las plataformas utilizando tarjetas bancarias de débito y crédito, así como pagos mediante código QR desde teléfonos inteligentes, modernizando de manera significativa el acceso al Sistema Integrado de Transporte (SIT).\n\nAutoridades municipales detallaron que durante las primeras dos semanas el sistema operará en torniquetes preferenciales, donde personal técnico orientará a la ciudadanía sobre su funcionamiento. La meta principal es reducir los tiempos de fila en horas pico y ofrecer alternativas más ágiles para visitantes y usuarios habituales que no cuentan de forma inmediata con la tarjeta Pagobús tradicional.\n\nRepresentantes del gremio transportista señalaron que esta actualización tecnológica forma parte de la segunda etapa de digitalización del transporte público en la ciudad. En los próximos meses, se proyecta extender la infraestructura de validación electrónica a los paraderos de la oruga sobre el Bulevar Adolfo López Mateos y el Bulevar Delta.\n\nLos usuarios manifestaron sus primeras impresiones positivas sobre la medida, destacando la practicidad de realizar el pago directamente con dispositivos móviles. Las autoridades reiteraron que el costo de la tarifa integrada se mantendrá sin cambios durante esta prueba piloto.",
+      "titulo": "León autoriza 4.3 mdp para proyecto de reingeniería y reestructuración de rutas del SIT",
+      "fecha": "2026-10-06T09:30:00-06:00",
       "categoria": "transporte",
-      "emoji": "🚌",
-      "fecha_publicacion": "2026-10-04T08:15:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/guanajuato/leon/2026/10/04/implementan-pago-digital-y-codigo-qr-en-estaciones-del-sit-leon-712390.html",
-      "relevancia": "alta"
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/10/06/leon-reestructuraran-rutas-del-sit-tras-10-anos-sin-cambios-y-presion-estudiantil-1852101.html",
+      "resumen": "Tras una década sin modificaciones sustanciales en la red de transporte urbano y luego de peticiones ciudadanas y estudiantiles, la Dirección de Movilidad de León solicitó una bolsa presupuestal de 4.3 mdp para realizar un estudio de reingeniería de rutas del Sistema Integrado de Transporte (SIT) junto al Implan."
     },
     {
       "id": "NOTICIA_002",
-      "titulo": "Presentan proyecto de ampliación del Bulevar Las Joyas para agilizar la conectividad del poniente",
-      "resumen": "Autoridades estatales y municipales revelaron el proyecto ejecutivo para conectar de forma directa el Bulevar Las Joyas con la autopista León-Aguascalientes. La obra contempla una inversión inicial de 180 millones de pesos.",
-      "contenido_completo": "El Gobierno Municipal de León y la Secretaría de Infraestructura, Conectividad y Movilidad del Estado presentaron el proyecto ejecutivo para la ampliación del Bulevar Las Joyas. La obra contempla una inversión inicial proyectada de 180 millones de pesos y busca interconectar de forma directa la zona poniente con la autopista León-Aguascalientes, resolviendo el histórico cuello de botella que afecta a miles de familias de la zona.\n\nEl proyecto técnico contempla la construcción de cuatro carriles de circulación con pavimento de alta resistencia, una ciclovía confinada, camellón central equipado con alumbrado LED y un sistema integral de drenaje pluvial para evitar encharcamientos en temporada de lluvias. Además, se incluirán pasos peatonales semaforizados para garantizar la seguridad de los vecinos de las colonias aledañas.\n\nDurante la presentación formal, autoridades locales explicaron que los trabajos físicos comenzarán antes de finalizar el último trimestre del año. Con esta obra se proyecta beneficiar a más de 120 mil habitantes del polígono Las Joyas, reduciendo los tiempos de traslado hacia las zonas industriales y comerciales del sur y oriente del municipio en más de 25 minutos.\n\nLíderes vecinales de la zona poniente expresaron su aprobación al proyecto, señalando que la conectividad directa impulsará el comercio local y mejorará la llegada de servicios de emergencia. La licitación pública para las empresas constructoras interesadas quedará abierta durante las próximas dos semanas.",
+      "titulo": "Municipio de León renueva banquetas e infraestructura peatonal en barrios tradicionales",
+      "fecha": "2026-10-05T11:00:00-06:00",
       "categoria": "desarrollo_urbano",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-03T11:30:00-06:00",
-      "fuente": "Periodico Correo",
-      "url": "https://periodicocorreo.com.mx/leon/presentan-proyecto-de-conexion-vial-entre-bulevar-las-joyas-y-autopista-20261003-8821.html",
-      "relevancia": "alta"
+      "fuente": "El Sol de León",
+      "url": "https://enterate.leon.gob.mx/con-tradicion-y-actividades-para-toda-la-familia-leon-celebra-el-festival-de-la-muerte/",
+      "resumen": "Como parte de los proyectos elegidos a través de la consulta ciudadana Participa León, el Gobierno Municipal avanza en la intervención de banquetas, nivelación de superficies, accesibilidad universal y alumbrado en calles de barrios tradicionales para consolidar la caminabilidad en zonas céntricas."
     },
     {
       "id": "NOTICIA_003",
-      "titulo": "Despliegan arcos inteligentes con lectura de placas en las entradas principales de León",
-      "resumen": "La Secretaría de Seguridad instaló 120 dispositivos de monitoreo vial con inteligencia artificial en los accesos carreteros del municipio. La tecnología permitirá identificar vehículos robados o con reporte de uso ilícito.",
-      "contenido_completo": "La Secretaría de Seguridad, Prevención y Protección Ciudadana de León puso en marcha un nuevo sistema de monitoreo vial compuesto por 120 arcos lectores de placas e identificación vehicular impulsados por inteligencia artificial. Los dispositivos fueron colocados estratégicamente en las principales vías de acceso y salida de la ciudad, incluyendo la carretera hacia Silao, San Francisco del Rincón, Lagos de Moreno y San Felipe.\n\nLa tecnología implementada permite cotejar de forma instantánea las matrículas de los automotores que ingresan al municipio con las bases de datos de vehículos con reporte de robo o involucrados en hechos ilícitos. Al detectar una anomalía, el sistema emite una alerta automática al Centro de Cómputo, Comando, Comunicaciones y Control (C4), activando de inmediato el cerco policial más cercano.\n\nLas autoridades explicaron que los arcos cuentan con cámaras de alta resolución capaces de operar en condiciones climáticas adversas y durante la noche mediante iluminación infrarroja. Se espera que este despliegue fortalezca las labores de prevención del delito y mejore sustancialmente la capacidad de respuesta de la Policía Municipal en las zonas limítrofes del municipio.\n\nRepresentantes del sector empresarial celebraron la inversión tecnológica en infraestructura de seguridad, destacando que el control de los accesos da mayor certidumbre al transporte de mercancías. La corporación policial mantendrá evaluaciones semanales para medir el impacto de este equipamiento en la recuperación de unidades robadas.",
+      "titulo": "Ayuntamiento de León exige investigar a mando policial suspendido tras agresión a mujer",
+      "fecha": "2026-10-06T10:15:00-06:00",
       "categoria": "seguridad",
-      "emoji": "🛡️",
-      "fecha_publicacion": "2026-10-05T07:45:00-06:00",
-      "fuente": "Milenio Leon",
-      "url": "https://www.milenio.com/politica/comunidad/leon/instalan-arcos-viales-con-inteligencia-artificial-en-entradas-a-leon",
-      "relevancia": "alta"
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/10/06/exigen-transparencia-al-investigar-a-mando-policial-de-leon-que-agredio-a-mujer-1852076.html",
+      "resumen": "Ediles del Ayuntamiento de León exigieron total transparencia en la investigación abierta contra el director operativo de la Policía Municipal, Óscar Mario Nava Quevedo, quien fue separado del cargo tras difundirse un video en el que agrede verbalmente a una mujer durante una intervención vial."
     },
     {
       "id": "NOTICIA_004",
-      "titulo": "Inversión de 45 millones de dólares traerá tres plantas de calzado y textil a León",
-      "resumen": "Tres empresas internacionales especializadas en calzado de alta gama y textiles avanzados se instalarán en el Parque Industrial Colinas de León. Se prevé la creación de más de 800 empleos directos en su primera etapa.",
-      "contenido_completo": "La Dirección General de Desarrollo Económico de León confirmó la llegada de tres nuevas empresas pertenecientes al sector de calzado de alta gama y manufactura textil avanzada, las cuales se instalarán en el Parque Industrial Colinas de León. La inversión conjunta asciende a 45 millones de dólares y se prevé que genere más de 800 empleos directos e indirectos durante su primera fase de operaciones.\n\nLas plantas industriales estarán dedicadas a la fabricación de componentes de calzado técnico para exportación y al desarrollo de textiles inteligentes utilizados en el sector automotriz y deportivo. Las autoridades locales destacaron que la decisión de las compañías internacionales de establecerse en León reafirma la competitividad y la mano de obra calificada de la región.\n\nComo parte de los acuerdos con las firmas inversionistas, el Municipio coordinará brigadas de reclutamiento laboral y programas de capacitación técnica especializada a través de los centros comunitarios de la zona urbana. Se estima que las obras de construcción e instalación de maquinaria concluyan a mediados del próximo año para iniciar líneas de producción de inmediato.\n\nCámaras empresariales locales expresaron su entusiasmo ante la llegada de estos proyectos, señalando que la diversificación del sector tradicional cuero-calzado hacia nichos de mayor valor agregado impulsa el crecimiento económico regional. La llegada de estas inversiones consolida a la ciudad como un hub industrial dinámico.",
+      "titulo": "Gobernadora rechaza cobro de renta a Marca Guanajuato en la Feria de León 2027",
+      "fecha": "2026-10-06T14:20:00-06:00",
       "categoria": "economia",
-      "emoji": "💼",
-      "fecha_publicacion": "2026-10-04T14:20:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://www.elsoldeleon.com.mx/local/anuncian-inversion-de-empresas-de-calzado-y-textil-en-colinas-de-leon-12849201.html",
-      "relevancia": "alta"
+      "fuente": "El Sol de León",
+      "url": "https://oem.com.mx/elsoldeleon/local/feria-de-leon-2027-rechaza-gobernadora-cobro-de-renta-asegura-que-hay-voluntad-para-establecer-acuerdos-32467803",
+      "resumen": "La gobernadora Libia Dennise García informó que la Secretaría de Turismo y la Secretaría de Economía mantendrán mesas de diálogo con el Patronato de la Feria Estatal de León para definir el esquema de aportaciones de la edición 2027, garantizando que no se trasladarán cobros de renta a los pequeños productores."
     },
     {
       "id": "NOTICIA_005",
-      "titulo": "La Calzada de los Héroes se convierte en galería al aire libre con muestra escultórica internacional",
-      "resumen": "El Instituto Municipal de Cultura inauguró una exposición con 24 piezas monumentales de artistas de México, España, Colombia y Japón. La exhibición estará disponible de forma gratuita durante los próximos dos meses.",
-      "contenido_completo": "El Instituto Municipal de Cultura de León inauguró una magno exposición internacional de escultura contemporánea al aire libre, instalada a lo largo del corredor peatonal de la Calzada de los Héroes y la explanada del histórico Arco de la Calzada. La muestra reúne 24 piezas monumentales creadas por reconocidos artistas plásticos de México, España, Colombia y Japón.\n\nLa iniciativa busca acercar las expresiones artísticas a la ciudadanía en espacios públicos de alto tránsito peatonal, promoviendo la convivencia familiar y el turismo cultural en el centro de la ciudad. Cada una de las esculturas cuenta con cédulas informativas interactivas y códigos QR que permiten a los visitantes escuchar audioguías con explicaciones detalladas sobre el significado de las obras e intenciones de sus autores.\n\nDurante la ceremonia de apertura, autoridades culturales destacaron que la exposición permanecerá montada durante los próximos dos meses de manera totalmente gratuita. Adicionalmente, se programaron recorridos guiados nocturnos y talleres didácticos de modelado en arcilla dirigidos a niñas, niños y jóvenes de escuelas públicas de la localidad.\n\nHabitantes y turistas que recorrieron la zona manifestaron su agrado por la transformación estética del paseo peatonal, destacando el valor de descentralizar la cultura fuera de los museos tradicionales. La muestra formará parte del circuito cultural que acompañará los eventos festivos del último trimestre del año en León.",
+      "titulo": "Presentan el XXVII Festival de la Muerte en León con catrinas gigantes y agenda cultural",
+      "fecha": "2026-10-05T12:00:00-06:00",
       "categoria": "cultura",
-      "emoji": "🎨",
-      "fecha_publicacion": "2026-10-03T18:00:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/guanajuato/leon/2026/10/03/inauguran-exposicion-de-escultura-al-aire-libre-en-la-calzada-de-los-heroes-712411.html",
-      "relevancia": "media"
+      "fuente": "El Sol de León",
+      "url": "https://enterate.leon.gob.mx/con-tradicion-y-actividades-para-toda-la-familia-leon-celebra-el-festival-de-la-muerte/",
+      "resumen": "El Gobierno Municipal y el Instituto Cultural de León anunciaron la edición XXVII del Festival de la Muerte, que vestirá a la ciudad con catrinas y catrines gigantes, la tradicional Feria del Alfeñique en Plaza Fundadores, recorridos nocturnos en panteones y la Caminata del Despertar de las Ánimas."
     },
     {
       "id": "NOTICIA_006",
-      "titulo": "Ponen en marcha brigadas médicas especializadas en diagnóstico metabólico en comunidades rurales de León",
-      "resumen": "Unidades móviles de la Dirección de Salud recorren poblados como Santa Rosa Plan de Ayala y San Juan de Otates para realizar pruebas de diabetes e hipertensión. El programa incluye la entrega de medicamentos y seguimiento clínico.",
-      "contenido_completo": "La Dirección Municipal de Salud de León activó un programa especial de brigadas médicas móviles enfocadas en la prevención, detección oportuna y control de enfermedades crónico-degenerativas en comunidades rurales del municipio. Unidades médicas equipadas con laboratorios portátiles comenzaron su recorrido en las localidades de Santa Rosa Plan de Ayala, San Juan de Otates y Duarte.\n\nEl objetivo prioritario de este despliegue es diagnosticar a tiempo padecimientos como diabetes mellitus, hipertensión arterial y dislipidemias en habitantes de zonas alejadas que enfrentan dificultades de traslado hacia los centros de salud urbanos. Personal de enfermería y médicos especialistas realizan pruebas gratuitas de glucosa, perfil lipídico, electrocardiogramas y valoraciones nutricionales personalizadas.\n\nLas autoridades de salud precisaron que, además del diagnóstico inicial, las unidades brindarán medicamentos básicos sin costo y darán seguimiento continuo a los expedientes clínicos de los pacientes detectados con alteraciones en sus niveles. El programa contempla visitar más de 20 comunidades rurales a lo largo del mes para garantizar una cobertura integral a la población vulnerable.\n\nFamilias rurales recibieron con agrado las jornadas médicas, resaltando la importancia de contar con atención especializada cerca de sus hogares. Las autoridades hicieron un llamado a los habitantes de las zonas aledañas para acudir con sus familias y aprovechar los servicios médicos preventivos sin costo.",
+      "titulo": "Sapal descarta contaminación de agua en León y exhorta al mantenimiento de tinacos",
+      "fecha": "2026-10-06T16:00:00-06:00",
       "categoria": "salud",
-      "emoji": "🏥",
-      "fecha_publicacion": "2026-10-04T10:00:00-06:00",
-      "fuente": "Periodico Correo",
-      "url": "https://periodicocorreo.com.mx/leon/despliegan-unidades-medicas-moviles-para-atencion-cronica-en-comunidades-rurales-20261004-9012.html",
-      "relevancia": "alta"
+      "fuente": "El Sol de León",
+      "url": "https://oem.com.mx/elsoldeleon/local/agua-turbia-de-guadalajara-hace-revisar-los-tinacos-en-leon-sapal-asegura-que-el-agua-es-potable-32467646",
+      "resumen": "Ante la inquietud de la ciudadanía por casos de agua turbia reportados en zonas vecinas de Jalisco, el organismo operador Sapal confirmó que ejecuta más de 34 muestreos diarios para certificar la potabilidad del suministro en León y llamó a los usuarios a lavar aljibes y depósitos con regularidad."
     },
     {
       "id": "NOTICIA_007",
-      "titulo": "UG Campus León y Clúster Automotriz lanzan programa de becas en tecnología de vehículos eléctricos",
-      "resumen": "La alianza ofrecerá 50 becas de especialización técnica y estadías industriales a alumnos de ingeniería. La iniciativa responde a la demanda de talento cualificado para la transición hacia la electromovilidad en Guanajuato.",
-      "contenido_completo": "La Universidad de Guanajuato Campus León y el Clúster Automotriz de Guanajuato (CLAUGTO) firmaron un convenio de colaboración estratégica para lanzar un programa integral de becas de especialización enfocado en electromovilidad, almacenamiento de energía e inteligencia artificial aplicada a la manufactura. El acuerdo beneficiará directamente a estudiantes de las carreras de ingeniería de la institución.\n\nEl programa contempla la entrega de 50 becas completas que cubrirán costos de certificación técnica, estadías en plantas industriales de vanguardia y acceso a laboratorios equipados con tecnología de última generación. Los alumnos seleccionados trabajarán mano a mano con ingenieros del sector automotriz en proyectos reales orientados a la transición de vehículos tradicionales hacia tecnologías limpias.\n\nAutoridades universitarias señalaron que este lazo entre el sector académico y la industria privada responde a las demandas crecientes del mercado laboral en la región bajío. La formación de talento especializado permitirá que los graduados de León se incorporen de forma inmediata a puestos directivos y de desarrollo tecnológico de alta relevancia nacional e internacional.\n\nPor su parte, directivos del clúster automotriz enfatizaron que el impulso a la educación técnica especializada es fundamental para sostener la competitividad industrial de la entidad. Las postulaciones para la primera generación de becarios estarán abiertas a partir de la próxima semana en el portal institucional del campus.",
+      "titulo": "Estudiantes de la UNITEC León protestan y cierran carril vial por aumento de colegiaturas",
+      "fecha": "2026-10-05T13:30:00-06:00",
       "categoria": "educacion",
-      "emoji": "🎓",
-      "fecha_publicacion": "2026-10-03T12:00:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://www.elsoldeleon.com.mx/local/ug-campus-leon-y-cluster-automotriz-firman-alianza-para-becas-de-electromovilidad-12847720.html",
-      "relevancia": "media"
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/10/05/protestan-estudiantes-de-unitec-acusan-altos-costos-y-cierran-carril-vial-en-leon-1851863.html",
+      "resumen": "Alumnos del campus León de la UNITEC se manifestaron sobre el bulevar Juan Alonso de Torres bloqueando parcialmente la circulación vehicular para inconformarse por los recientes incrementos en colegiaturas e inscripciones, solicitando la apertura de canales de diálogo con directivos de la institución."
     },
     {
       "id": "NOTICIA_008",
-      "titulo": "SAPAL arranca la construcción de pozos de absorción para la recarga de acuíferos en áreas verdes de León",
-      "resumen": "El organismo operador de agua inició la habilitación de pozos de infiltración pluvial en el poniente y sur del municipio. La inversión de 32 millones de pesos busca recargar los mantos freáticos y mitigar encharcamientos.",
-      "contenido_completo": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) inició la construcción de la primera etapa de un sistema de pozos de absorción e infiltración pluvial en parques y áreas verdes del poniente y sur de la ciudad. El proyecto tiene como propósito captar el agua de lluvias y recargar de manera directa los mantos acuíferos del valle de León.\n\nLas obras contemplan la instalación de estructuras subterráneas equipadas con desarenadores y filtros naturales de grava y arena que retienen contaminantes antes de inyectar el agua de escurrimiento directamente al subsuelo. Los primeros pozos absorbentes están siendo habilitados en áreas verdes de colonias de alto impacto urbano y espacios de convivencia pública.\n\nTécnicos de SAPAL explicaron que esta infraestructura permitirá mitigar los efectos del estrés hídrico que enfrenta la región, al tiempo que reducirá los severos encharcamientos e inundaciones que suelen registrarse en vialidades principales durante la época de precipitaciones. La inversión inicial para esta fase comprende 32 millones de pesos de recursos propios del organismo operador.\n\nOrganizaciones ambientalistas locales respaldaron el inicio de estos trabajos e insistieron en la importancia de complementar la obra con la protección de las zonas naturales de recarga en la periferia de León. El organismo de agua continuará la expansión de este modelo de captación pluvial en otras delegaciones urbanas.",
+      "titulo": "Zoológico de León reestructura su plan de medicina preventiva para la fauna bajo resguardo",
+      "fecha": "2026-10-05T15:45:00-06:00",
       "categoria": "medio_ambiente",
-      "emoji": "🌱",
-      "fecha_publicacion": "2026-10-05T09:10:00-06:00",
-      "fuente": "Milenio Leon",
-      "url": "https://www.milenio.com/politica/comunidad/leon/sapal-inicia-construccion-de-pozos-de-absorcion-para-recarga-de-acuiferos",
-      "relevancia": "alta"
+      "fuente": "AM León",
+      "url": "https://www.am.com.mx/leon/2026/10/05/trabajan-en-reestructura-de-medicina-preventiva-en-zoo-de-leon-tras-muertes-de-ejemplares-1851873.html",
+      "resumen": "El Zoológico de León puso en marcha una reingeniería integral en sus programas de medicina preventiva, expedientes clínicos y vigilancia veterinaria permanente para garantizar la atención especializada de más de 1,600 ejemplares que alberga el recinto."
     }
-  ],
-  "categorias_noticias": {
-    "transporte": "Ponen en marcha sistema de pago con tarjeta bancaria y QR en terminales del SIT León",
-    "desarrollo_urbano": "Presentan proyecto de ampliación del Bulevar Las Joyas para agilizar la conectividad del poniente",
-    "seguridad": "Despliegan arcos inteligentes con lectura de placas en las entradas principales de León",
-    "economia": "Inversión de 45 millones de dólares traerá tres plantas de calzado y textil a León",
-    "cultura": "La Calzada de los Héroes se convierte en galería al aire libre con muestra escultórica internacional",
-    "salud": "Ponen en marcha brigadas médicas especializadas en diagnóstico metabólico en comunidades rurales de León",
-    "educacion": "UG Campus León y Clúster Automotriz lanzan programa de becas en tecnología de vehículos eléctricos",
-    "medio_ambiente": "SAPAL arranca la construcción de pozos de absorción para la recarga de acuíferos en áreas verdes de León"
-  }
+  ]
 }
