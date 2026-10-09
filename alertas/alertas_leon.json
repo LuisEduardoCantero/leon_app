@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-07T14:40:00-06:00",
+  "ultima_actualizacion": "2026-10-09T11:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por obras de repavimentación en Bulevar Delta",
-      "descripcion": "La Dirección General de Obra Pública informa la reducción a un solo carril sobre Bulevar Delta, en el tramo comprendido entre Bulevar Aeropuerto y Bulevar Luz, debido a trabajos de bacheo profundo y rehabilitación de la carpeta asfáltica. Se recomienda extremar precauciones y utilizar Bulevar Atotonilco como vía alternativa.",
+      "titulo": "Cierre total en distribuidor vial Juan Pablo II por maniobras de mantenimiento",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana informa sobre el cierre total de la incorporación de Bulevar Aeropuerto hacia Bulevar Juan Pablo II en sentido norte-sur debido a labores de mantenimiento estructural e instalación de trabes. Se recomienda a los conductores utilizar vías alternas como Bulevar Delta o Avenida Valtierra para aminorar la congestión vehicular en el acceso oriente de la ciudad.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "",
-      "fecha_publicacion": "2026-10-07T08:00:00-06:00",
-      "fecha_vigencia": "2026-10-10T20:00:00-06:00",
-      "ubicacion": "Bulevar Delta entre Bulevar Aeropuerto y Bulevar Luz",
-      "fuente": "Tránsito Municipal de León",
-      "url": ""
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-09T07:30:00-06:00",
+      "fecha_vigencia": "2026-10-11T20:00:00-06:00",
+      "ubicacion": "Distribuidor Vial Juan Pablo II, entronque con Bulevar Aeropuerto",
+      "fuente": "Policía Vial de León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Suspensión temporal del servicio de agua por reparación en Colonia Obrera",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) realiza trabajos de interconexión de red primaria en la zona de la Colonia Obrera y sectores aledaños. Se prevé baja presión y suspensión temporal del suministro durante la jornada de hoy. Se solicita a la ciudadanía hacer uso eficiente del agua almacenada.",
+      "titulo": "Suspensión temporal del servicio de agua potable en polígono León II",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) realiza maniobras de interconexión en la red principal de agua tratada e hidráulica en el sector poniente. Por tal motivo, se prevé baja presión o suspensión temporal en el suministro para las colonias León II, Las Mandarinas y zonas aledañas durante el transcurso de la jornada. Se invita a los ciudadanos a almacenar agua y hacer un uso responsable.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-10-07T09:30:00-06:00",
-      "fecha_vigencia": "2026-10-07T22:00:00-06:00",
-      "ubicacion": "Colonia Obrera y zonas colindantes",
+      "emoji": "🚰",
+      "fecha_publicacion": "2026-10-08T16:00:00-06:00",
+      "fecha_vigencia": "2026-10-09T22:00:00-06:00",
+      "ubicacion": "Colonias León II, Las Mandarinas y Satélite",
       "fuente": "SAPAL León",
-      "url": ""
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso por chubascos aislados y actividad eléctrica",
-      "descripcion": "La Dirección de Protección Civil Municipal emite un aviso preventivo por la presencia de celdas de lluvia de corta duración pero con intervalos intensos en el norte y poniente del municipio. Se exhorta a los automovilistas a reducir la velocidad, encender luces intermitentes y evitar cruzar arroyos o vados con corrientes acumuladas.",
+      "titulo": "Aviso meteorológico por índice UV elevado y rachas de viento por la tarde",
+      "descripcion": "La Dirección de Protección Civil Municipal emite una recomendación preventiva ante los altos niveles de radiación solar hacia el mediodía y rachas de viento de 25 a 35 km/h registradas en la mancha urbana. Se sugiere aplicar bloqueador solar de amplio espectro, usar gorra o sombrero y asegurar lonas u objetos sueltos en terrazas y azoteas.",
       "categoria": "clima",
       "prioridad": "baja",
-      "emoji": "",
-      "fecha_publicacion": "2026-10-06T15:00:00-06:00",
-      "fecha_vigencia": "2026-10-08T12:00:00-06:00",
-      "ubicacion": "Zona Norte y Poniente de León",
+      "emoji": "☀️",
+      "fecha_publicacion": "2026-10-09T09:00:00-06:00",
+      "fecha_vigencia": "2026-10-10T19:00:00-06:00",
+      "ubicacion": "Zona urbana de León, Guanajuato",
       "fuente": "Protección Civil León",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo de alcoholimetría y vigilancia vial en Bulevar Mariano Escobedo",
-      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana mantendrá puntos itinerantes de revisión preventiva sobre Bulevar Mariano Escobedo, desde Avenida Las Torres hasta Bulevar Miguel Hidalgo, con el fin de inhibir la conducción bajo los efectos del alcohol y verificar documentación vehicular.",
-      "categoria": "seguridad",
+      "titulo": "Dispositivo vial por Festival Gastronómico en el recinto Poliforum León",
+      "descripcion": "Con motivo del inicio del Festival Gastronómico y Artesanal de Guanajuato en Poliforum León, la Policía Vial desplegará personal sobre Bulevar Adolfo López Mateos y Bulevar Vasco de Quiroga. Se prevé intensa carga vehicular en la zona hotelera y comercial, por lo que se aplicarán cortes parciales e intermitentes en los retornos principales para facilitar la movilidad vehicular y peatonal.",
+      "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-10-06T19:00:00-06:00",
-      "fecha_vigencia": "2026-10-08T05:00:00-06:00",
-      "ubicacion": "Bulevar Mariano Escobedo (tramo Av. Las Torres a Blvd. Hidalgo)",
-      "fuente": "Secretaría de Seguridad Pública León",
-      "url": ""
+      "emoji": "🎪",
+      "fecha_publicacion": "2026-10-08T12:00:00-06:00",
+      "fecha_vigencia": "2026-10-11T23:00:00-06:00",
+      "ubicacion": "Bulevar Adolfo López Mateos y Bulevar Vasco de Quiroga",
+      "fuente": "Gobierno Municipal de León",
+      "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierres perimetrales por montaje de exposición en Explanada Poliforum",
-      "descripcion": "Con motivo del inicio del montaje para una exposición industrial y comercial en el complejo Poliforum León, la Policía Vial implementará restricciones a la circulación de carga pesada y desvíos ligeros en laterales de Bulevar Francisco Villa e intersección con Bulevar López Mateos.",
-      "categoria": "eventos",
+      "titulo": "Filtros de inspección y seguridad en cruce de Bulevar Mariano Escobedo e Hidalgo",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana mantiene puntos de control e inspección preventiva de autos y motocicletas en el cruce de Bulevar Mariano Escobedo y Bulevar Miguel Hidalgo. El operativo revisa documentación y busca prevenir conductas de riesgo y faltas administrativas. Se solicita a los automovilistas disminuir la velocidad al aproximarse al filtro.",
+      "categoria": "seguridad",
       "prioridad": "media",
-      "emoji": "",
-      "fecha_publicacion": "2026-10-06T07:00:00-06:00",
-      "fecha_vigencia": "2026-10-09T23:59:00-06:00",
-      "ubicacion": "Inmediaciones de Poliforum León, Blvd. Francisco Villa",
-      "fuente": "Gobierno Municipal de León",
+      "emoji": "🛡️",
+      "fecha_publicacion": "2026-10-08T20:00:00-06:00",
+      "fecha_vigencia": "2026-10-10T04:00:00-06:00",
+      "ubicacion": "Bulevar Mariano Escobedo y Bulevar Miguel Hidalgo",
+      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": ""
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": ""
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": ""
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": ""
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": ""
+      "emoji": "🎉"
     }
   },
   "prioridades": {
