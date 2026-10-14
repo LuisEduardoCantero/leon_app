@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-12T09:30:00-06:00",
+  "ultima_actualizacion": "2026-10-14T13:15:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial por obras de drenaje en Bulevar Adolfo López Mateos",
-      "descripcion": "La Dirección General de Obra Pública en coordinación con la Policía Vial informa la reducción de carriles centrales en Bulevar Adolfo López Mateos, en el tramo comprendido entre Bulevar Vasco de Quiroga y Bulevar Paseo del Jerez. Se realizan trabajos de sustitución de colector sanitario. Se sugiere tomar vías alternativas como Bulevar Francisco Villa o Bulevar Torres Landa.",
+      "titulo": "Cierre parcial por obras de repavimentación en Bulevar Adolfo López Mateos",
+      "descripcion": "La Dirección General de Obra Pública y la Policía Vial realizan labores de fresado y sustitución de carpeta asfáltica en el Bulevar Adolfo López Mateos, en el tramo comprendido entre Bulevar Miguel Hidalgo y Calle Mérida, sentido poniente a oriente. Se mantiene habilitado un solo carril a la circulación. Se recomienda a los automovilistas anticipar sus traslados y tomar vías alternativas como Bulevar Paseo de los Insurgentes o Bulevar Vicente Valtierra.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-11T08:00:00-06:00",
-      "fecha_vigencia": "2026-10-18T18:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo López Mateos entre Blvd. Vasco de Quiroga y Blvd. Paseo del Jerez",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-14T07:30:00-06:00",
+      "fecha_vigencia": "2026-10-16T20:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo López Mateos entre Blvd. Miguel Hidalgo y Calle Mérida",
       "fuente": "Tránsito Municipal León",
       "url": "https://www.leon.gob.mx"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Interrupción del servicio de agua por mantenimiento en Colonia Jardines de Jerez",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) lleva a cabo trabajos de interconexión y sustitución de tuberías en la red hidráulica primaria. Se prevé baja presión o suspensión total del suministro durante la jornada de trabajos. Se recomienda a los vecinos almacenar agua con anticipación y hacer un uso racional del suministro.",
+      "titulo": "Corte temporal de suministro de agua potable en el sector Jardines de Jerez",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) informa que debido a trabajos de reparación urgente por fuga en la red de distribución de 12 pulgadas sobre la zona del Bulevar Juan José Torres Landa, se suspenderá temporalmente el servicio de agua en las colonias Jardines de Jerez, Punto Verde y zonas aledañas. Se prevé que el servicio comience a restablecerse de manera paulatina durante la noche.",
       "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🚰",
-      "fecha_publicacion": "2026-10-11T10:00:00-06:00",
-      "fecha_vigencia": "2026-10-12T20:00:00-06:00",
-      "ubicacion": "Colonia Jardines de Jerez y zonas aledañas",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-14T09:00:00-06:00",
+      "fecha_vigencia": "2026-10-14T23:00:00-06:00",
+      "ubicacion": "Col. Jardines de Jerez y Punto Verde",
       "fuente": "SAPAL León",
       "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Dispositivo vial por evento masivo en Foro del Lago",
-      "descripcion": "Con motivo de la realización de un festival musical y cultural en el Foro del Lago en el Parque Explora, la Policía Vial desplegará un operativo especial para agilizar el tránsito vehicular en las inmediaciones. Habrá restricciones en el carril lateral de Bulevar Paseo de los Niños y accesos peatonales controlados.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🎟️",
-      "fecha_publicacion": "2026-10-11T12:00:00-06:00",
-      "fecha_vigencia": "2026-10-12T23:00:00-06:00",
-      "ubicacion": "Blvd. Paseo de los Niños y Zona Explora",
-      "fuente": "Gobierno Municipal de León",
-      "url": "https://www.leon.gob.mx"
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Aviso meteorológico por rachas de viento y marcado descenso térmico",
-      "descripcion": "La Dirección de Protección Civil Municipal emite un aviso preventivo ante el paso de un frente frío que provocará temperaturas mínimas de entre 7 °C y 10 °C por las mañanas, acompañadas de rachas de viento superiores a los 35 km/h. Se sugiere asegurar objetos en azoteas y abrigarse adecuadamente.",
+      "titulo": "Aviso meteorológico por fuertes ráfagas de viento y ambiente seco",
+      "descripcion": "La Dirección de Protección Civil Municipal emite un aviso preventivo para la zona urbana de León debido al paso de un frente frío que genera ráfagas de viento de entre 35 y 50 km/h. Se recomienda a la población asegurar objetos sueltos en azoteas, evitar estacionarse debajo de árboles o espectaculares en mal estado y conducir con precaución en vialidades abiertas.",
       "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "🌬️",
-      "fecha_publicacion": "2026-10-10T16:00:00-06:00",
-      "fecha_vigencia": "2026-10-13T12:00:00-06:00",
-      "ubicacion": "Municipio de León, Guanajuato",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-13T11:00:00-06:00",
+      "fecha_vigencia": "2026-10-15T18:00:00-06:00",
+      "ubicacion": "Municipio de León (Zona Urbana y Periferia)",
       "fuente": "Protección Civil León",
       "url": "https://www.leon.gob.mx"
     },
     {
+      "id": "ALERTA_004",
+      "titulo": "Operativo vial y cierres intermitentes por exposición en Parque La Mexicana / Distrito León MX",
+      "descripcion": "Con motivo de la instalación y logística de accesos para la Feria de Innovación e Industria en las inmediaciones del Distrito León MX, la Policía Vial aplicará dispositivos de agilización y cierres intermitentes sobre Bulevar Paseo de los Niños y accesos a Explanada de la Feria. Se pide atender la señalización y las indicaciones de los agentes de vialidad.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-13T15:00:00-06:00",
+      "fecha_vigencia": "2026-10-16T22:00:00-06:00",
+      "ubicacion": "Distrito León MX y Blvd. Paseo de los Niños",
+      "fuente": "Gobierno Municipal de León",
+      "url": "https://www.leon.gob.mx"
+    },
+    {
       "id": "ALERTA_005",
-      "titulo": "Operativo de agilización vial por accidente en Libramiento Norte",
-      "descripcion": "Elementos de la Policía Vial y cuerpos de emergencia atienden un choque múltiple registrado sobre Bulevar José María Morelos, a la altura de la intersección con Bulevar Hilario Medina. Se reporta tráfico lento en dirección poniente a oriente. Se solicita ceder el paso a las unidades de urgencia.",
+      "titulo": "Dispositivo de presencia preventiva e inspección en Bulevar José María Morelos",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana mantiene operativos itinerantes de supervisión de velocidad e inspección preventiva en el Bulevar José María Morelos (Libramiento Norte), en el tramo de Bulevar Los Naranjos a Bulevar Ibarrilla. Se exhorta a los conductores a mantener los límites de velocidad permitidos y contar con su documentación en regla.",
       "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-10-12T07:30:00-06:00",
-      "fecha_vigencia": "2026-10-12T12:00:00-06:00",
-      "ubicacion": "Blvd. José María Morelos y Blvd. Hilario Medina",
-      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-14T08:00:00-06:00",
+      "fecha_vigencia": "2026-10-15T23:59:00-06:00",
+      "ubicacion": "Blvd. José María Morelos entre Blvd. Los Naranjos e Ibarrilla",
+      "fuente": "Secretaría de Seguridad León",
       "url": "https://www.leon.gob.mx"
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": ""
     }
   },
   "prioridades": {
