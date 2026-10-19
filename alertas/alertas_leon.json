@@ -1,72 +1,72 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-16T13:30:00-06:00",
+  "ultima_actualizacion": "2026-10-19T12:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre temporal por obras de rehabilitación hidráulica en Bulevar Miguel Hidalgo",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) y la Dirección de Obra Pública realizan la sustitución de un tramo de drenaje sanitario sobre Bulevar Miguel Hidalgo, a la altura de la colonia Las Trojes. Se mantendrá carril confinado y se recomienda tomar vías alternas como Bulevar Antonio Madrazo.",
+      "titulo": "Mantenimiento de semaforos en Bulevar Torres Landa",
+      "descripcion": "La Direccion de Movilidad informa sobre trabajos de sincronizacion y mantenimiento a la red semaforica en el Bulevar Juan Jose Torres Landa, en su interseccion con Bulevar Hermanos Aldama. Se preve transito lento en la zona. Se recomienda tomar Bulevar Timoteo Lozano como ruta alterna.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-15T08:00:00-06:00",
-      "fecha_vigencia": "2026-10-18T18:00:00-06:00",
-      "ubicacion": "Bulevar Miguel Hidalgo y calle Los Reyes, Col. Las Trojes",
-      "fuente": "Policía Vial y SAPAL León",
+      "prioridad": "baja",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-19T08:00:00-06:00",
+      "fecha_vigencia": "2026-10-19T18:00:00-06:00",
+      "ubicacion": "Bulevar Torres Landa y Bulevar Hermanos Aldama",
+      "fuente": "Policia Vial Leon",
       "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Corte programado de agua potable en el sector San Jerónimo y zonas aledañas",
-      "descripcion": "SAPAL informa sobre la suspensión temporal del suministro de agua potable debido a maniobras técnicas de interconexión en el tanque de regularización San Jerónimo. Se prevé la normalización gradual del servicio durante la madrugada del sábado. Se exhorta a la población a hacer uso racional del agua almacenada.",
+      "titulo": "Mantenimiento a pozo en Colonia San Juan Bosco",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) notifica que debido a trabajos de mantenimiento preventivo en el pozo principal que abastece la zona poniente, se presentara baja presion y cortes intermitentes en la Colonia San Juan Bosco y zonas aledañas durante el fin de semana.",
       "categoria": "servicios",
-      "prioridad": "alta",
-      "emoji": "🚰",
-      "fecha_publicacion": "2026-10-15T09:30:00-06:00",
-      "fecha_vigencia": "2026-10-17T06:00:00-06:00",
-      "ubicacion": "Colonia San Jerónimo, Los Campestres y Valle del Campestre",
-      "fuente": "Sistema de Agua Potable y Alcantarillado de León (SAPAL)",
+      "prioridad": "media",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-18T10:00:00-06:00",
+      "fecha_vigencia": "2026-10-19T20:00:00-06:00",
+      "ubicacion": "Colonia San Juan Bosco",
+      "fuente": "SAPAL Leon",
       "url": ""
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Aviso meteorológico por mañanas frías e incremento de radiación solar hacia el mediodía",
-      "descripcion": "Protección Civil Municipal emite recomendaciones ante el registro de temperaturas mínimas de hasta 8 °C durante las primeras horas de la mañana y niveles altos de radiación UV entre las 11:00 y las 15:00 horas. Se aconseja vestir en capas temprano y utilizar bloqueador solar e hidratarse adecuadamente.",
-      "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "☀️",
-      "fecha_publicacion": "2026-10-16T07:00:00-06:00",
-      "fecha_vigencia": "2026-10-18T20:00:00-06:00",
-      "ubicacion": "Zona urbana y periferia de León, Gto.",
-      "fuente": "Dirección General de Protección Civil León",
+      "titulo": "Accidente vehicular en Bulevar Vicente Valtierra",
+      "descripcion": "Se reporta un accidente vehicular tipo alcance entre un transporte de personal y un vehiculo particular sobre el Bulevar Vicente Valtierra a la altura del Bulevar Francisco Villa. Cuerpos de emergencia en el lugar. Solo hay un carril habilitado con direccion al oriente, se pide extremar precauciones.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-19T11:15:00-06:00",
+      "fecha_vigencia": "2026-10-19T14:00:00-06:00",
+      "ubicacion": "Bulevar Vicente Valtierra esquina Bulevar Francisco Villa",
+      "fuente": "Proteccion Civil Leon",
       "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo vial y cierres parciales por encuentro deportivo en el Domo de la Feria",
-      "descripcion": "La Policía Vial implementará un dispositivo de vigilancia e inspección en las inmediaciones del Domo de la Feria y Bulevar Paseo de los Niños debido a concentración masiva de asistentes. Se prevé tráfico lento y cortes intermitentes a la circulación a partir de las 17:00 horas.",
+      "titulo": "Operativo vial por partido en Estadio Leon",
+      "descripcion": "La Policia Vial implementara un operativo de seguridad y control de trafico en las inmediaciones del Estadio Leon (Nou Camp) a partir de las 17:00 horas por encuentro deportivo. Se esperan cierres parciales en calles aledañas y congestionamiento vehicular prolongado en Bulevar Vasco de Quiroga.",
       "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "🏀",
-      "fecha_publicacion": "2026-10-16T10:00:00-06:00",
-      "fecha_vigencia": "2026-10-16T23:30:00-06:00",
-      "ubicacion": "Bulevar Paseo de los Niños y Bulevar Francisco Villa (Zona Feria)",
-      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-18T18:00:00-06:00",
+      "fecha_vigencia": "2026-10-19T23:00:00-06:00",
+      "ubicacion": "Inmediaciones del Estadio Leon, Bulevar Vasco de Quiroga",
+      "fuente": "Secretaria de Seguridad Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Dispositivo de vigilancia y patrullaje preventivo en el corredor comercial Altacia",
-      "descripcion": "Elementos de Seguridad Pública y Policía Vial refuerzan la presencia e inspección preventiva sobre Bulevar Aeropuerto y Bulevar Cerrito de Jerez con la finalidad de inhibir faltas administrativas, agilizar la incorporación vehicular y garantizar la seguridad de los transeúntes durante horas pico.",
-      "categoria": "seguridad",
+      "titulo": "Cierre de carril por poda de arbolado en Bulevar Hilario Medina",
+      "descripcion": "La Direccion de Medio Ambiente y Obra Publica realizan trabajos de poda sanitaria y retiro de ramas en riesgo de caida sobre el camellon central del Bulevar Hilario Medina. El carril de alta velocidad en sentido norte a sur permanecera cerrado durante las maniobras.",
+      "categoria": "servicios",
       "prioridad": "baja",
-      "emoji": "🚔",
-      "fecha_publicacion": "2026-10-15T16:00:00-06:00",
-      "fecha_vigencia": "2026-10-17T22:00:00-06:00",
-      "ubicacion": "Bulevar Aeropuerto intersección con Bulevar Cerrito de Jerez",
-      "fuente": "Secretaría de Seguridad, Prevención y Protección Ciudadana",
+      "emoji": "",
+      "fecha_publicacion": "2026-10-17T09:30:00-06:00",
+      "fecha_vigencia": "2026-10-19T16:00:00-06:00",
+      "ubicacion": "Bulevar Hilario Medina, tramo de Vicente Valtierra a La Luz",
+      "fuente": "Gobierno Municipal Leon",
       "url": ""
     }
   ],
@@ -74,27 +74,27 @@
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚦"
+      "emoji": ""
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": ""
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🛡️"
+      "emoji": ""
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": ""
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": ""
     }
   },
   "prioridades": {
