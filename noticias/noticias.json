@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-21T18:00:00-06:00",
-  "total_noticias": 8,
-  "fuente": "Recopilacion automatica de medios locales",
-  "noticias": [
+  "ultima_actualizacion": "2026-10-22T13:54:00-06:00",
+  "total_alertas": 5,
+  "fuente": "Recopilacion automatica",
+  "alertas": [
     {
-      "id": "NOTICIA_001",
-      "titulo": "Localizan a cuatro hombres sin vida en distintas colonias de León durante la mañana",
-      "resumen": "Vecinos de las colonias Brisas del Sol I, La Providencia, Balcones de la Joya y Cañada del Real reportaron el hallazgo de cuatro cuerpos con huellas de violencia. Las autoridades ya investigan los hechos.",
-      "contenido_completo": "La mañana de este miércoles 21 de octubre, la ciudad de León amaneció con una serie de hallazgos violentos tras reportarse la localización de cuatro hombres sin vida en diferentes puntos de la periferia. De acuerdo con los primeros reportes de la Policía Municipal, los descubrimientos fueron realizados por vecinos que transitaban por las calles a primera hora de la mañana para dirigirse a sus centros de trabajo. Los incidentes se registraron en las colonias Brisas del Sol I, La Providencia, Balcones de la Joya y Cañada del Real. En al menos dos de los casos, los cuerpos fueron encontrados envueltos en bolsas plásticas, mientras que otro presentaba signos de haber sido calcinado y el cuarto mostraba evidentes huellas de violencia física.\n\nElementos de la Secretaría de Seguridad, Prevención y Protección Ciudadana de León acordonaron inmediatamente las distintas escenas del crimen, a la espera del personal del Servicio Médico Forense (Semefo) y de los peritos de la Fiscalía General del Estado de Guanajuato (FGE). Hasta el momento, ninguna de las víctimas ha sido identificada por las autoridades locales. Estos sucesos se suman a la ola de violencia que ha impactado al municipio durante el mes de octubre, lo que ha generado una creciente exigencia por parte de los ciudadanos hacia las autoridades de los tres niveles de gobierno para reforzar las estrategias de patrullaje y prevención del delito en las zonas más vulnerables de la ciudad.",
+      "id": "ALERTA_001",
+      "titulo": "Congestionamiento vial en Bulevar Aeropuerto",
+      "descripcion": "Se reporta trafico lento y congestionamiento severo sobre el Bulevar Aeropuerto en direccion a la salida a Silao, derivado de un vehiculo de carga descompuesto en el carril central. Elementos de Policia Vial ya se encuentran abanderando la zona y a la espera de una grua. Se recomienda utilizar el Eje Metropolitano como via alterna para evitar retrasos de hasta 40 minutos.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚛",
+      "fecha_publicacion": "2026-10-22T13:15:00-06:00",
+      "fecha_vigencia": "2026-10-22T16:00:00-06:00",
+      "ubicacion": "Bulevar Aeropuerto, a la altura del Tajo de Santa Ana",
+      "fuente": "Transito Municipal Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_002",
+      "titulo": "Mantenimiento preventivo de SAPAL en Zona Norte",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a la reparacion de una fuga detectada en una linea de conduccion principal, el servicio presentara baja presion e intermitencias durante las proximas 24 horas. Cuadrillas de operacion ya trabajan en la zona. Se exhorta a los vecinos a racionar el uso del agua almacenada en tinacos y cisternas.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-10-22T08:00:00-06:00",
+      "fecha_vigencia": "2026-10-23T08:00:00-06:00",
+      "ubicacion": "Colonias Valle del Campestre, Bosques del Refugio y Balcones del Campestre",
+      "fuente": "SAPAL",
+      "url": "https://www.sapal.gob.mx"
+    },
+    {
+      "id": "ALERTA_003",
+      "titulo": "Indice UV Extremadamente Alto",
+      "descripcion": "La Direccion de Proteccion Civil advierte sobre un indice de Radiacion Ultravioleta (UV) nivel 11 (Extremadamente Alto) en la zona metropolitana de Leon entre las 12:00 y las 16:00 horas. Se recomienda a la poblacion evitar la exposicion prolongada al sol, utilizar protector solarFPS 50+, ropa de manga larga, sombrero y gafas con filtro UV. Mantengase hidratado.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "☀️",
+      "fecha_publicacion": "2026-10-22T10:30:00-06:00",
+      "fecha_vigencia": "2026-10-22T17:00:00-06:00",
+      "ubicacion": "Toda la zona urbana de Leon",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Cierre parcial por obras en Libramiento Jose Maria Morelos",
+      "descripcion": "La Direccion General de Obra Publica continua con los trabajos de rehabilitacion de la carpeta asfaltica en los carriles laterales del Libramiento Jose Maria Morelos. El transito sera desviado hacia los carriles centrales, lo que provocara reduccion de velocidad y embotellamientos en horas pico. Maneje con precaucion y respete los señalamientos de obra.",
+      "categoria": "trafico",
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-21T07:00:00-06:00",
+      "fecha_vigencia": "2026-10-25T18:00:00-06:00",
+      "ubicacion": "Libramiento Jose Maria Morelos, tramo entre Blvd. Clouthier y Blvd. Hermenegildo Bustos",
+      "fuente": "Obra Publica Leon",
+      "url": "https://www.leon.gob.mx/obrapublica"
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Operativo Mochila Segura y revision de paraderos",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana lleva a cabo revisiones aleatorias y operativos de disuasion en las principales estaciones de transferencia del Sistema Integrado de Transporte (SIT) Optibus. Esto incluye presencia canina y policias encubiertos para prevenir el robo a transeunte y asegurar la tranquilidad de los usuarios del transporte publico.",
       "categoria": "seguridad",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-10-21T10:15:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/21/leon-hallan-4-cuerpos-esta-manana-dos-en-bolsas-uno-con-huellas-de-violencia-y-otro-calcinado-1857330.html",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_002",
-      "titulo": "Gobernadora reasigna recursos del puente Bulevar Aeropuerto para equipamiento hospitalario",
-      "resumen": "Ante la falta de liberación de un predio, Libia Dennise García descartó otorgar una prórroga para el puente vehicular en León. Los fondos millonarios se destinarán ahora al sector salud.",
-      "contenido_completo": "El proyecto de infraestructura más esperado de León ha dado un giro inesperado. La gobernadora de Guanajuato, Libia Dennise García, confirmó que no habrá prórroga para la construcción del puente vehicular en el Bulevar Aeropuerto y Tajo de Santa Ana, luego de que el municipio no lograra liberar a tiempo los predios necesarios para la obra. Ante esta situación, el Gobierno del Estado tomó la decisión de reasignar la bolsa millonaria que estaba etiquetada para esta obra vial hacia el fortalecimiento del sector salud estatal, específicamente para la adquisición de nuevo equipo hospitalario e insumos médicos que beneficiarán a diversas clínicas de la entidad.\n\nEl municipio de León había entregado documentación adicional entre el 16 y el 19 de octubre en un intento de última hora por salvar el proyecto, argumentando que las negociaciones con los propietarios del terreno clave estaban avanzadas. Sin embargo, los plazos legales y presupuestales obligaron a la administración estatal a tomar una decisión definitiva para no incurrir en subejercicios. Representantes del sector empresarial local han expresado su preocupación, señalando que la falta de este puente a desnivel mantendrá los graves problemas de tráfico en la principal salida hacia Silao, afectando la movilidad diaria de miles de trabajadores y la logística de las empresas. Por su parte, la alcaldesa reiteró que buscará nuevas fuentes de financiamiento para concretar la obra en 2027.",
-      "categoria": "salud",
-      "emoji": "🏥",
-      "fecha_publicacion": "2026-10-19T14:30:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/19/descarta-libia-garcia-prorroga-para-puente-en-leon-recursos-seran-para-equipo-hospitalario-1856818.html",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_003",
-      "titulo": "Incendio en vulcanizadora de Las Joyas deja a comerciante sin patrimonio por segunda vez",
-      "resumen": "Un fuerte incendio consumió por segunda ocasión en el año una vulcanizadora en la colonia Cruz de la Soledad. El propietario perdió su negocio y vivienda, enfrentando una severa crisis económica.",
-      "contenido_completo": "La tragedia económica golpeó nuevamente a Juan Aurelio, un microempresario leonés que perdió todo su patrimonio tras un voraz incendio que consumió su vulcanizadora y vivienda en la colonia Cruz de la Soledad, ubicada en el polígono de Las Joyas. Este siniestro, registrado la tarde del martes 20 de octubre, marca la segunda ocasión en lo que va de este mismo año que el establecimiento queda reducido a cenizas, dejando al comerciante en una situación de extrema vulnerabilidad económica y sin su principal fuente de ingresos familiares.\n\nElementos del Heroico Cuerpo de Bomberos de León acudieron rápidamente al lugar para sofocar las llamas, las cuales amenazaban con extenderse a las viviendas contiguas debido a la alta flamabilidad de las llantas y materiales almacenados en el predio. Afortunadamente, no se reportaron personas lesionadas, pero las pérdidas materiales fueron totales. Según testimonios de los vecinos de la zona, el incendio habría sido provocado intencionalmente por un sujeto apodado 'Fer', lo que ha generado indignación y exigencias de justicia entre la comunidad comercial de Las Joyas. Este incidente resalta los retos económicos y de seguridad que enfrentan los pequeños comerciantes y talleres de oficios en las zonas periféricas de León, quienes muchas veces carecen de seguros contra siniestros para proteger la inversión de toda su vida.",
-      "categoria": "economia",
-      "emoji": "📉",
-      "fecha_publicacion": "2026-10-20T19:00:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/20/pierde-su-patrimonio-por-segunda-ocasion-tras-incendio-de-vulcanizadora-en-las-joyas-1857207.html",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_004",
-      "titulo": "Red Feminista León organiza ofrenda monumental por mujeres víctimas de feminicidio",
-      "resumen": "En el marco del Día de Muertos, colectivos feministas instalarán un altar para honrar la memoria de las víctimas de violencia de género en Guanajuato y visibilizar las fallas del sistema judicial.",
-      "contenido_completo": "De cara a las tradicionales celebraciones del Día de Muertos, la Red Feminista León anunció la instalación de su primera ofrenda monumental dedicada exclusivamente a honrar la memoria de las mujeres víctimas de feminicidio en la ciudad y el estado. Este acto cultural y de protesta pacífica tiene como objetivo principal mantener vivo el recuerdo de las mujeres a las que les fue arrebatada la vida, al tiempo que busca visibilizar las deficiencias persistentes en el sistema de justicia y los retrasos en las investigaciones por parte de la Fiscalía General del Estado.\n\nLa convocatoria invita a familiares de víctimas, activistas y ciudadanas en general a participar aportando fotografías, flores de cempasúchil, veladoras y objetos simbólicos para construir un espacio de memoria colectiva. Las organizadoras destacaron que la apropiación de las tradiciones mexicanas como el altar de muertos sirve como una poderosa herramienta de sensibilización social, transformando el luto individual en una exigencia pública de justicia y no repetición. La instalación del altar estará acompañada de lectura de poesía, intervenciones artísticas y un pronunciamiento sobre la situación de los derechos de las mujeres en Guanajuato. Se espera que este altar monumental se convierta en uno de los puntos de encuentro más significativos durante las festividades de finales de octubre en el centro histórico de la ciudad.",
-      "categoria": "cultura",
-      "emoji": "🕯️",
-      "fecha_publicacion": "2026-10-21T11:00:00-06:00",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/21/dedicaran-ofrenda-de-dia-de-muertos-a-mujeres-victimas-de-feminicidio-en-leon-invitan-a-participar-1857372.html",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_005",
-      "titulo": "Halloween Zoo León 2026 muda su terror a la Feria con más de 300 monstruos",
-      "resumen": "Para celebrar su décima edición, el evento de terror más grande de la región cambia de sede a las instalaciones de la Feria de León, ofreciendo seis nuevos recorridos y mayor capacidad de aforo.",
-      "contenido_completo": "El evento de entretenimiento temático más esperado de la temporada otoñal, el Halloween Zoo León 2026, anunció un importante cambio para su décima edición: dejará su sede habitual para trasladarse a las amplias instalaciones del recinto de la Feria Estatal de León. Con fechas programadas del 15 al 31 de octubre durante los fines de semana, esta ambiciosa mudanza permitirá albergar una producción sin precedentes inspirada en un 'zoológico abandonado', duplicando su capacidad para recibir a más de 57 mil entusiastas del terror y generando una importante derrama turística.\n\nLa organización detalló que el recinto ferial contará con más de 300 actores caracterizados como monstruos y entes siniestros, distribuidos en seis recorridos temáticos de alta intensidad. Entre las principales atracciones inmersivas destacan las adaptaciones de leyendas locales icónicas, como el lamento de la Llorona ambientado en un panteón virtual, la Niña de la Mina de Guanajuato capital, y representaciones de las catacumbas del Templo Expiatorio de León. Aunque otras ciudades del país, como Monterrey y Chihuahua, intentaron atraer la franquicia del evento para este año, los promotores decidieron mantener la tradición en León y apostar por una mejora en la infraestructura. Los horarios de operación serán extendidos desde las 8:00 de la noche hasta las 2:00 de la madrugada los viernes y sábados.",
-      "categoria": "cultura",
-      "emoji": "👻",
-      "fecha_publicacion": "2026-10-21T08:30:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://www.elsoldeleon.com.mx/elsoldeleon/local/halloween-zoo-leon-2026-cambia-de-sede-llegara-a-la-feria-con-300-monstruos-y-seis-recorridos-de-terror-31460919.html",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_006",
-      "titulo": "León proyecta 'La Gran Calzada' peatonal en López Mateos como alternativa urbana",
-      "resumen": "Ante la cancelación del puente del Aeropuerto, el gobierno municipal presentó un plan para priorizar la movilidad peatonal y comercial en el principal bulevar de la ciudad, rediseñando el espacio público.",
-      "contenido_completo": "En un giro hacia el urbanismo sustentable, el Gobierno Municipal de León anunció el proyecto 'La Gran Calzada', una ambiciosa intervención arquitectónica destinada a transformar amplios tramos del emblemático Bulevar Adolfo López Mateos. Esta iniciativa, que forma parte de la nueva cartera de proyectos alternativos de infraestructura de la administración, surge estratégicamente tras la cancelación del presupuesto para el puente vehicular del bulevar Aeropuerto, buscando reorientar el desarrollo de la ciudad hacia un modelo de movilidad más amable con los transeúntes.\n\nEl proyecto contempla la ampliación significativa de las banquetas, la plantación de arbolado urbano masivo para mitigar las islas de calor, la instalación de nuevo mobiliario urbano de descanso y la adecuación de carriles exclusivos para bicicletas y micromovilidad. El objetivo principal es pacificar el tránsito en el corredor comercial y cultural más importante de León, conectando de manera segura a los peatones con zonas clave como el Poliforum, la Zona Piel y el Arco de la Calzada. Especialistas en desarrollo urbano han recibido la noticia con optimismo, destacando que priorizar al peatón sobre el automóvil fomentará la activación económica de los negocios locales y reducirá los índices de contaminación. Se espera que las mesas de diálogo con los comerciantes de la zona comiencen la próxima semana para definir los detalles de la obra.",
-      "categoria": "desarrollo_urbano",
-      "emoji": "🏙️",
-      "fecha_publicacion": "2026-10-20T12:00:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://www.elsoldeleon.com.mx/local/leon-planea-la-gran-calzada-una-apuesta-para-priorizar-la-movilidad-peatonal-en-lopez-mateos",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_007",
-      "titulo": "Festival Nacional de Futbol aterriza en León con visores de la Liga MX",
-      "resumen": "Cientos de niños y jóvenes de todo el país competirán en León bajo la mirada de cazatalentos de clubes profesionales, consolidando a la ciudad como un semillero deportivo de primer nivel.",
-      "contenido_completo": "El talento deportivo juvenil se da cita en León con el arranque del Festival Nacional Guanajuatense de Futbol 2026, un magno evento que reúne a decenas de equipos y academias infantiles de diversas partes de la República. La justa deportiva, que se desarrolla en las canchas de la ciudad durante la segunda quincena de octubre, ha captado una atención especial este año al confirmar la asistencia oficial de visores y cazatalentos de importantes clubes de la Primera División de la Liga MX, tales como Querétaro, Chivas, Juárez FC y el propio Club León.\n\nEl torneo abarca una amplia gama de edades en su convocatoria, desde la categoría 2009 hasta la 2020 en la rama varonil, y categorías desde 2011 hasta 2014 en la rama femenil, reflejando el creciente interés por impulsar la equidad en el balompié formativo. La Asociación Guanajuatense de Futbol y las autoridades deportivas municipales destacaron que este tipo de eventos no solo promueven la actividad física y el trabajo en equipo entre las nuevas generaciones, sino que representan una oportunidad dorada para que los jóvenes talentos del Bajío puedan integrarse a las fuerzas básicas de equipos profesionales. Además, la masiva llegada de jugadores y sus familias ha generado un impacto positivo en la ocupación hotelera y el sector restaurantero de la ciudad.",
-      "categoria": "educacion",
-      "emoji": "⚽",
-      "fecha_publicacion": "2026-10-20T10:45:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/deportes/leon-recibira-el-festival-nacional-guanajuatense-de-futbol-2026-con-visores-de-liga-mx-31649568",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_008",
-      "titulo": "Anuncian medidas y nuevas tarifas de estacionamiento en el Parque Metropolitano para el FIG",
-      "resumen": "De cara al Festival Internacional del Globo 2026, el Parque Metropolitano presentó el esquema de tarifas vehiculares y las estrategias de mitigación ambiental para proteger las áreas verdes del recinto.",
-      "contenido_completo": "A menos de un mes de que el cielo de León se llene de color, el consejo directivo del Parque Metropolitano de León ha hecho públicas las normativas logísticas y las propuestas de tarifas de estacionamiento que aplicarán durante los días del Festival Internacional del Globo (FIG) 2026. Con el objetivo de ordenar la masiva afluencia de visitantes y minimizar el impacto ecológico en esta importante reserva natural, se establecerán costos diferenciados para motocicletas, automóviles particulares, camionetas de pasajeros y autobuses turísticos foráneos.\n\nLas autoridades del parque enfatizaron que los ingresos recaudados por este concepto serán destinados íntegramente al mantenimiento preventivo de las instalaciones, la preservación de la flora nativa y la limpieza intensiva del cuerpo de agua de la presa, labores que se intensifican críticamente al concluir el festival. Adicionalmente, se anunciaron nuevas reglas medioambientales para los asistentes de esta edición, que incluyen la prohibición estricta de plásticos de un solo uso en las zonas de campamento, la habilitación de contenedores especializados para la separación de residuos y la delimitación de zonas protegidas donde estará restringido el paso peatonal para salvaguardar el hábitat de las aves migratorias que comienzan a llegar en esta temporada invernal.",
-      "categoria": "medio_ambiente",
-      "emoji": "🌳",
-      "fecha_publicacion": "2026-10-19T16:20:00-06:00",
-      "fuente": "Periodico Correo",
-      "url": "https://periodicocorreo.com.mx/leon/parque-metropolitano-de-leon-propone-tarifas-de-estacionamiento-para-el-festival-internacional-del-globo",
-      "relevancia": "alta"
+      "prioridad": "baja",
+      "emoji": "👮",
+      "fecha_publicacion": "2026-10-22T06:00:00-06:00",
+      "fecha_vigencia": "2026-10-23T22:00:00-06:00",
+      "ubicacion": "Estaciones de Transferencia Delta, San Jeronimo y San Juan Bosco",
+      "fuente": "Secretaria de Seguridad Leon",
+      "url": ""
     }
   ],
-  "categorias_noticias": {
-    "transporte": "",
-    "desarrollo_urbano": "La Gran Calzada busca priorizar la movilidad peatonal en el Bulevar Adolfo López Mateos tras cancelación de puente.",
-    "seguridad": "Localizan a 4 hombres asesinados con signos de violencia en distintas colonias periféricas de la ciudad.",
-    "economia": "Microempresario de Las Joyas pierde su negocio por un fuerte incendio en su vulcanizadora por segunda ocasión.",
-    "cultura": "Diversos eventos enmarcan la agenda, destacando ofrendas por víctimas de feminicidio y la mudanza del Halloween Zoo a la Feria.",
-    "salud": "Se reasignan recursos millonarios no ejercidos en infraestructura vial para la compra de equipo médico y hospitalario.",
-    "educacion": "El deporte como herramienta formativa destaca con la llegada del Festival Nacional de Futbol para cazar talentos juveniles.",
-    "medio_ambiente": "El Parque Metropolitano anuncia sus reglas ecológicas y tarifas de estacionamiento de cara al próximo Festival Internacional del Globo."
+  "categorias": {
+    "trafico": {
+      "nombre": "Trafico y Vialidad",
+      "color": "#FF5722",
+      "emoji": "🚗"
+    },
+    "servicios": {
+      "nombre": "Servicios Publicos",
+      "color": "#2196F3",
+      "emoji": "🔧"
+    },
+    "seguridad": {
+      "nombre": "Seguridad Publica",
+      "color": "#F44336",
+      "emoji": "🛡️"
+    },
+    "clima": {
+      "nombre": "Clima y Ambiente",
+      "color": "#4CAF50",
+      "emoji": "⛅"
+    },
+    "eventos": {
+      "nombre": "Eventos Masivos",
+      "color": "#9C27B0",
+      "emoji": "🎟️"
+    }
+  },
+  "prioridades": {
+    "baja": {
+      "nombre": "Informativa",
+      "color": "#4CAF50"
+    },
+    "media": {
+      "nombre": "Precaucion",
+      "color": "#FF9800"
+    },
+    "alta": {
+      "nombre": "Urgente",
+      "color": "#F44336"
+    }
   }
 }
