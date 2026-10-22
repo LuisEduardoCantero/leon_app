@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-22T13:57:00-06:00",
+  "ultima_actualizacion": "2026-10-22T14:00:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre por accidente vial en Puerta Dorada",
-      "descripcion": "Se registró un aparatoso accidente de motocicleta en las inmediaciones de la colonia Puerta Dorada durante las primeras horas de hoy. Elementos de Tránsito Municipal mantienen un cierre parcial en la vialidad principal para permitir las labores de peritaje y el retiro del vehículo. Se recomienda a los automovilistas y residentes utilizar vías alternas por el Bulevar Las Joyas y conducir con precaución.",
+      "titulo": "Cierres nocturnos en Bulevar Aeropuerto por pavimentacion",
+      "descripcion": "La Secretaria de Infraestructura y Movilidad informa sobre cierres parciales nocturnos en el Bulevar Aeropuerto, en el tramo del puente de Santa Ana a Tajo de Santa Ana, debido a trabajos de reencarpetamiento. Las obras se realizaran de 22:00 a 05:00 horas para minimizar el impacto. Se recomienda usar el Eje Metropolitano como via alterna.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-10-22T07:30:00-06:00",
-      "fecha_vigencia": "2026-10-22T15:00:00-06:00",
-      "ubicacion": "Colonia Puerta Dorada y accesos a Bulevar Las Joyas",
-      "fuente": "Tránsito Municipal Leon",
-      "url": ""
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-22T08:00:00-06:00",
+      "fecha_vigencia": "2026-10-25T05:00:00-06:00",
+      "ubicacion": "Bulevar Aeropuerto, tramo Tajo de Santa Ana",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://www.leon.gob.mx/movilidad"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Reparacion de colector sanitario en Zona Centro",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) lleva a cabo trabajos de emergencia para la reparación de un tramo colapsado del colector sanitario en la calle Madero. Esto generará la reducción a un solo carril de circulación vehicular y posible baja presión en el suministro de agua para las cuadras aledañas. Los trabajos tomarán aproximadamente 48 horas continuas.",
+      "titulo": "Interrupcion de agua en Colonia Leon Moderno",
+      "descripcion": "El SAPAL notifica a los vecinos de la colonia Leon Moderno y zonas aledanas sobre la suspension del servicio de agua potable debido al lavado anual de tanques de almacenamiento y mantenimiento de valvulas. Se espera que el servicio se restablezca gradualmente a partir de la noche. Se sugiere racionar el uso del agua almacenada en tinacos.",
       "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-22T09:00:00-06:00",
-      "fecha_vigencia": "2026-10-24T09:00:00-06:00",
-      "ubicacion": "Calle Francisco I. Madero, entre Hermanos Aldama y Donato Guerra",
+      "prioridad": "alta",
+      "emoji": "💧",
+      "fecha_publicacion": "2026-10-21T10:30:00-06:00",
+      "fecha_vigencia": "2026-10-22T23:59:00-06:00",
+      "ubicacion": "Colonia Leon Moderno",
       "fuente": "SAPAL",
-      "url": "www.sapal.gob.mx"
+      "url": "https://www.sapal.gob.mx/avisos"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Operativo vial por concierto en Foro del Lago",
-      "descripcion": "Debido a un evento musical masivo programado para esta noche en el Foro del Lago del Parque Explora, la Policía Vial desplegará un operativo especial de control de tráfico a partir de las 17:00 horas. Se esperan embotellamientos importantes sobre el Bulevar Paseo de los Niños y Bulevar Francisco Villa. Se sugiere a la población anticipar sus tiempos de traslado o evitar circular por la zona de ser posible.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🎵",
-      "fecha_publicacion": "2026-10-21T10:00:00-06:00",
-      "fecha_vigencia": "2026-10-22T23:59:00-06:00",
-      "ubicacion": "Foro del Lago, Parque Explora",
-      "fuente": "Policía Vial Leon",
-      "url": "www.leon.gob.mx"
+      "titulo": "Incendio de pastizal activo en zona de Las Joyas",
+      "descripcion": "Elementos de Bomberos y Proteccion Civil se encuentran combatiendo un incendio de pastizal de gran magnitud en un predio baldio cercano al bulevar Aristoteles en la zona de Las Joyas. Aunque no hay riesgo directo para viviendas, se reporta densa presencia de humo. Se recomienda a los conductores disminuir la velocidad y a los vecinos cerrar ventanas.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🔥",
+      "fecha_publicacion": "2026-10-22T12:15:00-06:00",
+      "fecha_vigencia": "2026-10-22T18:00:00-06:00",
+      "ubicacion": "Bulevar Aristoteles, Las Joyas",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Activacion de Precontingencia Ambiental por PM10",
-      "descripcion": "La Dirección de Medio Ambiente informa que se ha activado la fase de precontingencia ambiental en la estación CICEG debido a un incremento significativo en la concentración de partículas PM10 durante las últimas horas. Se recomienda a la población vulnerable, especialmente niños, adultos mayores y personas con enfermedades respiratorias crónicas, evitar realizar actividades físicas al aire libre y mantener ventanas cerradas.",
+      "titulo": "Rachas de viento moderado durante la tarde",
+      "descripcion": "El Servicio Meteorologico Nacional y Proteccion Civil Municipal alertan sobre la presencia de vientos con rachas que podrian alcanzar entre los 40 y 50 km/h durante la tarde de hoy. Se solicita a la poblacion asegurar objetos en azoteas, toldos y ventanas, asi como extremar precauciones por posible caida de ramas secas o lonas publicitarias.",
       "categoria": "clima",
-      "prioridad": "alta",
-      "emoji": "🌫️",
-      "fecha_publicacion": "2026-10-22T08:15:00-06:00",
-      "fecha_vigencia": "2026-10-23T20:00:00-06:00",
-      "ubicacion": "Estación CICEG, Zona Sur-Oriente de Leon",
-      "fuente": "Gobierno Municipal de Leon",
-      "url": "www.leon.gob.mx"
+      "prioridad": "baja",
+      "emoji": "💨",
+      "fecha_publicacion": "2026-10-22T07:00:00-06:00",
+      "fecha_vigencia": "2026-10-22T20:00:00-06:00",
+      "ubicacion": "Toda la zona metropolitana de Leon",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Mantenimiento de ciclovia en Bulevar La Luz",
-      "descripcion": "La Dirección de Obra Pública notifica el inicio de los trabajos de rehabilitación y renovación de señalética en la ciclovía del Bulevar La Luz. Aunque no se contempla el cierre total de los carriles para automóviles, habrá presencia de maquinaria pesada, trabajadores en el arroyo vehicular y reducción de velocidad en la zona. Se exhorta a los ciclistas y conductores a transitar con extrema precaución.",
-      "categoria": "trafico",
-      "prioridad": "baja",
-      "emoji": "🚴",
-      "fecha_publicacion": "2026-10-21T11:00:00-06:00",
-      "fecha_vigencia": "2026-10-25T18:00:00-06:00",
-      "ubicacion": "Bulevar La Luz, tramo de Vicente Valtierra a Bulevar Delta",
-      "fuente": "Obra Pública Leon",
-      "url": ""
+      "titulo": "Cortes viales en Zona Piel por Expo Calzado local",
+      "descripcion": "Con motivo del evento de liquidacion de fin de temporada de productores locales, se estableceran cortes a la circulacion vehicular en la calle Hilario Medina, entre bulevar Adolfo Lopez Mateos y calle La Luz. El acceso estara permitido unicamente para trafico peatonal y unidades de emergencia. Se insta a usar estacionamientos aledanos.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "👞",
+      "fecha_publicacion": "2026-10-21T18:00:00-06:00",
+      "fecha_vigencia": "2026-10-24T22:00:00-06:00",
+      "ubicacion": "Zona Piel, calle Hilario Medina",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     }
   ],
   "categorias": {
@@ -84,7 +84,7 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
@@ -94,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
