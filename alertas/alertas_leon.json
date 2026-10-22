@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-22T13:53:00-06:00",
-  "total_noticias": 8,
-  "fuente": "Recopilacion automatica de medios locales",
-  "noticias": [
+  "ultima_actualizacion": "2026-10-22T13:57:00-06:00",
+  "total_alertas": 5,
+  "fuente": "Recopilacion automatica",
+  "alertas": [
     {
-      "id": "NOTICIA_001",
-      "titulo": "Peregrinación Sonidera en León: implementan operativo vial para agilizar tráfico",
-      "resumen": "La 11ª edición de la Peregrinación Sonidera en León se realizará este 25 de octubre, provocando cierres en vialidades principales. Autoridades de la Policía Vial desplegarán un operativo de acompañamiento.",
-      "contenido_completo": "La ciudad de León se prepara para recibir la 11ª edición de la tradicional Peregrinación Sonidera, un evento que congregará a miles de asistentes y agrupaciones musicales en su recorrido hacia el Santuario de Nuestra Señora de Guadalupe. Este magno evento, programado para la mañana del domingo 25 de octubre de 2026, requerirá un importante despliegue de elementos de la Policía Vial para gestionar el impacto en la movilidad urbana. Durante el trayecto, se esperan afectaciones y cierres parciales en avenidas principales, por lo que las autoridades municipales han exhortado a la ciudadanía a tomar precauciones.\n\nPara mitigar el congestionamiento vehicular, los agentes de tránsito implementarán operativos de acompañamiento y vigilancia en los cruces intermedios. Se recomienda a los conductores utilizar vías alternas como el Bulevar Adolfo López Mateos o el Bulevar Torres Landa durante las horas de mayor afluencia. Al llegar al Santuario de Guadalupe, los contingentes sonideros recibirán la tradicional bendición, consolidando este evento como una de las expresiones urbanas más populares. Las autoridades municipales garantizarán la seguridad de los peregrinos al mismo tiempo que intentarán mantener el flujo vehicular regular en las zonas aledañas al centro y a los recintos religiosos, buscando afectar lo menos posible el transporte público y privado en ese sector de la ciudad de León.",
-      "categoria": "transporte",
-      "emoji": "🚌",
-      "fecha_publicacion": "2026-10-22T08:30:00-06:00",
-      "fuente": "Noticias Vespertinas (El Sol de León)",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/peregrinacion-sonidera-en-leon-conoce-la-ruta-y-las-vialidades-afectadas-este-25-de-octubre-32730666",
-      "relevancia": "media"
+      "id": "ALERTA_001",
+      "titulo": "Cierre por accidente vial en Puerta Dorada",
+      "descripcion": "Se registró un aparatoso accidente de motocicleta en las inmediaciones de la colonia Puerta Dorada durante las primeras horas de hoy. Elementos de Tránsito Municipal mantienen un cierre parcial en la vialidad principal para permitir las labores de peritaje y el retiro del vehículo. Se recomienda a los automovilistas y residentes utilizar vías alternas por el Bulevar Las Joyas y conducir con precaución.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-10-22T07:30:00-06:00",
+      "fecha_vigencia": "2026-10-22T15:00:00-06:00",
+      "ubicacion": "Colonia Puerta Dorada y accesos a Bulevar Las Joyas",
+      "fuente": "Tránsito Municipal Leon",
+      "url": ""
     },
     {
-      "id": "NOTICIA_002",
-      "titulo": "Alumnos de la Secundaria 3 de León preparan megaofrenda al estilo Pátzcuaro",
-      "resumen": "La comunidad educativa de la Secundaria 3 en León organiza una monumental ofrenda de Día de Muertos con temáticas de Michoacán. El evento incluirá actividades culturales y artísticas desarrolladas por los estudiantes.",
-      "contenido_completo": "En vísperas de las festividades del Día de Muertos, la comunidad estudiantil y docente de la Secundaria 3 de León, Guanajuato, se encuentra en los preparativos finales para su tradicional megaofrenda. Para esta edición de 2026, los alumnos han decidido homenajear las ricas tradiciones del estado de Michoacán, diseñando y montando tumbas decoradas al emblemático estilo de Pátzcuaro, conocido internacionalmente por su misticismo y belleza visual.\n\nEste proyecto escolar no solo fomenta la creatividad, sino que forma parte de un esfuerzo pedagógico integral por preservar y promover las tradiciones mexicanas entre las nuevas generaciones. Las autoridades del plantel educativo señalaron que la instalación de los altares ha involucrado investigación histórica, diseño artístico y trabajo colaborativo por parte de los adolescentes. Además del montaje escenográfico, la institución ha programado un itinerario completo que incluye un programa artístico, educativo y cultural, en el que los propios estudiantes presentarán danzas, lecturas de calaveritas literarias y exposiciones sobre el significado de cada elemento del altar.\n\nCon estas actividades, la Secundaria 3 busca integrar a las familias leonesas en el entorno escolar, reforzando el tejido social y la identidad cultural. Se espera que cientos de padres de familia y vecinos de la zona asistan a la exhibición, consolidando a este plantel como un referente en la organización de eventos cívicos y tradicionales dentro de la comunidad educativa local.",
-      "categoria": "educacion",
-      "emoji": "🏫",
-      "fecha_publicacion": "2026-10-22T09:15:00-06:00",
-      "fuente": "El Sol de León",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/caballeros-del-rosario-celebraran-cinco-anos-de-oracion-publica-en-leon-32715025",
-      "relevancia": "media"
+      "id": "ALERTA_002",
+      "titulo": "Reparacion de colector sanitario en Zona Centro",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) lleva a cabo trabajos de emergencia para la reparación de un tramo colapsado del colector sanitario en la calle Madero. Esto generará la reducción a un solo carril de circulación vehicular y posible baja presión en el suministro de agua para las cuadras aledañas. Los trabajos tomarán aproximadamente 48 horas continuas.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-22T09:00:00-06:00",
+      "fecha_vigencia": "2026-10-24T09:00:00-06:00",
+      "ubicacion": "Calle Francisco I. Madero, entre Hermanos Aldama y Donato Guerra",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx"
     },
     {
-      "id": "NOTICIA_003",
-      "titulo": "Mario Armas captura la esencia de León y lleva sus fotografías al FFIEL",
-      "resumen": "El fotógrafo leonés Mario Armas expone sus obras en el Festival de Fotografía Internacional en León (FFIEL). Sus imágenes rescatan la historia visual del barrio de San Juan de Dios.",
-      "contenido_completo": "En el marco de las celebraciones por los 450 años de la fundación de León, el Festival de Fotografía Internacional en León (FFIEL) ha seleccionado el destacado trabajo del talento local, Mario Armas, para formar parte de sus exposiciones estelares en diversos museos y recintos culturales de la ciudad. A través de su lente, el artista visual busca inmortalizar la cotidianidad, la arquitectura y el espíritu de los barrios más emblemáticos del municipio.\n\nEntre las piezas seleccionadas para esta magna muestra destacan las fotografías tituladas 'Una tarde de verano' y 'Guardianes de León', las cuales han cautivado a los críticos por su profunda sensibilidad y riqueza técnica. Estas obras capturan la esencia del histórico y tradicional barrio de San Juan de Dios, documentando no solo sus icónicos rincones, sino también la calidez de sus habitantes. La participación de Armas en el FFIEL subraya el creciente impacto de los artistas guanajuatenses en plataformas de alcance internacional, fomentando el orgullo por la identidad leonesa.\n\nAutoridades culturales del Instituto Cultural de León han aplaudido estas iniciativas que permiten a la ciudadanía acercarse a galerías de primer nivel. La exposición estará abierta al público durante las próximas semanas, ofreciendo una oportunidad única para que residentes y turistas reflexionen sobre la evolución urbana y la memoria histórica de León a través de la fotografía contemporánea, fortaleciendo la oferta cultural del municipio en su aniversario.",
-      "categoria": "cultura",
-      "emoji": "📸",
-      "fecha_publicacion": "2026-10-22T10:00:00-06:00",
-      "fuente": "Noticias Vespertinas (El Sol de León)",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/caballeros-del-rosario-celebraran-cinco-anos-de-oracion-publica-en-leon-32715025",
-      "relevancia": "media"
+      "id": "ALERTA_003",
+      "titulo": "Operativo vial por concierto en Foro del Lago",
+      "descripcion": "Debido a un evento musical masivo programado para esta noche en el Foro del Lago del Parque Explora, la Policía Vial desplegará un operativo especial de control de tráfico a partir de las 17:00 horas. Se esperan embotellamientos importantes sobre el Bulevar Paseo de los Niños y Bulevar Francisco Villa. Se sugiere a la población anticipar sus tiempos de traslado o evitar circular por la zona de ser posible.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "🎵",
+      "fecha_publicacion": "2026-10-21T10:00:00-06:00",
+      "fecha_vigencia": "2026-10-22T23:59:00-06:00",
+      "ubicacion": "Foro del Lago, Parque Explora",
+      "fuente": "Policía Vial Leon",
+      "url": "www.leon.gob.mx"
     },
     {
-      "id": "NOTICIA_004",
-      "titulo": "Caballeros del Rosario celebrarán cinco años de oración pública en León",
-      "resumen": "La agrupación Caballeros del Rosario convoca a una magna concentración frente a la Catedral Metropolitana de León el 25 de octubre. Conmemorarán su quinto aniversario de oraciones comunitarias por la ciudad.",
-      "contenido_completo": "La agrupación religiosa conocida como los Caballeros del Rosario de León ha lanzado una convocatoria abierta a toda la comunidad católica para unirse a una celebración monumental en el centro histórico de la ciudad. El evento tiene como propósito conmemorar los cinco años ininterrumpidos de su práctica de oración pública, un movimiento que ha congregado periódicamente a cientos de fieles leoneses.\n\nDe acuerdo con el comité organizador, la concentración masiva se llevará a cabo el domingo 25 de octubre de 2026, en punto de las 11:00 de la mañana. El punto de encuentro será la emblemática Plaza S.S. Benedicto XVI, ubicada justo frente a la Catedral Metropolitana de León. Los organizadores han enfatizado que la participación está completamente abierta a familias enteras, jóvenes, adultos, niños y cualquier persona interesada en sumarse a este acto de fe y comunión espiritual.\n\nMediante este Rosario Público, la agrupación busca reafirmar sus lazos comunitarios y mantener viva una tradición que, según expresan en su mensaje oficial, les ha servido de guía y consuelo colectivo a lo largo de este lustro. La intención principal de las plegarias estará dedicada a pedir por la paz, el bienestar y el progreso de la ciudad de León, así como de sus habitantes y de todo el país. Se espera una gran afluencia de feligreses, consolidando la vocación religiosa y tradicional de la región del Bajío.",
-      "categoria": "cultura",
-      "emoji": "🕊️",
-      "fecha_publicacion": "2026-10-21T18:30:00-06:00",
-      "fuente": "Noticias Vespertinas (El Sol de León)",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/caballeros-del-rosario-celebraran-cinco-anos-de-oracion-publica-en-leon-32715025",
-      "relevancia": "media"
+      "id": "ALERTA_004",
+      "titulo": "Activacion de Precontingencia Ambiental por PM10",
+      "descripcion": "La Dirección de Medio Ambiente informa que se ha activado la fase de precontingencia ambiental en la estación CICEG debido a un incremento significativo en la concentración de partículas PM10 durante las últimas horas. Se recomienda a la población vulnerable, especialmente niños, adultos mayores y personas con enfermedades respiratorias crónicas, evitar realizar actividades físicas al aire libre y mantener ventanas cerradas.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-10-22T08:15:00-06:00",
+      "fecha_vigencia": "2026-10-23T20:00:00-06:00",
+      "ubicacion": "Estación CICEG, Zona Sur-Oriente de Leon",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "www.leon.gob.mx"
     },
     {
-      "id": "NOTICIA_005",
-      "titulo": "Muere hombre baleado en Los Laureles; suman cinco homicidios en León",
-      "resumen": "Una violenta jornada en León dejó un saldo de cinco personas asesinadas en distintos puntos de la ciudad, incluyendo un ataque armado en la colonia Los Laureles. La Fiscalía ya investiga los hechos.",
-      "contenido_completo": "La ciudad de León experimentó una de sus jornadas más violentas de la semana al registrarse cinco homicidios dolosos en diversos puntos del municipio durante las últimas horas, situación que ha encendido las alertas entre las corporaciones de seguridad locales y estatales. Uno de los hechos más recientes y trágicos ocurrió en las calles de la colonia Los Laureles, donde un hombre perdió la vida tras ser víctima de un ataque directo con armas de fuego.\n\nDe acuerdo con los reportes preliminares de la Policía Municipal, los vecinos de la zona alertaron a los números de emergencia tras escuchar múltiples detonaciones. Al arribar los elementos de seguridad y paramédicos de Protección Civil, únicamente pudieron certificar el fallecimiento de la víctima, quien presentaba severos impactos de bala. Los peritos de la Fiscalía General del Estado de Guanajuato (FGE) se presentaron en la escena del crimen para acordonar el área, recolectar evidencias balísticas e iniciar las carpetas de investigación correspondientes.\n\nEstos cinco homicidios reportados en un lapso tan corto evidencian los retos persistentes en materia de prevención del delito que enfrenta la actual administración municipal. A pesar de los recientes anuncios sobre el incremento del patrullaje y la instalación de nuevas cámaras de vigilancia, los episodios de violencia armada continúan impactando la percepción de seguridad de los ciudadanos leoneses. Las autoridades ministeriales trabajan en la identificación de los presuntos responsables, aunque hasta el momento no se han reportado detenciones vinculadas a estos casos específicos.",
-      "categoria": "seguridad",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-10-22T11:45:00-06:00",
-      "fuente": "El Sol de León",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/caballeros-del-rosario-celebraran-cinco-anos-de-oracion-publica-en-leon-32715025",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_006",
-      "titulo": "Detienen a hombre con subametralladora en la colonia El Consuelo, en León",
-      "resumen": "Elementos de la Policía de León lograron la captura de un sujeto que caminaba armado con una subametralladora por las calles de la colonia El Consuelo. Fue puesto a disposición de las autoridades ministeriales.",
-      "contenido_completo": "Como resultado de los operativos de vigilancia rutinaria y prevención del delito, agentes de la Policía Municipal de León lograron una importante detención en las inmediaciones de la colonia El Consuelo. Durante los recorridos preventivos, los uniformados interceptaron y arrestaron a un individuo que portaba de manera ilegal un arma de fuego de alto calibre, específicamente una subametralladora, lo que representaba un grave riesgo para los habitantes del sector.\n\nLos hechos se desarrollaron cuando los oficiales notaron la actitud evasiva y sospechosa del sujeto al percatarse de la presencia de las patrullas. Tras marcarle el alto y realizarle una revisión preventiva, conforme a los protocolos policiales, los agentes descubrieron el arma de fuego escondida entre sus pertenencias, la cual se encontraba abastecida con cartuchos útiles. De manera inmediata, los policías procedieron a la lectura de sus derechos, su sometimiento y posterior traslado a los separos municipales.\n\nPosteriormente, el detenido y la subametralladora fueron puestos a disposición de los agentes del Ministerio Público de la Fiscalía General de la República (FGR), instancia encargada de determinar su situación jurídica por el delito de portación de armas de uso exclusivo del Ejército. Esta intervención de las fuerzas del orden ha sido destacada por la Secretaría de Seguridad, Prevención y Protección Ciudadana de León como un esfuerzo contundente para sacar las armas de las calles y reducir los índices de criminalidad en las colonias más vulnerables de la periferia leonesa.",
-      "categoria": "seguridad",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-10-22T12:30:00-06:00",
-      "fuente": "El Sol de León",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/caballeros-del-rosario-celebraran-cinco-anos-de-oracion-publica-en-leon-32715025",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_007",
-      "titulo": "Dan de baja a Comandante Venus tras video de abuso policiaco en León",
-      "resumen": "La Secretaría de Seguridad de León cesó definitivamente a la oficial conocida como 'Comandante Venus'. La decisión derivó de la difusión de un video que documentó su participación en un acto de abuso de autoridad.",
-      "contenido_completo": "En un esfuerzo por mantener la depuración y la integridad de las fuerzas del orden municipal, la Secretaría de Seguridad, Prevención y Protección Ciudadana de León oficializó la baja definitiva de una elemento operativa identificada bajo el indicativo de 'Comandante Venus'. La drástica medida disciplinaria fue implementada a raíz de la filtración y viralización de un video en redes sociales, en el cual se documentaba claramente su participación en un evidente caso de abuso de autoridad y uso excesivo de la fuerza contra civiles.\n\nLas imágenes, que causaron gran indignación entre la ciudadanía leonesa, motivaron la intervención inmediata de la Unidad de Asuntos Internos. Tras una rápida investigación administrativa, las autoridades determinaron que el actuar de la oficial violó flagrantemente los protocolos de actuación policial y los principios de respeto a los derechos humanos que rigen a la corporación. El cese fulminante busca enviar un mensaje de cero tolerancia hacia la brutalidad policial dentro de la institución.\n\nMandos de la corporación reiteraron su compromiso de sancionar cualquier desviación del deber, exhortando a la población a continuar utilizando las plataformas de denuncia para reportar malas prácticas. Además de la baja administrativa, el expediente del caso ha sido remitido a las instancias correspondientes para evaluar posibles responsabilidades penales derivadas de las agresiones captadas en cámara. Este suceso subraya la urgente necesidad de reforzar la capacitación en control de emociones, resolución pacífica de conflictos y marco legal para todos los elementos activos en León.",
-      "categoria": "seguridad",
-      "emoji": "⚖️",
-      "fecha_publicacion": "2026-10-21T07:15:00-06:00",
-      "fuente": "Noticias Vespertinas (El Sol de León)",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/dan-de-baja-a-comandante-venus-involucrada-en-video-de-abuso-policiaco-en-leon-32685167",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_008",
-      "titulo": "Rescatistas se movilizan por gato atrapado en la antigua Panificadora del Bajío",
-      "resumen": "Colectivos animalistas y cuerpos de emergencia de León realizaron un operativo de rescate para salvar a un felino atrapado en las ruinas de la histórica Panificadora del Bajío. Ciudadanos pidieron apoyo en redes sociales.",
-      "contenido_completo": "La solidaridad y la empatía por el bienestar animal movilizaron a cuerpos de emergencia y asociaciones rescatistas de León tras el angustiante reporte de un gato atrapado en las instalaciones abandonadas de la antigua Panificadora del Bajío. El caso, que rápidamente ganó tracción en redes sociales y medios de comunicación locales, desató la preocupación de cientos de ciudadanos que clamaban por la pronta intervención de las autoridades para salvar la vida del pequeño felino.\n\nEl inmueble histórico, que actualmente presenta condiciones de deterioro estructural, complicó significativamente las labores de extracción. Personal de Protección Civil, elementos de Bomberos de León y voluntarios de organizaciones protectoras de animales unieron esfuerzos en un operativo meticuloso para localizar y alcanzar al animal sin poner en riesgo la integridad de los rescatistas ni del propio gato, que llevaba varios días pidiendo auxilio desde las alturas del edificio abandonado.\n\nEste suceso ha vuelto a poner sobre la mesa la importancia de las políticas públicas de protección animal y el manejo de fauna urbana en el municipio de León. Activistas y defensores de los derechos de los animales aprovecharon la coyuntura para exigir mayores recursos y equipamiento especializado para el Centro de Control y Bienestar Animal local. La historia del rescate en la emblemática panificadora resonó profundamente en la comunidad leonesa, demostrando que la sensibilidad ciudadana frente a la vida y el cuidado del medio ambiente se mantiene como un pilar fundamental en la sociedad contemporánea de la región.",
-      "categoria": "medio_ambiente",
-      "emoji": "🐱",
-      "fecha_publicacion": "2026-10-22T13:00:00-06:00",
-      "fuente": "Noticias Vespertinas (El Sol de León)",
-      "url": "https://oem.com.mx/noticiasvespertinas/local/dan-de-baja-a-comandante-venus-involucrada-en-video-de-abuso-policiaco-en-leon-32685167",
-      "relevancia": "media"
+      "id": "ALERTA_005",
+      "titulo": "Mantenimiento de ciclovia en Bulevar La Luz",
+      "descripcion": "La Dirección de Obra Pública notifica el inicio de los trabajos de rehabilitación y renovación de señalética en la ciclovía del Bulevar La Luz. Aunque no se contempla el cierre total de los carriles para automóviles, habrá presencia de maquinaria pesada, trabajadores en el arroyo vehicular y reducción de velocidad en la zona. Se exhorta a los ciclistas y conductores a transitar con extrema precaución.",
+      "categoria": "trafico",
+      "prioridad": "baja",
+      "emoji": "🚴",
+      "fecha_publicacion": "2026-10-21T11:00:00-06:00",
+      "fecha_vigencia": "2026-10-25T18:00:00-06:00",
+      "ubicacion": "Bulevar La Luz, tramo de Vicente Valtierra a Bulevar Delta",
+      "fuente": "Obra Pública Leon",
+      "url": ""
     }
   ],
-  "categorias_noticias": {
-    "transporte": "",
-    "desarrollo_urbano": "",
-    "seguridad": "",
-    "economia": "",
-    "cultura": "",
-    "salud": "",
-    "educacion": "",
-    "medio_ambiente": ""
+  "categorias": {
+    "trafico": {
+      "nombre": "Trafico y Vialidad",
+      "color": "#FF5722",
+      "emoji": "🚗"
+    },
+    "servicios": {
+      "nombre": "Servicios Publicos",
+      "color": "#2196F3",
+      "emoji": "🔧"
+    },
+    "seguridad": {
+      "nombre": "Seguridad Publica",
+      "color": "#F44336",
+      "emoji": "🚓"
+    },
+    "clima": {
+      "nombre": "Clima y Ambiente",
+      "color": "#4CAF50",
+      "emoji": "🌤️"
+    },
+    "eventos": {
+      "nombre": "Eventos Masivos",
+      "color": "#9C27B0",
+      "emoji": "🎟️"
+    }
+  },
+  "prioridades": {
+    "baja": {
+      "nombre": "Informativa",
+      "color": "#4CAF50"
+    },
+    "media": {
+      "nombre": "Precaucion",
+      "color": "#FF9800"
+    },
+    "alta": {
+      "nombre": "Urgente",
+      "color": "#F44336"
+    }
   }
 }

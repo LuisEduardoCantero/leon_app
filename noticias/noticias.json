@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-22T13:54:00-06:00",
-  "total_alertas": 5,
-  "fuente": "Recopilacion automatica",
-  "alertas": [
+  "ultima_actualizacion": "2026-10-22T14:00:00-06:00",
+  "total_noticias": 8,
+  "fuente": "Recopilacion automatica de medios locales",
+  "noticias": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Congestionamiento vial en Bulevar Aeropuerto",
-      "descripcion": "Se reporta trafico lento y congestionamiento severo sobre el Bulevar Aeropuerto en direccion a la salida a Silao, derivado de un vehiculo de carga descompuesto en el carril central. Elementos de Policia Vial ya se encuentran abanderando la zona y a la espera de una grua. Se recomienda utilizar el Eje Metropolitano como via alterna para evitar retrasos de hasta 40 minutos.",
-      "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "🚛",
-      "fecha_publicacion": "2026-10-22T13:15:00-06:00",
-      "fecha_vigencia": "2026-10-22T16:00:00-06:00",
-      "ubicacion": "Bulevar Aeropuerto, a la altura del Tajo de Santa Ana",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_002",
-      "titulo": "Mantenimiento preventivo de SAPAL en Zona Norte",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a la reparacion de una fuga detectada en una linea de conduccion principal, el servicio presentara baja presion e intermitencias durante las proximas 24 horas. Cuadrillas de operacion ya trabajan en la zona. Se exhorta a los vecinos a racionar el uso del agua almacenada en tinacos y cisternas.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "💧",
+      "id": "NOTICIA_001",
+      "titulo": "Tráfico en León afecta a familias y empresas; pasajeros pierden 132 horas al año en camión",
+      "resumen": "Un estudio revela que los usuarios del transporte público en León pierden hasta 132 horas anuales atrapados en el tráfico. Esta situación genera fuertes impactos en la calidad de vida de las familias y la productividad de las empresas locales.",
+      "contenido_completo": "El congestionamiento vehicular en León ha alcanzado niveles críticos, afectando directamente a miles de usuarios que dependen del transporte público diariamente. Un reciente análisis demostró que los pasajeros llegan a perder aproximadamente 132 horas al año debido a los retrasos y el tráfico lento en las principales vialidades de la ciudad. Esta pérdida de tiempo no solo repercute en la dinámica familiar, restando horas de convivencia y descanso, sino que también representa un severo golpe para la economía y competitividad local. Las empresas han reportado una disminución en la productividad y frecuentes retrasos en la hora de llegada de sus trabajadores operativos y administrativos. Especialistas en movilidad urbana advierten que, de no implementarse estrategias urgentes para optimizar las rutas y mejorar la infraestructura vial de forma integral, el problema podría agravarse a corto plazo. Se ha propuesto destinar mayores recursos a la semaforización inteligente y a la creación de carriles de rebase exclusivos para el transporte público. Mientras tanto, la ciudadanía sigue enfrentando trayectos largos, estresantes e incómodos, haciendo un llamado a las autoridades municipales para encontrar soluciones viables que alivien el embotellamiento crónico, especialmente durante las horas pico de la mañana y la tarde.",
+      "categoria": "transporte",
+      "emoji": "🚌",
       "fecha_publicacion": "2026-10-22T08:00:00-06:00",
-      "fecha_vigencia": "2026-10-23T08:00:00-06:00",
-      "ubicacion": "Colonias Valle del Campestre, Bosques del Refugio y Balcones del Campestre",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon",
+      "relevancia": "alta"
     },
     {
-      "id": "ALERTA_003",
-      "titulo": "Indice UV Extremadamente Alto",
-      "descripcion": "La Direccion de Proteccion Civil advierte sobre un indice de Radiacion Ultravioleta (UV) nivel 11 (Extremadamente Alto) en la zona metropolitana de Leon entre las 12:00 y las 16:00 horas. Se recomienda a la poblacion evitar la exposicion prolongada al sol, utilizar protector solarFPS 50+, ropa de manga larga, sombrero y gafas con filtro UV. Mantengase hidratado.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "☀️",
-      "fecha_publicacion": "2026-10-22T10:30:00-06:00",
-      "fecha_vigencia": "2026-10-22T17:00:00-06:00",
-      "ubicacion": "Toda la zona urbana de Leon",
-      "fuente": "Proteccion Civil Leon",
-      "url": ""
-    },
-    {
-      "id": "ALERTA_004",
-      "titulo": "Cierre parcial por obras en Libramiento Jose Maria Morelos",
-      "descripcion": "La Direccion General de Obra Publica continua con los trabajos de rehabilitacion de la carpeta asfaltica en los carriles laterales del Libramiento Jose Maria Morelos. El transito sera desviado hacia los carriles centrales, lo que provocara reduccion de velocidad y embotellamientos en horas pico. Maneje con precaucion y respete los señalamientos de obra.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-21T07:00:00-06:00",
-      "fecha_vigencia": "2026-10-25T18:00:00-06:00",
-      "ubicacion": "Libramiento Jose Maria Morelos, tramo entre Blvd. Clouthier y Blvd. Hermenegildo Bustos",
-      "fuente": "Obra Publica Leon",
-      "url": "https://www.leon.gob.mx/obrapublica"
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Operativo Mochila Segura y revision de paraderos",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana lleva a cabo revisiones aleatorias y operativos de disuasion en las principales estaciones de transferencia del Sistema Integrado de Transporte (SIT) Optibus. Esto incluye presencia canina y policias encubiertos para prevenir el robo a transeunte y asegurar la tranquilidad de los usuarios del transporte publico.",
+      "id": "NOTICIA_002",
+      "titulo": "Detienen a hombre con subametralladora en la colonia El Consuelo",
+      "resumen": "Elementos de la Policía Municipal detuvieron a un hombre identificado como Juan Martín tras un reporte ciudadano por actitud agresiva. Durante la revisión preventiva, se le incautó un arma de fuego tipo subametralladora oculta en su camioneta.",
+      "contenido_completo": "Una intervención rápida y coordinada de la Policía Municipal de León resultó en la detención de un sujeto armado en la colonia El Consuelo, previniendo lo que pudo haber sido una tragedia en la zona habitacional. Los hechos ocurrieron luego de que vecinos alertaran al sistema de emergencias 911 sobre la presencia de un hombre con actitud sumamente agresiva e intimidante a bordo de una camioneta Dodge Ram de color rojo que circulaba por las calles del vecindario. Al llegar al lugar, los uniformados procedieron a interceptar el vehículo sospechoso y realizar una inspección de rutina conforme a los protocolos de seguridad. Fue entonces cuando descubrieron que el individuo, identificado preliminarmente como Juan Martín, portaba una subametralladora abastecida. Inmediatamente fue desarmado y puesto bajo custodia estricta. Las autoridades ministeriales han iniciado las investigaciones correspondientes para determinar la procedencia del arma de uso exclusivo del ejército y evaluar si el detenido está vinculado con otros hechos delictivos o grupos criminales que operan en la periferia de la ciudad. Este aseguramiento resalta la enorme importancia de la denuncia ciudadana anónima para prevenir delitos de alto impacto y retirar armamento peligroso de las calles leonesas.",
       "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "👮",
-      "fecha_publicacion": "2026-10-22T06:00:00-06:00",
-      "fecha_vigencia": "2026-10-23T22:00:00-06:00",
-      "ubicacion": "Estaciones de Transferencia Delta, San Jeronimo y San Juan Bosco",
-      "fuente": "Secretaria de Seguridad Leon",
-      "url": ""
+      "emoji": "🚔",
+      "fecha_publicacion": "2026-10-22T09:30:00-06:00",
+      "fuente": "El Sol de Leon",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/",
+      "relevancia": "alta"
+    },
+    {
+      "id": "NOTICIA_003",
+      "titulo": "Freno en muro pospone apertura del Caises León hasta 2027",
+      "resumen": "La construcción del nuevo Centro de Atención Integral en Servicios de Salud (Caises) en León se ha retrasado debido a complicaciones estructurales en un muro de contención. El Secretario de Salud confirmó que la apertura se pospondrá hasta el próximo año.",
+      "contenido_completo": "Los habitantes del municipio de León tendrán que esperar más de lo previsto originalmente para hacer uso de las nuevas instalaciones del Caises León, una obra considerada clave para el fortalecimiento de la infraestructura médica municipal y regional. El Secretario de Salud informó recientemente que un problema técnico imprevisto, relacionado con la ingeniería y construcción de un muro de contención perimetral, ha obligado a detener temporalmente ciertos avances críticos del proyecto, lo que inevitablemente desplazará la fecha de inauguración formal hasta el año 2027. Este contratiempo representa un desafío importante para el sistema de salud local, que buscaba despresurizar otras clínicas saturadas y ofrecer un servicio médico mucho más ágil y digno a miles de derechohabientes antes de finalizar el presente año. Según las evaluaciones técnicas preliminares, la intervención en el muro es indispensable para garantizar la seguridad estructural del edificio a largo plazo frente a deslaves y asentamientos. Las autoridades sanitarias han asegurado que, a pesar de este aplazamiento, los recursos financieros para culminar la obra están etiquetados y blindados, por lo que el hospital no corre riesgo de cancelación. Sin embargo, los ciudadanos que requieren atención primaria constante han expresado su legítima frustración ante este nuevo retraso burocrático.",
+      "categoria": "salud",
+      "emoji": "🏥",
+      "fecha_publicacion": "2026-10-21T11:15:00-06:00",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon",
+      "relevancia": "media"
+    },
+    {
+      "id": "NOTICIA_004",
+      "titulo": "ANPIC 2026 reúne en León a más de 200 marcas; proveeduría apuesta por nuevos mercados",
+      "resumen": "La feria de proveeduría más importante de América Latina, ANPIC, abrió sus puertas en el Poliforum León reuniendo a más de 200 marcas. El sector busca revitalizar la industria del calzado y marroquinería expandiéndose a mercados internacionales.",
+      "contenido_completo": "El Poliforum León se convirtió nuevamente en el epicentro industrial del país con la exitosa inauguración de la edición de Otoño-Invierno de ANPIC 2026. Este año, la magna exposición cuenta con la participación activa de más de 200 marcas nacionales e internacionales altamente enfocadas en la proveeduría de cuero, suelas, calzado, marroquinería y textiles avanzados. En medio de un clima de retos económicos globales y una feroz competencia desleal proveniente del mercado asiático, los empresarios locales están enfocando sus esfuerzos en la innovación, la sostenibilidad y el diseño de alto valor agregado para conquistar y consolidar nuevos horizontes comerciales. Los líderes de las cámaras industriales destacaron que ANPIC no solo es un excelente escaparate de tendencias de moda, sino una plataforma vital para cerrar negocios a largo plazo que aseguren el empleo directo e indirecto de miles de familias guanajuatenses. Durante los tres días de exhibición intensiva, se espera la visita de miles de compradores procedentes de Norteamérica, Centroamérica y Europa, confirmando a León como la capital indiscutible de la proveeduría en el continente americano. Además, se están promoviendo materiales ecológicos y procesos sustentables, una demanda creciente en los mercados de exportación que podría marcar la diferencia.",
+      "categoria": "economia",
+      "emoji": "💼",
+      "fecha_publicacion": "2026-10-22T10:00:00-06:00",
+      "fuente": "Periodico Correo",
+      "url": "https://www.am.com.mx/",
+      "relevancia": "alta"
+    },
+    {
+      "id": "NOTICIA_005",
+      "titulo": "León se convierte en epicentro educativo con el XVII Encuentro Nacional de Ciudades Educadoras",
+      "resumen": "Del 21 al 23 de octubre, León alberga el XVII Encuentro Nacional de la Red Mexicana de Ciudades Educadoras (REMCE). El foro reúne a especialistas y autoridades para transformar el espacio público en verdaderas aulas de aprendizaje social.",
+      "contenido_completo": "Bajo el lema central 'La ciudad como aula: movilidad, espacio público y sostenibilidad', la ciudad de León ha sido elegida como la sede oficial del XVII Encuentro Nacional de la Red Mexicana de Ciudades Educadoras (REMCE), un magno evento que se lleva a cabo del 21 al 23 de octubre del presente año. Durante tres jornadas intensas de trabajo, distinguidos académicos, autoridades municipales de todo el país y expertos internacionales debatirán sobre cómo reimaginar los entornos urbanos cotidianos para que sirvan como plataformas activas de educación constante y cohesión comunitaria. El congreso nacional busca trascender audazmente las paredes de las aulas tradicionales, proponiendo que las plazas, los parques vecinales y las calles seguras formen parte integral en la formación cívica, cultural y ambiental de las nuevas generaciones de mexicanos. Se abordarán temas cruciales como la inclusión social, el diseño urbano accesible para todos y la urgente recuperación de espacios previamente degradados. La administración municipal destacó que ser anfitriones de este prestigioso evento subraya el firme compromiso de León con el desarrollo humano integral, proyectando a la localidad como un modelo de políticas públicas innovadoras. Los talleres invitan también a la activa participación ciudadana.",
+      "categoria": "educacion",
+      "emoji": "📚",
+      "fecha_publicacion": "2026-10-21T08:45:00-06:00",
+      "fuente": "Recopilacion",
+      "url": "https://leon-mexico.com/eventos/xvii-encuentro-nacional-de-la-red-mexicana-de-ciudades-educadoras/",
+      "relevancia": "media"
+    },
+    {
+      "id": "NOTICIA_006",
+      "titulo": "Reconocimiento internacional para los parques metropolitanos La Reserva y Eliseo Martínez",
+      "resumen": "Los parques metropolitanos Eliseo Martínez Pérez y La Reserva de León fueron galardonados por la organización World Urban Parks. Este reconocimiento internacional destaca el esfuerzo por preservar áreas verdes de calidad dentro del entorno urbano.",
+      "contenido_completo": "El compromiso continuo de la ciudad de León con la preservación ecológica y la sustentabilidad urbana ha rendido grandes frutos a nivel global, luego de que los parques metropolitanos Eliseo Martínez Pérez y La Reserva fueran galardonados oficialmente por la prestigiosa organización internacional World Urban Parks (WUP). Este importante reconocimiento evalúa y premia la excelencia integral en el diseño paisajístico, el mantenimiento continuo y la profunda vocación comunitaria de los grandes espacios verdes públicos alrededor del mundo, posicionando a la capital zapatera como un destacado referente en el cuidado ambiental de América Latina. La invaluable distinción llega en un momento sumamente crítico, mientras la región entera lucha incansablemente contra la crisis hídrica severa y los efectos del cambio climático mediante agresivas campañas de forestación urbana. Ambos recintos ecológicos han destacado por contar con infraestructura sustentable para la recolección de agua, el constante fomento a la biodiversidad local de flora y fauna, y su capacidad demostrada para ofrecer amplias áreas de esparcimiento seguras, accesibles e inclusivas. Las autoridades municipales celebraron con júbilo el premio como un logro colectivo de toda la ciudadanía, enfatizando que el cuidado de estas zonas es producto del esfuerzo ciudadano.",
+      "categoria": "medio_ambiente",
+      "emoji": "🌳",
+      "fecha_publicacion": "2026-10-21T13:20:00-06:00",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/",
+      "relevancia": "alta"
+    },
+    {
+      "id": "NOTICIA_007",
+      "titulo": "Arranca el Festival de la Muerte 2026 con más de 200 actividades y calaveras monumentales",
+      "resumen": "León se viste de tradición para celebrar el Día de Muertos con el inicio del Festival de la Muerte 2026. Con una cartelera que supera las 200 actividades culturales, el evento busca fomentar las costumbres mexicanas en toda la ciudad.",
+      "contenido_completo": "Con un entusiasmo desbordante y un hermoso despliegue de color inigualable en sus plazas, arrancó formalmente en León el Festival de la Muerte 2026, una magna celebración cultural que rinde un profundo tributo a una de las tradiciones más queridas, respetadas y emblemáticas de todo México. En esta ambiciosa edición, el Instituto Cultural de León y diversas dependencias municipales de fomento social han coordinado un programa histórico que supera por mucho las 200 actividades totalmente gratuitas, cuidadosamente diseñadas para el disfrute seguro de familias enteras tanto en el centro histórico como en diversas colonias periféricas. El vasto festival destaca visualmente por la sorpresiva colocación de impresionantes calaveras monumentales en puntos viales estratégicos, enormes tapetes de aserrín multicolor y los clásicos altares tradicionales dedicados a personajes históricos locales. Entre los esperados eventos artísticos destacan los ya famosos recorridos nocturnos teatralizados por los andadores del Panteón de San Nicolás, así como la masiva y tradicional Caminata de las Ánimas, que congrega cada año a miles de participantes bellamente caracterizados de catrinas y catrines. Esta rica oferta cultural tiene el objetivo principal de preservar la memoria histórica colectiva, detonando también una importante derrama económica turística.",
+      "categoria": "cultura",
+      "emoji": "💀",
+      "fecha_publicacion": "2026-10-22T07:15:00-06:00",
+      "fuente": "Almomento",
+      "url": "https://almomento.mx/leon-se-llena-de-color-y-tradicion-con-el-inicio-del-festival-de-la-muerte-2026/",
+      "relevancia": "alta"
+    },
+    {
+      "id": "NOTICIA_008",
+      "titulo": "Proyectan La Gran Calzada para priorizar la movilidad peatonal en el bulevar López Mateos",
+      "resumen": "Autoridades municipales anunciaron el proyecto La Gran Calzada, una ambiciosa intervención urbana en el bulevar Adolfo López Mateos. La iniciativa busca transformar el eje vial dándole máxima prioridad al tránsito peatonal, comercial y de ciclistas.",
+      "contenido_completo": "En un paso audaz y sin precedentes hacia la modernización integral y la necesaria redensificación del corazón de la ciudad, se ha dado a conocer formalmente el proyecto maestro de infraestructura denominado 'La Gran Calzada'. Esta innovadora y ambiciosa propuesta de desarrollo urbano planea intervenir a profundidad uno de los tramos más icónicos e históricos del neurálgico bulevar Adolfo López Mateos para transformarlo en un hermoso corredor escénico que dé absoluta y total prioridad a los peatones, ciclistas y usuarios habituales del transporte público, reduciendo de manera significativa el valioso espacio que actualmente está destinado al automóvil particular. El objetivo primordial que sustenta la creación de 'La Gran Calzada' es reactivar drásticamente la alicaída economía de la zona Centro y forjar un entorno urbano mucho más amigable, sumamente seguro, altamente arbolado y libre de excesivo ruido. El rediseño arquitectónico contempla la ansiada ampliación de las banquetas laterales, la armoniosa integración de mobiliario urbano contemporáneo y nuevos cruces viales completamente a nivel de acera. Comercialmente, se espera que este denso flujo peatonal logre revitalizar en tiempo récord a decenas de negocios locales que clamaban por una intervención gubernamental para mejorar su entorno.",
+      "categoria": "desarrollo_urbano",
+      "emoji": "🏙️",
+      "fecha_publicacion": "2026-10-22T11:45:00-06:00",
+      "fuente": "El Sol de Leon",
+      "url": "https://oem.com.mx/elsoldeleon/",
+      "relevancia": "alta"
     }
   ],
-  "categorias": {
-    "trafico": {
-      "nombre": "Trafico y Vialidad",
-      "color": "#FF5722",
-      "emoji": "🚗"
-    },
-    "servicios": {
-      "nombre": "Servicios Publicos",
-      "color": "#2196F3",
-      "emoji": "🔧"
-    },
-    "seguridad": {
-      "nombre": "Seguridad Publica",
-      "color": "#F44336",
-      "emoji": "🛡️"
-    },
-    "clima": {
-      "nombre": "Clima y Ambiente",
-      "color": "#4CAF50",
-      "emoji": "⛅"
-    },
-    "eventos": {
-      "nombre": "Eventos Masivos",
-      "color": "#9C27B0",
-      "emoji": "🎟️"
-    }
-  },
-  "prioridades": {
-    "baja": {
-      "nombre": "Informativa",
-      "color": "#4CAF50"
-    },
-    "media": {
-      "nombre": "Precaucion",
-      "color": "#FF9800"
-    },
-    "alta": {
-      "nombre": "Urgente",
-      "color": "#F44336"
-    }
+  "categorias_noticias": {
+    "transporte": "Tráfico y movilidad urbana (Noticia 1)",
+    "desarrollo_urbano": "Proyecto La Gran Calzada (Noticia 8)",
+    "seguridad": "Detención por portación de armas (Noticia 2)",
+    "economia": "Evento ANPIC 2026 (Noticia 4)",
+    "cultura": "Festival de la Muerte 2026 (Noticia 7)",
+    "salud": "Retraso en construcción de Caises (Noticia 3)",
+    "educacion": "Congreso Nacional Ciudades Educadoras (Noticia 5)",
+    "medio_ambiente": "Galardón a parques metropolitanos (Noticia 6)"
   }
 }
