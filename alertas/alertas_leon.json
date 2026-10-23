@@ -1,80 +1,80 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-22T14:00:00-06:00",
+  "ultima_actualizacion": "2026-10-23T17:31:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierres nocturnos en Bulevar Aeropuerto por pavimentacion",
-      "descripcion": "La Secretaria de Infraestructura y Movilidad informa sobre cierres parciales nocturnos en el Bulevar Aeropuerto, en el tramo del puente de Santa Ana a Tajo de Santa Ana, debido a trabajos de reencarpetamiento. Las obras se realizaran de 22:00 a 05:00 horas para minimizar el impacto. Se recomienda usar el Eje Metropolitano como via alterna.",
+      "titulo": "Reducción de carriles en Blvd. Aeropuerto",
+      "descripcion": "La Dirección de Obra Pública informa sobre la reducción a dos carriles en el Blvd. Aeropuerto, a la altura de los Outlets en sentido hacia Silao. Esto debido a trabajos intensivos de reencarpetamiento asfáltico. Se recomienda usar el Eje Metropolitano como vía alterna para evitar retrasos de hasta 30 minutos.",
       "categoria": "trafico",
-      "prioridad": "media",
+      "prioridad": "alta",
       "emoji": "🚧",
-      "fecha_publicacion": "2026-10-22T08:00:00-06:00",
-      "fecha_vigencia": "2026-10-25T05:00:00-06:00",
-      "ubicacion": "Bulevar Aeropuerto, tramo Tajo de Santa Ana",
+      "fecha_publicacion": "2026-10-23T08:15:00-06:00",
+      "fecha_vigencia": "2026-10-25T18:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto, zona Outlets",
       "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx/movilidad"
+      "url": "https://www.leon.gob.mx/obrapublica"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Interrupcion de agua en Colonia Leon Moderno",
-      "descripcion": "El SAPAL notifica a los vecinos de la colonia Leon Moderno y zonas aledanas sobre la suspension del servicio de agua potable debido al lavado anual de tanques de almacenamiento y mantenimiento de valvulas. Se espera que el servicio se restablezca gradualmente a partir de la noche. Se sugiere racionar el uso del agua almacenada en tinacos.",
+      "titulo": "Suspensión de agua en zona poniente",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) anuncia la suspensión temporal del servicio de agua en las colonias Las Mandarinas, San Marcos y Lomas de la Trinidad debido al cambio de válvulas en la red de distribución principal. El suministro se restablecerá paulatinamente durante la madrugada del domingo.",
       "categoria": "servicios",
-      "prioridad": "alta",
+      "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-10-21T10:30:00-06:00",
-      "fecha_vigencia": "2026-10-22T23:59:00-06:00",
-      "ubicacion": "Colonia Leon Moderno",
-      "fuente": "SAPAL",
+      "fecha_publicacion": "2026-10-23T10:00:00-06:00",
+      "fecha_vigencia": "2026-10-24T23:59:00-06:00",
+      "ubicacion": "Colonias Las Mandarinas, San Marcos, Lomas de la Trinidad",
+      "fuente": "SAPAL Leon",
       "url": "https://www.sapal.gob.mx/avisos"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Incendio de pastizal activo en zona de Las Joyas",
-      "descripcion": "Elementos de Bomberos y Proteccion Civil se encuentran combatiendo un incendio de pastizal de gran magnitud en un predio baldio cercano al bulevar Aristoteles en la zona de Las Joyas. Aunque no hay riesgo directo para viviendas, se reporta densa presencia de humo. Se recomienda a los conductores disminuir la velocidad y a los vecinos cerrar ventanas.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🔥",
-      "fecha_publicacion": "2026-10-22T12:15:00-06:00",
-      "fecha_vigencia": "2026-10-22T18:00:00-06:00",
-      "ubicacion": "Bulevar Aristoteles, Las Joyas",
+      "titulo": "Frente Frío No. 6: Descenso de temperaturas",
+      "descripcion": "Protección Civil advierte sobre la entrada del Frente Frío número 6 al bajío, lo cual provocará un marcado descenso en las temperaturas matutinas y nocturnas durante este fin de semana en la ciudad, alcanzando mínimas de 7°C. Se exhorta a la población a abrigarse adecuadamente y proteger a niños y adultos mayores.",
+      "categoria": "clima",
+      "prioridad": "media",
+      "emoji": "❄️",
+      "fecha_publicacion": "2026-10-23T12:30:00-06:00",
+      "fecha_vigencia": "2026-10-26T09:00:00-06:00",
+      "ubicacion": "Todo el municipio de León",
       "fuente": "Proteccion Civil Leon",
       "url": "https://twitter.com/PC_Leon"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Rachas de viento moderado durante la tarde",
-      "descripcion": "El Servicio Meteorologico Nacional y Proteccion Civil Municipal alertan sobre la presencia de vientos con rachas que podrian alcanzar entre los 40 y 50 km/h durante la tarde de hoy. Se solicita a la poblacion asegurar objetos en azoteas, toldos y ventanas, asi como extremar precauciones por posible caida de ramas secas o lonas publicitarias.",
-      "categoria": "clima",
-      "prioridad": "baja",
-      "emoji": "💨",
-      "fecha_publicacion": "2026-10-22T07:00:00-06:00",
-      "fecha_vigencia": "2026-10-22T20:00:00-06:00",
-      "ubicacion": "Toda la zona metropolitana de Leon",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "titulo": "Atención de emergencia en Blvd. Delta",
+      "descripcion": "Cuerpos de emergencia y bomberos se encuentran laborando en el Blvd. Delta, casi esquina con Blvd. La Luz, sofocando el incendio de un vehículo de carga. La circulación se encuentra completamente cerrada en dirección al sur. Se pide a los conductores ceder el paso a las unidades de rescate y evitar la zona.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🔥",
+      "fecha_publicacion": "2026-10-23T16:45:00-06:00",
+      "fecha_vigencia": "2026-10-23T20:00:00-06:00",
+      "ubicacion": "Blvd. Delta y Blvd. La Luz",
+      "fuente": "Secretaria de Seguridad Leon",
+      "url": "https://twitter.com/Seguridad_Leon"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cortes viales en Zona Piel por Expo Calzado local",
-      "descripcion": "Con motivo del evento de liquidacion de fin de temporada de productores locales, se estableceran cortes a la circulacion vehicular en la calle Hilario Medina, entre bulevar Adolfo Lopez Mateos y calle La Luz. El acceso estara permitido unicamente para trafico peatonal y unidades de emergencia. Se insta a usar estacionamientos aledanos.",
+      "titulo": "Cierre peatonal por Festival de Día de Muertos",
+      "descripcion": "En preparación para las instalaciones monumentales del próximo Festival de Día de Muertos, se han delimitado diversas zonas peatonales en la Plaza Expiatorio y Calle Francisco I. Madero. Habrá alta concentración de personas y desvíos para cruces peatonales. Se invita a los ciclistas a descender de sus vehículos al transitar por el área.",
       "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "👞",
-      "fecha_publicacion": "2026-10-21T18:00:00-06:00",
-      "fecha_vigencia": "2026-10-24T22:00:00-06:00",
-      "ubicacion": "Zona Piel, calle Hilario Medina",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "prioridad": "baja",
+      "emoji": "💀",
+      "fecha_publicacion": "2026-10-22T09:00:00-06:00",
+      "fecha_vigencia": "2026-11-03T23:59:00-06:00",
+      "ubicacion": "Plaza Expiatorio y Calle Madero",
+      "fuente": "Gobierno Municipal Leon",
+      "url": "https://www.leon.gob.mx/turismo"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
@@ -84,17 +84,17 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": "☁️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎪"
     }
   },
   "prioridades": {
