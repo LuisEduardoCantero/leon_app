@@ -1,80 +1,80 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-23T17:31:00-06:00",
+  "ultima_actualizacion": "2026-10-26T14:05:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_001",
-      "titulo": "Reducción de carriles en Blvd. Aeropuerto",
-      "descripcion": "La Dirección de Obra Pública informa sobre la reducción a dos carriles en el Blvd. Aeropuerto, a la altura de los Outlets en sentido hacia Silao. Esto debido a trabajos intensivos de reencarpetamiento asfáltico. Se recomienda usar el Eje Metropolitano como vía alterna para evitar retrasos de hasta 30 minutos.",
+      "id": "ALERTA_016",
+      "titulo": "Choque multiple en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "Se registra un fuerte accidente vehicular que involucra a tres automoviles particulares sobre el bulevar Adolfo Lopez Mateos a la altura de la clinica T-1 del IMSS, en direccion al centro. Hay bloqueo de dos carriles, lo que genera trafico intenso. Se recomienda usar Avenida Paseo de los Insurgentes o Bulevar Vicente Valtierra como rutas alternas.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-23T08:15:00-06:00",
-      "fecha_vigencia": "2026-10-25T18:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto, zona Outlets",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-10-26T13:15:00-06:00",
+      "fecha_vigencia": "2026-10-26T16:00:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos esq. Av. Paseo de los Insurgentes",
       "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx/obrapublica"
+      "url": "https://twitter.com/TransitoLeon"
     },
     {
-      "id": "ALERTA_002",
-      "titulo": "Suspensión de agua en zona poniente",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) anuncia la suspensión temporal del servicio de agua en las colonias Las Mandarinas, San Marcos y Lomas de la Trinidad debido al cambio de válvulas en la red de distribución principal. El suministro se restablecerá paulatinamente durante la madrugada del domingo.",
+      "id": "ALERTA_017",
+      "titulo": "Corte de energia en Jardines del Moral",
+      "descripcion": "La Comision Federal de Electricidad (CFE) realiza trabajos de mantenimiento programado en la infraestructura electrica subterrania de la zona. Se reporta suspension del servicio en la colonia Jardines del Moral y parte de Valle del Campestre. El restablecimiento de la energia se estima hacia las 18:00 horas.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-10-23T10:00:00-06:00",
-      "fecha_vigencia": "2026-10-24T23:59:00-06:00",
-      "ubicacion": "Colonias Las Mandarinas, San Marcos, Lomas de la Trinidad",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx/avisos"
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-10-26T09:00:00-06:00",
+      "fecha_vigencia": "2026-10-26T18:00:00-06:00",
+      "ubicacion": "Colonia Jardines del Moral y Valle del Campestre",
+      "fuente": "CFE / Proteccion Civil Leon",
+      "url": ""
     },
     {
-      "id": "ALERTA_003",
-      "titulo": "Frente Frío No. 6: Descenso de temperaturas",
-      "descripcion": "Protección Civil advierte sobre la entrada del Frente Frío número 6 al bajío, lo cual provocará un marcado descenso en las temperaturas matutinas y nocturnas durante este fin de semana en la ciudad, alcanzando mínimas de 7°C. Se exhorta a la población a abrigarse adecuadamente y proteger a niños y adultos mayores.",
-      "categoria": "clima",
+      "id": "ALERTA_018",
+      "titulo": "Operativo vial por partido en Estadio Nou Camp",
+      "descripcion": "Debido al encuentro de futbol de esta noche en el Estadio Leon, la Secretaria de Seguridad y Transito Municipal implementara un dispositivo vial y de seguridad a partir de las 17:00 horas. Habra congestionamiento en el bulevar Adolfo Lopez Mateos, Francisco Villa y Vasco de Quiroga. Anticipar traslados.",
+      "categoria": "eventos",
       "prioridad": "media",
-      "emoji": "❄️",
-      "fecha_publicacion": "2026-10-23T12:30:00-06:00",
-      "fecha_vigencia": "2026-10-26T09:00:00-06:00",
-      "ubicacion": "Todo el municipio de León",
-      "fuente": "Proteccion Civil Leon",
+      "emoji": "⚽",
+      "fecha_publicacion": "2026-10-25T10:00:00-06:00",
+      "fecha_vigencia": "2026-10-26T23:30:00-06:00",
+      "ubicacion": "Estadio Leon (Nou Camp) y vialidades aledanas",
+      "fuente": "Seguridad Publica Leon",
+      "url": "https://www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_019",
+      "titulo": "Lluvias aisladas y descenso termico por Frente Frio",
+      "descripcion": "Proteccion Civil Municipal alerta sobre el ingreso de un nuevo sistema frontal que provocara descenso en la temperatura durante la noche y madrugada, asi como probabilidad de lluvias ligeras a moderadas en las zonas norte y oriente del municipio (Sierra de Lobos y Alfaro). Abrigar a poblacion vulnerable.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "🌧️",
+      "fecha_publicacion": "2026-10-25T18:30:00-06:00",
+      "fecha_vigencia": "2026-10-27T08:00:00-06:00",
+      "ubicacion": "Zona Norte y Oriente del municipio de Leon",
+      "fuente": "PC Leon",
       "url": "https://twitter.com/PC_Leon"
     },
     {
-      "id": "ALERTA_004",
-      "titulo": "Atención de emergencia en Blvd. Delta",
-      "descripcion": "Cuerpos de emergencia y bomberos se encuentran laborando en el Blvd. Delta, casi esquina con Blvd. La Luz, sofocando el incendio de un vehículo de carga. La circulación se encuentra completamente cerrada en dirección al sur. Se pide a los conductores ceder el paso a las unidades de rescate y evitar la zona.",
+      "id": "ALERTA_020",
+      "titulo": "Dispositivo de revision a motocicletas en San Juan Bosco",
+      "descripcion": "La Policia Municipal y Transito del Estado mantienen un operativo de revision de documentacion y prevencion de ilicitos dirigido a motocicletas en el bulevar San Juan Bosco y Manuel de Austri. Se reporta avance vehicular lento en la zona. Asegurese de portar casco, placas y tarjeta de circulacion vigente.",
       "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🔥",
-      "fecha_publicacion": "2026-10-23T16:45:00-06:00",
-      "fecha_vigencia": "2026-10-23T20:00:00-06:00",
-      "ubicacion": "Blvd. Delta y Blvd. La Luz",
-      "fuente": "Secretaria de Seguridad Leon",
-      "url": "https://twitter.com/Seguridad_Leon"
-    },
-    {
-      "id": "ALERTA_005",
-      "titulo": "Cierre peatonal por Festival de Día de Muertos",
-      "descripcion": "En preparación para las instalaciones monumentales del próximo Festival de Día de Muertos, se han delimitado diversas zonas peatonales en la Plaza Expiatorio y Calle Francisco I. Madero. Habrá alta concentración de personas y desvíos para cruces peatonales. Se invita a los ciclistas a descender de sus vehículos al transitar por el área.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "💀",
-      "fecha_publicacion": "2026-10-22T09:00:00-06:00",
-      "fecha_vigencia": "2026-11-03T23:59:00-06:00",
-      "ubicacion": "Plaza Expiatorio y Calle Madero",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "https://www.leon.gob.mx/turismo"
+      "prioridad": "media",
+      "emoji": "🏍️",
+      "fecha_publicacion": "2026-10-26T11:45:00-06:00",
+      "fecha_vigencia": "2026-10-26T15:00:00-06:00",
+      "ubicacion": "Blvd. San Juan Bosco esq. Manuel de Austri",
+      "fuente": "Seguridad Publica Leon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚦"
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
@@ -89,12 +89,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "☁️"
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
