@@ -1,80 +1,80 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-26T14:05:00-06:00",
+  "ultima_actualizacion": "2026-10-27T13:36:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_016",
-      "titulo": "Choque multiple en Blvd. Adolfo Lopez Mateos",
-      "descripcion": "Se registra un fuerte accidente vehicular que involucra a tres automoviles particulares sobre el bulevar Adolfo Lopez Mateos a la altura de la clinica T-1 del IMSS, en direccion al centro. Hay bloqueo de dos carriles, lo que genera trafico intenso. Se recomienda usar Avenida Paseo de los Insurgentes o Bulevar Vicente Valtierra como rutas alternas.",
+      "id": "ALERTA_001",
+      "titulo": "Cierre parcial en Blvd. Alonso de Torres",
+      "descripcion": "La Direccion de Obra Publica y Transito Municipal informan sobre el cierre parcial de dos carriles en el Blvd. Alonso de Torres, a la altura de Plaza Mayor, en direccion a Libramiento Morelos. El cierre se debe a trabajos de reparacion de un socavon detectado tras las recientes lluvias. Se recomienda usar como ruta alterna el Blvd. Campestre o Av. Cerro Gordo.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-10-26T13:15:00-06:00",
-      "fecha_vigencia": "2026-10-26T16:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos esq. Av. Paseo de los Insurgentes",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-27T08:15:00-06:00",
+      "fecha_vigencia": "2026-10-29T20:00:00-06:00",
+      "ubicacion": "Blvd. Alonso de Torres altura Plaza Mayor",
       "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "url": "www.leon.gob.mx/transito"
     },
     {
-      "id": "ALERTA_017",
-      "titulo": "Corte de energia en Jardines del Moral",
-      "descripcion": "La Comision Federal de Electricidad (CFE) realiza trabajos de mantenimiento programado en la infraestructura electrica subterrania de la zona. Se reporta suspension del servicio en la colonia Jardines del Moral y parte de Valle del Campestre. El restablecimiento de la energia se estima hacia las 18:00 horas.",
+      "id": "ALERTA_002",
+      "titulo": "Falla electrica y corte de agua en Jardines del Moral",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a una falla electrica de CFE en los pozos de extraccion de la zona norte, el suministro de agua se vera afectado con baja presion o corte total en las colonias Jardines del Moral, Valle de Leon y Panorama. Se estima la recuperacion del servicio en 24 horas.",
       "categoria": "servicios",
       "prioridad": "media",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-10-26T09:00:00-06:00",
-      "fecha_vigencia": "2026-10-26T18:00:00-06:00",
-      "ubicacion": "Colonia Jardines del Moral y Valle del Campestre",
-      "fuente": "CFE / Proteccion Civil Leon",
-      "url": ""
+      "emoji": "💧",
+      "fecha_publicacion": "2026-10-27T10:00:00-06:00",
+      "fecha_vigencia": "2026-10-28T12:00:00-06:00",
+      "ubicacion": "Zona Norte (Jardines del Moral, Valle de Leon, Panorama)",
+      "fuente": "SAPAL",
+      "url": "www.sapal.gob.mx/avisos"
     },
     {
-      "id": "ALERTA_018",
-      "titulo": "Operativo vial por partido en Estadio Nou Camp",
-      "descripcion": "Debido al encuentro de futbol de esta noche en el Estadio Leon, la Secretaria de Seguridad y Transito Municipal implementara un dispositivo vial y de seguridad a partir de las 17:00 horas. Habra congestionamiento en el bulevar Adolfo Lopez Mateos, Francisco Villa y Vasco de Quiroga. Anticipar traslados.",
+      "id": "ALERTA_003",
+      "titulo": "Choque multiple en Libramiento Morelos",
+      "descripcion": "Se registra un fuerte accidente que involucra a un transporte de personal y tres vehiculos particulares en el Libramiento Morelos, a la altura del Parque Metropolitano en sentido hacia la salida a Lagos de Moreno. La circulacion se encuentra completamente detenida. Unidades de Proteccion Civil y Cruz Roja laboran en el lugar.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚑",
+      "fecha_publicacion": "2026-10-27T12:45:00-06:00",
+      "fecha_vigencia": "2026-10-27T16:00:00-06:00",
+      "ubicacion": "Libramiento Morelos altura Parque Metropolitano",
+      "fuente": "PC Leon",
+      "url": "twitter.com/PC_Leon"
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Operativo vial por partido en Estadio Leon",
+      "descripcion": "Con motivo del encuentro de futbol de esta noche, la Secretaria de Seguridad y Transito Municipal implementaran un operativo vial a partir de las 17:00 horas en los alrededores del Estadio Leon. Se esperan cierres preventivos y carga vehicular intensa en Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Anticipe sus traslados.",
       "categoria": "eventos",
       "prioridad": "media",
       "emoji": "⚽",
-      "fecha_publicacion": "2026-10-25T10:00:00-06:00",
-      "fecha_vigencia": "2026-10-26T23:30:00-06:00",
-      "ubicacion": "Estadio Leon (Nou Camp) y vialidades aledanas",
-      "fuente": "Seguridad Publica Leon",
-      "url": "https://www.leon.gob.mx"
+      "fecha_publicacion": "2026-10-27T09:30:00-06:00",
+      "fecha_vigencia": "2026-10-27T23:00:00-06:00",
+      "ubicacion": "Estadio Leon y vialidades aledanas",
+      "fuente": "Transito Leon",
+      "url": "twitter.com/TransitoLeon"
     },
     {
-      "id": "ALERTA_019",
-      "titulo": "Lluvias aisladas y descenso termico por Frente Frio",
-      "descripcion": "Proteccion Civil Municipal alerta sobre el ingreso de un nuevo sistema frontal que provocara descenso en la temperatura durante la noche y madrugada, asi como probabilidad de lluvias ligeras a moderadas en las zonas norte y oriente del municipio (Sierra de Lobos y Alfaro). Abrigar a poblacion vulnerable.",
+      "id": "ALERTA_005",
+      "titulo": "Pronostico de lluvias aisladas por la tarde",
+      "descripcion": "Proteccion Civil emite un aviso preventivo por probabilidad de lluvias aisladas y descargas electricas durante la tarde-noche de hoy en la zona urbana de Leon. Se exhorta a los automovilistas a manejar con precaucion, respetar los limites de velocidad y encender sus luces. No se prevén inundaciones mayores, pero se monitorea el Malecón del Río.",
       "categoria": "clima",
       "prioridad": "baja",
       "emoji": "🌧️",
-      "fecha_publicacion": "2026-10-25T18:30:00-06:00",
-      "fecha_vigencia": "2026-10-27T08:00:00-06:00",
-      "ubicacion": "Zona Norte y Oriente del municipio de Leon",
-      "fuente": "PC Leon",
-      "url": "https://twitter.com/PC_Leon"
-    },
-    {
-      "id": "ALERTA_020",
-      "titulo": "Dispositivo de revision a motocicletas en San Juan Bosco",
-      "descripcion": "La Policia Municipal y Transito del Estado mantienen un operativo de revision de documentacion y prevencion de ilicitos dirigido a motocicletas en el bulevar San Juan Bosco y Manuel de Austri. Se reporta avance vehicular lento en la zona. Asegurese de portar casco, placas y tarjeta de circulacion vigente.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🏍️",
-      "fecha_publicacion": "2026-10-26T11:45:00-06:00",
-      "fecha_vigencia": "2026-10-26T15:00:00-06:00",
-      "ubicacion": "Blvd. San Juan Bosco esq. Manuel de Austri",
-      "fuente": "Seguridad Publica Leon",
-      "url": ""
+      "fecha_publicacion": "2026-10-27T11:20:00-06:00",
+      "fecha_vigencia": "2026-10-27T23:59:00-06:00",
+      "ubicacion": "Toda la zona metropolitana de Leon",
+      "fuente": "Proteccion Civil Municipal",
+      "url": "www.leon.gob.mx/proteccioncivil"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
@@ -84,7 +84,7 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🚨"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
@@ -94,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
