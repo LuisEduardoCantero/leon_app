@@ -1,80 +1,80 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-27T13:36:00-06:00",
+  "ultima_actualizacion": "2026-10-28T14:24:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre parcial en Blvd. Alonso de Torres",
-      "descripcion": "La Direccion de Obra Publica y Transito Municipal informan sobre el cierre parcial de dos carriles en el Blvd. Alonso de Torres, a la altura de Plaza Mayor, en direccion a Libramiento Morelos. El cierre se debe a trabajos de reparacion de un socavon detectado tras las recientes lluvias. Se recomienda usar como ruta alterna el Blvd. Campestre o Av. Cerro Gordo.",
+      "titulo": "Volcadura en Libramiento Morelos",
+      "descripcion": "Se reporta el cierre parcial de la circulacion en el Blvd. Jose Maria Morelos, a la altura de la colonia El Pelicano, debido a la volcadura de un vehiculo particular. Elementos de Transito Municipal abanderan la zona. Se recomienda utilizar el Blvd. Las Torres como ruta alterna mientras se realizan las maniobras de retiro de la unidad.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-27T08:15:00-06:00",
-      "fecha_vigencia": "2026-10-29T20:00:00-06:00",
-      "ubicacion": "Blvd. Alonso de Torres altura Plaza Mayor",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-10-28T10:15:00-06:00",
+      "fecha_vigencia": "2026-10-28T16:00:00-06:00",
+      "ubicacion": "Blvd. Jose Maria Morelos, altura El Pelicano",
       "fuente": "Transito Municipal Leon",
-      "url": "www.leon.gob.mx/transito"
+      "url": ""
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Falla electrica y corte de agua en Jardines del Moral",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) informa que debido a una falla electrica de CFE en los pozos de extraccion de la zona norte, el suministro de agua se vera afectado con baja presion o corte total en las colonias Jardines del Moral, Valle de Leon y Panorama. Se estima la recuperacion del servicio en 24 horas.",
+      "titulo": "Fuga de agua en Barrio de San Juan de Dios",
+      "descripcion": "Cuadrillas operativas de SAPAL trabajan en la reparacion urgente de una fuga de agua potable en una linea principal sobre la calle Ignacio Altamirano. Debido a estas labores, se mantendra suspendido el suministro de agua en el Barrio de San Juan de Dios y parte de la zona Centro hasta la noche de hoy. Se recomienda a los vecinos hacer uso racional del agua almacenada.",
       "categoria": "servicios",
       "prioridad": "media",
       "emoji": "💧",
-      "fecha_publicacion": "2026-10-27T10:00:00-06:00",
-      "fecha_vigencia": "2026-10-28T12:00:00-06:00",
-      "ubicacion": "Zona Norte (Jardines del Moral, Valle de Leon, Panorama)",
+      "fecha_publicacion": "2026-10-28T08:30:00-06:00",
+      "fecha_vigencia": "2026-10-28T22:00:00-06:00",
+      "ubicacion": "Calle Ignacio Altamirano, San Juan de Dios",
       "fuente": "SAPAL",
-      "url": "www.sapal.gob.mx/avisos"
+      "url": "https://www.sapal.gob.mx"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Choque multiple en Libramiento Morelos",
-      "descripcion": "Se registra un fuerte accidente que involucra a un transporte de personal y tres vehiculos particulares en el Libramiento Morelos, a la altura del Parque Metropolitano en sentido hacia la salida a Lagos de Moreno. La circulacion se encuentra completamente detenida. Unidades de Proteccion Civil y Cruz Roja laboran en el lugar.",
+      "titulo": "Operativo interinstitucional en Colonia Las Arboledas",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon informa sobre un operativo interinstitucional en curso en la colonia Las Arboledas. Hay cierres intermitentes a la circulacion vehicular en las calles aledanas a la zona del parque principal. Se pide a la ciudadania evitar transitar por el area y permitir el libre paso a las unidades de emergencia.",
       "categoria": "seguridad",
       "prioridad": "alta",
-      "emoji": "🚑",
-      "fecha_publicacion": "2026-10-27T12:45:00-06:00",
-      "fecha_vigencia": "2026-10-27T16:00:00-06:00",
-      "ubicacion": "Libramiento Morelos altura Parque Metropolitano",
-      "fuente": "PC Leon",
-      "url": "twitter.com/PC_Leon"
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-10-28T13:45:00-06:00",
+      "fecha_vigencia": "2026-10-28T19:00:00-06:00",
+      "ubicacion": "Colonia Las Arboledas",
+      "fuente": "Secretaria de Seguridad Publica Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo vial por partido en Estadio Leon",
-      "descripcion": "Con motivo del encuentro de futbol de esta noche, la Secretaria de Seguridad y Transito Municipal implementaran un operativo vial a partir de las 17:00 horas en los alrededores del Estadio Leon. Se esperan cierres preventivos y carga vehicular intensa en Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa. Anticipe sus traslados.",
-      "categoria": "eventos",
+      "titulo": "Bancos de niebla en Salida a Lagos",
+      "descripcion": "Proteccion Civil Municipal alerta a los conductores que transitan por la carretera Leon - Lagos de Moreno sobre la presencia de densos bancos de niebla que reducen drasticamente la visibilidad. La condicion meteorologica afecta principalmente desde el distribuidor vial de la Y hasta el limite estatal. Se exhorta a encender las luces, reducir la velocidad y evitar rebases.",
+      "categoria": "clima",
       "prioridad": "media",
-      "emoji": "⚽",
-      "fecha_publicacion": "2026-10-27T09:30:00-06:00",
-      "fecha_vigencia": "2026-10-27T23:00:00-06:00",
-      "ubicacion": "Estadio Leon y vialidades aledanas",
-      "fuente": "Transito Leon",
-      "url": "twitter.com/TransitoLeon"
+      "emoji": "🌫️",
+      "fecha_publicacion": "2026-10-28T06:00:00-06:00",
+      "fecha_vigencia": "2026-10-28T18:00:00-06:00",
+      "ubicacion": "Carretera Leon - Lagos de Moreno",
+      "fuente": "Proteccion Civil Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Pronostico de lluvias aisladas por la tarde",
-      "descripcion": "Proteccion Civil emite un aviso preventivo por probabilidad de lluvias aisladas y descargas electricas durante la tarde-noche de hoy en la zona urbana de Leon. Se exhorta a los automovilistas a manejar con precaucion, respetar los limites de velocidad y encender sus luces. No se prevén inundaciones mayores, pero se monitorea el Malecón del Río.",
-      "categoria": "clima",
+      "titulo": "Cierres viales por rodada ciclista nocturna",
+      "descripcion": "Con motivo de una Rodada Ciclista tematica, la Direccion de Movilidad anuncia cierres viales dinamicos a partir de las 20:00 horas. El contingente partira del Arco de la Calzada, avanzando por la calle Madero hasta llegar a la Plaza Principal. Habra paso controlado en los cruces transversales. Se aconseja tomar precauciones y anticipar traslados.",
+      "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🌧️",
-      "fecha_publicacion": "2026-10-27T11:20:00-06:00",
-      "fecha_vigencia": "2026-10-27T23:59:00-06:00",
-      "ubicacion": "Toda la zona metropolitana de Leon",
-      "fuente": "Proteccion Civil Municipal",
-      "url": "www.leon.gob.mx/proteccioncivil"
+      "emoji": "🚴",
+      "fecha_publicacion": "2026-10-27T17:00:00-06:00",
+      "fecha_vigencia": "2026-10-28T23:00:00-06:00",
+      "ubicacion": "Ruta: Arco de la Calzada a Plaza Principal",
+      "fuente": "Gobierno Municipal Leon",
+      "url": "https://www.leon.gob.mx"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚦"
+      "emoji": "🚗"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
@@ -84,7 +84,7 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚨"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
