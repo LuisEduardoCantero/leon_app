@@ -1,73 +1,86 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-28T14:24:00-06:00",
-  "total_alertas": 5,
+  "ultima_actualizacion": "2026-10-29T16:38:00-06:00",
+  "total_alertas": 6,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Volcadura en Libramiento Morelos",
-      "descripcion": "Se reporta el cierre parcial de la circulacion en el Blvd. Jose Maria Morelos, a la altura de la colonia El Pelicano, debido a la volcadura de un vehiculo particular. Elementos de Transito Municipal abanderan la zona. Se recomienda utilizar el Blvd. Las Torres como ruta alterna mientras se realizan las maniobras de retiro de la unidad.",
+      "titulo": "Atropellamiento de transeúnte en Las Hilamas",
+      "descripcion": "Una mujer resultó gravemente herida tras ser atropellada por una motocicleta en la colonia Las Hilamas. El conductor de la motocicleta se dio a la fuga, dejando a la víctima y a su mascota, la cual falleció en el lugar. Se pide precaución a los automovilistas y peatones en la zona mientras las autoridades de vialidad realizan los peritajes correspondientes.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-10-28T10:15:00-06:00",
-      "fecha_vigencia": "2026-10-28T16:00:00-06:00",
-      "ubicacion": "Blvd. Jose Maria Morelos, altura El Pelicano",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-10-29T09:30:00-06:00",
+      "fecha_vigencia": "2026-10-29T23:59:00-06:00",
+      "ubicacion": "Colonia Las Hilamas",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/2026/10/29/mujer-queda-grave-tras-ser-atropellada-por-una-moto-en-las-hilamas-muere-su-perro-1860191.html"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Fuga de agua en Barrio de San Juan de Dios",
-      "descripcion": "Cuadrillas operativas de SAPAL trabajan en la reparacion urgente de una fuga de agua potable en una linea principal sobre la calle Ignacio Altamirano. Debido a estas labores, se mantendra suspendido el suministro de agua en el Barrio de San Juan de Dios y parte de la zona Centro hasta la noche de hoy. Se recomienda a los vecinos hacer uso racional del agua almacenada.",
-      "categoria": "servicios",
+      "titulo": "Cierres viales por Caminata del Despertar de las Ánimas",
+      "descripcion": "El Gobierno Municipal informa sobre operativos de seguridad y cierres viales por la tradicional Caminata del Despertar de las Ánimas a realizarse el 1 de noviembre. Los cortes vehiculares iniciarán a las 18:30 horas, afectando la calle Hidalgo, bulevar Adolfo López Mateos, y los cruces de Pedro Moreno y Hermanos Aldama. Se exhorta a los automovilistas a planear rutas alternas.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-10-28T08:30:00-06:00",
-      "fecha_vigencia": "2026-10-28T22:00:00-06:00",
-      "ubicacion": "Calle Ignacio Altamirano, San Juan de Dios",
-      "fuente": "SAPAL",
-      "url": "https://www.sapal.gob.mx"
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-29T12:00:00-06:00",
+      "fecha_vigencia": "2026-11-02T00:00:00-06:00",
+      "ubicacion": "Zona Centro (Calle Hidalgo, Blvd. Adolfo López Mateos)",
+      "fuente": "www.leon.gob.mx",
+      "url": "https://enterate.leon.gob.mx/leon-se-prepara-para-celebrar-el-dia-de-muertos-con-operativos-de-seguridad-y-vigilancia/"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Operativo interinstitucional en Colonia Las Arboledas",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon informa sobre un operativo interinstitucional en curso en la colonia Las Arboledas. Hay cierres intermitentes a la circulacion vehicular en las calles aledanas a la zona del parque principal. Se pide a la ciudadania evitar transitar por el area y permitir el libre paso a las unidades de emergencia.",
+      "titulo": "Incidentes armados durante festejos patronales",
+      "descripcion": "Se reportaron ataques armados en hechos distintos en la ciudad, uno de ellos registrado en el marco de las festividades a San Judas Tadeo. Dos hombres resultaron gravemente heridos. Se recomienda a la ciudadanía mantener la máxima precaución en las concentraciones masivas vinculadas a celebraciones y reportar incidentes al 911.",
       "categoria": "seguridad",
       "prioridad": "alta",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-10-28T13:45:00-06:00",
-      "fecha_vigencia": "2026-10-28T19:00:00-06:00",
-      "ubicacion": "Colonia Las Arboledas",
-      "fuente": "Secretaria de Seguridad Publica Leon",
-      "url": ""
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-10-29T14:00:00-06:00",
+      "fecha_vigencia": "2026-10-30T12:00:00-06:00",
+      "ubicacion": "Distintos puntos de León",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/2026/10/29/balean-a-dos-hombres-en-leon-uno-durante-los-festejos-a-san-judas-tadeo-1860246.html"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Bancos de niebla en Salida a Lagos",
-      "descripcion": "Proteccion Civil Municipal alerta a los conductores que transitan por la carretera Leon - Lagos de Moreno sobre la presencia de densos bancos de niebla que reducen drasticamente la visibilidad. La condicion meteorologica afecta principalmente desde el distribuidor vial de la Y hasta el limite estatal. Se exhorta a encender las luces, reducir la velocidad y evitar rebases.",
-      "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🌫️",
-      "fecha_publicacion": "2026-10-28T06:00:00-06:00",
-      "fecha_vigencia": "2026-10-28T18:00:00-06:00",
-      "ubicacion": "Carretera Leon - Lagos de Moreno",
-      "fuente": "Proteccion Civil Leon",
-      "url": ""
+      "titulo": "Operativo de seguridad por homicidio en San Marcos",
+      "descripcion": "Un ataque armado dejó como saldo a un hombre sin vida en la intersección de las calles Gonzalo Curiel y Fernando Z. Maldonado, en la colonia San Marcos. Los responsables huyeron en motocicleta. Se mantiene presencia policial en la zona para las investigaciones ministeriales, por lo que puede haber acordonamientos y tránsito lento.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-10-28T23:00:00-06:00",
+      "fecha_vigencia": "2026-10-30T00:00:00-06:00",
+      "ubicacion": "Calle Gonzalo Curiel esq. Fernando Z. Maldonado, Col. San Marcos",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/2026/10/28/hombre-murio-atacado-a-balazos-en-colonia-san-marcos-leon-1859797.html"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierres viales por rodada ciclista nocturna",
-      "descripcion": "Con motivo de una Rodada Ciclista tematica, la Direccion de Movilidad anuncia cierres viales dinamicos a partir de las 20:00 horas. El contingente partira del Arco de la Calzada, avanzando por la calle Madero hasta llegar a la Plaza Principal. Habra paso controlado en los cruces transversales. Se aconseja tomar precauciones y anticipar traslados.",
+      "titulo": "Congestionamiento previsto por temporada Halloween Zoo",
+      "descripcion": "Se prevé aumento de tráfico y alta afluencia peatonal en las inmediaciones del Recinto Ferial debido a las últimas fechas del evento Halloween Zoo, que se llevará a cabo del 29 al 31 de octubre. Se recomienda a la ciudadanía tomar previsiones en sus tiempos de traslado si circula por el Bulevar Adolfo López Mateos y zonas aledañas.",
       "categoria": "eventos",
       "prioridad": "baja",
-      "emoji": "🚴",
-      "fecha_publicacion": "2026-10-27T17:00:00-06:00",
-      "fecha_vigencia": "2026-10-28T23:00:00-06:00",
-      "ubicacion": "Ruta: Arco de la Calzada a Plaza Principal",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🎃",
+      "fecha_publicacion": "2026-10-29T08:00:00-06:00",
+      "fecha_vigencia": "2026-11-01T00:00:00-06:00",
+      "ubicacion": "Recinto Ferial (Instalaciones de la Feria de León)",
+      "fuente": "www.leon.gob.mx",
+      "url": "https://enterate.leon.gob.mx/un-octubre-de-grandes-conciertos-adrenalina-y-tradicion-en-leon/"
+    },
+    {
+      "id": "ALERTA_006",
+      "titulo": "Cierre preventivo tras incendio en Industrial Juárez",
+      "descripcion": "Autoridades mantienen seguimiento y revisión tras el voraz incendio que consumió una bodega de cartón que albergaba recipientes inflamables en la calle Juárez. El incidente dejó una persona fallecida y tres con heridas de gravedad. Se pide evitar la zona debido a las labores de peritaje y remoción de escombros vigentes.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🔥",
+      "fecha_publicacion": "2026-10-26T14:00:00-06:00",
+      "fecha_vigencia": "2026-10-30T00:00:00-06:00",
+      "ubicacion": "Calle Juárez, Colonia Industrial Juárez",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/2026/10/26/hallan-750-recipientes-inflamables-en-bodega-incendiada-en-leon-aun-indagan-si-tenia-permisos-1859229.html"
     }
   ],
   "categorias": {
@@ -84,17 +97,17 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🚔"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
