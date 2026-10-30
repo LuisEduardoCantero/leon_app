@@ -1,86 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-29T16:38:00-06:00",
-  "total_alertas": 6,
+  "ultima_actualizacion": "2026-10-30T11:43:00-06:00",
+  "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Atropellamiento de transeúnte en Las Hilamas",
-      "descripcion": "Una mujer resultó gravemente herida tras ser atropellada por una motocicleta en la colonia Las Hilamas. El conductor de la motocicleta se dio a la fuga, dejando a la víctima y a su mascota, la cual falleció en el lugar. Se pide precaución a los automovilistas y peatones en la zona mientras las autoridades de vialidad realizan los peritajes correspondientes.",
+      "titulo": "Accidente fatal de motociclista en Piletas",
+      "descripcion": "Se reporta un grave accidente vial en el Bulevar Juan Alonso de Torres, a la altura de la colonia Piletas, donde un motociclista perdio la vida tras derrapar. Su acompanante resulto herida y fue trasladada para recibir atencion medica. Existen reducciones de carriles de manera intermitente mientras se realizan labores periciales. Se recomienda encarecidamente utilizar el Bulevar San Juan Bosco como via alterna y transitar con precaucion en la zona de la CEPOL Poniente.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-10-29T09:30:00-06:00",
-      "fecha_vigencia": "2026-10-29T23:59:00-06:00",
-      "ubicacion": "Colonia Las Hilamas",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/29/mujer-queda-grave-tras-ser-atropellada-por-una-moto-en-las-hilamas-muere-su-perro-1860191.html"
+      "emoji": "🏍️",
+      "fecha_publicacion": "2026-10-29T06:00:00-06:00",
+      "fecha_vigencia": "2026-10-30T14:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres, altura colonia Piletas",
+      "fuente": "Noticias Vespertinas / Transito Municipal",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/accidente-en-leon-motociclista-muere-en-bulevar-juan-alonso-de-torres-29309891"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Cierres viales por Caminata del Despertar de las Ánimas",
-      "descripcion": "El Gobierno Municipal informa sobre operativos de seguridad y cierres viales por la tradicional Caminata del Despertar de las Ánimas a realizarse el 1 de noviembre. Los cortes vehiculares iniciarán a las 18:30 horas, afectando la calle Hidalgo, bulevar Adolfo López Mateos, y los cruces de Pedro Moreno y Hermanos Aldama. Se exhorta a los automovilistas a planear rutas alternas.",
+      "titulo": "Caos vial por protesta de transportistas",
+      "descripcion": "Una intensa movilizacion de transportistas en la carretera Leon-Silao esta generando un fuerte caos vial. Se reportan filas de vehiculos que alcanzan hasta los 2 kilometros de congestionamiento intermitente, afectando la entrada y salida del municipio. La situacion impacta principalmente a los automovilistas y transporte de personal en horas pico. Se pide a la ciudadania prever tiempos de traslado considerables o usar el Eje Metropolitano como ruta alternativa.",
       "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-29T12:00:00-06:00",
-      "fecha_vigencia": "2026-11-02T00:00:00-06:00",
-      "ubicacion": "Zona Centro (Calle Hidalgo, Blvd. Adolfo López Mateos)",
-      "fuente": "www.leon.gob.mx",
-      "url": "https://enterate.leon.gob.mx/leon-se-prepara-para-celebrar-el-dia-de-muertos-con-operativos-de-seguridad-y-vigilancia/"
+      "emoji": "🚛",
+      "fecha_publicacion": "2026-10-27T09:00:00-06:00",
+      "fecha_vigencia": "2026-10-30T18:00:00-06:00",
+      "ubicacion": "Carretera Federal 45, tramo Leon-Silao",
+      "fuente": "Telediario / Direccion de Movilidad",
+      "url": "https://www.telediario.mx/comunidad/movilizacion-de-transportistas-en-guanajuato-causa-caos-vial-en-leon"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Incidentes armados durante festejos patronales",
-      "descripcion": "Se reportaron ataques armados en hechos distintos en la ciudad, uno de ellos registrado en el marco de las festividades a San Judas Tadeo. Dos hombres resultaron gravemente heridos. Se recomienda a la ciudadanía mantener la máxima precaución en las concentraciones masivas vinculadas a celebraciones y reportar incidentes al 911.",
+      "titulo": "Operativo por hallazgo en Distribuidor Vial Juan Pablo II",
+      "descripcion": "Autoridades de Seguridad Publica y peritos mantienen presencia en las inmediaciones del Distribuidor Vial Juan Pablo II tras el hallazgo de una persona sin vida, presumiblemente a causa de un atropellamiento. El acordonamiento abarca carriles laterales, lo que podria alentar el flujo continuo de vehiculos en este paso a desnivel. Se exhorta a los automovilistas a no detenerse a observar, seguir indicaciones de los agentes viales y respetar los limites de velocidad.",
       "categoria": "seguridad",
       "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-10-29T14:00:00-06:00",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-10-27T10:30:00-06:00",
       "fecha_vigencia": "2026-10-30T12:00:00-06:00",
-      "ubicacion": "Distintos puntos de León",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/29/balean-a-dos-hombres-en-leon-uno-durante-los-festejos-a-san-judas-tadeo-1860246.html"
+      "ubicacion": "Distribuidor Vial Juan Pablo II",
+      "fuente": "Milenio / Secretaria de Seguridad",
+      "url": "https://www.milenio.com/policia/leon-hombre-sin-vida-es-encontrado-en-distribuidor-vial-juan-pablo-ii"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Operativo de seguridad por homicidio en San Marcos",
-      "descripcion": "Un ataque armado dejó como saldo a un hombre sin vida en la intersección de las calles Gonzalo Curiel y Fernando Z. Maldonado, en la colonia San Marcos. Los responsables huyeron en motocicleta. Se mantiene presencia policial en la zona para las investigaciones ministeriales, por lo que puede haber acordonamientos y tránsito lento.",
+      "titulo": "Rescate vehicular en la Presa El Palote",
+      "descripcion": "Cuerpos de emergencia y personal de Proteccion Civil concluyeron las maniobras de rescate luego de que un vehiculo particular cayera al interior de la Presa El Palote, en el Parque Metropolitano. La conductora sufrio una emergencia medica y fue rescatada oportunamente, encontrandose estable. Aunque el vehiculo fue extraido, se mantienen acordonamientos precautorios y labores de revision en la ribera del parque para garantizar la seguridad de los asistentes y deportistas.",
       "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-10-28T23:00:00-06:00",
-      "fecha_vigencia": "2026-10-30T00:00:00-06:00",
-      "ubicacion": "Calle Gonzalo Curiel esq. Fernando Z. Maldonado, Col. San Marcos",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/28/hombre-murio-atacado-a-balazos-en-colonia-san-marcos-leon-1859797.html"
+      "prioridad": "media",
+      "emoji": "🛟",
+      "fecha_publicacion": "2026-10-28T16:15:00-06:00",
+      "fecha_vigencia": "2026-10-30T20:00:00-06:00",
+      "ubicacion": "Presa El Palote, Parque Metropolitano de Leon",
+      "fuente": "TV Azteca / Proteccion Civil Leon",
+      "url": "https://www.tvazteca.com/aztecanoticias/vaquero-pescador-reynaldo-crespo-rescata-a-mujer-accidente-vehicular-en-la-presa-el-palote-leon-guanajuato/"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Congestionamiento previsto por temporada Halloween Zoo",
-      "descripcion": "Se prevé aumento de tráfico y alta afluencia peatonal en las inmediaciones del Recinto Ferial debido a las últimas fechas del evento Halloween Zoo, que se llevará a cabo del 29 al 31 de octubre. Se recomienda a la ciudadanía tomar previsiones en sus tiempos de traslado si circula por el Bulevar Adolfo López Mateos y zonas aledañas.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🎃",
-      "fecha_publicacion": "2026-10-29T08:00:00-06:00",
-      "fecha_vigencia": "2026-11-01T00:00:00-06:00",
-      "ubicacion": "Recinto Ferial (Instalaciones de la Feria de León)",
-      "fuente": "www.leon.gob.mx",
-      "url": "https://enterate.leon.gob.mx/un-octubre-de-grandes-conciertos-adrenalina-y-tradicion-en-leon/"
-    },
-    {
-      "id": "ALERTA_006",
-      "titulo": "Cierre preventivo tras incendio en Industrial Juárez",
-      "descripcion": "Autoridades mantienen seguimiento y revisión tras el voraz incendio que consumió una bodega de cartón que albergaba recipientes inflamables en la calle Juárez. El incidente dejó una persona fallecida y tres con heridas de gravedad. Se pide evitar la zona debido a las labores de peritaje y remoción de escombros vigentes.",
+      "titulo": "Obras de pavimentacion en Piletas IV",
+      "descripcion": "El Fideicomiso de Obras por Cooperacion (FIDOC) de Leon inicio los trabajos y la entrega de pavimentacion en tres calles pertenecientes a la colonia Piletas IV. Durante los proximos dias se mantendran cierres viales parciales para el fraguado de concreto y el acceso a maquinaria pesada en las vialidades aledanas. Se recomienda a los vecinos y transeuntes prever demoras, evitar estacionarse en las zonas senalizadas y tomar precauciones por el polvo suspendido.",
       "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "🔥",
-      "fecha_publicacion": "2026-10-26T14:00:00-06:00",
-      "fecha_vigencia": "2026-10-30T00:00:00-06:00",
-      "ubicacion": "Calle Juárez, Colonia Industrial Juárez",
-      "fuente": "AM Leon",
-      "url": "https://www.am.com.mx/leon/2026/10/26/hallan-750-recipientes-inflamables-en-bodega-incendiada-en-leon-aun-indagan-si-tenia-permisos-1859229.html"
+      "prioridad": "baja",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-10-29T11:00:00-06:00",
+      "fecha_vigencia": "2026-11-02T18:00:00-06:00",
+      "ubicacion": "Colonia Piletas IV",
+      "fuente": "FIDOC / Gobierno Municipal",
+      "url": "https://fidoc.leon.gob.mx/"
     }
   ],
   "categorias": {
@@ -97,7 +84,7 @@
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚔"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
@@ -107,7 +94,7 @@
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎟️"
+      "emoji": "🏟️"
     }
   },
   "prioridades": {
