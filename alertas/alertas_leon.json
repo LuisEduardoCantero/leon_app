@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-10-30T11:43:00-06:00",
+  "ultima_actualizacion": "2026-11-02T13:56:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Accidente fatal de motociclista en Piletas",
-      "descripcion": "Se reporta un grave accidente vial en el Bulevar Juan Alonso de Torres, a la altura de la colonia Piletas, donde un motociclista perdio la vida tras derrapar. Su acompanante resulto herida y fue trasladada para recibir atencion medica. Existen reducciones de carriles de manera intermitente mientras se realizan labores periciales. Se recomienda encarecidamente utilizar el Bulevar San Juan Bosco como via alterna y transitar con precaucion en la zona de la CEPOL Poniente.",
+      "titulo": "Choque grave en carretera León-Los Ramírez",
+      "descripcion": "Se registró un fuerte accidente donde una camioneta se estrelló contra un muro de contención en el kilómetro uno de la carretera León-Los Ramírez, cerca del entronque con la carretera León-Cuerámaro. Un pasajero resultó gravemente herido.\n\nAunque el vehículo ya fue retirado y el muro reacomodado, se recomienda a los automovilistas circular con extrema precaución por la zona debido a los trabajos recientes y posibles afectaciones temporales en la vialidad.",
       "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "🏍️",
-      "fecha_publicacion": "2026-10-29T06:00:00-06:00",
-      "fecha_vigencia": "2026-10-30T14:00:00-06:00",
-      "ubicacion": "Blvd. Juan Alonso de Torres, altura colonia Piletas",
-      "fuente": "Noticias Vespertinas / Transito Municipal",
-      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/accidente-en-leon-motociclista-muere-en-bulevar-juan-alonso-de-torres-29309891"
+      "emoji": "⚠️",
+      "fecha_publicacion": "2026-11-02T11:00:00-06:00",
+      "fecha_vigencia": "2026-11-03T11:00:00-06:00",
+      "ubicacion": "Carretera León-Los Ramírez km 1, entronque León-Cuerámaro",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/2026/11/02/choque-en-carretera-leon-los-ramirez-deja-un-herido-grave-1861769.html"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Caos vial por protesta de transportistas",
-      "descripcion": "Una intensa movilizacion de transportistas en la carretera Leon-Silao esta generando un fuerte caos vial. Se reportan filas de vehiculos que alcanzan hasta los 2 kilometros de congestionamiento intermitente, afectando la entrada y salida del municipio. La situacion impacta principalmente a los automovilistas y transporte de personal en horas pico. Se pide a la ciudadania prever tiempos de traslado considerables o usar el Eje Metropolitano como ruta alternativa.",
+      "titulo": "Volcadura en Distribuidor Vial Juan Pablo II",
+      "descripcion": "El conductor de un vehículo perdió el control por presunto exceso de velocidad y terminó volcando sobre la cinta asfáltica en el Distribuidor Vial Juan Pablo II. El vehículo circulaba desde el libramiento José María Morelos hacia el bulevar Juan José Torres Landa.\n\nDebido a las maniobras de auxilio y las labores para retirar la camioneta siniestrada, el acceso hacia el bulevar Torres Landa ha experimentado cierres y flujo lento. Se exhorta a los automovilistas a tomar vías alternas.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚛",
-      "fecha_publicacion": "2026-10-27T09:00:00-06:00",
-      "fecha_vigencia": "2026-10-30T18:00:00-06:00",
-      "ubicacion": "Carretera Federal 45, tramo Leon-Silao",
-      "fuente": "Telediario / Direccion de Movilidad",
-      "url": "https://www.telediario.mx/comunidad/movilizacion-de-transportistas-en-guanajuato-causa-caos-vial-en-leon"
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-11-02T08:30:00-06:00",
+      "fecha_vigencia": "2026-11-02T18:00:00-06:00",
+      "ubicacion": "Distribuidor Vial Juan Pablo II, dirección Blvd. Torres Landa",
+      "fuente": "Noticias Vespertinas",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/accidentes-viales-en-leon-dejan-un-fallecido-y-varios-heridos-graves-28925138"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Operativo por hallazgo en Distribuidor Vial Juan Pablo II",
-      "descripcion": "Autoridades de Seguridad Publica y peritos mantienen presencia en las inmediaciones del Distribuidor Vial Juan Pablo II tras el hallazgo de una persona sin vida, presumiblemente a causa de un atropellamiento. El acordonamiento abarca carriles laterales, lo que podria alentar el flujo continuo de vehiculos en este paso a desnivel. Se exhorta a los automovilistas a no detenerse a observar, seguir indicaciones de los agentes viales y respetar los limites de velocidad.",
-      "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-10-27T10:30:00-06:00",
-      "fecha_vigencia": "2026-10-30T12:00:00-06:00",
-      "ubicacion": "Distribuidor Vial Juan Pablo II",
-      "fuente": "Milenio / Secretaria de Seguridad",
-      "url": "https://www.milenio.com/policia/leon-hombre-sin-vida-es-encontrado-en-distribuidor-vial-juan-pablo-ii"
+      "titulo": "Ajustes de transporte público por Día de Muertos",
+      "descripcion": "Con motivo de las festividades del Día de Muertos y la alta afluencia de personas en los panteones municipales, la Dirección de Movilidad del Municipio informa sobre ajustes operativos y de rutas del transporte público.\n\nSe recomienda a todos los usuarios planificar sus traslados con anticipación y prever demoras en las zonas aledañas a los principales cementerios de la ciudad, ya que los operativos estarán vigentes hasta la medianoche del 2 de noviembre.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🚌",
+      "fecha_publicacion": "2026-10-31T09:00:00-06:00",
+      "fecha_vigencia": "2026-11-02T23:59:00-06:00",
+      "ubicacion": "Zonas aledañas a panteones municipales, León",
+      "fuente": "Gobierno Municipal de León",
+      "url": "https://enterate.leon.gob.mx/por-festividad-de-dia-de-muertos-habra-ajustes-en-las-rutas-del-transporte/"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Rescate vehicular en la Presa El Palote",
-      "descripcion": "Cuerpos de emergencia y personal de Proteccion Civil concluyeron las maniobras de rescate luego de que un vehiculo particular cayera al interior de la Presa El Palote, en el Parque Metropolitano. La conductora sufrio una emergencia medica y fue rescatada oportunamente, encontrandose estable. Aunque el vehiculo fue extraido, se mantienen acordonamientos precautorios y labores de revision en la ribera del parque para garantizar la seguridad de los asistentes y deportistas.",
-      "categoria": "seguridad",
-      "prioridad": "media",
-      "emoji": "🛟",
-      "fecha_publicacion": "2026-10-28T16:15:00-06:00",
-      "fecha_vigencia": "2026-10-30T20:00:00-06:00",
-      "ubicacion": "Presa El Palote, Parque Metropolitano de Leon",
-      "fuente": "TV Azteca / Proteccion Civil Leon",
-      "url": "https://www.tvazteca.com/aztecanoticias/vaquero-pescador-reynaldo-crespo-rescata-a-mujer-accidente-vehicular-en-la-presa-el-palote-leon-guanajuato/"
+      "titulo": "Reprogramación de concierto de Romeo Santos",
+      "descripcion": "El evento musical que reuniría a los artistas Romeo Santos y Prince Royce en la ciudad de León ha sido pospuesto oficialmente, lo cual afecta la agenda de espectáculos proyectada para esta semana.\n\nSe informa a los asistentes y al público en general que los organizadores darán a conocer la nueva fecha próximamente, por lo que el operativo vial y de seguridad previsto para las inmediaciones del recinto de la feria ha sido suspendido.",
+      "categoria": "eventos",
+      "prioridad": "baja",
+      "emoji": "🎤",
+      "fecha_publicacion": "2026-11-01T14:00:00-06:00",
+      "fecha_vigencia": "2026-11-03T23:59:00-06:00",
+      "ubicacion": "Instalaciones de la Feria",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/espectaculos/2026/11/01/romeo-santos-y-prince-royce-posponen-su-concierto-en-leon-ya-tienen-nueva-fecha-1861405.html"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Obras de pavimentacion en Piletas IV",
-      "descripcion": "El Fideicomiso de Obras por Cooperacion (FIDOC) de Leon inicio los trabajos y la entrega de pavimentacion en tres calles pertenecientes a la colonia Piletas IV. Durante los proximos dias se mantendran cierres viales parciales para el fraguado de concreto y el acceso a maquinaria pesada en las vialidades aledanas. Se recomienda a los vecinos y transeuntes prever demoras, evitar estacionarse en las zonas senalizadas y tomar precauciones por el polvo suspendido.",
-      "categoria": "servicios",
-      "prioridad": "baja",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-10-29T11:00:00-06:00",
-      "fecha_vigencia": "2026-11-02T18:00:00-06:00",
-      "ubicacion": "Colonia Piletas IV",
-      "fuente": "FIDOC / Gobierno Municipal",
-      "url": "https://fidoc.leon.gob.mx/"
+      "titulo": "Operativos preventivos y aseguramientos de seguridad",
+      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana de León ha intensificado sus patrullajes preventivos en toda la ciudad, logrando en los últimos días el aseguramiento promedio de más de mil 900 dosis de droga diarias.\n\nEstos operativos interinstitucionales continuarán vigentes en diversas colonias de atención prioritaria. Se pide a la ciudadanía colaborar y reportar cualquier situación de riesgo o actividad sospechosa a la línea 911.",
+      "categoria": "seguridad",
+      "prioridad": "media",
+      "emoji": "🚓",
+      "fecha_publicacion": "2026-11-01T10:30:00-06:00",
+      "fecha_vigencia": "2026-11-05T23:59:00-06:00",
+      "ubicacion": "Múltiples zonas de atención prioritaria, León",
+      "fuente": "Gobierno Municipal de León",
+      "url": "https://enterate.leon.gob.mx/"
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🛡️"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛈️"
+      "emoji": "🌤️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🏟️"
+      "emoji": "🎟️"
     }
   },
   "prioridades": {
