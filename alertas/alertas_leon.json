@@ -1,73 +1,73 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-11-04T14:55:00-06:00",
+  "ultima_actualizacion": "2026-11-06T11:56:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
-      "id": "ALERTA_101",
-      "titulo": "Volcadura de tráiler en Blvd. Adolfo López Mateos",
-      "descripcion": "Se registra el cierre total de circulación en el Blvd. Adolfo López Mateos, dirección sur a norte, a la altura de Centro Max, debido a la volcadura de un tráiler que transportaba material de construcción. \n\nElementos de Tránsito Municipal y Protección Civil se encuentran en el lugar realizando maniobras de retiro. Se recomienda a los conductores utilizar el Blvd. Mariano Escobedo o Blvd. Francisco Villa como vías alternas para evitar congestionamientos prolongados.",
+      "id": "ALERTA_001",
+      "titulo": "Cierre por pavimentacion en Malecon del Rio",
+      "descripcion": "La Direccion de Obra Publica informa el cierre parcial de carriles inferiores en el Malecon del Rio, en el tramo comprendido entre Blvd. Vicente Valtierra y Blvd. Adolfo Lopez Mateos. Los cierres se deben a trabajos de rehabilitacion profunda de pavimento.\n\nSe recomienda a los conductores anticipar sus traslados y utilizar vias alternas como Blvd. Francisco Villa o Blvd. Hilario Medina durante el periodo de las obras para evitar congestionamientos.",
       "categoria": "trafico",
-      "prioridad": "alta",
-      "emoji": "⚠️",
-      "fecha_publicacion": "2026-11-04T11:20:00-06:00",
-      "fecha_vigencia": "2026-11-04T19:00:00-06:00",
-      "ubicacion": "Blvd. Adolfo López Mateos esq. Blvd. Paseo de los Jerez (Zona Centro Max)",
-      "fuente": "Transito Municipal Leon",
-      "url": ""
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-11-05T08:00:00-06:00",
+      "fecha_vigencia": "2026-11-08T18:00:00-06:00",
+      "ubicacion": "Malecon del Rio, tramo Valtierra a Lopez Mateos",
+      "fuente": "Obra Publica Leon",
+      "url": "https://www.leon.gob.mx/obrapublica"
     },
     {
-      "id": "ALERTA_102",
-      "titulo": "Corte temporal de suministro de agua en Zona Norte",
-      "descripcion": "El Sistema de Agua Potable y Alcantarillado de León (SAPAL) informa la suspensión temporal del servicio de agua potable en las colonias Valle del Campestre, Bosques del Refugio y Balcones del Campestre.\n\nEl corte se debe a trabajos urgentes de mantenimiento preventivo y reparación de válvulas en la red principal de distribución. Se prevé que el servicio se restablezca paulatinamente durante la madrugada del jueves. Se exhorta a la población a hacer un uso racional del agua almacenada en tinacos y cisternas.",
+      "id": "ALERTA_002",
+      "titulo": "Corte de agua en colonias del norte",
+      "descripcion": "SAPAL informa la suspension temporal del servicio de agua potable debido a la reparacion urgente de una valvula en la linea principal de distribucion. Las colonias afectadas incluyen Valle de Leon, Los Naranjos, El Cortijo y zonas aledanas.\n\nLas cuadrillas operativas ya se encuentran trabajando en el lugar. Se estima que el servicio se restablecera paulatinamente durante la madrugada y manana del 7 de noviembre. Se pide a los vecinos hacer uso racional del agua almacenada.",
       "categoria": "servicios",
-      "prioridad": "media",
+      "prioridad": "alta",
       "emoji": "💧",
-      "fecha_publicacion": "2026-11-04T09:00:00-06:00",
-      "fecha_vigencia": "2026-11-05T06:00:00-06:00",
-      "ubicacion": "Zona Norte (Valle del Campestre, Bosques del Refugio, Balcones del Campestre)",
+      "fecha_publicacion": "2026-11-06T09:15:00-06:00",
+      "fecha_vigencia": "2026-11-07T06:00:00-06:00",
+      "ubicacion": "Valle de Leon, Los Naranjos, El Cortijo",
       "fuente": "SAPAL Leon",
-      "url": "www.sapal.gob.mx"
+      "url": "https://www.sapal.gob.mx"
     },
     {
-      "id": "ALERTA_103",
-      "titulo": "Alerta por marcado descenso de temperatura",
-      "descripcion": "Protección Civil Municipal emite una alerta preventiva debido al ingreso del nuevo frente frío, el cual provocará temperaturas mínimas de hasta 5°C durante la madrugada y primeras horas de la mañana en León.\n\nLas zonas con mayor afectación por las bajas temperaturas incluyen Los Castillos, Alfaro, San Juan de Abajo y comunidades rurales. Se recomienda a la ciudadanía abrigarse en capas, proteger a menores y adultos mayores, y evitar el uso de anafres o fogatas en espacios cerrados para prevenir intoxicaciones por monóxido de carbono.",
+      "id": "ALERTA_003",
+      "titulo": "Arbol caido y trafico lento en Blvd. Aeropuerto",
+      "descripcion": "Elementos de Proteccion Civil y Bomberos trabajan en el seccionamiento y retiro de un arbol de gran tamano que cayo sobre los carriles laterales del Blvd. Aeropuerto, a la altura de la zona de outlets, provocado por las fuertes rachas de viento registradas esta manana.\n\nActualmente hay un bloqueo parcial que genera trafico muy lento en direccion al municipio de Silao. Se pide a los automovilistas manejar con precaucion y atender las indicaciones de Policia Vial.",
       "categoria": "clima",
-      "prioridad": "media",
-      "emoji": "🥶",
-      "fecha_publicacion": "2026-11-03T18:45:00-06:00",
-      "fecha_vigencia": "2026-11-06T10:00:00-06:00",
-      "ubicacion": "Zona urbana y rural de Leon (Especialmente Los Castillos y Alfaro)",
+      "prioridad": "alta",
+      "emoji": "🌬️",
+      "fecha_publicacion": "2026-11-06T10:30:00-06:00",
+      "fecha_vigencia": "2026-11-06T15:00:00-06:00",
+      "ubicacion": "Blvd. Aeropuerto (Altura Outlets)",
       "fuente": "Proteccion Civil Leon",
-      "url": ""
+      "url": "https://twitter.com/PC_Leon"
     },
     {
-      "id": "ALERTA_104",
-      "titulo": "Cierres viales en Zona Centro por retiro de altares",
-      "descripcion": "La Dirección de Movilidad informa que se realizarán cortes intermitentes a la circulación en las calles del primer cuadro de la ciudad, afectando principalmente la calle Madero y Pedro Moreno.\n\nEl motivo de los cierres es el desmontaje y limpieza de los tapetes de aserrín y altares monumentales instalados por las recientes festividades de Día de Muertos y el Festival de la Muerte. Se pide a los automovilistas circular con precaución y respetar las indicaciones de los agentes de tránsito en la zona.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "💀",
-      "fecha_publicacion": "2026-11-03T20:15:00-06:00",
-      "fecha_vigencia": "2026-11-04T18:00:00-06:00",
-      "ubicacion": "Centro Historico (Plaza Principal, Calle Madero, Calle Pedro Moreno)",
-      "fuente": "Gobierno Municipal Leon",
-      "url": "www.leon.gob.mx"
-    },
-    {
-      "id": "ALERTA_105",
-      "titulo": "Operativo de seguridad y acordonamiento en El Coecillo",
-      "descripcion": "La Secretaría de Seguridad, Prevención y Protección Ciudadana mantiene un fuerte operativo en las inmediaciones del Barrio del Coecillo, derivado de una intervención policial y el aseguramiento de un inmueble.\n\nActualmente, se encuentran acordonadas la calle Acapulco y su intersección con Héroes de la Independencia, restringiendo el paso vehicular y peatonal. Se solicita a la ciudadanía evitar la zona mientras peritos y autoridades competentes concluyen con las diligencias correspondientes.",
+      "id": "ALERTA_004",
+      "titulo": "Fuerte operativo en Brisas del Campestre",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon mantiene un despliegue operativo en la colonia Brisas del Campestre tras recibir multiples reportes al 911 sobre detonaciones de arma de fuego en la via publica.\n\nEn la zona se mantiene presencia coordinada de la Policia Municipal, Fuerzas de Seguridad Publica del Estado (FSPE) y Guardia Nacional realizando patrullajes de busqueda. Se sugiere a los ciudadanos evitar transitar por la zona mientras concluyen las diligencias.",
       "categoria": "seguridad",
       "prioridad": "alta",
       "emoji": "🚨",
-      "fecha_publicacion": "2026-11-04T13:30:00-06:00",
-      "fecha_vigencia": "2026-11-05T12:00:00-06:00",
-      "ubicacion": "Barrio del Coecillo (Calles Acapulco y Héroes de la Independencia)",
-      "fuente": "SSPPC Leon",
+      "fecha_publicacion": "2026-11-05T22:45:00-06:00",
+      "fecha_vigencia": "2026-11-06T14:00:00-06:00",
+      "ubicacion": "Colonia Brisas del Campestre",
+      "fuente": "SSP Leon",
       "url": ""
+    },
+    {
+      "id": "ALERTA_005",
+      "titulo": "Congestionamiento vial por evento en Poliforum",
+      "descripcion": "Debido a la inauguracion de una exposicion industrial de gran formato en Poliforum Leon, se registra trafico denso y congestionamiento en los cruces del Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa.\n\nLa Policia Vial ha implementado un operativo de control de semaforos para agilizar el ingreso a los estacionamientos del recinto. Se recomienda a la ciudadania que no asista al evento utilizar vias alternas como Blvd. La Luz o Blvd. Mariano Escobedo.",
+      "categoria": "eventos",
+      "prioridad": "media",
+      "emoji": "🎫",
+      "fecha_publicacion": "2026-11-06T08:30:00-06:00",
+      "fecha_vigencia": "2026-11-06T20:00:00-06:00",
+      "ubicacion": "Poliforum Leon (Blvd. Lopez Mateos y Francisco Villa)",
+      "fuente": "Transito Municipal Leon",
+      "url": "https://twitter.com/TransitoLeon"
     }
   ],
   "categorias": {
@@ -79,22 +79,22 @@
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "💧"
+      "emoji": "🔧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚓"
+      "emoji": "🚔"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": "⛅"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎉"
+      "emoji": "🎪"
     }
   },
   "prioridades": {
