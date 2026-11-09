@@ -1,100 +1,100 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-11-06T11:56:00-06:00",
+  "ultima_actualizacion": "2026-11-09T11:11:00-06:00",
   "total_alertas": 5,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Cierre por pavimentacion en Malecon del Rio",
-      "descripcion": "La Direccion de Obra Publica informa el cierre parcial de carriles inferiores en el Malecon del Rio, en el tramo comprendido entre Blvd. Vicente Valtierra y Blvd. Adolfo Lopez Mateos. Los cierres se deben a trabajos de rehabilitacion profunda de pavimento.\n\nSe recomienda a los conductores anticipar sus traslados y utilizar vias alternas como Blvd. Francisco Villa o Blvd. Hilario Medina durante el periodo de las obras para evitar congestionamientos.",
+      "titulo": "Choque múltiple en Bulevar Aeropuerto (Leche León)",
+      "descripcion": "Un fuerte accidente que involucró a varios vehículos se registró esta mañana en el Bulevar Aeropuerto, a la altura de la empresa Leche León, lo que ha colapsado la circulación en la salida a Silao.\n\nAutoridades de vialidad solicitan a los conductores extremar precauciones, ceder el paso a equipos de emergencia y utilizar vías alternas como el Eje Metropolitano.",
       "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-11-05T08:00:00-06:00",
-      "fecha_vigencia": "2026-11-08T18:00:00-06:00",
-      "ubicacion": "Malecon del Rio, tramo Valtierra a Lopez Mateos",
-      "fuente": "Obra Publica Leon",
-      "url": "https://www.leon.gob.mx/obrapublica"
+      "prioridad": "alta",
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-11-09T09:24:00-06:00",
+      "fecha_vigencia": "2026-11-09T14:00:00-06:00",
+      "ubicacion": "Bulevar Aeropuerto a la altura de Leche León, salida a Silao",
+      "fuente": "@TransitoLeon",
+      "url": "https://lasillarota.com/guanajuato/local/2026/11/9/accidente-por-leche-leon-colapsas-la-salida-de-leon-a-silao-536589.html"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Corte de agua en colonias del norte",
-      "descripcion": "SAPAL informa la suspension temporal del servicio de agua potable debido a la reparacion urgente de una valvula en la linea principal de distribucion. Las colonias afectadas incluyen Valle de Leon, Los Naranjos, El Cortijo y zonas aledanas.\n\nLas cuadrillas operativas ya se encuentran trabajando en el lugar. Se estima que el servicio se restablecera paulatinamente durante la madrugada y manana del 7 de noviembre. Se pide a los vecinos hacer uso racional del agua almacenada.",
-      "categoria": "servicios",
+      "titulo": "Cierre de vialidad por accidente en carril del SIT",
+      "descripcion": "Se registra el cierre de circulación derivado del atropellamiento fatal de un ciclista en el carril exclusivo del Sistema Integrado de Transporte (SIT). La SSPPC ha establecido un cordón de seguridad en la zona.\n\nSe recomienda evitar el tránsito por los carriles aledaños y tomar rutas alternas, como el Eje Metropolitano o la Autopista León-Aguascalientes, mientras laboran los peritos de la fiscalía.",
+      "categoria": "trafico",
       "prioridad": "alta",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-11-06T09:15:00-06:00",
-      "fecha_vigencia": "2026-11-07T06:00:00-06:00",
-      "ubicacion": "Valle de Leon, Los Naranjos, El Cortijo",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx"
+      "emoji": "🚲",
+      "fecha_publicacion": "2026-11-09T08:15:00-06:00",
+      "fecha_vigencia": "2026-11-09T13:30:00-06:00",
+      "ubicacion": "Carril confinado del SIT",
+      "fuente": "SSPPC León",
+      "url": "https://oem.com.mx/noticiasvespertinas/policiaca/muere-ciclista-en-leon-tras-ser-atropellado-en-carril-del-sit-33042232"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Arbol caido y trafico lento en Blvd. Aeropuerto",
-      "descripcion": "Elementos de Proteccion Civil y Bomberos trabajan en el seccionamiento y retiro de un arbol de gran tamano que cayo sobre los carriles laterales del Blvd. Aeropuerto, a la altura de la zona de outlets, provocado por las fuertes rachas de viento registradas esta manana.\n\nActualmente hay un bloqueo parcial que genera trafico muy lento en direccion al municipio de Silao. Se pide a los automovilistas manejar con precaucion y atender las indicaciones de Policia Vial.",
-      "categoria": "clima",
+      "titulo": "Fuerte incendio de recicladora en Blvd. Hermanos Aldama",
+      "descripcion": "Elementos de Protección Civil y Bomberos se encuentran combatiendo un intenso incendio que consume un local de tarimas sobre el Bulevar Hermanos Aldama.\n\nSe informa además que personal de CFE se encuentra reparando un transformador afectado en la misma vialidad, lo que podría generar cortes intermitentes de electricidad. Se solicita tomar vías alternas.",
+      "categoria": "servicios",
       "prioridad": "alta",
-      "emoji": "🌬️",
-      "fecha_publicacion": "2026-11-06T10:30:00-06:00",
-      "fecha_vigencia": "2026-11-06T15:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto (Altura Outlets)",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://twitter.com/PC_Leon"
+      "emoji": "🔥",
+      "fecha_publicacion": "2026-11-09T09:45:00-06:00",
+      "fecha_vigencia": "2026-11-09T18:00:00-06:00",
+      "ubicacion": "Bulevar Hermanos Aldama",
+      "fuente": "@PC_Leon",
+      "url": ""
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Fuerte operativo en Brisas del Campestre",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana de Leon mantiene un despliegue operativo en la colonia Brisas del Campestre tras recibir multiples reportes al 911 sobre detonaciones de arma de fuego en la via publica.\n\nEn la zona se mantiene presencia coordinada de la Policia Municipal, Fuerzas de Seguridad Publica del Estado (FSPE) y Guardia Nacional realizando patrullajes de busqueda. Se sugiere a los ciudadanos evitar transitar por la zona mientras concluyen las diligencias.",
+      "titulo": "Siniestro en centro abarrotero de carretera León-Cuerámaro",
+      "descripcion": "Equipos de emergencia fueron desplegados a un parque industrial en la carretera León-Cuerámaro para sofocar las llamas en un centro de distribución de una empresa abarrotera.\n\nHasta el momento no se reportan personas lesionadas, pero la visibilidad en la carretera podría verse reducida por la columna de humo. Conducir con precaución en la zona.",
       "categoria": "seguridad",
-      "prioridad": "alta",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-11-05T22:45:00-06:00",
-      "fecha_vigencia": "2026-11-06T14:00:00-06:00",
-      "ubicacion": "Colonia Brisas del Campestre",
-      "fuente": "SSP Leon",
+      "prioridad": "media",
+      "emoji": "🚒",
+      "fecha_publicacion": "2026-11-09T10:10:00-06:00",
+      "fecha_vigencia": "2026-11-09T16:00:00-06:00",
+      "ubicacion": "Parque Industrial, Carretera León-Cuerámaro",
+      "fuente": "Milenio Leon",
       "url": ""
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Congestionamiento vial por evento en Poliforum",
-      "descripcion": "Debido a la inauguracion de una exposicion industrial de gran formato en Poliforum Leon, se registra trafico denso y congestionamiento en los cruces del Blvd. Adolfo Lopez Mateos y Blvd. Francisco Villa.\n\nLa Policia Vial ha implementado un operativo de control de semaforos para agilizar el ingreso a los estacionamientos del recinto. Se recomienda a la ciudadania que no asista al evento utilizar vias alternas como Blvd. La Luz o Blvd. Mariano Escobedo.",
-      "categoria": "eventos",
-      "prioridad": "media",
-      "emoji": "🎫",
-      "fecha_publicacion": "2026-11-06T08:30:00-06:00",
-      "fecha_vigencia": "2026-11-06T20:00:00-06:00",
-      "ubicacion": "Poliforum Leon (Blvd. Lopez Mateos y Francisco Villa)",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://twitter.com/TransitoLeon"
+      "titulo": "Operativo por homicidio en colonia Las Joyas",
+      "descripcion": "La Secretaría de Seguridad mantiene resguardada la escena de un ataque armado ocurrido a las afueras de una tienda de abarrotes en la colonia Las Joyas, el cual dejó como saldo a una mujer sin vida.\n\nAutoridades mantienen presencia policial en el sector, por lo que la vialidad y los accesos a las calles aledañas al establecimiento se encuentran bloqueados.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-11-09T10:50:00-06:00",
+      "fecha_vigencia": "2026-11-09T15:00:00-06:00",
+      "ubicacion": "Colonia Las Joyas",
+      "fuente": "@GobMunLeon",
+      "url": ""
     }
   ],
   "categorias": {
     "trafico": {
       "nombre": "Trafico y Vialidad",
       "color": "#FF5722",
-      "emoji": "🚗"
+      "emoji": "🚦"
     },
     "servicios": {
       "nombre": "Servicios Publicos",
       "color": "#2196F3",
-      "emoji": "🔧"
+      "emoji": "💧"
     },
     "seguridad": {
       "nombre": "Seguridad Publica",
       "color": "#F44336",
-      "emoji": "🚔"
+      "emoji": "🚓"
     },
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "⛅"
+      "emoji": "⛈️"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": "🏟️"
     }
   },
   "prioridades": {
