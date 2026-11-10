@@ -1,114 +1,114 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-11-10T18:00:00-06:00",
-  "total_noticias": 8,
-  "fuente": "Recopilacion automatica de medios locales",
-  "noticias": [
+  "ultima_actualizacion": "2026-11-10T11:53:00-06:00",
+  "total_alertas": 5,
+  "fuente": "Recopilacion automatica",
+  "alertas": [
     {
-      "id": "NOTICIA_001",
-      "titulo": "Leon prepara operativo de transporte publico y movilidad para la Caravana Migrante 2026 🚍🇲🇽",
-      "resumen": "Autoridades locales y estatales coordinan rutas de vialidad y transporte en Leon para recibir a mas de 600 vehiculos de connacionales que regresan desde Texas a mediados de noviembre. El operativo contempla asistencia vial y ordenamiento del trafico vehicular en las principales entradas a la ciudad.",
-      "contenido_completo": "El Gobierno del Estado de Guanajuato y las autoridades municipales de Leon han comenzado la coordinacion de operativos especiales de movilidad y asistencia para recibir la edicion 22 de la Caravana del Orden y la Legalidad de Invierno 2026. Se estima que entre 500 y 600 vehiculos particulares de connacionales guanajuatenses ingresen al estado a partir del 16 de noviembre procedentes de la frontera con Estados Unidos. En Leon, la Direccion de Movilidad proyecta esquemas de agilizacion del trafico en los accesos carreteros del norte y oriente de la ciudad.\n\nPersonal de la Subsecretaria de Atencion a Personas Migrantes y agentes de transito municipal brindaran apoyo en el trayecto para garantizar un flujo continuo y evitar embotellamientos. Asimismo, se han habilitado lineas de orientacion telefonica directas para guiar a los conductores sobre las mejores alternativas viales e incorporar sus unidades a los ejes troncales de transporte local sin entorpecer el transito habitual de los leoneses.\n\nLas autoridades recalcaron que este despliegue de movilidad busca proteger a las familias que retornan durante la temporada decembrina. Las acciones incluyen vigilancia constante en arterias principales como el bulevar Aeropuerto y el libramiento Jose Maria Morelos para reducir riesgos de accidentes viales. Se pide a la ciudadania extremar precauciones al conducir en estos tramos de alta afluencia.",
-      "categoria": "transporte",
-      "emoji": "🚍",
-      "fecha_publicacion": "2026-11-09T09:01:00-06:00",
-      "fuente": "Milenio",
-      "url": "https://www.milenio.com/comunidad/caravana-migrante-de-texas-pasara-por-guanajuato-en-noviembre-2026",
-      "relevancia": "alta"
+      "id": "ALERTA_001",
+      "titulo": "Cierre parcial por sustitucion de red de alcantarillado en Blvd. San Pedro",
+      "descripcion": "La Direccion General de Obra Publica y SAPAL realizan trabajos de sustitucion de la infraestructura sanitaria y pavimentacion. Se mantiene cerrado el carril derecho en sentido de norte a sur, generando congestionamiento vial en horas pico. Se sugiere tomar vias alternativas como Blvd. Francisco Villa y Blvd. Torres Landa.",
+      "categoria": "trafico",
+      "prioridad": "media",
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-11-09T08:00:00-06:00",
+      "fecha_vigencia": "2026-11-13T18:00:00-06:00",
+      "ubicacion": "Blvd. San Pedro entre Blvd. Lopez Mateos y Blvd. Torres Landa",
+      "fuente": "Obra Publica y Movilidad Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
-      "id": "NOTICIA_002",
-      "titulo": "Avanzan proyectos de infraestructura de alumbrado publico en 18 comunidades rurales de Leon 💡🏗️",
-      "resumen": "El Municipio destina 81.6 millones de pesos para la modernizacion del alumbrado y servicios de obra publica en comunidades rurales y colonias populares. La intervencion busca mejorar el entorno urbano y reforzar la seguridad en calles prioritarias.",
-      "contenido_completo": "Como parte de los programas de desarrollo urbano y dignificacion de espacios publicos en el municipio de Leon, la administracion local asigno 81.6 millones de pesos especificamente orientados al alumbrado publico e infraestructura comunitaria. Estas obras abarcaran un total de 18 comunidades rurales, 9 colonias en desarrollo y 3 vialidades de alta demanda poblacional en la periphery de la ciudad. El objetivo prioritario es reducir los indices de inseguridad mediante zonas mejor iluminadas y vialidades rehabilitadas.\n\nLas cuadrillas de la Direccion General de Obras Publicas han iniciado la instalacion de luminarias tipo LED de alta eficiencia energetica y la sustitucion de cableado en sectores golpeados por el deterioro urbano. Vecinos de las zonas beneficiadas expresaron que el alumbrado adecuado facilitara los recorridos nocturnos de trabajadores y estudiantes que utilizan el transporte publico al inicio o final de sus jornadas.\n\nCon esta bolsa de recursos, el gobierno municipal reafirma su compromiso de equilibrar el desarrollo urbano entre la mancha urbana central y la zona rural. La alcaldia indico que la supervision de estas obras sera continua durante el ultimo trimestre del año para garantizar que los puntos mas criticos queden concluidos a la brevedad.",
-      "categoria": "desarrollo_urbano",
-      "emoji": "🏗️",
-      "fecha_publicacion": "2026-11-08T14:30:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/local/leon-suma-30-nuevos-policias-toman-protesta-cadetes-de-la-generacion-66-de-la-academia-metropolitana-30004885",
-      "relevancia": "alta"
+      "id": "ALERTA_002",
+      "titulo": "Mantenimiento programado de red de agua en Sector San Isidro",
+      "descripcion": "SAPAL informa la realizacion de labores de interconexion y mantenimiento preventivo en la red de agua potable. Se registrara baja presion o interrupcion temporal del suministro en las colonias San Isidro, Jardin de los Naranjos y zonas aledanas. Se recomienda a los vecinos almacenar agua con anticipacion y hacer un uso eficiente del recurso.",
+      "categoria": "servicios",
+      "prioridad": "media",
+      "emoji": "🚰",
+      "fecha_publicacion": "2026-11-10T07:30:00-06:00",
+      "fecha_vigencia": "2026-11-11T20:00:00-06:00",
+      "ubicacion": "Col. San Isidro y sectores adyacentes",
+      "fuente": "SAPAL Leon",
+      "url": "https://www.sapal.gob.mx"
     },
     {
-      "id": "NOTICIA_003",
-      "titulo": "Toman protesta 30 nuevos oficiales de la Generacion 66 de la Academia Metropolitana de Leon 👮‍♀️🛡️",
-      "resumen": "Un total de 14 mujeres y 16 hombres integran la nueva camada de la Policia Municipal orientada a la proximidad social. La alcaldesa Alejandra Gutierrez encabezo la ceremonia y destaco inversiones continuas en equipamiento policial.",
-      "contenido_completo": "La Academia Metropolitana de Seguridad Publica de Leon graduo a 30 nuevos elementos policiales pertenecientes a la Generacion 66. Los nuevos oficiales, conformados por 14 mujeres y 16 hombres, rindieron protesta oficial comprometiendose a reforzar las tareas de patrullaje, proximidad ciudadana y proteccion preventiva en los cuadrantes de mayor incidencia delictiva del municipio. Con este egreso se incrementa la fuerza operativa en colonias prioritarias de la ciudad.\n\nDurante el acto protocolario, el Secretario de Seguridad, Prevencion y Proteccion Ciudadana, Jorge Guillen Rico, afirmo que portar el uniforme representa una responsabilidad absoluta con el orden institucional. Asimismo, la alcaldesa Alejandra Gutierrez resalto que en los ultimos años se ha invertido mas de dos mil millones de pesos en materia de seguridad publica, incrementando el presupuesto asignado a la dignificacion y capacitacion de los cuerpos policiales.\n\nLos nuevos graduados cuentan con capacitacion especializada en prevencion del delito, derechos humanos y protocolos de reaccion inmediata. Las autoridades locales hicieron un llamado a los nuevos oficiales para mantener una conducta intachable, recordando que su labor es fundamental para recuperar la tranquilidad de las familias leonesas.",
+      "id": "ALERTA_003",
+      "titulo": "Alerta por rachas de viento y bacheo nocturno en Blvd. Alonso de Torres",
+      "descripcion": "Proteccion Civil Municipal de Leon emite aviso por rachas de viento moderadas a fuertes que podrian ocasionar la desprendimiento de ramas. Adicionalmente, cuadrillas de mantenimiento vial estaran laborando en horario nocturno para la reparacion del asfalto, por lo que habra cierres intermitentes de carriles.",
+      "categoria": "clima",
+      "prioridad": "baja",
+      "emoji": "💨",
+      "fecha_publicacion": "2026-11-09T14:00:00-06:00",
+      "fecha_vigencia": "2026-11-11T06:00:00-06:00",
+      "ubicacion": "Blvd. Juan Alonso de Torres entre Blvd. Hidalgo y Blvd. Madrazo",
+      "fuente": "Proteccion Civil Leon",
+      "url": "https://www.leon.gob.mx"
+    },
+    {
+      "id": "ALERTA_004",
+      "titulo": "Despliegue de seguridad y vigilancia en corredor comercial Delta",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana implementa un operativo especial de patrullaje preventivo y monitoreo vial en las zonas comerciales del zona oriente tras reportes de actividad sospechosa. Se solicita a los conductores ceder el paso a unidades de emergencia e itinerarios de patrullaje.",
       "categoria": "seguridad",
-      "emoji": "🛡️",
-      "fecha_publicacion": "2026-11-08T11:00:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/local/leon-suma-30-nuevos-policias-toman-protesta-cadetes-de-la-generacion-66-de-la-academia-metropolitana-30004885",
-      "relevancia": "alta"
+      "prioridad": "media",
+      "emoji": "🚔",
+      "fecha_publicacion": "2026-11-09T19:00:00-06:00",
+      "fecha_vigencia": "2026-11-12T23:59:00-06:00",
+      "ubicacion": "Blvd. Delta y cruce con Blvd. Omega",
+      "fuente": "SSPPC Leon",
+      "url": "https://www.leon.gob.mx"
     },
     {
-      "id": "NOTICIA_004",
-      "titulo": "Sector empresarial en Poliforum Leon llama a fortalecer la confianza y certeza de inversion 💼📈",
-      "resumen": "Durante el Encuentro Nacional Coparmex realizado en Leon, lideres empresariales expusieron estrategias para impulsar la competitividad local. Se enfatizo la coordinacion entre el sector privado y el gobierno para atraer capitales a la region.",
-      "contenido_completo": "El recinto Poliforum Leon se convirtio en la sede nacional de la iniciativa privada al albergar el Encuentro Nacional Coparmex 2026. En el evento, lideres de las camaras de comercio e industrias locales y nacionales hicieron un llamado urgente a consolidar la certeza juridica, la seguridad y la confianza de inversion con el fin de detonar la economia en Leon y el centro del pais.\n\nLos voceros patronales destacaron que Leon mantiene una posicion estrategica clave para el desarrollo industrial y la atraccion de proyectos de manufactura y logistica de alto valor agregado. Sin embargo, insistieron en la necesidad de generar un dialogo constante entre las autoridades gubernamentales y las empresas para fortalecer la competitividad, impulsar el empleo formal y proteger el tejido productivo regional frente a los retos economicos globales.\n\nPor su parte, Coparmex Leon reconocio los esfuerzos de innovacion desarrollados por emprendedores locales que estan transformando el entorno productivo de la ciudad. El foro concluyo con mesas de trabajo orientadas a promover la responsabilidad social empresarial y mejores condiciones salariales para los trabajadores leoneses.",
-      "categoria": "economia",
-      "emoji": "💼",
-      "fecha_publicacion": "2026-11-08T17:15:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/mexico/coparmex-llama-a-fortalecer-confianza-seguridad-y-certeza-juridica-para-impulsar-crecimiento-de-mexico-32980056",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_005",
-      "titulo": "Leon sera sede de la Celebracion Nacional del Dia del Laico 2026 en la Velaria de la Feria 🎭✝️",
-      "resumen": "Se espera la concentracion de mas de 8 mil visitantes de todo el pais en Leon para participar en eventos culturales y religiosos. La Velaria de la Feria albergara el programa general que dejara una importante derrama turistica y hotelera en la ciudad.",
-      "contenido_completo": "La ciudad de Leon fue seleccionada como la sede oficial para albergar la Celebracion Nacional del Dia del Laico 2026, encuentro que congregara a cerca de 8 mil participantes provenientes de mas de 30 estados de la Republica Mexicana. Las actividades principales se llevaran a cabo en las instalaciones de la Velaria de la Feria, convirtiendo a la ciudad en un epicentro de turismo religioso y cultural durante la jornada.\n\nEl programa contempla paneles de opinion, presentaciones musicales, conferencias magistrales y actos culturales enfocados en la promocion de la paz y los valores comunitarios. Integrantes del comite organizador remarcaron la hospitalidad y la capacidad de infraestructura de Leon para recibir eventos masivos de alcance nacional de forma ordenada y segura.\n\nLa llegada de miles de asistentes generara un impacto positivo directo en la ocupacion hotelera, restaurantes, servicios de transporte y comercio local del centro historico y la zona piel. Autoridades de turismo municipal indicaron que se desplegara un operativo de recepcion y guia para orientar a los visitantes durante su estancia en la Capital del Cuero y Calzado.",
-      "categoria": "cultura",
+      "id": "ALERTA_005",
+      "titulo": "Operativo de vialidad por montaje de infraestructura de eventos culturales",
+      "descripcion": "Con motivo de la instalacion de escenarios y estructuras para los proximos festivales culturales de fin de ano, la Direccion de Movilidad llevara a cabo cierres temporales y desvios de transporte publico en las inmediaciones de la Plaza Principal y el Distrito Leon MX.",
+      "categoria": "eventos",
+      "prioridad": "baja",
       "emoji": "🎭",
-      "fecha_publicacion": "2026-11-10T10:00:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://www.elsoldeleon.com.mx/noticiasvespertinas/local/leon-sera-sede-de-la-celebracion-nacional-del-dia-del-laico-2026-33060397",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_006",
-      "titulo": "Alianza de salud en Leon impulsa jornadas gratuitas para la deteccion preventiva de diabetes 🩺🏥",
-      "resumen": "Sector salud municipal activa brigadas medicas y pruebas de glucosa sin costo en diferentes colonias leonesas. La campana incluye conferencias de nutricion y orientacion para prevenir complicaciones de enfermedades cronico-degenerativas.",
-      "contenido_completo": "En el marco del mes de concientizacion sobre enfermedades metabolicas, la Direccion Municipal de Salud de Leon reforzo sus jornadas medicas gratuitas dedicadas a la deteccion oportuna y tratamiento de la diabetes. Las unidades moviles de salud estan recorriendo plazas comunitarias y centros de desarrollo en diversos puntos de la ciudad para realizar tomas de glucosa, medicion de presion arterial y chequeos medicos generales sin costo.\n\nEspecialistas de la salud enfatizaron que el diagnostico temprano es crucial para evitar complicaciones severas como insuficiencia renal o problemas cardiovasculares. Ademas de los examenes clinicos, las jornadas integran talleres de orientacion alimentaria, activaciones fisicas en espacios publicos y platicas sobre el control adecuado del peso dirigidas a familias enteras.\n\nLas autoridades de salud invitaron a la poblacion leonés a acudir a los centros comunitarios mas cercanos para aprovechar estos servicios preventivos. La meta municipal contempla atender a miles de ciudadanos durante las proximas semanas, priorizando la atencion a adultos mayores y personas con antecedentes familiares de hipertension o diabetes.",
-      "categoria": "salud",
-      "emoji": "🩺",
-      "fecha_publicacion": "2026-11-09T08:30:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/local/conoces-la-historia-de-la-piedra-parada-en-una-de-las-calles-de-leon-20211861",
-      "relevancia": "media"
-    },
-    {
-      "id": "NOTICIA_007",
-      "titulo": "Academia de Policia de Leon impulsa profesionalizacion universitaria en Derecho y Ciberseguridad 🎓📚",
-      "resumen": "Mas de 180 elementos de la corporacion municipal cursan estudios de licenciatura en la Universidad Metropolitana de Seguridad. El programa busca formar policias con altos conocimientos juridicos y tecnicos.",
-      "contenido_completo": "Con el objetivo de eleva el nivel academico de las fuerzas de seguridad locales, la Universidad Metropolitana de Formacion Policial y Seguridad Publica de Leon mantiene a 188 elementos policiales cursando carreras universitarias como Derecho y Ciberseguridad. Esta estrategia educativa busca contar con oficiales mas preparados ante las exigencias del nuevo sistema de justicia penal y los delitos digitales.\n\nEl esquema academico permite a los agentes combinar sus turnos operativos con clases presenciales y virtuales impartidas por docentes especializados. Autoridades educativas de la institucion explicaron que la capacitacion abarca materias como criminologia, derechos humanos, investigacion digital y manejo de evidencia en la escena del crimen.\n\nEl gobierno local indico que se destinaran mas de 19 millones de pesos para consolidar las instalaciones universitarias de la Academia, incluyendo laboratorios y aulas especializadas. Se proyecta que las primeras generaciones profesionales egresen en los proximos ciclos para sumarse a tareas directivas y de inteligencia dentro de la corporacion.",
-      "categoria": "educacion",
-      "emoji": "🎓",
-      "fecha_publicacion": "2026-11-08T13:20:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/local/laboratorio-de-balistica-en-leon-presenta-avance-del-95-asi-se-profesionaliza-la-policia-28778194",
-      "relevancia": "alta"
-    },
-    {
-      "id": "NOTICIA_008",
-      "titulo": "Empresas en Leon impulsan la fabricacion de madera plastica a partir de residuos industriales ♻️🌱",
-      "resumen": "Iniciativas del sector medioambiental en Leon transforman desechos de plastico industrial en mobiliario urbano para parques y plazas. El proyecto promueve la economia circular y la reduccion de contaminantes.",
-      "contenido_completo": "En un esfuerzo por fomentar la sostenibilidad y la preservacion del medio ambiente, proyectos locales de innovacion en Leon estan convirtiendo toneladas de residuos plasticos industriales en madera sintetica de alta resistencia. Este material ecologico esta siendo utilizado para la construccion de banca urbana, jardineras y juegos infantiles destinados a los parques publicos del municipio.\n\nEl proceso tecnologico evita que toneladas de desechos plasticos terminen en los rellenos sanitarios o en los cauces de rios y arroyos de la ciudad. Desarrolladores leoneses indicaron que la madera plastica obtenida cuenta con una durabilidad superior a la madera tradicional, resistiendo las condiciones climaticas extremas sin requerir mantenimiento quimico ni tala de arboles.\n\nAutoridades ambientales del municipio respaldan estas iniciativas de economia circular e invitaron a mas camaras industriales a sumar sus desperdicios al programa de reciclaje masivo. Con este tipo de proyectos ecologicos, Leon se posiciona como un referente regional en el aprovechamiento de residuos urbanos e industriales.",
-      "categoria": "medio_ambiente",
-      "emoji": "🌱",
-      "fecha_publicacion": "2026-11-09T12:00:00-06:00",
-      "fuente": "El Sol de Leon",
-      "url": "https://oem.com.mx/elsoldeleon/local/fig-2023-vas-a-ir-al-festival-internacional-del-globo-aqui-todo-lo-que-tienes-que-saber-13154950",
-      "relevancia": "alta"
+      "fecha_publicacion": "2026-11-10T09:00:00-06:00",
+      "fecha_vigencia": "2026-11-14T12:00:00-06:00",
+      "ubicacion": "Zona Centro y Distrito Leon MX",
+      "fuente": "Gobierno Municipal de Leon",
+      "url": "https://www.leon.gob.mx"
     }
   ],
-  "categorias_noticias": {
-    "transporte": "🚍",
-    "desarrollo_urbano": "🏗️",
-    "seguridad": "🛡️",
-    "economia": "💼",
-    "cultura": "🎭",
-    "salud": "🩺",
-    "educacion": "🎓",
-    "medio_ambiente": "🌱"
+  "categorias": {
+    "trafico": {
+      "nombre": "Trafico y Vialidad",
+      "color": "#FF5722",
+      "emoji": "🚦"
+    },
+    "servicios": {
+      "nombre": "Servicios Publicos",
+      "color": "#2196F3",
+      "emoji": "🛠️"
+    },
+    "seguridad": {
+      "nombre": "Seguridad Publica",
+      "color": "#F44336",
+      "emoji": "🛡️"
+    },
+    "clima": {
+      "nombre": "Clima y Ambiente",
+      "color": "#4CAF50",
+      "emoji": "🌤️"
+    },
+    "eventos": {
+      "nombre": "Eventos Masivos",
+      "color": "#9C27B0",
+      "emoji": "🎟️"
+    }
+  },
+  "prioridades": {
+    "baja": {
+      "nombre": "Informativa",
+      "color": "#4CAF50"
+    },
+    "media": {
+      "nombre": "Precaucion",
+      "color": "#FF9800"
+    },
+    "alta": {
+      "nombre": "Urgente",
+      "color": "#F44336"
+    }
   }
 }
