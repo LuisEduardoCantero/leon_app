@@ -1,4 +1,41 @@
 {
-  "ultima_actualizacion": "2026-11-12 10:34:44",
-  "anuncios": []
+  "ultima_actualizacion": "2026-11-12 12:22:50",
+  "anuncios": [
+    {
+      "id": "MELI",
+      "imagen": "MELI_20261112_115155.jpg",
+      "link": "https://meli.la/24C6LHJ",
+      "fecha_fin": "2026-12-12"
+    },
+    {
+      "id": "MELI-002",
+      "imagen": "MELI-002_20261112_115634.jpg",
+      "link": "https://meli.la/2FH8aod",
+      "fecha_fin": "2026-12-12"
+    },
+    {
+      "id": "MELI-003",
+      "imagen": "MELI-003_20261112_115842.jpg",
+      "link": "https://meli.la/2x17o3o",
+      "fecha_fin": "2026-12-12"
+    },
+    {
+      "id": "MELI-004",
+      "imagen": "MELI-004_20261112_120155.jpg",
+      "link": "https://meli.la/1BQwM5j",
+      "fecha_fin": "2026-12-12"
+    },
+    {
+      "id": "MELI-005",
+      "imagen": "MELI-005_20261112_121916.jpg",
+      "link": "https://meli.la/1Xhw1nU",
+      "fecha_fin": "2026-12-12"
+    },
+    {
+      "id": "MELI-006",
+      "imagen": "MELI-006_20261112_122250.jpg",
+      "link": "https://meli.la/1LVRSAA",
+      "fecha_fin": "2026-12-12"
+    }
+  ]
 }
