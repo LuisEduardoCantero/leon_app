@@ -1,86 +1,86 @@
 {
   "ciudad": "Leon, Guanajuato",
-  "ultima_actualizacion": "2026-11-17T09:47:00-06:00",
+  "ultima_actualizacion": "2026-11-18T13:49:00-06:00",
   "total_alertas": 6,
   "fuente": "Recopilacion automatica",
   "alertas": [
     {
       "id": "ALERTA_001",
-      "titulo": "Operativo retorno en salidas carreteras tras fin de semana largo",
-      "descripcion": "La Direccion de Policia Vial y Movilidad implementa un dispositivo especial de agilizacion y vigilancia en las salidas hacia Silao, Lagos de Moreno y San Francisco del Rincon debido al retorno de visitantes tras el puente vacacional. Se registra carga vehicular intensa en el entronque de Blvd. Aeropuerto y Puente del Milenio.\n\nSe recomienda a los automovilistas anticipar sus tiempos de traslado, respetar los limites de velocidad y atender las indicaciones de los agentes viales desplegados en los puntos de mayor aforo.",
-      "categoria": "trafico",
+      "titulo": "Rehabilitacion de drenaje en Blvd. Adolfo Lopez Mateos",
+      "descripcion": "El Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) anuncio el inicio proximo de obras para sustituir mas de 700 metros de tuberia del colector sanitario en el bulevar Adolfo Lopez Mateos, en el carril con direccion del puente Morelos hacia el paradero Cerrito de Jerez.\n\nLos trabajos tendran una duracion estimada de seis meses (hasta mayo de 2027) e implicaran restricciones viales, eliminacion temporal de vueltas a la izquierda y cierre del paradero Cerrito de Jerez. Se recomienda a los automovilistas y usuarios del transporte publico anticipar tiempos de traslado y utilizar vias alternas.",
+      "categoria": "servicios",
       "prioridad": "alta",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-11-17T07:30:00-06:00",
-      "fecha_vigencia": "2026-11-17T22:00:00-06:00",
-      "ubicacion": "Blvd. Aeropuerto y salida a Lagos de Moreno",
-      "fuente": "Policia Vial Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🚧",
+      "fecha_publicacion": "2026-11-17T18:00:00-06:00",
+      "fecha_vigencia": "2026-11-25T23:59:00-06:00",
+      "ubicacion": "Blvd. Adolfo Lopez Mateos, del puente Morelos al paradero Cerrito de Jerez",
+      "fuente": "SAPAL / AM Leon",
+      "url": "https://enterate.leon.gob.mx/anuncia-sapal-rehabilitacion-del-drenaje-de-lopez-mateos/"
     },
     {
       "id": "ALERTA_002",
-      "titulo": "Mantenimiento preventivo en lineas de media tension en Zona Norte",
-      "descripcion": "La Comision Federal de Electricidad realiza trabajos programados de libranza y poda preventiva cerca de lineas de media tension en sectores de Gran Jardin y Echeveste. Estas maniobras ocasionan interrupciones intermitentes en el suministro electrico durante la manana y primeras horas de la tarde.\n\nSe exhorta a los vecinos a desconectar aparatos electronicos sensibles y tomar precauciones en cruceros semaforizados de la zona ante posibles apagones momentaneos.",
-      "categoria": "servicios",
-      "prioridad": "media",
-      "emoji": "⚡",
-      "fecha_publicacion": "2026-11-17T08:00:00-06:00",
-      "fecha_vigencia": "2026-11-17T16:00:00-06:00",
-      "ubicacion": "Col. Echeveste y zona Gran Jardin",
-      "fuente": "Proteccion Civil Leon",
-      "url": "https://www.leon.gob.mx"
+      "titulo": "Bloqueos carreteros intermitentes en accesos a Leon y corredor industrial",
+      "descripcion": "Productores agricolas mantienen movilizaciones y bloqueos en diversas carreteras federales y autopistas de Guanajuato, afectando directamente los accesos a Leon en la autopista Leon-Aguascalientes (casetas Plan de Ayala, Eje Metropolitano Pueblos del Rincon y acceso por Blvd. Hermanos Aldama a la altura de la Central de Abastos), asi como la carretera federal 45 Leon-Silao a la altura de Puerto Interior.\n\nAunque tras mas de 10 horas de cierres se lograron acuerdos parciales en algunos tramos, persiste la congestion vial severa y el riesgo de intermitencias en la circulacion. Se exhorta a utilizar el Eje Metropolitano como via alterna y consultar el estado carretero antes de salir.",
+      "categoria": "trafico",
+      "prioridad": "alta",
+      "emoji": "🚜",
+      "fecha_publicacion": "2026-11-18T08:00:00-06:00",
+      "fecha_vigencia": "2026-11-19T23:59:00-06:00",
+      "ubicacion": "Autopista Leon-Aguascalientes (Blvd. Hermanos Aldama / Plan de Ayala) y Carretera Federal 45 Leon-Silao",
+      "fuente": "Milenio Leon",
+      "url": "https://www.milenio.com/comunidad/bloqueos-carreteros-en-guanajuato-liberan-vias-tras-llegar-a-acuerdo"
     },
     {
       "id": "ALERTA_003",
-      "titulo": "Reduccion de carriles por rehabilitacion de colector en Blvd. Hidalgo",
-      "descripcion": "Cuadrillas operativas de SAPAL y Obra Publica realizan trabajos de sustitucion de tuberia sanitaria en el cuerpo oriente del Bulevar Miguel Hidalgo, en el tramo comprendido entre Blvd. Morelos y calle Valle de los Naranjos. Un carril permanece confinado con senalamiento preventivo.\n\nSe sugiere utilizar Blvd. Antonio Madrazo o Av. Paseo de los Insurgentes como rutas alternas para evitar demoras en horas pico.",
-      "categoria": "trafico",
-      "prioridad": "media",
-      "emoji": "🚧",
-      "fecha_publicacion": "2026-11-16T09:15:00-06:00",
-      "fecha_vigencia": "2026-11-20T18:00:00-06:00",
-      "ubicacion": "Blvd. Miguel Hidalgo entre Blvd. Morelos y Valle de los Naranjos",
-      "fuente": "SAPAL Leon",
-      "url": "https://www.sapal.gob.mx"
+      "titulo": "Alerta sanitaria por influenza aviar H5 en el Zoologico de Leon",
+      "descripcion": "El Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (Senasica) confirmo la presencia de influenza aviar H5 en aves silvestres del Zoologico de Leon, activando protocolos de bioseguridad para proteger a mas de 470 ejemplares tras registrarse el fallecimiento de seis aves.\n\nLas autoridades mantienen el resguardo preventivo en el area del lago central, desinfeccion diaria de rutas y aislamiento de ejemplares susceptibles. La Secretaria de Salud exhorta a la poblacion a no manipular aves silvestres enfermas o muertas y reportar cualquier hallazgo a Proteccion Civil.",
+      "categoria": "clima",
+      "prioridad": "alta",
+      "emoji": "🦢",
+      "fecha_publicacion": "2026-11-17T19:30:00-06:00",
+      "fecha_vigencia": "2026-11-24T23:59:00-06:00",
+      "ubicacion": "Parque Zoologico de Leon, Camino a Ibarrilla",
+      "fuente": "AM Leon / Senasica",
+      "url": "https://www.am.com.mx/leon/2026/11/17/detectan-influenza-aviar-h5-en-el-zoologico-de-leon-protegen-a-mas-de-470-aves-1867666.html"
     },
     {
       "id": "ALERTA_004",
-      "titulo": "Calidad del aire no satisfactoria por incremento de particulas PM10",
-      "descripcion": "La Direccion General de Medio Ambiente reporta condiciones de calidad del aire no satisfactorias en las estaciones de monitoreo ubicadas en la zona sur y centro de la ciudad, derivado de la inversion termica matutina y el incremento en la movilidad urbana.\n\nSe recomienda a grupos sensibles, ninos y adultos mayores evitar actividades fisicas vigorosas al aire libre durante las primeras horas del dia y mantenerse hidratados.",
-      "categoria": "clima",
+      "titulo": "Cierre parcial en carretera federal 45 Irapuato-Leon por accidente",
+      "descripcion": "Un percance vehicular registrado en la carretera federal 45 en el tramo Irapuato-Leon, a la altura de la comunidad Lo de Juarez, obligo al cierre de un carril de circulacion con direccion hacia el municipio de Leon.\n\nEl incidente genera carga vehicular intensa y retrasos considerables para quienes transitan por este corredor industrial del Bajio entre Irapuato, Silao y Leon. Policia Vial y Guardia Nacional recomiendan disminuir la velocidad y extremar precauciones.",
+      "categoria": "trafico",
       "prioridad": "media",
-      "emoji": "🌫️",
-      "fecha_publicacion": "2026-11-17T08:30:00-06:00",
-      "fecha_vigencia": "2026-11-17T20:00:00-06:00",
-      "ubicacion": "Zona Centro y Sur de Leon",
-      "fuente": "Medio Ambiente Leon",
-      "url": "https://www.leon.gob.mx"
+      "emoji": "🚗",
+      "fecha_publicacion": "2026-11-17T09:15:00-06:00",
+      "fecha_vigencia": "2026-11-18T20:00:00-06:00",
+      "ubicacion": "Carretera Federal 45 tramo Irapuato-Leon, altura de Lo de Juarez",
+      "fuente": "Azteca Bajio",
+      "url": "https://www.aztecabajio.com/noticias/accidente-provoca-cierre-en-carretera-irapuatoleon-hoy-17-noviembre-2026-trafico-a-la-altura-de-lo-de-juarez/"
     },
     {
       "id": "ALERTA_005",
-      "titulo": "Cierre parcial por evento deportivo nocturno en Poliforum",
-      "descripcion": "Con motivo del encuentro deportivo programado para esta noche en las inmediaciones del complejo Distrito Leon MX y Poliforum, la Policia Vial implementara cierres parciales y control de accesos sobre Blvd. Adolfo Lopez Mateos y Paseo de los Ninos a partir de las 18:00 horas.\n\nSe recomienda acudir con anticipacion, utilizar transporte publico o estacionamientos autorizados en la zona.",
-      "categoria": "eventos",
-      "prioridad": "baja",
-      "emoji": "🏟️",
-      "fecha_publicacion": "2026-11-17T09:00:00-06:00",
-      "fecha_vigencia": "2026-11-17T23:30:00-06:00",
-      "ubicacion": "Blvd. Adolfo Lopez Mateos y Paseo de los Ninos",
-      "fuente": "Transito Municipal Leon",
-      "url": "https://www.leon.gob.mx"
+      "titulo": "Operativo policial tras ataques armados en colonias San Marcos y Saturno",
+      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana y la Fiscalia General del Estado mantienen operativos de vigilancia e investigacion tras registrarse dos ataques armados recientes en la ciudad: uno en la calle Jorge Negrete de la colonia San Marcos con saldo de dos hombres heridos de gravedad, y otro en el bulevar Saturno que dejo una persona fallecida y otra lesionada.\n\nElementos de Policia Municipal y fuerzas estatales realizan patrullajes preventivos en ambas zonas. Se solicita a la ciudadania evitar acercarse a los perimetros acordonados y reportar cualquier actividad sospechosa al 911.",
+      "categoria": "seguridad",
+      "prioridad": "alta",
+      "emoji": "🚨",
+      "fecha_publicacion": "2026-11-18T09:00:00-06:00",
+      "fecha_vigencia": "2026-11-19T23:59:00-06:00",
+      "ubicacion": "Col. San Marcos (calle Jorge Negrete) y Blvd. Saturno, Leon",
+      "fuente": "AM Leon / SSPPC",
+      "url": "https://www.am.com.mx/leon/2026/11/18/hieren-a-balazos-a-dos-hombres-en-la-san-marcos-de-leon-1867798.html"
     },
     {
       "id": "ALERTA_006",
-      "titulo": "Vigilancia preventiva en instituciones bancarias y cajeros automaticos",
-      "descripcion": "La Secretaria de Seguridad, Prevencion y Proteccion Ciudadana refuerza los recorridos de vigilancia en plazas comerciales y corredores financieros de Blvd. Campestre y Blvd. Juan Jose Torres Landa ante el incremento de retiros de efectivo por quincena y promociones comerciales.\n\nSe invita a la ciudadania a solicitar el servicio gratuito de acompanamiento bancario a traves del numero de emergencias 9-1-1 en caso de realizar movimientos de sumas importantes.",
-      "categoria": "seguridad",
-      "prioridad": "baja",
-      "emoji": "🚓",
-      "fecha_publicacion": "2026-11-16T11:00:00-06:00",
-      "fecha_vigencia": "2026-11-18T21:00:00-06:00",
-      "ubicacion": "Corredores bancarios en Blvd. Campestre y Torres Landa",
-      "fuente": "SSPPC Leon",
-      "url": "https://www.leon.gob.mx"
+      "titulo": "Afectacion vial por atropellamiento en Libramiento Jose Maria Morelos",
+      "descripcion": "Cuerpos de emergencia y elementos de Policia Vial atendieron el atropellamiento de un joven peaton sobre el Libramiento Jose Maria Morelos, a la altura de Residencial Amberes en direccion hacia el bulevar Jorge Vertiz Campero.\n\nLa movilizacion de ambulancias de Bomberos y unidades de transito provoco reduccion de carriles y trafico lento en la zona norte del libramiento. Autoridades exhortan a peatones a utilizar puentes y cruces seguros, asi como a conductores a respetar los limites de velocidad.",
+      "categoria": "trafico",
+      "prioridad": "media",
+      "emoji": "🚑",
+      "fecha_publicacion": "2026-11-17T15:30:00-06:00",
+      "fecha_vigencia": "2026-11-18T18:00:00-06:00",
+      "ubicacion": "Libramiento Jose Maria Morelos a la altura de Residencial Amberes",
+      "fuente": "AM Leon",
+      "url": "https://www.am.com.mx/leon/2026/11/17/joven-resulta-grave-tras-ser-atropellado-en-libramiento-morelos-cerca-de-amberes-leon-1867404.html"
     }
   ],
   "categorias": {
@@ -102,12 +102,12 @@
     "clima": {
       "nombre": "Clima y Ambiente",
       "color": "#4CAF50",
-      "emoji": "🌤️"
+      "emoji": "🌿"
     },
     "eventos": {
       "nombre": "Eventos Masivos",
       "color": "#9C27B0",
-      "emoji": "🎪"
+      "emoji": "🎉"
     }
   },
   "prioridades": {
