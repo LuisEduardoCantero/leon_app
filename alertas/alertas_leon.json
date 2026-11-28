@@ -2,113 +2,87 @@
   "alertas": [
     {
       "categoria": "trafico",
-      "descripcion": "Una carambola en la que participaron cuatro vehiculos provoca trafico intenso este viernes 27 de noviembre en la carretera federal 45, en direccion de Leon hacia Silao, a la altura de la comunidad de San Antonio, pasando el distribuidor vial de Guanajuato-Romita y frente a la zona del Aeropuerto Internacional de Guanajuato. La fila de vehiculos se extiende desde antes de El Refugio de los Sauces y continua por Puerto Interior, frente al C5i, el Hospital Aranda de la Parra y Fiesta Inn Silao. Como rutas alternas se recomiendan la autopista 43D Leon-Salamanca y el Eje Metropolitano (carretera a Comanjilla), que mantienen circulacion fluida. Se recomienda tomar precauciones y considerar mas tiempo de traslado.",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-11-27T09:28:00-06:00",
-      "fecha_vigencia": "2026-11-27T23:59:00-06:00",
-      "fuente": "Azteca Bajio",
+      "descripcion": "Un ciclista identificado como Gabriel 'N' fallecio la tarde del viernes 27 de noviembre al ser atropellado por el operador de una grua en el Libramiento Jose Maria Morelos, justo debajo del puente del bulevar Miguel Hidalgo, entre las colonias El Peluchan y Ciudad Aurora. El accidente se registro alrededor de las 13:00 horas, mientras caia una lluvia ligera en la zona. La victima circulaba en una bicicleta tipo montana color azul con direccion al Camino a Ibarrilla. El percance provoco el cierre parcial de la vialidad y congestionamiento vehicular que se extendio hasta las inmediaciones del Parque Metropolitano. Peritos de la Fiscalia General del Estado procesaron la escena y aseguraron videos de camaras cercanas para identificar al responsable.",
+      "emoji": "🚴",
+      "fecha_publicacion": "2026-11-27T13:00:00-06:00",
+      "fecha_vigencia": "2026-11-28T23:59:00-06:00",
+      "fuente": "El Heraldo de Leon",
       "id": "ALERTA_001",
       "prioridad": "alta",
-      "titulo": "Carambola de cuatro vehiculos en carretera Leon-Silao pasando Puerto Interior",
-      "ubicacion": "Carretera federal 45 Leon-Silao, a la altura de San Antonio, pasando Puerto Interior",
-      "url": "https://www.aztecabajio.com/noticias/carambola-de-cuatro-vehiculos-provoca-trafico-pesado-en-la-carretera-leon-silao-pasando-puerto-interior-hoy/?outputType=amp"
-    },
-    {
-      "categoria": "trafico",
-      "descripcion": "Un camion de transporte publico de la linea Optibus Auxiliar quedo atascado dentro de una zanja de las obras de reparacion de drenaje sobre el bulevar Hilario Medina, justo afuera de la Secundaria Tecnica 43. La unidad quedo inclinada hacia su costado derecho, con la parte trasera hundida entre agua y lodo, y atravesada en el carril derecho, por lo que los demas vehiculos deben rodearla por el carril izquierdo. El trafico presenta complicaciones entre bulevar Congreso de Chilpancingo y bulevar Juan Alonso de Torres, y tambien en el tramo norte de Hilario Medina despues del cruce con Las Torres, donde ademas hay semaforos fuera de servicio. Como alternativas, Congreso de Chilpancingo, Antonio Madrazo y el tramo oriente de Juan Alonso de Torres mantienen circulacion fluida.",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-11-27T09:00:00-06:00",
-      "fecha_vigencia": "2026-11-27T23:59:00-06:00",
-      "fuente": "Azteca Bajio",
-      "id": "ALERTA_002",
-      "prioridad": "alta",
-      "titulo": "Camion de transporte publico atascado en zanja por obras de drenaje en Blvd. Hilario Medina",
-      "ubicacion": "Blvd. Hilario Medina, frente a la Secundaria Tecnica 43, entre Congreso de Chilpancingo y Juan Alonso de Torres",
-      "url": "https://www.aztecabajio.com/noticias/camion-de-transporte-publico-queda-atascado-en-zanja-por-obras-de-drenaje-en-bulevar-hilario-medina-leon/"
+      "titulo": "Ciclista muere atropellado por una grua en el Libramiento Jose Maria Morelos",
+      "ubicacion": "Libramiento Jose Maria Morelos, debajo del puente del Blvd. Miguel Hidalgo",
+      "url": "https://www.heraldoleon.mx/joven-ciclista-muere-arrollado-por-una-grua/"
     },
     {
       "categoria": "seguridad",
-      "descripcion": "Un ataque a balazos registrado la noche del jueves 26 de noviembre, minutos despues de las 21:00 horas, en el cruce de las calles San Genaro y Santa Amalia, en la colonia Santa Clara, dejo un hombre sin vida y otro lesionado. Las victimas, identificadas como Jovany y Edgar Uriel, se encontraban afuera de un puesto de comida junto al templo de la colonia cuando dos sujetos a bordo de una motocicleta abrieron fuego en al menos diez ocasiones. Jovany murio en el lugar y Edgar Uriel fue trasladado a un hospital, donde se reporto fuera de peligro. La zona quedo bajo resguardo de la Policia Municipal mientras la Fiscalia General del Estado realiza las diligencias; hasta el momento no se reportan detenidos.",
-      "emoji": "🚨",
-      "fecha_publicacion": "2026-11-27T08:27:00-06:00",
-      "fecha_vigencia": "2026-11-27T23:59:00-06:00",
-      "fuente": "Azteca Bajio / Milenio",
-      "id": "ALERTA_003",
+      "descripcion": "Un joven de 25 anos, identificado como Alonso, murio tras recibir una descarga electrica en la parte alta de una teneria de la colonia Industrial Santa Crocce, en Leon. El accidente ocurrio a las 9:29 de la manana del viernes 27 de noviembre, en una fabrica ubicada en la calle Santa Crocce, rumbo a la salida a San Francisco del Rincon, cerca del bulevar Juan Jose Torres Landa. De acuerdo con el reporte al Sistema de Emergencias 911, el joven realizaba maniobras de mantenimiento en la azotea cuando se acerco demasiado a un transformador en medio de la lluvia y recibio la descarga. Bomberos y Proteccion Civil acudieron al lugar, pero solo pudieron confirmar que ya no contaba con signos vitales. Debido a que los transformadores continuaban energizados, el cuerpo no pudo ser recuperado de inmediato y personal de la CFE realizo maniobras para desconectar las cuchillas.",
+      "emoji": "⚡",
+      "fecha_publicacion": "2026-11-27T09:29:00-06:00",
+      "fecha_vigencia": "2026-11-28T23:59:00-06:00",
+      "fuente": "Periodico AM",
+      "id": "ALERTA_002",
       "prioridad": "alta",
-      "titulo": "Ataque armado en colonia Santa Clara deja un muerto y un herido junto al templo",
-      "ubicacion": "Calles San Genaro y Santa Amalia, colonia Santa Clara",
-      "url": "https://www.aztecabajio.com/policiaca/identifican-a-jovenes-agredidos-en-la-colonia-santa-clara-leon-un-hombre-fallecido-y-otro-lesionado/"
+      "titulo": "Joven muere electrocutado en una teneria de la colonia Industrial Santa Crocce",
+      "ubicacion": "Calle Santa Crocce, colonia Industrial Santa Crocce",
+      "url": "https://www.am.com.mx/leon/2026/11/27/fallece-joven-en-teneria-al-recibir-descarga-electrica-en-leon-1871294.html"
     },
     {
       "categoria": "trafico",
-      "descripcion": "Un tractocamion volco la tarde del jueves 26 de noviembre, cerca de las 18:00 horas, en la curva del Pato sobre la carretera Leon-Lagos de Moreno, en Lagos de Moreno, Jalisco. El chofer perdio el control al salir de la curva y la unidad pesada termino volcada sobre la via. No se reportaron lesionados, solo danos materiales, pero los rescatistas controlaron un derrame de gasolina que se extendio unos 100 metros sobre la vialidad para evitar riesgos mayores. La vialidad permanecio cerrada mientras se retiraba el tractocamion y se liberaba la circulacion rumbo a Lagos de Moreno.",
+      "descripcion": "A partir del martes 1 de diciembre, el paradero Cerrito de Jerez del Sistema Integrado de Transporte de Leon permanecera cerrado temporalmente debido a los trabajos de renovacion de la infraestructura de drenaje que realizara SAPAL sobre el bulevar Adolfo Lopez Mateos. La Direccion General de Movilidad informo que el cierre tendra una duracion aproximada de cinco meses. Durante ese periodo, las personas usuarias podran ascender y descender en el paradero Julian de Obregon, ubicado en las inmediaciones. Para los automovilistas se recomiendan como vias alternas los bulevares Juan Jose Torres Landa, La Luz, Juan Alonso de Torres, Francisco Gonzalez Bocanegra, Vicente Valtierra, Timoteo Lozano y Delta, asi como la avenida Los Industriales. Se recomienda anticipar los tiempos de traslado.",
+      "emoji": "🚍",
+      "fecha_publicacion": "2026-11-27T15:53:00-06:00",
+      "fecha_vigencia": "2027-05-01T23:59:00-06:00",
+      "fuente": "Direccion General de Movilidad / leon.mx",
+      "id": "ALERTA_003",
+      "prioridad": "media",
+      "titulo": "Cerraran el paradero Cerrito de Jerez por cinco meses a partir del 1 de diciembre por obras de SAPAL",
+      "ubicacion": "Paradero Cerrito de Jerez, Blvd. Adolfo Lopez Mateos",
+      "url": "https://leon.mx/cierran-el-paradero-cerrito-de-jerez-desde-el-1-de-diciembre-por-obras-de-sapal/"
+    },
+    {
+      "categoria": "trafico",
+      "descripcion": "Un choque multiple se registro la tarde del viernes 27 de noviembre sobre la carretera Leon-Cueramaro, a la altura de la comunidad de La Esmeralda, luego de que un vehiculo presuntamente perdiera una de sus llantas mientras circulaba por la vialidad. El incidente provoco que otras unidades se vieran involucradas en el percance, por lo que las autoridades pidieron a los conductores extremar precauciones al transitar por este tramo. Hasta el momento no se cuenta con informacion oficial sobre personas lesionadas ni sobre la cantidad exacta de vehiculos involucrados.",
       "emoji": "🚗",
-      "fecha_publicacion": "2026-11-26T19:00:00-06:00",
-      "fecha_vigencia": "2026-11-27T12:00:00-06:00",
+      "fecha_publicacion": "2026-11-27T17:56:00-06:00",
+      "fecha_vigencia": "2026-11-28T23:59:00-06:00",
       "fuente": "Azteca Bajio",
       "id": "ALERTA_004",
-      "prioridad": "alta",
-      "titulo": "Tractocamion volcado en la curva del Pato, carretera Leon-Lagos de Moreno",
-      "ubicacion": "Curva del Pato, carretera Leon-Lagos de Moreno",
-      "url": "https://www.aztecabajio.com/noticias/se-registra-fuerte-volcadura-de-tractocamion-en-la-carretera-leonlagos-de-moreno/"
+      "prioridad": "media",
+      "titulo": "Choque multiple en la carretera Leon-Cueramaro a la altura de La Esmeralda",
+      "ubicacion": "Carretera Leon-Cueramaro, a la altura de La Esmeralda",
+      "url": "https://www.aztecabajio.com/noticias/alerta-vial-ch0qu3-multiple-en-la-carretera-leoncueramaro/"
     },
     {
-      "categoria": "servicios",
-      "descripcion": "El suministro de agua potable podria presentar baja presion o interrupciones temporales en la colonia Santa Rosa de Lima, en Leon, debido a trabajos de interconexion en la red que realiza el Sistema de Agua Potable y Alcantarillado de Leon (SAPAL) en la calle San Lazaro. El aviso fue difundido la noche del miercoles 25 de noviembre; SAPAL no ha precisado la hora de inicio de los trabajos ni el tiempo que podrian durar, por lo que tampoco hay un horario confirmado para la normalizacion del servicio. Se recomienda a los vecinos de la zona almacenar agua y mantenerse atentos a los avisos oficiales de SAPAL.",
-      "emoji": "💧",
-      "fecha_publicacion": "2026-11-26T12:26:00-06:00",
-      "fecha_vigencia": "2026-11-27T23:59:00-06:00",
-      "fuente": "SAPAL / Azteca Bajio",
+      "categoria": "trafico",
+      "descripcion": "La manana del viernes 27 de noviembre, en el segundo dia de lluvias por la primera tormenta invernal, un trailer de doble remolque quedo atorado en el desnivel del cruce de los bulevares Hermanos Aldama y Timoteo Lozano y detuvo la circulacion por casi una hora. La lluvia y el pavimento mojado provocaron ademas choques y unidades varadas en distintos puntos de la ciudad, asi como semaforos apagados que se restablecieron cerca de las 10:00 horas. Agentes de Policia Vial y cuerpos de emergencia abanderaron las zonas afectadas, retiraron los vehiculos con gruas y agilizaron el trafico vehicular. Se recomienda manejar con precaucion por piso mojado y anticipar retrasos en los traslados.",
+      "emoji": "🚛",
+      "fecha_publicacion": "2026-11-27T08:30:00-06:00",
+      "fecha_vigencia": "2026-11-28T23:59:00-06:00",
+      "fuente": "El Heraldo de Leon",
       "id": "ALERTA_005",
       "prioridad": "media",
-      "titulo": "Cortes de agua y baja presion en colonia Santa Rosa de Lima por trabajos en calle San Lazaro",
-      "ubicacion": "Calle San Lazaro, colonia Santa Rosa de Lima",
-      "url": "https://www.aztecabajio.com/noticias/cortes-de-agua-en-leon-realizan-trabajos-de-interconexion-en-la-calle-san-lazaro/"
+      "titulo": "Trailer de doble remolque queda atorado en el desnivel de Hermanos Aldama y Timoteo Lozano",
+      "ubicacion": "Desnivel de Blvd. Hermanos Aldama y Blvd. Timoteo Lozano",
+      "url": "https://www.heraldoleon.mx/continuan-choques-en-segundo-dia-de-lluvias/"
     },
     {
-      "categoria": "trafico",
-      "descripcion": "Un choque fue reportado la tarde del jueves 26 de noviembre sobre el bulevar Juan Alonso de Torres, a las afueras del fraccionamiento Lomas Punta del Este, en Leon, en el sentido de circulacion hacia el Libramiento. Debido al percance comenzo a registrarse carga vehicular en este tramo, lo que podria generar retrasos para quienes transitan por la zona. Hasta el momento no se han proporcionado detalles sobre las causas del choque ni sobre posibles personas lesionadas.",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-11-26T17:39:00-06:00",
-      "fecha_vigencia": "2026-11-27T12:00:00-06:00",
-      "fuente": "Azteca Bajio",
+      "categoria": "clima",
+      "descripcion": "La primera tormenta invernal de la temporada se mantendra sobre el occidente de Mexico este fin de semana. El Servicio Meteorologico Nacional pronostica para el sabado 28 y domingo 29 de noviembre temperaturas minimas de 0 a 5 grados con posibles heladas en zonas serranas de Guanajuato, asi como posible caida de nieve o aguanieve en cimas montanosas superiores a los 2,800 metros sobre el nivel del mar. En la ciudad de Leon se esperan intervalos de chubascos de 5 a 25 mm y ambiente frio a muy frio durante la madrugada. Se recomienda abrigarse, proteger a ninos y adultos mayores, y extremar precauciones al conducir por pavimento mojado.",
+      "emoji": "❄️",
+      "fecha_publicacion": "2026-11-28T06:00:00-06:00",
+      "fecha_vigencia": "2026-11-29T23:59:00-06:00",
+      "fuente": "Servicio Meteorologico Nacional / Milenio",
       "id": "ALERTA_006",
       "prioridad": "media",
-      "titulo": "Choque y trafico en Blvd. Juan Alonso de Torres a la altura de Lomas Punta del Este",
-      "ubicacion": "Blvd. Juan Alonso de Torres, a la altura del fraccionamiento Lomas Punta del Este, sentido al Libramiento",
-      "url": "https://www.aztecabajio.com/noticias/se-registra-un-impacto-y-trafico-sobre-el-bulevar-juan-alonso-de-torres-a-la-altura-del-fraccionamiento-lomas-punta-del-este-en-direccion-al-libramiento-hoy-26-de-noviembre/"
-    },
-    {
-      "categoria": "trafico",
-      "descripcion": "El percance de mayor gravedad entre los cinco choques registrados la manana del jueves 26 de noviembre ocurrio sobre el Eje Metropolitano, a la altura de la comunidad de Chichimequillas. El conductor de una camioneta de transporte de personal atropello a un motociclista y huyo del lugar. El motociclista resulto lesionado y fue atendido por cuerpos de emergencia. Las lluvias de la manana y el pavimento mojado provocaron los cinco accidentes en distintos puntos de Leon y carreteras del estado, con largas filas de vehiculos. Se recomienda extremar precauciones al circular con pavimento mojado.",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-11-26T10:00:00-06:00",
-      "fecha_vigencia": "2026-11-27T12:00:00-06:00",
-      "fuente": "Heraldo de Leon",
-      "id": "ALERTA_007",
-      "prioridad": "alta",
-      "titulo": "Motociclista atropellado en Eje Metropolitano a la altura de Chichimequillas; conductor huyo",
-      "ubicacion": "Eje Metropolitano, a la altura de la comunidad de Chichimequillas",
-      "url": "https://www.heraldoleon.mx/registran-5-choques-tan-solo-en-la-manana/"
-    },
-    {
-      "categoria": "trafico",
-      "descripcion": "Se reportan complicaciones viales sobre el bulevar Timoteo Lozano, en Leon, debido a que los semaforos de la zona no se encuentran funcionando. A esta situacion se suman diversos encharcamientos sobre la calle por las lluvias de la tormenta invernal, los cuales dificultan el transito y provocan retrasos para los automovilistas que circulan por el sector, en las inmediaciones del Estadio Nou Camp. Automovilistas deben extremar precauciones al transitar por esta vialidad, donde las fallas en los semaforos y el agua acumulada complican el paso vehicular.",
-      "emoji": "🚗",
-      "fecha_publicacion": "2026-11-26T18:00:00-06:00",
-      "fecha_vigencia": "2026-11-27T12:00:00-06:00",
-      "fuente": "Azteca Bajio",
-      "id": "ALERTA_008",
-      "prioridad": "media",
-      "titulo": "Semaforos fuera de servicio y encharcamientos complican el transito en Blvd. Timoteo Lozano",
-      "ubicacion": "Blvd. Timoteo Lozano, inmediaciones del Estadio Nou Camp",
-      "url": "https://www.aztecabajio.com/noticias/reportan-semaforos-sin-funcionar-y-encharcamientos-sobre-el-bulevar-timoteo-lozano-en-leon-situacion-que-provoca-retrasos-en-la-circulacion-hoy-26-de-noviembre/"
+      "titulo": "Tormenta invernal: fin de semana con minimas de 0 a 5 grados y posible nieve en zonas altas de Guanajuato",
+      "ubicacion": "Leon, Guanajuato y zonas serranas del estado",
+      "url": "https://www.milenio.com/el-clima/clima-en-mexico-hoy-28-noviembre-2026-efectos-tormenta-invernal"
     }
   ],
   "categorias": {
     "clima": {
       "color": "#4CAF50",
-      "emoji": "🌧️",
+      "emoji": "🌤️",
       "nombre": "Clima y Ambiente"
     },
     "eventos": {
@@ -148,6 +122,6 @@
       "nombre": "Precaucion"
     }
   },
-  "total_alertas": 8,
-  "ultima_actualizacion": "2026-11-27T10:00:00-06:00"
+  "total_alertas": 6,
+  "ultima_actualizacion": "2026-11-28T10:00:00-06:00"
 }
